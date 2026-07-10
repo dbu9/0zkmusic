@@ -1,17 +1,17 @@
 ---
-title: "Pulse in My Veins"
-date: 2026-07-10
+title: "Pulse in my veins"
+date: 2026-07-08
 draft: false
-description: "Fast, synth-led trance about focus, force, and forward motion."
-summary: "A fast minor-key trance track driven by tension and determination."
+description: "Fast, synth-led trance from 0zkMusic."
+summary: "A fast minor-key trance track driven by tension, focus, and forward motion."
 cover: "cover.webp"
 
-youtube_id: "REPLACE_WITH_VIDEO_ID"
-youtube_url: "https://www.youtube.com/watch?v=REPLACE_WITH_VIDEO_ID"
-youtube_short_id: "REPLACE_WITH_SHORT_ID"
+youtube_id: "u0Wfr4dLDzI"
+youtube_url: "https://www.youtube.com/watch?v=u0Wfr4dLDzI"
+youtube_short_id: ""
 
 download_file: "track.mp3"
-download_enabled: true
+download_enabled: false
 download_label: "Download MP3"
 
 genre:
@@ -32,8 +32,8 @@ moods:
 
 bpm: 150
 language: "English"
-duration: "3:42"
-release_date: 2026-07-10
+duration: "2:50"
+release_date: 2026-07-08
 featured: true
 
 lyrics: "Placeholder lyrics."
@@ -52,7 +52,7 @@ keywords:
 
 ## The idea
 
-A track about pressure becoming direction. The pulse is physical, but the destination is mental: focus, acceleration, and the refusal to slow down.
+This release was added from the official YouTube video. It keeps the original sample page's direction: pressure becoming motion, focus, acceleration, and the refusal to slow down.
 
 ## Lyrics
 
@@ -61,8 +61,8 @@ Sample lyric placeholder:
 > Pulse in my veins, signal in the wire.
 > I move through the dark and become the fire.
 
-Replace this section with the final lyrics before publishing.
+Add or replace with the final lyrics before publishing.
 
 ## Production notes
 
-Sample notes: fast kick and bass foundation, minor synth hook, restrained effects, and a tight arrangement designed for forward motion.
+Add production notes for arrangement, sound design, mix decisions, and visual direction here.
