@@ -1,53 +1,59 @@
 ---
 title: "Too far gone"
-date: 2026-06-30
+date: 2026-06-29
 draft: false
-description: "A short chill-trance channel upload from 0zkMusic."
-summary: "A short chill-trance channel upload from 0zkMusic."
+description: "A progressive trance / deep house / chill house release from 0zkMusic."
+summary: "A progressive trance / deep house / chill house release from 0zkMusic."
 cover: "cover.webp"
 
-youtube_id: "-hxAhuMWYGs"
-youtube_url: "https://www.youtube.com/watch?v=-hxAhuMWYGs"
-youtube_short_id: ""
+youtube_id: "mD7v9WwPRL8"
+youtube_url: "https://www.youtube.com/watch?v=mD7v9WwPRL8"
+youtube_short_id: "-hxAhuMWYGs"
 
 download_file: "track.mp3"
 download_enabled: false
 download_label: "Download MP3"
 
 genre:
-  - "Vocal Trance"
-  - "Chill Trance"
+  - "Progressive Trance"
+  - "Deep House"
+  - "Chill House"
 genres:
-  - "Vocal Trance"
-  - "Chill Trance"
+  - "Progressive Trance"
+  - "Deep House"
+  - "Chill House"
 
 mood:
-  - "Atmospheric"
+  - "Uplifting"
+  - "Driving"
   - "Chill"
 moods:
-  - "Atmospheric"
+  - "Uplifting"
+  - "Driving"
   - "Chill"
 
 bpm:
 language: "English"
-duration: "0:22"
-release_date: 2026-06-30
+duration: "4:07"
+release_date: 2026-06-29
 featured: false
 
 lyrics: ""
 production_notes: ""
 
 tags:
-  - "vocal trance"
-  - "chill trance"
+  - "progressive trance"
+  - "deep house"
+  - "chill house"
   - "electronic music"
   - "YouTube release"
 
 keywords:
   - "0zkMusic"
   - "Too far gone"
-  - "Vocal Trance"
-  - "Chill Trance"
+  - "Progressive Trance"
+  - "Deep House"
+  - "Chill House"
 ---
 
 ## The idea
@@ -56,7 +62,65 @@ This release was added from the official 0zkMusic YouTube channel.
 
 ## Lyrics
 
-A new chill trance track on the channel
+City lights,  
+Silver rain.  
+We take flight,  
+Leave the pain.  
+
+Engines cry,  
+Hearts are stone.  
+Through the sky,  
+We are gone.  
+
+Too far gone,  
+Too far now.  
+We run on,  
+They don’t know how.  
+
+Too far gone,  
+Out of sight.  
+We run on,  
+Through the night.  
+
+Red lights fade,  
+Sirens fall.  
+No one stayed,  
+No one called.  
+
+Roads divide,  
+Shadows bend.  
+Side by side,  
+Past the end.  
+
+Too far gone,  
+Too far now.  
+We run on,  
+They don’t know how.  
+
+Too far gone,  
+Out of sight.  
+We run on,  
+Through the night.  
+
+Let them chase,  
+Let them burn.  
+No more trace,  
+No return.  
+
+Let them scream,  
+Let them try.  
+Like a dream,  
+We pass by.  
+
+Too far gone,  
+Too far now.  
+We run on,  
+They don’t know how.  
+
+Too far gone,  
+Out of sight.  
+We run on,  
+Through the night.
 
 ## Production notes
 
