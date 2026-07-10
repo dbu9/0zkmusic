@@ -1,0 +1,19 @@
+{{- $p := . -}}
+{{- $data := dict "@context" "https://schema.org" "@type" "MusicRecording" "name" $p.Title "url" $p.Permalink -}}
+{{- with ($p.Description | default $p.Summary) -}}{{- $data = merge $data (dict "description" (. | plainify)) -}}{{- end -}}
+{{- with ($p.Params.release_date | default $p.Date) -}}{{- $data = merge $data (dict "datePublished" (time.Format "2006-01-02" .)) -}}{{- end -}}
+{{- with $p.Params.genre -}}{{- $data = merge $data (dict "genre" .) -}}{{- end -}}
+{{- with $p.Params.youtube_id -}}{{- $data = merge $data (dict "embedUrl" (printf "https://www.youtube-nocookie.com/embed/%s" .)) -}}{{- end -}}
+{{- $coverName := $p.Params.cover | default "cover.webp" -}}
+{{- with $p.Resources.GetMatch $coverName -}}{{- $data = merge $data (dict "image" .Permalink) -}}{{- end -}}
+{{- if and $p.Params.download_enabled $p.Params.download_file -}}
+  {{- with $p.Resources.GetMatch $p.Params.download_file -}}{{- $data = merge $data (dict "encoding" (dict "@type" "MediaObject" "contentUrl" .Permalink "encodingFormat" "audio/mpeg")) -}}{{- end -}}
+{{- end -}}
+{{- with $p.Params.duration -}}
+  {{- $parts := split . ":" -}}
+  {{- if eq (len $parts) 2 -}}
+    {{- $data = merge $data (dict "duration" (printf "PT%sM%sS" (index $parts 0) (index $parts 1))) -}}
+  {{- end -}}
+{{- end -}}
+<script type="application/ld+json">{{ $data | jsonify | safeJS }}</script>
+

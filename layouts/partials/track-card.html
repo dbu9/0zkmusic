@@ -1,0 +1,23 @@
+{{- $p := .page | default . -}}
+{{- $compact := .compact | default false -}}
+<article class="track-card">
+  <a class="track-card-link" href="{{ $p.RelPermalink }}" aria-label="Listen to {{ $p.Title }}">
+    {{ partial "track-cover.html" (dict "page" $p "class" "track-card-cover") }}
+    <div class="track-card-body">
+      <div class="track-card-topline">
+        {{ with index $p.Params.genre 0 }}<span>{{ . }}</span>{{ end }}
+        {{ with $p.Params.bpm }}<span>{{ . }} BPM</span>{{ end }}
+      </div>
+      <h2>{{ $p.Title }}</h2>
+      {{ with $p.Summary | default $p.Description }}
+        <p>{{ . | plainify | truncate 130 }}</p>
+      {{ end }}
+      <div class="track-card-footer">
+        {{ with ($p.Params.release_date | default $p.Date) }}<time datetime="{{ time.Format "2006-01-02" . }}">{{ time.Format "Jan 2, 2006" . }}</time>{{ end }}
+        {{ with index $p.Params.mood 0 }}{{ if not $compact }}<span>{{ . }}</span>{{ end }}{{ end }}
+        {{ if $p.Params.featured }}<span class="featured-mark">Featured</span>{{ end }}
+      </div>
+    </div>
+  </a>
+</article>
+

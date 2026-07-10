@@ -1,0 +1,11 @@
+{{- $page := .page -}}
+{{- $class := .class | default "track-cover" -}}
+{{- $alt := .alt | default (printf "%s cover artwork" $page.Title) -}}
+{{- $coverName := $page.Params.cover | default "cover.webp" -}}
+{{- with $page.Resources.GetMatch $coverName -}}
+  {{- $img := .Fit "960x960 webp q82" -}}
+  <img class="{{ $class }}" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $alt }}">
+{{- else -}}
+  <img class="{{ $class }}" src="{{ "img/placeholder-cover.svg" | relURL }}" width="960" height="960" alt="{{ $alt }}">
+{{- end -}}
+

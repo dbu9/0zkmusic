@@ -1,0 +1,17 @@
+{{- $current := . -}}
+{{- $related := where (site.RegularPages.Related $current) "Section" "tracks" -}}
+{{- $related = where $related "RelPermalink" "ne" $current.RelPermalink -}}
+{{- if gt (len $related) 0 -}}
+  <section class="track-section related-tracks">
+    <h2>Related tracks</h2>
+    <div class="mini-track-grid">
+      {{ range first 3 $related }}
+        <a class="mini-track" href="{{ .RelPermalink }}">
+          {{ partial "track-cover.html" (dict "page" . "class" "mini-track-cover") }}
+          <span>{{ .Title }}</span>
+        </a>
+      {{ end }}
+    </div>
+  </section>
+{{- end -}}
+

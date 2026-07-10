@@ -1,0 +1,18 @@
+{{ define "main" }}
+  {{ $tracks := sort .Pages "Date" "desc" }}
+  <header class="page-header">
+    {{ if .Params.showBreadcrumbs | default (site.Params.list.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <p class="eyebrow">Music</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="page-intro prose dark:prose-invert">{{ . }}</div>{{ end }}
+  </header>
+
+  <section class="track-grid track-grid-list">
+    {{ range $tracks }}
+      {{ partial "track-card.html" (dict "page" .) }}
+    {{ end }}
+  </section>
+{{ end }}
+

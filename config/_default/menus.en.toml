@@ -1,0 +1,35 @@
+[[main]]
+  name = "Music"
+  pageRef = "tracks"
+  weight = 10
+
+[[main]]
+  name = "Articles"
+  pageRef = "articles"
+  weight = 20
+
+[[main]]
+  name = "Genres"
+  pageRef = "genres"
+  weight = 30
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 40
+
+[[main]]
+  name = "YouTube"
+  url = "https://www.youtube.com/@REPLACE_WITH_CHANNEL_HANDLE"
+  weight = 50
+
+[[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 10
+
+[[footer]]
+  name = "YouTube"
+  url = "https://www.youtube.com/@REPLACE_WITH_CHANNEL_HANDLE"
+  weight = 20
+

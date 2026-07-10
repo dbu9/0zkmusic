@@ -1,0 +1,10 @@
+{{- if and .IsPage (eq .Section "tracks") -}}
+  {{- $coverName := .Params.cover | default "cover.webp" -}}
+  {{- with .Resources.GetMatch $coverName -}}
+    <meta property="og:image" content="{{ .Permalink }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ .Permalink }}">
+  {{- end -}}
+  {{ partial "track-jsonld.html" . }}
+{{- end -}}
+

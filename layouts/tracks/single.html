@@ -1,0 +1,69 @@
+{{ define "main" }}
+  {{ $summary := .Summary | default .Description }}
+  <article class="track-single">
+    <header class="track-hero">
+      <div class="track-hero-art">
+        {{ partial "track-cover.html" (dict "page" . "class" "track-hero-cover") }}
+      </div>
+      <div class="track-hero-copy">
+        {{ partial "breadcrumbs.html" . }}
+        <p class="eyebrow">Release</p>
+        <h1>{{ .Title }}</h1>
+        {{ with $summary }}<p class="track-summary">{{ . | plainify }}</p>{{ end }}
+        {{ partial "track-meta.html" . }}
+      </div>
+    </header>
+
+    {{ with .Params.youtube_id }}
+      <section class="track-section">
+        <h2>Listen</h2>
+        {{ partial "youtube-privacy.html" (dict "id" . "title" (printf "%s by 0zkmusic" $.Title)) }}
+      </section>
+    {{ end }}
+
+    <section class="track-actions">
+      {{ with .Params.youtube_url }}
+        <a class="ozk-button ozk-button-primary" href="{{ . }}" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      {{ end }}
+      {{ partial "download-button.html" . }}
+    </section>
+
+    <section class="track-section track-content prose dark:prose-invert">
+      {{ .Content }}
+    </section>
+
+    {{ with .Params.youtube_short_id }}
+      <section class="track-section">
+        <h2>Short</h2>
+        {{ partial "youtube-short.html" (dict "id" . "title" (printf "%s Short by 0zkmusic" $.Title)) }}
+      </section>
+    {{ end }}
+
+    {{ partial "related-tracks.html" . }}
+
+    {{ $tracks := sort (where site.RegularPages "Section" "tracks") "Date" "asc" }}
+    {{ $prev := false }}
+    {{ $next := false }}
+    {{ $seen := false }}
+    {{ range $tracks }}
+      {{ if eq .RelPermalink $.RelPermalink }}
+        {{ $seen = true }}
+      {{ else if not $seen }}
+        {{ $prev = . }}
+      {{ else if and $seen (not $next) }}
+        {{ $next = . }}
+      {{ end }}
+    {{ end }}
+    {{ if or $prev $next }}
+      <nav class="release-nav" aria-label="Track release navigation">
+        {{ with $prev }}
+          <a href="{{ .RelPermalink }}"><span>Previous release</span>{{ .Title }}</a>
+        {{ end }}
+        {{ with $next }}
+          <a href="{{ .RelPermalink }}"><span>Next release</span>{{ .Title }}</a>
+        {{ end }}
+      </nav>
+    {{ end }}
+  </article>
+{{ end }}
+

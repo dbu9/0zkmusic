@@ -1,0 +1,10 @@
+{{- $p := . -}}
+{{- if and $p.Params.download_enabled $p.Params.download_file -}}
+  {{- with $p.Resources.GetMatch $p.Params.download_file -}}
+    <a class="ozk-button ozk-button-primary" href="{{ .RelPermalink }}" download>
+      {{ $p.Params.download_label | default "Download MP3" }}
+    </a>
+    <span class="download-note">{{ site.Params.downloadNote | default "MP3 · Personal listening" }}</span>
+  {{- end -}}
+{{- end -}}
+

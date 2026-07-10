@@ -1,0 +1,34 @@
+{{- $p := . -}}
+{{- $items := slice -}}
+{{- with $p.Params.genre -}}
+  {{- $items = $items | append (dict "label" "Genre" "html" (partial "track-terms.html" (dict "page" $p "name" "genre" "base" "genres"))) -}}
+{{- end -}}
+{{- with $p.Params.mood -}}
+  {{- $items = $items | append (dict "label" "Mood" "html" (partial "track-terms.html" (dict "page" $p "name" "mood" "base" "moods"))) -}}
+{{- end -}}
+{{- with $p.Params.bpm -}}
+  {{- $items = $items | append (dict "label" "BPM" "text" (printf "%v" .)) -}}
+{{- end -}}
+{{- with $p.Params.duration -}}
+  {{- $items = $items | append (dict "label" "Duration" "text" .) -}}
+{{- end -}}
+{{- with $p.Params.language -}}
+  {{- $items = $items | append (dict "label" "Language" "text" .) -}}
+{{- end -}}
+{{- with ($p.Params.release_date | default $p.Date) -}}
+  {{- $items = $items | append (dict "label" "Release" "text" (time.Format "January 2, 2006" .)) -}}
+{{- end -}}
+{{- with $p.Params.tags -}}
+  {{- $items = $items | append (dict "label" "Tags" "html" (partial "track-terms.html" (dict "page" $p "name" "tags" "base" "tags"))) -}}
+{{- end -}}
+{{- if gt (len $items) 0 -}}
+  <dl class="track-meta">
+    {{- range $items -}}
+      <div>
+        <dt>{{ .label }}</dt>
+        <dd>{{ with .html }}{{ . | safeHTML }}{{ else }}{{ .text }}{{ end }}</dd>
+      </div>
+    {{- end -}}
+  </dl>
+{{- end -}}
+

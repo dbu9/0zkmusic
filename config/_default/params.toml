@@ -1,0 +1,71 @@
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+
+enableA11y = true
+enableSearch = true
+enableCodeCopy = false
+enableStructuredBreadcrumbs = true
+enableStyledScrollbar = true
+fingerprintAlgorithm = "sha256"
+
+mainSections = ["tracks", "articles"]
+defaultSocialImage = "/img/social-preview.svg"
+description = "0zkmusic publishes original electronic music, trance, psytrance, melodic techno, dark techno, lyrics, visual concepts, and notes from the age after man."
+
+youtubeChannelURL = "https://www.youtube.com/@REPLACE_WITH_CHANNEL_HANDLE"
+contactEmail = "REPLACE_WITH_EMAIL@example.com"
+bandcampURL = ""
+soundcloudURL = ""
+brandPhrase = "We do not fight the future. We become it."
+downloadNote = "MP3 · Personal listening"
+
+[seo]
+  metaDescriptionOrder = ["description", "summary", "site"]
+
+[header]
+  layout = "fixed-fill-blur"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = false
+  showScrollToTop = true
+
+[homepage]
+  layout = "custom"
+  showRecent = false
+
+[article]
+  showDate = true
+  showAuthor = false
+  showHero = false
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showHeadingAnchors = true
+  showPagination = true
+  showReadingTime = true
+  showTableOfContents = false
+  showTaxonomies = true
+  showTags = true
+  showWordCount = false
+  sharingLinks = ["email"]
+
+[list]
+  showHero = false
+  showBreadcrumbs = true
+  showSummary = true
+  showTableOfContents = false
+  groupByYear = false
+  cardView = true
+
+[taxonomy]
+  showTermCount = true
+  showBreadcrumbs = true
+  cardView = false
+
+[term]
+  showBreadcrumbs = true
+  groupByYear = false
+  cardView = false

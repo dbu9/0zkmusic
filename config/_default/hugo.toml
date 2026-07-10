@@ -1,0 +1,57 @@
+baseURL = "https://example.com/"
+title = "0zkmusic"
+locale = "en"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+summaryLength = 24
+buildDrafts = false
+buildFuture = false
+enableEmoji = false
+
+[pagination]
+  pagerSize = 12
+
+[imaging]
+  anchor = "Center"
+  quality = 82
+  resampleFilter = "Lanczos"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+[related]
+  threshold = 20
+  includeNewer = true
+  toLower = true
+
+  [[related.indices]]
+    name = "genre"
+    weight = 100
+
+  [[related.indices]]
+    name = "genres"
+    weight = 100
+
+  [[related.indices]]
+    name = "tags"
+    weight = 70
+
+  [[related.indices]]
+    name = "mood"
+    weight = 50
+
+  [[related.indices]]
+    name = "moods"
+    weight = 50
+
+  [[related.indices]]
+    name = "date"
+    weight = 10

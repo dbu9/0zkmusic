@@ -1,0 +1,28 @@
+{{ define "main" }}
+  {{ $pages := sort .Pages "Date" "desc" }}
+  <header class="page-header">
+    {{ partial "breadcrumbs.html" . }}
+    <p class="eyebrow">{{ .Data.Singular }}</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="page-intro prose dark:prose-invert">{{ . }}</div>{{ end }}
+  </header>
+  {{ $trackPages := where $pages "Section" "tracks" }}
+  {{ $otherPages := where $pages "Section" "ne" "tracks" }}
+  {{ if gt (len $trackPages) 0 }}
+    <section class="track-grid track-grid-list">
+      {{ range $trackPages }}
+        {{ partial "track-card.html" (dict "page" .) }}
+      {{ end }}
+    </section>
+  {{ else }}
+    <section class="article-list">
+      {{ range $otherPages }}
+        <article>
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          {{ with .Summary | default .Description }}<p>{{ . | plainify | truncate 150 }}</p>{{ end }}
+        </article>
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}

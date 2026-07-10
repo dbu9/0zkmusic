@@ -1,0 +1,13 @@
+{{- $id := .id -}}
+{{- $title := .title | default "YouTube Short" -}}
+{{- with $id -}}
+  <div class="short-frame">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/{{ . }}"
+      title="{{ $title }}"
+      loading="lazy"
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+{{- end -}}
+

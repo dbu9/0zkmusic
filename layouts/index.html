@@ -1,0 +1,101 @@
+{{ define "main" }}
+  {{ $tracks := where site.RegularPages "Section" "tracks" }}
+  {{ $tracks = where $tracks "Draft" false }}
+  {{ $latestTracks := first 6 (sort $tracks "Date" "desc") }}
+  {{ $featured := first 1 (sort (where $tracks "Params.featured" true) "Date" "desc") }}
+  {{ $articles := first 3 (sort (where site.RegularPages "Section" "articles") "Date" "desc") }}
+
+  <section class="home-hero">
+    <div class="home-hero-inner">
+      <p class="eyebrow">Independent electronic music</p>
+      <h1>0zkmusic</h1>
+      <p class="hero-tagline">Trance for the post-human heart.</p>
+      <p class="hero-copy">Original electronic music, lyrics, visual concepts, and signals from the age after man.</p>
+      <div class="hero-actions">
+        <a class="ozk-button ozk-button-primary" href="{{ "tracks/" | relURL }}">Explore Music</a>
+        <a class="ozk-button ozk-button-secondary" href="{{ site.Params.youtubeChannelURL }}" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </div>
+    </div>
+  </section>
+
+  {{ with index $featured 0 }}
+    <section class="home-section featured-release">
+      <div class="section-heading">
+        <p class="eyebrow">Featured release</p>
+        <h2>Latest signal</h2>
+      </div>
+      <div class="featured-grid">
+        <a class="featured-art" href="{{ .RelPermalink }}">
+          {{ partial "track-cover.html" (dict "page" . "class" "featured-cover") }}
+        </a>
+        <div class="featured-copy">
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          {{ with .Summary | default .Description }}<p>{{ . | plainify }}</p>{{ end }}
+          {{ partial "track-meta.html" . }}
+          <div class="track-actions">
+            <a class="ozk-button ozk-button-primary" href="{{ .RelPermalink }}">Listen</a>
+            {{ partial "download-button.html" . }}
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+
+  <section class="home-section">
+    <div class="section-heading section-heading-row">
+      <div>
+        <p class="eyebrow">Latest tracks</p>
+        <h2>New releases</h2>
+      </div>
+      <a class="text-link" href="{{ "tracks/" | relURL }}">All music</a>
+    </div>
+    <div class="track-grid">
+      {{ range $latestTracks }}
+        {{ partial "track-card.html" (dict "page" .) }}
+      {{ end }}
+    </div>
+  </section>
+
+  {{ with site.Taxonomies.genres }}
+    <section class="home-section">
+      <div class="section-heading">
+        <p class="eyebrow">Browse</p>
+        <h2>Genres</h2>
+      </div>
+      <div class="term-cloud">
+        {{ range .Alphabetical }}
+          <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <span>{{ .Count }}</span></a>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+
+  {{ if gt (len $articles) 0 }}
+    <section class="home-section">
+      <div class="section-heading section-heading-row">
+        <div>
+          <p class="eyebrow">Articles</p>
+          <h2>Longer ideas</h2>
+        </div>
+        <a class="text-link" href="{{ "articles/" | relURL }}">All articles</a>
+      </div>
+      <div class="article-list">
+        {{ range $articles }}
+          <article>
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            {{ with .Summary | default .Description }}<p>{{ . | plainify | truncate 150 }}</p>{{ end }}
+          </article>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+
+  <section class="youtube-cta">
+    <p class="eyebrow">YouTube</p>
+    <h2>Full videos and Shorts live on the channel.</h2>
+    <a class="ozk-button ozk-button-secondary" href="{{ site.Params.youtubeChannelURL }}" target="_blank" rel="noopener noreferrer">Visit 0zkmusic on YouTube</a>
+    <p class="privacy-note">YouTube embeds on track pages use the privacy-enhanced domain, but YouTube may still receive data when a video loads.</p>
+  </section>
+{{ end }}
+

@@ -1,0 +1,10 @@
+{{- $page := .page -}}
+{{- $name := .name -}}
+{{- $base := .base -}}
+{{- $values := index $page.Params $name -}}
+{{- with $values -}}
+  {{- range . -}}
+    <a class="track-pill" href="{{ printf "/%s/%s/" $base (. | urlize) | relURL }}">{{ . }}</a>
+  {{- end -}}
+{{- end -}}
+

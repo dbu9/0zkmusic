@@ -1,0 +1,16 @@
+[goldmark]
+  [goldmark.renderer]
+    unsafe = true
+  [goldmark.parser]
+    autoHeadingID = true
+    autoHeadingIDType = "github"
+
+[highlight]
+  noClasses = false
+  style = "github-dark"
+
+[tableOfContents]
+  startLevel = 2
+  endLevel = 3
+  ordered = false
+
