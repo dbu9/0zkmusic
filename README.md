@@ -184,7 +184,7 @@ Articles use Blowfish's standard article presentation with the site's dark styli
 
 ## Site Links And Placeholders
 
-The YouTube channel URL is configured as `https://www.youtube.com/channel/UC1-tLYf1HiKL5v0kHY90IvQ`.
+The YouTube channel URL is configured as `https://www.youtube.com/@0zkMusic`.
 
 Change these remaining placeholders before deployment:
 

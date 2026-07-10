@@ -1,13 +1,13 @@
 ---
 title: "Fly This Night"
 date: 2026-06-12
-draft: false
+draft: true
 description: "A melodic trance track with a brighter nocturnal lift."
 summary: "A nocturnal melodic trance release built around lift, escape, and late-night momentum."
 cover: "cover.webp"
 
-youtube_id: "REPLACE_WITH_VIDEO_ID"
-youtube_url: "https://www.youtube.com/watch?v=REPLACE_WITH_VIDEO_ID"
+youtube_id: ""
+youtube_url: ""
 youtube_short_id: ""
 
 download_file: "track.mp3"

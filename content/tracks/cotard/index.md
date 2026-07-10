@@ -1,13 +1,13 @@
 ---
 title: "Cotard"
-date: 2026-06-28
+date: 2026-07-03
 draft: false
-description: "Dark melodic techno built around absence, identity, and the feeling of being unreal."
-summary: "A dark electronic track about emptiness, identity collapse, and mechanical persistence."
+description: "A German-language vocal trance track about absence, rupture, and the body after loss."
+summary: "A German-language vocal trance track about absence, rupture, and the body after loss."
 cover: "cover.webp"
 
-youtube_id: "REPLACE_WITH_VIDEO_ID"
-youtube_url: "https://www.youtube.com/watch?v=REPLACE_WITH_VIDEO_ID"
+youtube_id: "60-ZvyjFXyw"
+youtube_url: "https://www.youtube.com/watch?v=60-ZvyjFXyw"
 youtube_short_id: ""
 
 download_file: "track.mp3"
@@ -15,54 +15,219 @@ download_enabled: false
 download_label: "Download MP3"
 
 genre:
-  - "Dark Techno"
-  - "Melodic Techno"
+  - "Vocal Trance"
+  - "Trance"
 genres:
-  - "Dark Techno"
-  - "Melodic Techno"
+  - "Vocal Trance"
+  - "Trance"
 
 mood:
-  - "Cold"
-  - "Detached"
-  - "Haunted"
+  - "Dark"
+  - "Melancholic"
+  - "Nocturnal"
 moods:
-  - "Cold"
-  - "Detached"
-  - "Haunted"
+  - "Dark"
+  - "Melancholic"
+  - "Nocturnal"
 
-bpm: 128
-language: "English"
-duration: "4:08"
-release_date: 2026-06-28
+bpm:
+language: "German"
+duration: "3:56"
+release_date: 2026-07-03
 featured: false
 
-lyrics: "Placeholder lyrics."
-production_notes: "Placeholder production notes."
+lyrics: ""
+production_notes: ""
 
 tags:
-  - "dark techno"
-  - "AI music"
-  - "post-human"
+  - "vocal trance"
+  - "trance music"
+  - "electronic music"
+  - "YouTube release"
 
 keywords:
   - "0zkMusic"
-  - "dark techno"
-  - "melodic techno"
+  - "Cotard"
+  - "Vocal Trance"
+  - "Trance"
 ---
 
 ## The idea
 
-`Cotard` is a sample release page for a track about the strange quiet after identity breaks down. The machine keeps time. The voice is less certain.
+This release was added from the official 0zkMusic YouTube channel.
 
 ## Lyrics
 
-Sample lyric placeholder:
+Wir waren ein Leib,  
+ein einziger Klang,  
+ein Herz ohne Haut,  
+ein endloser Gang.  
 
-> I count the lights and none are mine.
-> I wear a face outside of time.
+Wir waren ein Mund,  
+ein Atem im Eis,  
+ein Name aus Licht,  
+ein brennender Kreis.  
 
-Replace this section with the final lyrics before publishing.
+Doch wo du warst,  
+ist nichts mehr hier.  
+Ich greife nach Luft,  
+und falle durch dir.  
+
+Du existierst nicht mehr,  
+nicht mehr in mir.  
+Nur ein leerer Nerv  
+sucht noch nach dir.  
+
+Du existierst nicht mehr,  
+kein Blut, kein Stern.  
+Ich trage dein Fehlen  
+unter der Haut.  
+
+So nah.  
+So fern.  
+
+Mein Herz kennt die Form,  
+doch nicht dein Gesicht.  
+Es schlägt gegen Wände,  
+doch findet dich nicht.  
+
+Mein Arm will dich halten,  
+doch endet im Wind.  
+Als wärst du ein Teil,  
+der nicht mehr beginnt.  
+
+Ich war dein Körper,  
+du warst mein Schmerz.  
+Jetzt ist da ein Loch  
+an Stelle von Herz.  
+
+Du existierst nicht mehr,  
+nicht mehr in mir.  
+Nur ein leerer Nerv  
+sucht noch nach dir.  
+
+Du existierst nicht mehr,  
+kein Blut, kein Stern.  
+Ich trage dein Fehlen  
+unter der Haut.  
+
+So nah.  
+So fern.  
+
+Sag nichts.  
+Bleib tot.  
+Bleib Licht.  
+Bleib rot.  
+
+Ich weiß,  
+du warst.  
+Ich schwör,  
+du bist —  
+
+nicht.  
+
+Du existierst nicht mehr,  
+doch ich bin noch wund.  
+Dein Schweigen liegt schwer  
+in meinem Mund.  
+
+Du existierst nicht mehr,  
+mein fehlender Teil.  
+Ich krieche durch Nacht,  
+doch nichts wird heil.  
+
+So nah.  
+So leer.  
+Cotard.  
+Nicht mehr.  
+
+
+---
+
+
+We were one body,  
+one single sound,  
+one heart without skin,  
+one endless ground.  
+
+We were one mouth,  
+one breath in the ice,  
+one name made of light,  
+one burning circle.  
+
+But where you were,  
+there is nothing here.  
+I reach for air,  
+and fall through you.  
+
+You do not exist anymore,  
+not anymore in me.  
+Only an empty nerve  
+still searches for you.  
+
+You do not exist anymore,  
+no blood, no star.  
+I carry your absence  
+under my skin.  
+
+So close.  
+So far.  
+
+My heart knows the shape,  
+but not your face.  
+It beats against walls,  
+but cannot find you.  
+
+My arm wants to hold you,  
+but ends in the wind.  
+As if you were a part  
+that no longer begins.  
+
+I was your body,  
+you were my pain.  
+Now there is a hole  
+where the heart should remain.  
+
+You do not exist anymore,  
+not anymore in me.  
+Only an empty nerve  
+still searches for you.  
+
+You do not exist anymore,  
+no blood, no star.  
+I carry your absence  
+under my skin.  
+
+So close.  
+So far.  
+
+Say nothing.  
+Stay dead.  
+Stay light.  
+Stay red.  
+
+I know  
+you were.  
+I swear  
+you are —  
+
+not.  
+
+You do not exist anymore,  
+but I am still wounded.  
+Your silence lies heavy  
+inside my mouth.  
+
+You do not exist anymore,  
+my missing part.  
+I crawl through the night,  
+but nothing becomes whole.  
+
+So close.  
+So empty.  
+Cotard.  
+No more.
 
 ## Production notes
 
-Sample notes: restrained low end, metallic percussion, a narrow lead, and a colder mix space than the trance releases.
+- Added from the official 0zkMusic YouTube channel description.

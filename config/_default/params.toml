@@ -13,7 +13,7 @@ mainSections = ["tracks", "articles"]
 defaultSocialImage = "/img/0zkmusic-banner.jpeg"
 description = "0zkMusic publishes original electronic music, trance, psytrance, melodic techno, dark techno, lyrics, visual concepts, and notes from the age after man."
 
-youtubeChannelURL = "https://www.youtube.com/channel/UC1-tLYf1HiKL5v0kHY90IvQ"
+youtubeChannelURL = "https://www.youtube.com/@0zkMusic"
 contactEmail = "REPLACE_WITH_EMAIL@example.com"
 bandcampURL = ""
 soundcloudURL = ""
