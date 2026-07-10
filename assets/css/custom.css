@@ -1,21 +1,24 @@
 :root {
-  --ozk-bg: #08090b;
-  --ozk-panel: #101319;
-  --ozk-panel-strong: #151922;
-  --ozk-line: #252b35;
-  --ozk-text: #eef2f7;
-  --ozk-muted: #a6b0bf;
-  --ozk-dim: #738092;
-  --ozk-accent: #6ee7d8;
-  --ozk-accent-strong: #8af3e8;
-  --ozk-warn: #d1a85a;
+  --ozk-bg: #0b0413;
+  --ozk-panel: #13081d;
+  --ozk-panel-strong: #1d0d2b;
+  --ozk-line: #382147;
+  --ozk-text: #f7f0fb;
+  --ozk-muted: #c3aecf;
+  --ozk-dim: #8e78a0;
+  --ozk-accent: #ff2bbf;
+  --ozk-accent-strong: #ff66d2;
+  --ozk-signal: #44f5b0;
+  --ozk-signal-strong: #77ffd0;
+  --ozk-warn: #ffd36e;
 }
 
 html.dark body,
 body {
   background:
-    radial-gradient(circle at 12% 0%, rgba(110, 231, 216, 0.08), transparent 32rem),
-    linear-gradient(180deg, #08090b 0%, #0b0d12 42%, #08090b 100%);
+    radial-gradient(circle at 9% 0%, rgba(255, 43, 191, 0.15), transparent 30rem),
+    radial-gradient(circle at 85% 12%, rgba(68, 245, 176, 0.08), transparent 28rem),
+    linear-gradient(180deg, #0b0413 0%, #0a0610 46%, #07040b 100%);
   color: var(--ozk-text);
 }
 
@@ -30,8 +33,13 @@ a {
 
 a:focus-visible,
 button:focus-visible {
-  outline: 2px solid var(--ozk-accent);
+  outline: 2px solid var(--ozk-signal);
   outline-offset: 3px;
+}
+
+header img,
+#site-header img {
+  border-radius: 999px;
 }
 
 .home-hero,
@@ -49,6 +57,8 @@ button:focus-visible {
   margin: 1.5rem 0 4rem;
   border-bottom: 1px solid var(--ozk-line);
   position: relative;
+  isolation: isolate;
+  overflow: hidden;
 }
 
 .home-hero::before {
@@ -56,9 +66,26 @@ button:focus-visible {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(120deg, rgba(110, 231, 216, 0.08), transparent 40%),
-    repeating-linear-gradient(90deg, rgba(255,255,255,0.035) 0, rgba(255,255,255,0.035) 1px, transparent 1px, transparent 72px);
-  mask-image: linear-gradient(to bottom, black, transparent 92%);
+    linear-gradient(90deg, rgba(11, 4, 19, 0.89) 0%, rgba(11, 4, 19, 0.71) 44%, rgba(11, 4, 19, 0.27) 100%),
+    linear-gradient(180deg, rgba(11, 4, 19, 0.29), rgba(11, 4, 19, 0.85)),
+    url("/img/0zkmusic-banner.jpeg");
+  background-position: center;
+  background-size: cover;
+  opacity: 0.95;
+  z-index: -2;
+  pointer-events: none;
+}
+
+.home-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    repeating-linear-gradient(90deg, rgba(255,255,255,0.035) 0, rgba(255,255,255,0.035) 1px, transparent 1px, transparent 72px),
+    radial-gradient(circle at 18% 38%, rgba(255, 43, 191, 0.18), transparent 18rem),
+    radial-gradient(circle at 86% 18%, rgba(68, 245, 176, 0.12), transparent 18rem);
+  mask-image: linear-gradient(to bottom, black, transparent 96%);
+  z-index: -1;
   pointer-events: none;
 }
 
@@ -68,8 +95,20 @@ button:focus-visible {
   padding: 4rem 0;
 }
 
+.hero-brand-mark {
+  aspect-ratio: 1 / 1;
+  border: 1px solid rgba(255, 43, 191, 0.52);
+  border-radius: 999px;
+  box-shadow: 0 0 0 4px rgba(255, 43, 191, 0.08), 0 0 36px rgba(255, 43, 191, 0.24);
+  display: block;
+  height: 5.25rem;
+  margin-bottom: 1.1rem;
+  object-fit: cover;
+  width: 5.25rem;
+}
+
 .eyebrow {
-  color: var(--ozk-accent);
+  color: var(--ozk-signal);
   font-size: 0.78rem;
   font-weight: 700;
   letter-spacing: 0.12em;
@@ -79,6 +118,7 @@ button:focus-visible {
 
 .home-hero h1 {
   color: var(--ozk-text);
+  text-shadow: 0 0 34px rgba(255, 43, 191, 0.16);
   font-size: clamp(3rem, 12vw, 6.7rem);
   line-height: 0.92;
   margin: 0;
@@ -127,12 +167,12 @@ button:focus-visible {
 .ozk-button-primary {
   background: var(--ozk-accent);
   border-color: var(--ozk-accent);
-  color: #04100f;
+  color: #150014;
 }
 
 .ozk-button-primary:hover {
   background: var(--ozk-accent-strong);
-  color: #04100f;
+  color: #150014;
 }
 
 .ozk-button-secondary {
@@ -141,8 +181,8 @@ button:focus-visible {
 }
 
 .ozk-button-secondary:hover {
-  border-color: var(--ozk-accent);
-  color: var(--ozk-accent-strong);
+  border-color: var(--ozk-signal);
+  color: var(--ozk-signal-strong);
 }
 
 .home-section {
@@ -171,7 +211,7 @@ button:focus-visible {
 }
 
 .text-link {
-  color: var(--ozk-accent);
+  color: var(--ozk-signal);
   font-weight: 700;
 }
 
@@ -180,7 +220,9 @@ button:focus-visible {
   grid-template-columns: minmax(240px, 0.9fr) minmax(0, 1.1fr);
   gap: clamp(1.2rem, 4vw, 3rem);
   align-items: center;
-  background: rgba(16, 19, 25, 0.64);
+  background:
+    linear-gradient(135deg, rgba(255, 43, 191, 0.08), rgba(68, 245, 176, 0.035)),
+    rgba(19, 8, 29, 0.74);
   border: 1px solid var(--ozk-line);
   border-radius: 0.5rem;
   padding: clamp(1rem, 3vw, 2rem);
@@ -227,7 +269,7 @@ button:focus-visible {
 }
 
 .track-card-link {
-  background: rgba(16, 19, 25, 0.75);
+  background: rgba(19, 8, 29, 0.76);
   border: 1px solid var(--ozk-line);
   border-radius: 0.45rem;
   color: inherit;
@@ -240,8 +282,8 @@ button:focus-visible {
 }
 
 .track-card-link:hover {
-  background: rgba(21, 25, 34, 0.9);
-  border-color: rgba(110, 231, 216, 0.45);
+  background: rgba(29, 13, 43, 0.92);
+  border-color: rgba(255, 43, 191, 0.5);
   transform: translateY(-2px);
 }
 
@@ -305,8 +347,8 @@ button:focus-visible {
 
 .term-cloud a:hover,
 .track-pill:hover {
-  border-color: var(--ozk-accent);
-  color: var(--ozk-accent-strong);
+  border-color: var(--ozk-signal);
+  color: var(--ozk-signal-strong);
 }
 
 .term-cloud span {
@@ -550,4 +592,3 @@ button:focus-visible {
     transition-duration: 0.01ms !important;
   }
 }
-

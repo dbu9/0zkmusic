@@ -17,7 +17,7 @@
     {{ with .Params.youtube_id }}
       <section class="track-section">
         <h2>Listen</h2>
-        {{ partial "youtube-privacy.html" (dict "id" . "title" (printf "%s by 0zkmusic" $.Title)) }}
+        {{ partial "youtube-privacy.html" (dict "id" . "title" (printf "%s by 0zkMusic" $.Title)) }}
       </section>
     {{ end }}
 
@@ -35,7 +35,7 @@
     {{ with .Params.youtube_short_id }}
       <section class="track-section">
         <h2>Short</h2>
-        {{ partial "youtube-short.html" (dict "id" . "title" (printf "%s Short by 0zkmusic" $.Title)) }}
+        {{ partial "youtube-short.html" (dict "id" . "title" (printf "%s Short by 0zkMusic" $.Title)) }}
       </section>
     {{ end }}
 
@@ -66,4 +66,3 @@
     {{ end }}
   </article>
 {{ end }}
-

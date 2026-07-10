@@ -1,7 +1,6 @@
 ---
 title: "Moods"
-description: "Browse 0zkmusic releases by mood."
+description: "Browse 0zkMusic releases by mood."
 ---
 
 Browse releases by emotional signal.
-

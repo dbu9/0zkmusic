@@ -29,7 +29,7 @@ production_notes: ""
 
 tags: []
 keywords:
-  - "0zkmusic"
+  - "0zkMusic"
 ---
 
 ## The idea

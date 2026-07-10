@@ -45,7 +45,7 @@ tags:
   - "night drive"
 
 keywords:
-  - "0zkmusic"
+  - "0zkMusic"
   - "melodic trance"
   - "progressive trance"
 ---

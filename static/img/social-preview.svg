@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
-  <title id="title">0zkmusic social preview</title>
-  <desc id="desc">Dark social preview image for 0zkmusic.</desc>
-  <rect width="1200" height="630" fill="#08090b"/>
-  <path d="M90 440 330 190l160 160 140-110 470 260" fill="none" stroke="#6ee7d8" stroke-width="10" opacity=".72"/>
-  <text x="90" y="255" fill="#f4f7fb" font-family="Arial, sans-serif" font-size="92" font-weight="800">0zkmusic</text>
-  <text x="96" y="325" fill="#a6b0bf" font-family="Arial, sans-serif" font-size="38">Trance for the post-human heart.</text>
+  <title id="title">0zkMusic social preview</title>
+  <desc id="desc">Dark social preview image for 0zkMusic.</desc>
+  <rect width="1200" height="630" fill="#0b0413"/>
+  <path d="M90 440 330 190l160 160 140-110 470 260" fill="none" stroke="#ff2bbf" stroke-width="10" opacity=".76"/>
+  <path d="M96 475h680" fill="none" stroke="#44f5b0" stroke-width="6" opacity=".68"/>
+  <text x="90" y="255" fill="#f7f0fb" font-family="Arial, sans-serif" font-size="92" font-weight="800">0zkMusic</text>
+  <text x="96" y="325" fill="#c3aecf" font-family="Arial, sans-serif" font-size="38">Trance for the post-human heart.</text>
 </svg>
-

@@ -20,7 +20,7 @@
 
 [[main]]
   name = "YouTube"
-  url = "https://www.youtube.com/@REPLACE_WITH_CHANNEL_HANDLE"
+  url = "https://www.youtube.com/channel/UC1-tLYf1HiKL5v0kHY90IvQ"
   weight = 50
 
 [[footer]]
@@ -30,6 +30,5 @@
 
 [[footer]]
   name = "YouTube"
-  url = "https://www.youtube.com/@REPLACE_WITH_CHANNEL_HANDLE"
+  url = "https://www.youtube.com/channel/UC1-tLYf1HiKL5v0kHY90IvQ"
   weight = 20
-

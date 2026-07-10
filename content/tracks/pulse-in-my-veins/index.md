@@ -45,7 +45,7 @@ tags:
   - "electronic music"
 
 keywords:
-  - "0zkmusic"
+  - "0zkMusic"
   - "psytrance"
   - "fast trance"
 ---

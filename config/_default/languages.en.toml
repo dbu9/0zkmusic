@@ -2,22 +2,22 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "0zkmusic"
+title = "0zkMusic"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "January 2, 2006"
-  description = "0zkmusic publishes original electronic music, trance, psytrance, melodic techno, dark techno, lyrics, visual concepts, and notes from the age after man."
-  copyright = "© 0zkmusic. All rights reserved."
+  logo = "img/0zkmusic-profile.jpg"
+  description = "0zkMusic publishes original electronic music, trance, psytrance, melodic techno, dark techno, lyrics, visual concepts, and notes from the age after man."
+  copyright = "© 0zkMusic. All rights reserved."
 
 [params.author]
-  name = "0zkmusic"
+  name = "0zkMusic"
   headline = "Trance for the post-human heart."
   bio = "Original electronic music, lyrics, visual concepts, and signals from the age after man."
   links = [
-    { youtube = "https://www.youtube.com/@REPLACE_WITH_CHANNEL_HANDLE" },
+    { youtube = "https://www.youtube.com/channel/UC1-tLYf1HiKL5v0kHY90IvQ" },
     { email = "mailto:REPLACE_WITH_EMAIL@example.com" }
   ]
-

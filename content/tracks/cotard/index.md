@@ -45,7 +45,7 @@ tags:
   - "post-human"
 
 keywords:
-  - "0zkmusic"
+  - "0zkMusic"
   - "dark techno"
   - "melodic techno"
 ---

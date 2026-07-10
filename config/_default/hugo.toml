@@ -1,5 +1,5 @@
 baseURL = "https://example.com/"
-title = "0zkmusic"
+title = "0zkMusic"
 locale = "en"
 defaultContentLanguage = "en"
 enableRobotsTXT = true

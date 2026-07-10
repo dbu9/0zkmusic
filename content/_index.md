@@ -1,5 +1,4 @@
 ---
-title: "0zkmusic"
+title: "0zkMusic"
 description: "Trance for the post-human heart."
 ---
-

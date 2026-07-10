@@ -1,6 +1,6 @@
-# 0zkmusic
+# 0zkMusic
 
-Dark Hugo website for the 0zkmusic YouTube music channel, built with the Blowfish theme as a Hugo Module.
+Dark Hugo website for the 0zkMusic YouTube music channel, built with the Blowfish theme as a Hugo Module.
 
 ## Requirements
 
@@ -43,8 +43,10 @@ Change this before deploying.
 - `content/articles/`: conventional article/blog content.
 - `layouts/tracks/`: custom track list and single release layouts.
 - `layouts/partials/`: reusable track cards, metadata, embeds, downloads, related tracks, and JSON-LD.
-- `assets/css/custom.css`: dark 0zkmusic visual overrides loaded by Blowfish.
+- `assets/css/custom.css`: dark 0zkMusic visual overrides loaded by Blowfish.
 - `static/img/`: fallback and social preview images.
+- `static/img/0zkmusic-profile.jpg`: YouTube channel profile image used as the site logo and homepage brand mark.
+- `static/img/0zkmusic-banner.jpeg`: Twitter/X banner image used as the homepage hero background and default social image.
 
 Generated output lives in `public/` and is ignored by Git.
 
@@ -115,7 +117,7 @@ tags:
   - "electronic music"
 
 keywords:
-  - "0zkmusic"
+  - "0zkMusic"
   - "psytrance"
   - "fast trance"
 ---
@@ -182,13 +184,12 @@ Articles use Blowfish's standard article presentation with the site's dark styli
 
 ## Site Links And Placeholders
 
-Change these placeholders before deployment:
+The YouTube channel URL is configured as `https://www.youtube.com/channel/UC1-tLYf1HiKL5v0kHY90IvQ`.
+
+Change these remaining placeholders before deployment:
 
 - `baseURL` in `config/_default/hugo.toml`
-- `youtubeChannelURL` in `config/_default/params.toml`
 - `contactEmail` in `config/_default/params.toml`
-- Menu YouTube URLs in `config/_default/menus.en.toml`
-- Author links in `config/_default/languages.en.toml`
 - Placeholder YouTube IDs in sample track front matter
 - Sample cover art and sample MP3
 
@@ -196,7 +197,7 @@ Optional Bandcamp and SoundCloud URLs are also in `config/_default/params.toml`.
 
 ## Styling
 
-Custom colors and layout rules live in `assets/css/custom.css`. The site uses a dark neutral base, restrained cyan accent, consistent square artwork, responsive grids, visible focus states, and reduced-motion handling.
+Custom colors and layout rules live in `assets/css/custom.css`. The site uses the existing 0zkMusic image palette: violet-black base, magenta primary accent, and cyan-green signal highlights. It keeps consistent square artwork, responsive grids, visible focus states, and reduced-motion handling.
 
 Blowfish files and the Hugo module cache are not edited. Override templates live in `layouts/`.
 
