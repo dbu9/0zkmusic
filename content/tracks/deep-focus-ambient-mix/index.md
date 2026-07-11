@@ -33,6 +33,7 @@ release_date: 2025-03-08
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,27 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Enjoy 40 minutes of soothing ambient music for deep focus, concentration, and relaxation.  
-Perfect for studying, working, or unwinding. 🎧✨  
-
-Tracklist:  
-
-1️⃣ Butterfly – 0:00  
-2️⃣ Elm – 4:00  
-3️⃣ Focus – 7:55  
-4️⃣ Lake – 13:22  
-5️⃣ Mist – 15:30  
-6️⃣ Ocean Wave – 19:11  
-7️⃣ Sakura – 22:58  
-8️⃣ Sequoia – 25:49  
-9️⃣ Wild Fern – 28:46  
-🔟 Wind – 34:34  
-
-
-𝐋i𝐤e, 𝐒u𝐛s𝐜r𝐢b𝐞, C𝐨m𝐦e𝐧t  if you liked the music 👐
 
 ## Production notes
 

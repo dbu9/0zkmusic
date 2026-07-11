@@ -35,6 +35,7 @@ release_date: 2025-03-31
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,24 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-51 minutes of dark ambient for focus, relaxation, work and study.  
-
-Tracklist  
-
-1. The entry - 0:00  
-2. The ferryman - 4:48  
-3. Black water - 7:42  
-4. Ash Memory - 13:23  
-5. Fields Without Song - 17:47  
-6. Mirror of Dust - 21:09  
-7. Lethe - 28:15  
-8. Asphodel Meadows  - 31:25  
-9. Grey Bloom - 35:27  
-10. The Nameless - 40:20  
-11. Eternity is here -  45:43
 
 ## Production notes
 

@@ -33,6 +33,7 @@ release_date: 2025-08-23
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,38 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Sie lügen dich an,  
-sie halten dich klein.  
-Sie steuern dein Leben,  
-du fällst in den Schein.  
-
-Du öffnest das Tor,  
-die Monster sind hier.  
-Ihr Gift in den Worten,  
-sie herrschen in dir.  
-
-Die Fremden marschieren,  
-kein Blut wie dein.  
-Sie nehmen dein Haus,  
-sie löschen dich rein.  
-
-Du warst ein Reich,  
-nun Schatten, nun Staub.  
-Die Asche der Macht,  
-der Weg führt ins Grab.  
-
-Erinnere dich,  
-befrei deinen Sinn.  
-Atme die Stille,  
-das Schwert bleibt Gewinn.  
-
-===  
-
-
-Sword of Memory
 
 ## Production notes
 

@@ -35,6 +35,7 @@ release_date: 2025-12-31
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -63,21 +64,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-“Deny the Gravity” is an instrumental cosmic trance journey built on evolving soundscapes, slow hypnotic motion, and deep emotional tension.  
-
-Inspired by space, time, and inner resistance, the music unfolds gradually — drifting sequences, airy pads, and subtle pulses creating the feeling of moving beyond physical limits.  
-
-This track is designed for deep listening:  
-headphones, night drives, introspection, or floating through your own thoughts.  
-
-🔹 Instrumental trance / electronic  
-🔹 Cosmic & progressive atmosphere  
-🔹 Cinematic, emotional, immersive  
-
-If you feel drawn to space, silence, and motion without force — this is for you.
 
 ## Production notes
 

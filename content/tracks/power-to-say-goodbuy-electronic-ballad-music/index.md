@@ -31,6 +31,7 @@ release_date: 2025-07-14
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,38 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I held your shadow in the light,  
-A fragile truth I couldn’t fight.  
-Your silence grew beneath my skin,  
-Where love once was, regret walks in.  
-
-I searched for reasons, begged the sky,  
-But peace begins with no more "why."  
-A final breath, a closing door—  
-I don’t need what we were before.  
-
-And I found grace to let you go,  
-A quiet strength I didn’t know.  
-No thunder crash, no last reply—  
-Just the  power to say goodbye.  
-
-You drew the line, and I obeyed,  
-A softer war than what we played.  
-But in that loss, I found my name,  
-A soul reborn, no need for blame.  
-
-I walk away, not out of spite,  
-But chasing something more than night.  
-This time I choose the open sky,  
-Not every love is meant to fly.  
-
-And I found grace to let you go,  
-A silent flame begins to grow.  
-No need to scream, no need to cry—  
-Just the  power to say goodbye.
 
 ## Production notes
 

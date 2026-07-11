@@ -33,6 +33,7 @@ release_date: 2025-03-10
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,46 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-I immerse in you, you're my sea,  
-Waves pull me under, set me free.  
-I lose myself in endless blue,  
-But you push me back—why won’t you?  
-
-Why don't you take me?  
-Why don't you want me?  
-Let me fade into your tide,  
-Let me drown and close my eyes...  
-
-You think you save me, but I break,  
-Drifting further, lost in ache.  
-I'd rather sink in your deep blue  
-Than stand alone with no one true.  
-
-Salt on my lips, ghost of your touch,  
-Fading echoes, was I too much?  
-I reach for you, but you're the storm,  
-Cold and distant, keeping form.  
-
-Why don't you take me?  
-Why don't you want me?  
-Let me fade into your tide,  
-Let me drown and close my eyes...  
-
-You think you save me, but I break,  
-Drifting further, lost in ache.  
-I'd rather sink in your deep blue  
-Than stand alone with no one true.  
-
-Let me drown, let me fade...  
-In your depths, I was made...  
-But now I'm just a castaway.
 
 ## Production notes
 

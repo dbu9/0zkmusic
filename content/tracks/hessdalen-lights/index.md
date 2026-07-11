@@ -33,6 +33,7 @@ release_date: 2025-09-06
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,23 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Lights in the sky,  
-No reason, no name.  
-Signals unknown,  
-Nothing is the same.  
-
-Quantum touch,  
-Worlds collide.  
-Hidden code,  
-We cannot hide.  
-
-Hessdalen lights,  
-Calling me.  
-Hessdalen lights,  
-Infinity.
 
 ## Production notes
 

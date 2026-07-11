@@ -35,6 +35,7 @@ release_date: 2025-03-21
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,18 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Baby, stay with me tonight  
-Let the rhythm feel just right  
-In your eyes I see the light  
-Don’t let go, hold me tight  
-
-Dancing slow under the moon  
-Hearts in sync, we move in tune  
-Whisper low, a secret song  
-With you here, I can't go wrong
 
 ## Production notes
 

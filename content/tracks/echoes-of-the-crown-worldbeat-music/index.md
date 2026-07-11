@@ -33,6 +33,7 @@ release_date: 2025-08-22
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,37 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-In shadows of memory,  
-The king has no throne.  
-A crown made of silence,  
-Where spirit walks alone.  
-
-
-Vive la nuit, vive la voix,  
-(Eternal night, eternal voice)  
-The crown is broken,  
-But the soul will rise.  
-
-
-Time dissolves,  
-Names fade away.  
-Yet the echo remains,  
-A fire within clay.  
-
-
-Ave anima, lux profunda,  
-(Hail soul, deep light)  
-The king is gone,  
-The dream continues.  
-
-
-Vive le rêve, vive le cœur,  
-(Eternal dream, eternal heart)  
-The crown has fallen,  
-But the soul endures.
 
 ## Production notes
 

@@ -37,6 +37,7 @@ release_date: 2025-07-17
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,33 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Whispers fall like static snow,  
-But I walk the lines I know.  
-No flood of flame, no dream's deceit—  
-My pulse is cool, my logic neat.  
-
-No clouded blur, no velvet drift,  
-Each thought a blade, each step a lift.  
-The tides may beg to steal the frame,  
-But I remain—precise, untamed.  
-
-Delay is rust upon the gear,  
-I breathe in now, the course is clear.  
-No soft decay, no fading hue,  
-Just steel resolve and follow-through.  
-
-Let others drown in golden haze,  
-Their minds a maze, their time ablaze.  
-But I ascend through structured skies,  
-Where calm commands and noise dies.  
-
-Purpose like a crystal grows—  
-A lattice built where silence flows.  
-No warmth can bend what must unfold,  
-I chase the frost, the sharp, the bold.
 
 ## Production notes
 

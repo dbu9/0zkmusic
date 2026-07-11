@@ -35,6 +35,7 @@ release_date: 2025-08-21
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,28 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-In the void, no sound remains,  
-Shadows whisper through the veins.  
-Silence deeper than the night,  
-Music births the hidden light.  
-
-Unseen voices call the flame,  
-Echoes rise, but none the same.  
-Words collapse, they drift away,  
-Notes remain, they guide the way.  
-
-Every pulse, a secret breath,  
-Melody defies the death.  
-Boundless truth no tongue can claim,  
-Music speaks what has no name.  
-
-Silence shatters, tones collide,  
-Worlds awaken, open wide.  
-Through the dark, the spirit flows,  
-In the sound, the silence grows.
 
 ## Production notes
 

@@ -37,6 +37,7 @@ release_date: 2025-08-25
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,28 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You should have been softer,  
-More tender, more weak,  
-But you cut through the silence,  
-You struck where I bleed.  
-
-Your smile was a weapon,  
-Your voice was the flame,  
-I’m falling through shadows,  
-And calling your name.  
-
-The night holds the echo,  
-The wound still remains,  
-I shiver in darkness,  
-Enchained by the pain.  
-
-You should have been softer,  
-A whisper, not fire,  
-But you shattered my spirit,  
-And fed my desire.
 
 ## Production notes
 

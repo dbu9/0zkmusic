@@ -37,6 +37,7 @@ release_date: 2025-06-28
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,40 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I run, I rise, I breathe anew  
-Each step a flame that passes through  
-My soul ignites, my body mends  
-The pain dissolves, the darkness ends  
-
-Motion flows, a sacred stream  
-Cleansing thought, unlocking dream  
-The past falls off in burning dust  
-The breath returns with sacred trust  
-
-Run through the silence, break the chain  
-Let sweat baptize the hidden pain  
-Let air invade each waiting cell  
-And ring the youth like morning bell  
-
-Move like light, be wild, be clear  
-No fear survives, no doubt is near  
-Sadness melts beneath the pace  
-Illness flees this holy race  
-
-Run, feel the fire  
-Run, climb higher  
-Run, touch the sky  
-Run, don’t ask why  
-
-Motion is the pulse, the song  
-That keeps the soul forever strong  
-Run, feel the heat  
-Run, feel the power  
-Run, feel the life  
-This is your hour
 
 ## Production notes
 

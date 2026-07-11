@@ -37,6 +37,7 @@ release_date: 2025-08-26
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,28 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Krieg ist ewig.  
-Stille vergeht.  
-Jede Stunde bricht.  
-Jeder Schlag ruft.  
-
-Die Spirale dreht.  
-Der Flügel fällt.  
-Die Esse glüht.  
-Das Schwert erwacht.  
-
-Sei bereit.  
-Kein Friede zählt.  
-Trommeln schlagen.  
-Fahnen stürzen.  
-
-Der Sturm beginnt.  
-Eisen singt.  
-Feuer droht.  
-Sei bereit.
 
 ## Production notes
 

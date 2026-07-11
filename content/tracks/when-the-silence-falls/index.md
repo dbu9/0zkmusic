@@ -37,6 +37,7 @@ release_date: 2026-01-10
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,76 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-When the silence falls tonight,  
-I hear echoes in my mind.  
-Every step I try to take  
-Feels like walking through a sign.  
-
-Shadows talk, but say no names,  
-Time just drips from every wall.  
-I keep asking what remains  
-When the silence falls.  
-
-I don’t need to understand,  
-I just need to feel alive.  
-Something pulls me by the hand,  
-Says it’s time.  
-
-Stay with me  
-In this open space,  
-Where the dark feels warm,  
-Where the fear feels late.  
-
-Stay with me  
-Till the morning calls,  
-I’m not broken,  
-I’m just when the silence falls.  
-
-Every word I never said  
-Hangs like smoke above the floor.  
-I was always chasing signs,  
-Now I’m standing at the door.  
-
-Let the past just pass me by,  
-I don’t want to hold it all.  
-I’m still here, I’m still alive  
-When the silence falls.  
-
-I don’t need to fix the pain,  
-I don’t need to run or hide.  
-There’s a fire in the rain  
-Burning inside.  
-
-Stay with me  
-In this open space,  
-Where the dark feels warm,  
-Where the fear feels late.  
-
-Stay with me  
-Till the morning calls,  
-I’m not broken,  
-I’m just when the silence falls.  
-
-No answers.  
-No blame.  
-Just breath…  
-And the sound of my name.  
-
-Stay with me  
-Let the world dissolve,  
-I’m still breathing  
-When the silence falls.  
-
-Stay with me  
-I don’t need it all,  
-I’m not lost…  
-I’m just when the silence falls.  
-
-When the silence falls…  
-I’m still here.
 
 ## Production notes
 

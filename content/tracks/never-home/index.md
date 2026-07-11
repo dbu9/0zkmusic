@@ -35,6 +35,7 @@ release_date: 2025-08-26
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,28 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Shadows move, the city’s cold,  
-Silent prayers that go untold.  
-Every face, a mask of stone,  
-In the state — you’re never home.  
-
-Echoed steps on broken ground,  
-Voices lost but still resound.  
-Searching eyes that never rest,  
-In the state — you’re just a guest.  
-
-Fading lights, the sirens call,  
-You’re alive but feel so small.  
-Every truth begins to shake,  
-In the state — you can’t awake.  
-
-Time dissolves, the night won’t end,  
-Dreams collapse, they won’t defend.  
-You remain, a fleeting breath,  
-In the state — between life and death.
 
 ## Production notes
 

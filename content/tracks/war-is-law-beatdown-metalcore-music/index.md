@@ -35,6 +35,7 @@ release_date: 2025-06-03
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,38 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝑳𝒚𝒓𝒊𝒄𝒔 💀💀  
-
-War is law.  
-No escape.  
-Strike first—  
-Seal their fate.  
-
-No delay.  
-No debate.  
-Steel is truth.  
-Hesitate—  
-You die.  
-
-Cold breath—war is near.  
-Black knights—drawing near.  
-Four beasts—sniff the land.  
-Ash to ash.  
-Man to sand.  
-
-Prepare!  
-Be aware!  
-The fire comes.  
-The sky will tear.  
-
-No peace.  
-No prayer.  
-Only war.  
-And you—  
-Are there.
 
 ## Production notes
 

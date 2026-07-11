@@ -35,6 +35,7 @@ release_date: 2025-09-07
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,38 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Whispers drift on twilight air,  
-Fading traces linger there.  
-From the heights where shadows fall,  
-Your voice returns, a distant call.  
-
-Like rivers lost in time’s embrace,  
-I chase the ghost of your face.  
-An echo bends through endless halls,  
-Answering from mountain walls.  
-
-Echo, echo — you return to me,  
-From the silence, from eternity.  
-Echo, echo — fading into blue,  
-Yet my heart still reaches you.  
-
-Steps dissolve where we once stood,  
-Dreams flow deep like ancient wood.  
-Every night the mountains sigh,  
-Calling back what passed me by.  
-
-The stars remember, the sky still weeps,  
-Your name in valleys softly sleeps.  
-A fragile sound, forever small,  
-Still answers from the mountain wall.  
-
-Echo, echo — you return to me,  
-From the silence, from eternity.  
-Echo, echo — fading into blue,  
-Yet my heart still reaches you.
 
 ## Production notes
 

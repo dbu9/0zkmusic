@@ -35,6 +35,7 @@ release_date: 2025-09-19
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,28 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Die Nacht brennt schwarz, der Himmel weint,  
-Varus fällt, das Reich verneint.  
-Drei Legionen, Stahl im Moor,  
-drei Adler stürzen, nie empor.  
-
-Arminius, Sohn der Nacht,  
-Verrat entflammt in dunkler Schlacht.  
-Römer sinken, Blut im Sand,  
-Germanias Zorn erhebt die Hand.  
-
-Der Wald erstickt mit Sturm und Rauch,  
-das Schwert zerreißt den alten Brauch.  
-Kein Kaiser herrscht, kein Rom gebiert,  
-nur Freiheit lebt, die uns regiert.  
-
-Im Schatten des Waldes, Varus vergeht,  
-das Blut der Legion im Boden steht.  
-Germanen vereint, im Donner erwacht,  
-das Reich des Augustus im Feuer zerlacht.
 
 ## Production notes
 

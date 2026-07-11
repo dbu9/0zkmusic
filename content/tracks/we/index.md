@@ -35,6 +35,7 @@ release_date: 2025-09-19
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,38 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-We are the fire in the dark,  
-Shining even when we’re far.  
-We are the breath in the night,  
-Holding on through endless fight.  
-
-We… we don’t fall apart,  
-We… stronger than the scars,  
-We… louder than the pain,  
-We will rise again.  
-
-Hearts are beating side by side,  
-Storms can’t tear the tide.  
-Every tear we turned to flame,  
-Every loss became our name.  
-
-We… we don’t fall apart,  
-We… stronger than the scars,  
-We… louder than the pain,  
-We will rise again.  
-
-And when the silence tries to break us,  
-And shadows cover up the sky,  
-I’ll whisper only one word — us,  
-Forever, you and I.  
-
-We… we don’t fall apart,  
-We… stronger than the scars,  
-We… louder than the pain,  
-We will rise again.
 
 ## Production notes
 

@@ -33,6 +33,7 @@ release_date: 2026-01-05
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,40 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Move.  
-Do not stop.  
-
-Stand up.  
-Hold the line.  
-
-We are champions.  
-Act like it.  
-
-Eyes forward.  
-No return.  
-
-Forget the past.  
-It is gone.  
-
-No regret.  
-No weight.  
-
-Choose the future.  
-Reach it.  
-
-Take control.  
-Claim ground.  
-
-No limits.  
-No fear.  
-
-Do anything.  
-Now.  
-
-Only forward.
 
 ## Production notes
 

@@ -33,6 +33,7 @@ release_date: 2025-07-15
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,48 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You feel the pull, don’t turn away  
-I grind my teeth through every day  
-You wear the mask, I see the cracks  
-We walk the edge, no turning back  
-
-Resonate with me  
-Let the silence break  
-Hear the pulse we share  
-Feel the world awake  
-
-I’m not your mirror, not your chain  
-But we’re the same beneath the strain  
-You hold the fire, I bring the spark  
-We light the sky, we shake the dark  
-
-Resonate with me  
-Let the walls give in  
-Hear the hum inside  
-Feel the storm begin  
-
-Two as one, a force unknown  
-Louder still than flesh and bone  
-Thoughts align, the noise is gone  
-Tenfold strength—we are the one  
-
-Resonate with me  
-Let the static die  
-No more doubt between  
-You and I can fly  
-
-Don’t resist it, just connect  
-There’s no logic to reject  
-We’re the signal, they’re the noise  
-We’re the chaos they destroy  
-
-Resonate with me  
-Let the silence break  
-Hear the pulse we share  
-Feel the world awake
 
 ## Production notes
 

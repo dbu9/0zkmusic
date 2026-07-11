@@ -37,6 +37,7 @@ release_date: 2026-06-10
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,80 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Still on my mind  
-
-I hear your name  
-In the spaces between  
-A fading flame  
-In a half-broken dream  
-
-I turn around  
-But the night is wide  
-Your ghost is near  
-On the other side  
-
-You are one step behind me  
-Breathing under my skin  
-Every road that I run from  
-Takes me back where we begin  
-
-You are one step behind me  
-Like a light I can’t find  
-Every time I surrender  
-You are still on my mind  
-
-Still on my mind  
-Still on my mind  
-You are one step behind  
-Still on my mind  
-
-I tried to fall  
-Into someone new  
-But every touch  
-Only led to you  
-
-The city sleeps  
-But my heart won’t lie  
-Your voice returns  
-Like a wave in the sky  
-
-You are one step behind me  
-Breathing under my skin  
-Every road that I run from  
-Takes me back where we begin  
-
-You are one step behind me  
-Like a light I can’t find  
-Every time I surrender  
-You are still on my mind  
-
-Behind the tears  
-Behind the night  
-Behind the silence  
-You are my light  
-
-Behind the fear  
-Behind goodbye  
-I keep on running  
-But you never die  
-
-You are one step behind me  
-Breathing under my skin  
-Every road that I run from  
-Takes me back where we begin  
-
-You are one step behind me  
-Like a light I can’t find  
-Every time I surrender  
-You are still on my mind  
-
-Still on my mind  
-Still on my mind  
-You are one step behind  
-Still on my mind
 
 ## Production notes
 

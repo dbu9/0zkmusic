@@ -33,6 +33,7 @@ release_date: 2025-10-01
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,65 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-"Weißer Tiger – du kannst ihn nicht besiegen. Es ist deutscher Geist."  
-
-Aus Rauch.  
-Aus Stahl.  
-Ein Schatten.  
-Ein Mal.  
-
-Er kommt.  
-Er schreit.  
-Er jagt.  
-Er bleibt.  
-
-Die Ketten singen,  
-der Donner bricht.  
-Ein Geist der Kriege,  
-ein kaltes Licht.  
-
-Kein Ende.  
-Kein Tod.  
-Nur Feuer.  
-Nur Blut.  
-
-Im Nebel.  
-Im Grauen.  
-Im Feuer.  
-Er lauern.  
-
-Die Erde bebt,  
-die Mauern fallen.  
-Sein Auge brennt,  
-es hört kein Schallen.  
-
-Er flüstert Nacht,  
-er flüstert Krieg.  
-Er flüstert Tod,  
-er flüstert Sieg.  
-
-Weißer Tiger,  
-ohne Sieg.  
-Weißer Tiger,  
-ewiger Krieg.  
-
-Aus Flammen,  
-er steigt.  
-In Flammen,  
-er schweigt.  
-
-Kein Schwert.  
-Kein Bann.  
-Kein Mensch.  
-Kein Plan.  
-
-Weißer Tiger,  
-ewiger Feind.  
-Weißer Tiger,  
-der Krieg erscheint.
 
 ## Production notes
 

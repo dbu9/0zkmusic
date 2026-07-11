@@ -35,6 +35,7 @@ release_date: 2025-10-17
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,30 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Based on Theodor Körner’s 1813 poem “Schwertlied”, re-imagined as a dark trance hymn to iron will, wrath, and eternal battle.  
-
-Du Schwert an meiner Linken,  
-im Sturm dein kalter Glanz.  
-Im Herz die Feuer sinken,  
-im Blut der alte Tanz.  
-
-Die Nacht ist mein Gefährte,  
-die Klinge spricht mein Eid.  
-Aus Stahl wird meine Erde,  
-aus Zorn wird Ewigkeit.  
-
-Wenn Feind heraufgezogen,  
-zerreißt der Himmel rot.  
-Ich lache seinen Bogen,  
-und tanze mit dem Tod.  
-
-O Schwert, mein schwarzes Zeichen,  
-mein Herz aus Eisenblut.  
-Kein Gott wird mich erweichen,  
-kein Feind mir nimmt den Mut.
 
 ## Production notes
 

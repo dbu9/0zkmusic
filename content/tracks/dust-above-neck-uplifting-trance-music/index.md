@@ -37,6 +37,7 @@ release_date: 2025-07-06
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,39 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Time drops.  
-Grain by grain.  
-The bottom waits.  
-Nothing escapes.  
-
-The past is dead.  
-The future's blind.  
-Only the neck.  
-Only the grind.  
-
-We rise as dust.  
-We float the breach.  
-No fall, no end.  
-No hand can reach.  
-
-Not sand.  
-Not soul.  
-We orbit stillness.  
-We burn the hole.  
-
-The flesh forgets.  
-The glass forgives.  
-But dust remains.  
-And dust…  
-lives.  
-
-Hover in the neck.  
-Now is forever.  
-We are the present.  
-We fall never.
 
 ## Production notes
 

@@ -33,6 +33,7 @@ release_date: 2025-07-19
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,30 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Third track of *Veins of Grace* album: https://www.youtube.com/watch?v=bJzwGavBR8E&t=422s  
-
-In the hollow where shadows cling  
-I hear the silence echo, sing  
-This place you built with thread and dust  
-Where walls remember love and lust  
-
-The world outside has lost its form  
-But here, your cold is strangely warm  
-A scent, a breath, a ghost in bloom  
-I disappear inside this room  
-
-I don’t know who I am out there  
-But here, I shed my skin, my care  
-You make me still, you make me ache  
-This hollow love I’ll never break  
-
-The doors are gone, the clocks don't move  
-Your absence is my deepest truth  
-And in the dark, I find my grace  
-In every inch of your erased face
 
 ## Production notes
 

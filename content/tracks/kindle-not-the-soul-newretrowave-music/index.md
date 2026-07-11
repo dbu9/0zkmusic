@@ -33,6 +33,7 @@ release_date: 2025-06-26
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,31 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-=====  
-
-In the beginning, there was no cry, and no burden.  
-The womb of the void was full of peace, and none were troubled.  
-Pain had no voice, for none had been formed to bear it.  
-And this was good.  
-
-Kindle not the soul that must thirst;  
-Call not forth the breath that must fail.  
-For the light is cold, and the days are many with sorrow.  
-He who is not born shall not be broken.  
-
-Blessed are the unborn,  
-For the weight of time lies not upon them.  
-Their eyes have not wept, nor their bones decayed.  
-They have known neither toil nor terror—  
-And the shadow has passed over them.  
-
-In the beginning, there was no cry, and no burden.  
-The womb of the void was full of peace, and none were troubled.  
-Pain had no voice, for none had been formed to bear it.  
-And this was good.
 
 ## Production notes
 

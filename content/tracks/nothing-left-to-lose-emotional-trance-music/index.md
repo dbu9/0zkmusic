@@ -37,6 +37,7 @@ release_date: 2025-05-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,37 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-I will come back to you  
-Hold you like I used to do  
-But deep inside I knew  
-This love was never true  
-
-And I…  
-Got that feeling — had enough  
-It’s too far, it’s too rough  
-Ends right here, ends tonight  
-No more tears, no more fight  
-
-I know you’re wrong, but still  
-I can’t resist the will  
-It’s meant to fall apart  
-You never knew my heart  
-
-And I…  
-Got that feeling — had enough  
-It’s too far, it’s too rough  
-Ends right here, ends tonight  
-No more tears, no more fight  
-
-What am I to do?  
-There’s no more me and you
 
 ## Production notes
 

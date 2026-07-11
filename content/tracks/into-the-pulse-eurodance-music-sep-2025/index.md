@@ -35,6 +35,7 @@ release_date: 2025-09-16
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,48 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Lights collide, the air is burning,  
-Every thought is slowly turning.  
-Rhythms call, the night awakens,  
-All we are will not be shaken.  
-
-Closer, closer,  
-Faster, faster.  
-Voices rising,  
-Breaking after.  
-
-Into the pulse, we’re falling,  
-Into the sound, we’re calling.  
-Echoes alive, unending,  
-Nothing remains, transcending.  
-
-Dreams dissolve in neon fire,  
-Every step pulls us higher.  
-Time is gone, the lines are breaking,  
-All we feel is ours for taking.  
-
-Closer, closer,  
-Faster, faster.  
-Voices rising,  
-Breaking after.  
-
-Into the pulse, we’re falling,  
-Into the sound, we’re calling.  
-Echoes alive, unending,  
-Nothing remains, transcending.  
-
-Breathe the silence,  
-Cross the distance.  
-Shine through darkness,  
-No resistance.  
-
-Into the pulse, we’re falling,  
-Into the sound, we’re calling.  
-Echoes alive, unending,  
-Nothing remains, transcending.
 
 ## Production notes
 

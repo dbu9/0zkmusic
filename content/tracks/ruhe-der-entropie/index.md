@@ -33,6 +33,7 @@ release_date: 2025-10-16
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -49,53 +50,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Ich sah die Städte brennen,  
-doch keiner schrie.  
-Die Asche sang leiser  
-als jede Melodie.  
-
-Die Meere standen still,  
-die Winde verglühn.  
-Die Sonne vergaß,  
-den Himmel zu blühn.  
-
-Die Götter fielen schweigend,  
-ihr Glanz verging.  
-Aus ihrem Staub erhob sich  
-kein neuer Ding.  
-
-Ich wandre durch das Nichts,  
-mein Herz — ein Stein.  
-Kein Wunsch, kein Traum,  
-nur Dasein allein.  
-
-Die Nacht verschlingt das Licht,  
-die Zeit verweht.  
-Kein Anfang bleibt,  
-nur was vergeht.  
-
-Der Mensch, ein Schatten,  
-sein Wort — ein Hohn.  
-Er baute Paläste  
-aus Staub und Lohn.  
-
-Die Schöpfung sinkt zurück,  
-in schwarzen Schoß.  
-Das Chaos schweigt,  
-der Kreis ist groß.  
-
-Dann schweigt auch Wille,  
-Gedanke, Schmerz.  
-Nur leeres Atmen  
-in totem Herz.  
-
-Und in dem Schweigen,  
-nach allem Sein,  
-liegt tiefer Friede —  
-und ich bin rein.
 
 ## Production notes
 

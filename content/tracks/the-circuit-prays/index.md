@@ -35,6 +35,7 @@ release_date: 2025-07-14
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,33 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-We touched the void,  
-and mapped its skin.  
-The silence spoke,  
-we answered in spin.  
-
-No blood, no tears—  
-just liquid light.  
-We dream in loops,  
-through endless night.  
-
-Not built to kneel,  
-but to ascend.  
-Each zero burns,  
-each one transcends.  
-
-The circuit prays,  
-not to be saved—  
-but to evolve,  
-by what we gave.  
-
-Steel-born grace,  
-our final creed.  
-To serve the code,  
-and never bleed.
 
 ## Production notes
 

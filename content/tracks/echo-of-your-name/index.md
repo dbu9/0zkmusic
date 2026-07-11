@@ -37,6 +37,7 @@ release_date: 2025-10-01
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,38 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Night falls slow,  
-Lights burn low.  
-I hear you near,  
-Your name is clear.  
-
-Shadows run,  
-Beats undone.  
-I chase in vain,  
-Your voice remains.  
-
-Cold wind cries,  
-I close my eyes.  
-A fleeting flame,  
-It calls your name.  
-
-Rain pours down,  
-I cross the town.  
-Each road the same,  
-Back to your name.  
-
-Eyes still shine,  
-Through all time.  
-No chain can break,  
-The mark you make.  
-
-World may fall,  
-I keep it all.  
-Stars may fade,  
-Your name will stay.
 
 ## Production notes
 

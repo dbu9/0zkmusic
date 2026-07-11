@@ -35,6 +35,7 @@ release_date: 2025-02-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,37 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Drifting alone in the endless tide,  
-Calling your name through the silent night.  
-Echoes of you in the coldest waves,  
-But you’re too far, you slip away...  
-
-Falling deeper, lost in time,  
-Your shadow lingers in my mind...  
-
-When the stars fade into nothing,  
-When the sky breaks into blue,  
-I will still be here, still be waiting,  
-Still be lost inside of you...  
-
-Whispers dissolve in the empty air,  
-Reaching for hands that were never there.  
-I close my eyes, but you never stay,  
-Only a ghost, only a name...  
-
-Falling deeper, lost in time,  
-Your shadow lingers in my mind...  
-
-When the stars fade into nothing,  
-When the sky breaks into blue,  
-I will still be here, still be waiting,  
-Still be lost inside of you...  
-
-Still be lost inside of you...  
-Still be lost inside of you...
 
 ## Production notes
 

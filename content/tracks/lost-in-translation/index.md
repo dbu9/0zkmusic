@@ -33,6 +33,7 @@ release_date: 2025-03-06
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,10 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Inspired by the movie https://www.imdb.com/title/tt0335266/
 
 ## Production notes
 

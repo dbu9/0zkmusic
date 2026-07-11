@@ -37,6 +37,7 @@ release_date: 2026-01-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,13 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-“Luminous Errors” is a vocal trance track by 0zkMusic, drifting through night streets, borrowed light, and unfinished lives.  
-The lyrics move through neon skies and fading glows, tracing moments of loneliness, impermanence, and quiet reflection — the feeling of being present in a world that never quite settles.  
-
-Visually, the video focuses on abstract light patterns and urban night scenes, complementing the melancholic and introspective tone of the music.
 
 ## Production notes
 

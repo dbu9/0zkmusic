@@ -31,6 +31,7 @@ release_date: 2025-07-07
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,60 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You said I’d understand someday  
-When the wounds had all healed  
-But time passed through me  
-And the ache never sealed  
-
-You said the world would soften  
-If I just learned to forgive  
-But I carried your silence  
-Like a weight I couldn't lift  
-
-You were the fire  
-But you let me freeze  
-You were the cure  
-That brought no peace  
-You were the light  
-That left me blind  
-A broken path  
-You left behind  
-
-You said the pain was fleeting  
-But it settled in my bones  
-You said you’d never leave me  
-But I always walked alone  
-
-You smiled through my screaming  
-Said the storm would pass  
-But I stood in the wreckage  
-Of your shattered glass  
-
-You were the fire  
-But you let me freeze  
-You were the cure  
-That brought no peace  
-You were the light  
-That left me blind  
-A broken path  
-You left behind  
-
-Now I rise through all the gray  
-Rebuild myself from your decay  
-You taught me how to disappear  
-But I learned how to stay  
-
-You were the fire  
-Now I burn alone  
-You were the truth  
-But carved in stone  
-You were the voice  
-That taught me pain  
-But I won’t drown  
-In you again
 
 ## Production notes
 

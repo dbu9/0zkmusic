@@ -35,6 +35,7 @@ release_date: 2025-10-01
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,28 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-The night remembers what I’ve lost,  
-Echoes fall like broken glass.  
-Your name dissolves in fading rain,  
-I reach, but never hold again.  
-
-Silent rivers cross my sleep,  
-Memories are running deep.  
-A fragile light begins to die,  
-I chase your ghost across the sky.  
-
-Do you hear me call your name?  
-Through the distance, through the flame.  
-Every heartbeat turns to dust,  
-Every promise turns to rust.  
-
-In the dark, I find your face,  
-A fleeting dream I can’t embrace.  
-Still I wander, still I stay,  
-Lost forever in yesterday.
 
 ## Production notes
 

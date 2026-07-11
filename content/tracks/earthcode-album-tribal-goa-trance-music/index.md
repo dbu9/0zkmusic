@@ -39,6 +39,7 @@ release_date: 2025-07-18
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -66,22 +67,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝙀𝒏𝙟𝒐𝙮  𝒀𝙤𝒖𝙧 𝙁𝒍𝙞𝒈𝙝𝒕 👁️⃤ 🧿  
-
-
-*TrackList*  
-
-1. Moonrite – 0:00  
-2. Rainbone Ceremony – 6:34  
-3. Spirits in the Ground – 13:49  
-4. Echo Dancer – 18:33  
-5. Drumspell  – 22:48  
-6. The Fire Knows My Name – 28:36  
-7. Totemwalker – 34:32  
-8. Trance of the Tusk – 39:17
 
 ## Production notes
 

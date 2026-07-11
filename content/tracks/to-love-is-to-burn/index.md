@@ -37,6 +37,7 @@ release_date: 2025-11-11
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,44 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I gave you my fire,  
-to keep you warm in rain.  
-You never asked for saving,  
-but I bled just the same.  
-
-Every heartbeat,  
-was a promise to fade.  
-Every sunrise,  
-a price that I paid.  
-
-To love is to burn,  
-to fall and not return.  
-To lose the self you were,  
-for the soul you’ve earned.  
-To love is to burn,  
-and never ask to learn —  
-why light must hurt  
-to make the darkness turn.  
-
-I walked through your silence,  
-as through sacred ground.  
-Every wound you carried,  
-I wore without a sound.  
-
-If pain is devotion,  
-then I am divine.  
-Let my ashes whisper —  
-your heart was mine.  
-
-To love is to burn,  
-to fall and not return.  
-To lose the self you were,  
-for the soul you’ve earned.  
-To love is to burn —  
-forever, I’ll burn.
 
 ## Production notes
 

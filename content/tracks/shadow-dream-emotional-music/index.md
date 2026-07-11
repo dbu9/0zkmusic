@@ -33,6 +33,7 @@ release_date: 2025-04-26
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,40 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-=====  
-
-You were like a shadow,  
-Brushed against the light,  
-I reached, you melted,  
-Into the velvet night.  
-
-I still dream of you,  
-Fading through the blue,  
-A whisper on my skin,  
-A ghost I let in.  
-
-Your eyes were a river,  
-Flowing without sound,  
-I lost you in the shimmer,  
-Where lost things are found.  
-
-I still dream of you,  
-Fading through the blue,  
-A whisper on my skin,  
-A ghost I let in.  
-
-Breath of silence, taste of rain,  
-You slip right through my hands again,  
-In every dawn, in every room,  
-I dance alone with your perfume.  
-
-Shadow...  
-Shadow dream...  
-Still dream of you...  
-Still dream of you...
 
 ## Production notes
 

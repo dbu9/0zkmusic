@@ -33,6 +33,7 @@ release_date: 2026-02-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -61,53 +62,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Ooooh—  
-Eh—eh—eh  
-Mmm—ya—ya—  
-
-I walk the road at dawn of night  
-Feet in dust, my heart in light  
-I call a place I’ve never seen  
-But I feel it breathe in me  
-
-When I fall, I hear a name  
-In the silence, in the flame  
-Not a city, not a sign  
-But a home beyond all time  
-
-Yeh-ru-sa-la-ma  
-Eh—ya—eh—ya  
-Yeh-ru-sa-la-ma  
-Take me home, take me home  
-
-Yeh-ru-sa-la-ma  
-Ah—ya—ah—ya  
-Yeh-ru-sa-la-ma  
-This is where my soul belongs  
-
-Eh—eh—eh  
-Ya—ya—ya  
-Ooooh—home…  
-
-Every breath a borrowed fire  
-Every step a quiet prayer  
-Through the dark I know the way  
-I am called, I am aware  
-
-When I fall, I hear a name  
-Soft as rain, strong as faith  
-
-Yeh-ru-sa-la-ma  
-Eh—ya—eh—ya  
-Yeh-ru-sa-la-ma  
-Take me home, take me home  
-
-Eh—ya—eh—ya  
-Ooooh—  
-Home…
 
 ## Production notes
 

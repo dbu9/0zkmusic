@@ -33,6 +33,7 @@ release_date: 2025-08-27
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,28 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Sand wird zu Feuer,  
-Meer wird zu Blut.  
-Die Tore aus Eisen,  
-Sie schlucken uns.  
-
-Der Himmel schreit,  
-Die Erde reißt entzwei.  
-Tausend Körper fallen,  
-Mein Herz zerbricht dabei.  
-
-Kein Gebet erlöst uns,  
-Kein Licht durchdringt den Rauch.  
-Nur Stahl und Schweigen,  
-Nur die Angst im Bauch.  
-
-Mutter, verzeih mir,  
-Ich seh den Morgen nicht.  
-Der Sturm beginnt erbarmungslos,  
-Und löscht mein letztes Licht.
 
 ## Production notes
 

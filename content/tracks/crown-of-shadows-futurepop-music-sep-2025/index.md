@@ -31,6 +31,7 @@ release_date: 2025-09-29
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -48,38 +49,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Crawling through the static haze,  
-A whisper claws, a hollow phrase.  
-Feeding on the cracks in glass,  
-Every moment built to pass.  
-
-I wear the crown of shadows,  
-Throne of rust and bone.  
-I speak in silent echoes,  
-A kingdom all my own.  
-
-The wires pulse beneath my skin,  
-Machine of dust, machine of sin.  
-The world pretends to turn away,  
-Yet parasites will always stay.  
-
-I wear the crown of shadows,  
-Throne of rust and bone.  
-I speak in silent echoes,  
-A kingdom all my own.  
-
-No savior comes, no guiding hand,  
-Just broken towers in the sand.  
-A reign of ashes, cold and thin,  
-The empire rots, yet I remain within.  
-
-I wear the crown of shadows,  
-Throne of rust and bone.  
-I speak in silent echoes,  
-A kingdom all my own.
 
 ## Production notes
 

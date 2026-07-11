@@ -37,6 +37,7 @@ release_date: 2025-07-31
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,32 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-We move at the speed of light,  
-Falling through the silver night,  
-No more time, no wrong or right,  
-Only echoes, pure and white.  
-
-Dreams dissolve, then form again,  
-Drawn to you like stars through rain,  
-Gravity, your silent name,  
-Calls me through the endless flame.  
-
-We never stop…  
-We never break…  
-We just awaken…  
-
-Speed of light, no turning back,  
-Hearts collide, dissolve in black,  
-We are shadows in the stream,  
-Riding on a lucid dream.  
-
-Frozen still but always flown,  
-In the dark, we’re not alone,  
-Pulse and shimmer, breath and night,  
-We move at the speed of light…
 
 ## Production notes
 

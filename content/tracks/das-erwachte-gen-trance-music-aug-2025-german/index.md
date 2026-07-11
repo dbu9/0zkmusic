@@ -37,6 +37,7 @@ release_date: 2025-08-27
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,53 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Ich trage das Gen.  
-Die Stimmen befehlen.  
-Die Ahnen schreien.  
-Die Kraft ist real.  
-
-Das Feuer frisst.  
-Der Geist erhebt.  
-Die Wurzel ruft.  
-Die Macht lebt.  
-
-Mein Blut kocht.  
-Mein Herz brennt.  
-Ich bin unsterblich.  
-Ein Monument.  
-
-Tief in der Erde.  
-Tief in der Zeit.  
-Das Gen befiehlt.  
-Es herrscht — für immer.  
-
-
-==================  
-
-*The Awakened Gene*  
-
-I carry the gene.  
-The voices command.  
-The ancestors scream.  
-The power is real.  
-
-The fire devours.  
-The spirit rises.  
-The root is calling.  
-The might lives.  
-
-My blood boils.  
-My heart burns.  
-I am immortal.  
-A monument.  
-
-Deep in the earth.  
-Deep in time.  
-The gene commands.  
-It rules — forever.
 
 ## Production notes
 

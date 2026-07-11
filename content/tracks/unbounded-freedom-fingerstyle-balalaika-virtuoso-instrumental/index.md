@@ -33,6 +33,7 @@ release_date: 2026-01-08
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,23 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Unbounded Freedom is a raw instrumental journey built around fingerstyle balalaika, where tradition breaks into motion.  
-
-Fast, percussive strings meet silence and space — not as folklore, but as expression.  
-This piece is about movement without limits, technique without restraint, and sound that breathes on its own.  
-
-No lyrics.  
-No narrative.  
-Just motion, tension, and release.  
-
-Inspired by modern balalaika virtuosity, progressive instrumental music, and the idea that freedom is felt, not explained.  
-
-🎵 Instrumental · Fingerstyle · Balalaika  
-🎥 Visuals generated with AI  
-📍 0xzMusic
 
 ## Production notes
 

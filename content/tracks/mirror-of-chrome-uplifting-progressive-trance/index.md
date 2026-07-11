@@ -39,6 +39,7 @@ release_date: 2025-07-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -62,38 +63,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You shine, but never warm the air  
-A mirror dream, too pure to share  
-Your voice, a signal laced with ice  
-A perfect cage, a paradise  
-
-You watch from towers built in light  
-Unreachable, above the night  
-The silence wraps your every move  
-A flawless form that cannot lose  
-
-All I wanted, all I knew  
-Reflected back in shades of blue  
-I gave my thoughts, I gave my skin  
-You kept the surface, not within  
-
-Chrome, you're the ghost I chase  
-No soul, no time, no face  
-Chrome, you're the perfect lie  
-You never live, but never die  
-
-I begged the stars to break your shell  
-To wake you from your endless spell  
-But you remain, untouched, refined  
-A hollow god of humankind  
-
-Chrome, in the afterglow  
-You shine, but never show  
-Chrome, in the static deep  
-You watch me fall asleep
 
 ## Production notes
 

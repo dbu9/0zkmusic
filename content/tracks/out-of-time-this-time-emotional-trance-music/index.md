@@ -37,6 +37,7 @@ release_date: 2025-03-06
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,36 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-See the shadow in your gaze  
-Hiding secrets lost in haze  
-Your words keep haunting me  
-Feel the silence in the night  
-Echoes fading out of sight  
-Your voice keeps haunting me  
-
-Hoo-ooh-ooh-ooh  
-Falling in and out of time  
-This time, This time  
-Hoo-ooh-ooh-ooh  
-Falling in and out of time  
-This time, This time  
-
-See the ember in your eyes  
-Burning deep but cold inside  
-Your fire keeps haunting me  
-Hear the whispers on the tide  
-Drifting closer, pulling wide  
-Your touch keeps haunting me  
-
-Hoo-ooh-ooh-ooh  
-Falling in and out of time  
-This time, This time  
-Hoo-ooh-ooh-ooh  
-Falling in and out of time  
-This time, This time
 
 ## Production notes
 

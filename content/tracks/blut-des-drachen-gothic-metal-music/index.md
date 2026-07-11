@@ -33,6 +33,7 @@ release_date: 2025-04-29
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,87 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-🇩🇪 🇩🇪  
-
-
-Feuer brennt  
-Dunkel rennt  
-Sigurd reitet  
-Blut verschneit  
-
-Blut! Blut!  
-Blut des Drachen  
-Fluch! Fluch!  
-Fluch der Rachen  
-Hand aus Stahl  
-Herz aus Stein  
-Sigurd wird der Sieger sein!  
-
-Gold verflucht  
-Gier verglüht  
-Die Schlange stirbt  
-Der Held erblüht  
-
-Blut! Blut!  
-Blut des Drachen  
-Fluch! Fluch!  
-Fluch der Rachen  
-Hand aus Stahl  
-Herz aus Stein  
-Sigurd wird der Sieger sein!  
-
-*Schlaf, Fafnir,*  
-*Schlaf im Grab,*  
-*Dein Blut – mein Pfad.*  
-
-Blut! Blut!  
-Blut des Drachen  
-Hand aus Stahl!  
-Sigurd bleibt!  
-
-Lyrics  
-🇬🇧🇬🇧  
-
-*Blood of the Dragon*  
-
-Fire burns  
-Darkness runs  
-Sigurd rides  
-Blood and snow  
-
-
-Blood! Blood!  
-Blood of the dragon  
-Curse! Curse!  
-Curse of the jaws  
-Hand of steel  
-Heart of stone  
-Sigurd will stand alone!  
-
-Gold is cursed  
-Greed decays  
-The serpent dies  
-The hero stays  
-
-Blood! Blood!  
-Blood of the dragon  
-Curse! Curse!  
-Curse of the jaws  
-Hand of steel  
-Heart of stone  
-Sigurd will stand alone!  
-
-Sleep, Fafnir,  
-Sleep in your grave,  
-Your blood — my path.  
-
-Blood! Blood!  
-Blood of the dragon  
-Hand of steel!  
-Sigurd lives!
 
 ## Production notes
 

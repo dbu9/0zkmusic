@@ -37,6 +37,7 @@ release_date: 2025-03-27
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,40 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-
-Silent skies begin to glow,  
-Calling me where I must go.  
-Footsteps fading into blue,  
-Chasing shadows I once knew.  
-
-Lift me up, don't let me fall,  
-Through the quiet, past the wall.  
-
-Take me where the starlight breaks,  
-Through the night the silence shakes.  
-Hold me close in colors wide,  
-Stay with me beyond the tide.  
-
-Echoed voices in the rain,  
-Washing off the dust of pain.  
-Time dissolves in waves of light,  
-Lost, but finding wings in flight.  
-
-Let me drift, don’t pull me down,  
-In your arms I’ll never drown.  
-
-Take me where the starlight breaks,  
-Through the night the silence shakes.  
-Hold me close in colors wide,  
-Stay with me beyond the tide.  
-
-Far from fear, beyond the gray,  
-We become the break of day.
 
 ## Production notes
 

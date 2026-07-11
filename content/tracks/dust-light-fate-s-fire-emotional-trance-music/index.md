@@ -37,6 +37,7 @@ release_date: 2025-02-15
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,53 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝙋𝙡𝙚𝙖𝙨𝙚 𝙡𝙞𝙠𝙚 𝙖𝙣𝙙 𝙨𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 𝙞𝙛 𝙮𝙤𝙪 𝙚𝙣𝙟𝙤𝙮𝙚𝙙 𝙩𝙝𝙚 𝙫𝙞𝙙𝙚𝙤! 🙏❤️🎶  
-
-Ⓛⓨⓡⓘⓒⓢ ✍️  
-
-⟡ Dust & Light (Fate’s Fire) ⟡  
-
-A whisper in the cosmic tide,  
-Falling embers in the sky.  
-No hands above, no thread to guide,  
-Just echoes lost, just you and I.  
-
-Fading stars, a fleeting breath,  
-We dance between the birth and death.  
-No roll of dice, no twist of fate,  
-This path was drawn before we came.  
-
-So touch the fire, taste the rain,  
-Feel the thrill, forget the pain.  
-The world was carved in blood and stone,  
-And what was built is not our own.  
-
-The winds don’t carry sacred names,  
-The sun will set on all the same.  
-Yet walls were raised with shattered hands,  
-By those who fell, by those who stand.  
-
-Fading stars, a fleeting breath,  
-We dance between the birth and death.  
-No roll of dice, no twist of fate,  
-This path was drawn before we came.  
-
-So touch the fire, taste the rain,  
-Feel the thrill, forget the pain.  
-The world was carved in blood and stone,  
-And what was built is not our own.  
-
-Silent ghosts walk in our shade,  
-Their voices lost, their debts unpaid.  
-What’s left to hold? What’s left to claim?  
-The tide may turn, the past may fade...  
-
-No hands above, no thread to guide...  
-No roll of dice, no chance to hide...  
-Only now, only light...
 
 ## Production notes
 

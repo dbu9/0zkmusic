@@ -37,6 +37,7 @@ release_date: 2025-08-23
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,33 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Shadows trace my fragile skin,  
-Night consumes the place I’m in.  
-Breathing fire, I can’t resist,  
-Pulled into your endless abyss.  
-
-Whispers strike like burning steel,  
-Every word too sharp, too real.  
-I surrender, can’t escape,  
-Falling deeper, lose my shape.  
-
-Under the veil, I lose my name,  
-Bound to the dark, I play your game.  
-Echoes of you, inside my chest,  
-I am the captive, you are the rest.  
-
-Hollow silence, cruel and sweet,  
-Every step beneath your feet.  
-Chains of longing, pull me tight,  
-Lead me deeper into night.  
-
-In your shadow, I remain,  
-Tasting sorrow, sweet with pain.  
-No redemption, no farewell,  
-I am forever under your spell.
 
 ## Production notes
 

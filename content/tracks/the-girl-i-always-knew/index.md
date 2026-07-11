@@ -33,6 +33,7 @@ release_date: 2025-11-03
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,33 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I saw her on the street,  
-the silence skipped a beat.  
-A face I’d seen before,  
-behind some dreamlike door.  
-
-Her eyes — a spark, a sign,  
-a ghost that once was mine.  
-How can it be so true —  
-I always, always knew.  
-
-I reached, but time stood still,  
-the air forgot my will.  
-When stillness broke apart,  
-she vanished with my heart.  
-
-Now shadows crowd the place,  
-a million hidden face.  
-Was it a dream, divine?  
-A message in the line?  
-
-I wander, night to night,  
-no peace, no end in sight.  
-Will I be calm anew —  
-or wait my life for you?
 
 ## Production notes
 

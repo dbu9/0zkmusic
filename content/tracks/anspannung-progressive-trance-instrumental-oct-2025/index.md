@@ -35,6 +35,7 @@ release_date: 2025-10-15
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,10 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-instrumental
 
 ## Production notes
 

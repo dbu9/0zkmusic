@@ -33,6 +33,7 @@ release_date: 2025-03-12
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -50,22 +51,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-🔥 Four tracks. One journey. Pure madness. 🔥  
-
-We’ve crafted four mind-bending tracks designed to pull you into the void, break reality, and keep you craving more. This isn’t just music—it’s an experience.  
-
-🎧 Listen at your own risk.  
-💥 Feel it. Lose yourself. Repeat.  
-
-Let me know what you think in the comments! Which track hits the hardest? 🚀🔥  
-
-1. They are better than us: 0:00  
-2. Cosmic debris: 3:47  
-3. Through the dust: 7:33  
-4. Omega point: 11:09
 
 ## Production notes
 

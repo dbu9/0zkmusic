@@ -37,6 +37,7 @@ release_date: 2026-06-12
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,78 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Hold me down  
-In the silence  
-Let me drown  
-In the light  
-
-I don’t fight  
-I don’t fight  
-I don’t fight  
-Anymore  
-
-Still I fall  
-Still I fall  
-Into you  
-Into you  
-
-All I was  
-All I knew  
-Fades away  
-Fades in you  
-
-Take my heart  
-Take my breath  
-Take the night  
-That I left  
-
-I don’t fight  
-I don’t fight  
-I don’t fight  
-Anymore  
-
-Still I fall  
-Still I fall  
-Into you  
-Into you  
-
-In the dark  
-I hear your name  
-Soft and cold  
-Like endless rain  
-
-Come undone  
-Come undone  
-Come undone  
-In your arms  
-
-Still I fall  
-Still I fall  
-Into you  
-Into you  
-
-I let go  
-I let go  
-I let go  
-Of the pain  
-
-Still I fall  
-Still I fall  
-Into you  
-Into you  
-
-Don’t wake me  
-Don’t save me  
-Just take me  
-Through the blue  
-
-Still I fall  
-Still I fall  
-Into you  
-Into you
 
 ## Production notes
 

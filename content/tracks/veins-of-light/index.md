@@ -35,6 +35,7 @@ release_date: 2025-09-06
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,23 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Through the night, the stars ignite,  
-Whispers guide my inner sight.  
-Shadows fade, the silence sings,  
-Carried high on hidden wings.  
-
-Crystal rivers, endless stream,  
-Flowing through the astral dream.  
-Every breath a secret sign,  
-Every moment is divine.  
-
-Circles turning, time undone,  
-Moon and fire merge as one.  
-I dissolve, yet I remain,  
-Endless night through endless flame.
 
 ## Production notes
 

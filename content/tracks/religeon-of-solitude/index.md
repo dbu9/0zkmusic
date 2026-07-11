@@ -35,6 +35,7 @@ release_date: 2025-08-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,33 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-In silence I ascend,  
-The crowd cannot defend,  
-My spirit breaks the chain,  
-Alone, I find my reign.  
-
-Their voices fade to dust,  
-In shadows lies my trust,  
-No idol, creed, or shrine,  
-This solitude is mine.  
-
-The night becomes my guide,  
-Where empty echoes hide,  
-Beyond the reach of all,  
-I hear the deeper call.  
-
-The power grows within,  
-Unfettered, free of sin,  
-No prayer, no temple near,  
-The truth is crystal clear.  
-
-Alone, yet not confined,  
-A vast, unbroken mind,  
-In darkness I believe,  
-In solitude I breathe.
 
 ## Production notes
 

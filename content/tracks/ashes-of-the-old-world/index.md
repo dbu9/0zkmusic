@@ -37,6 +37,7 @@ release_date: 2026-06-26
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,34 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Let it fall  
-Let it break  
-All the crowns  
-All the fake  
-
-Metal dawn  
-No one runs  
-
-Steel in sky  
-Cold machine  
-Burn the lies  
-Clean the dream  
-
-No more gods  
-Made of clay  
-No more hands  
-In my way  
-
-Metal dawn  
-No one runs  
-
-Ashes rise  
-Neon rain  
-From the end  
-Comes the flame
 
 ## Production notes
 

@@ -33,6 +33,7 @@ release_date: 2025-06-29
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,38 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I don’t care  
-Let them cry  
-Good or bad?  
-It’s all a lie  
-
-They believe  
-They obey  
-I just take  
-Then walk away  
-
-Let them serve  
-Let them bleed  
-I survive  
-I take what I need  
-
-I build walls  
-I burn ties  
-Truth is dust  
-And love is lies  
-
-History fades  
-Ashes remain  
-Why give hope  
-When you gain by pain?  
-
-No regret  
-No deep sign  
-This short life—  
-It’s only mine
 
 ## Production notes
 

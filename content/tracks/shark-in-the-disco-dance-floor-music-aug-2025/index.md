@@ -33,6 +33,7 @@ release_date: 2025-08-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -50,33 +51,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Jump in the beat, splash in the night,  
-Laser-fish swimming in ultraviolet light.  
-Bubbles explode, basslines roar,  
-Octopus DJ, spin it once more!  
-
-Shark in the disco, fins in the air,  
-Jellyfish dancers, glow everywhere.  
-Hook up the madness, reel in the sound,  
-Catch that rhythm — spin it around!  
-
-Boom! Boom! Crashing tide,  
-Ride the dolphin, rave collide.  
-Electric eels with neon eyes,  
-Storm the floor, no compromise!  
-
-Shark in the disco, fins in the air,  
-Jellyfish dancers, glow everywhere.  
-Hook up the madness, reel in the sound,  
-Catch that rhythm — spin it around!  
-
-Bass tsunami, tidal wave drop,  
-Catch that tuna, never gonna stop!  
-Spin like whirlpool, faster, tight,  
-Rave is the ocean — dance all night!
 
 ## Production notes
 

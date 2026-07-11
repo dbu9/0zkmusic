@@ -37,6 +37,7 @@ release_date: 2026-06-24
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,68 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Silent roads are glowing  
-Under silver rain  
-Every cloud is opening  
-Washing off the pain  
-
-Nothing left behind me  
-Nothing left to lose  
-I can hear the sunrise  
-Calling through the blue  
-
-After the rain  
-I rise above the pain  
-After the rain  
-I burn into the flame  
-
-After the rain  
-I am not the same  
-Out of the grey  
-I wake inside the flame  
-
-Cold wind on my shoulders  
-Empty streets below  
-Every step is stronger  
-Every light will grow  
-
-Thunder in the distance  
-Fading from my name  
-I was lost in silence  
-Now I feel the flame  
-
-After the rain  
-I rise above the pain  
-After the rain  
-I burn into the flame  
-
-After the rain  
-I am not the same  
-Out of the grey  
-I wake inside the flame  
-
-Rise again  
-Break the chain  
-Shine again  
-Leave the pain  
-
-Run again  
-Through the rain  
-Burn again  
-Like a flame  
-
-After the rain  
-I rise above the pain  
-After the rain  
-I burn into the flame  
-
-After the rain  
-I am not the same  
-Out of the grey  
-I wake inside the flame
 
 ## Production notes
 

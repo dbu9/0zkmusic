@@ -35,6 +35,7 @@ release_date: 2025-10-01
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,23 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Hold the night, don’t let go,  
-Feel the pulse, let it flow.  
-Through the dark, I will rise,  
-Burning stars in my eyes.  
-
-Echo calling, heart’s alive,  
-One more moment, I will dive.  
-Through the noise, I find my flame,  
-Whispered voice, it calls my name.  
-
-Stand with me, we don’t break,  
-Every dream is ours to take.  
-Light the sky, we’ll go higher,  
-We are echo, we are fire.
 
 ## Production notes
 

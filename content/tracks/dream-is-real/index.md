@@ -37,6 +37,7 @@ release_date: 2026-06-25
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,80 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Is this a dream  
-Is this the real  
-
-Open sky  
-Broken seal  
-
-Eyes awake  
-Mind asleep  
-
-Falling high  
-Rising deep  
-
-Where am I  
-I don’t know  
-
-Above the earth  
-Below the glow  
-
-Dream is real  
-Real is dream  
-
-Nothing stays  
-Nothing seems  
-
-I am here  
-I am gone  
-
-In the night  
-In the dawn  
-
-Body lost  
-Spirit found  
-
-No more sky  
-No more ground  
-
-Dream is real  
-Real is dream  
-
-Light inside  
-Silent scream  
-
-Where am I  
-I don’t know  
-
-In the wave  
-In the flow  
-
-No place  
-No name  
-
-No time  
-No frame  
-
-Only sound  
-Only light  
-
-Only stars  
-Only night  
-
-Is this a dream  
-Is this the real  
-
-I disappear  
-I start to feel  
-
-Dream is real  
-Real is dream  
-
-Nothing ends  
-Nothing seems
 
 ## Production notes
 

@@ -33,6 +33,7 @@ release_date: 2025-09-03
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,52 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-In the silence I remember,  
-All the stars that burned before.  
-Every shadow, every ember,  
-Leads me closer to your shore.  
-
-Whispered prayers across the night,  
-Fading fears in silver light.  
-
-Ode to the flame,  
-It carries my name.  
-Through the storm, through the pain,  
-Love will remain.  
-Ode to the flame,  
-Unbroken, untamed.  
-In the dark, still the same,  
-Calling your name.  
-
-Time dissolves like falling water,  
-But the fire will never die.  
-Every dream becomes a daughter  
-Of the endless, boundless sky.  
-
-Every wound becomes a song,  
-Every silence makes us strong.  
-
-Ode to the flame,  
-It carries my name.  
-Through the storm, through the pain,  
-Love will remain.  
-Ode to the flame,  
-Unbroken, untamed.  
-In the dark, still the same,  
-Calling your name.  
-
-Voices rise, the night is holy,  
-Every soul a burning story.  
-We are ashes, we are fire,  
-Bound forever by desire.  
-
-Ode to the flame,  
-It carries my name.  
-Through the storm, through the pain,  
-Love will remain…
 
 ## Production notes
 

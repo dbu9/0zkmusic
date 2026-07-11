@@ -41,6 +41,7 @@ release_date: 2025-03-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -65,33 +66,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒 🤝  
-
-🎶🎶🎶  
-𝙇𝙮𝙧𝙞𝙘𝙨  
-
-We carved our names on fleeting sand,  
-Yet tides conspired, erased by hand.  
-A love once sworn, now torn in two,  
-A ghost of fire where embers flew.  
-
-Bound by fate, yet fate deceived,  
-A tale of love the stars bereaved.  
-Lost in whispers, night’s cruel art,  
-Two wretched souls, one broken heart.  
-
-Your voice, a dirge in halls of stone,  
-Each word a dagger, love dethroned.  
-A kiss once gold now tastes of dust,  
-Ashes cradle dreams we trust.  
-
-Time, that villain, mocks us still,  
-Writes our doom with ink so chill.  
-One last dance where shadows weep,  
-One last vow the grave shall keep.
 
 ## Production notes
 

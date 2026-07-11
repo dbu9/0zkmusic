@@ -39,6 +39,7 @@ release_date: 2026-07-07
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,37 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Move.  
-Wake the floor.  
-Raise your hands.  
-Feed the storm.  
-Step in line.  
-Lose control.  
-Hit the bass.  
-Give your soul.  
-No more fear.  
-No more sleep.  
-Break the dark.  
-Dive too deep.  
-Hey DJ—  
-Strike the fire.  
-Push us higher.  
-Higher.  
-Higher.  
-Run the night.  
-Burn the sound.  
-Shake the sky.  
-Tear it down.  
-All together.  
-No retreat.  
-One command:  
-Follow the beat.  
-Move.  
-Move.  
-Move.
 
 ## Production notes
 

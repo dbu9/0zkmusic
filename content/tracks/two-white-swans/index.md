@@ -37,6 +37,7 @@ release_date: 2026-01-12
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,85 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Your hands — white swans,  
-Soft, too near.  
-In my hair,  
-In my fear.  
-
-All the world  
-Sings one song.  
-I sang once.  
-I sing along.  
-
-Every word  
-Breathes and stays.  
-Warm with touch,  
-Cold with days.  
-
-Love the soul  
-To the bone.  
-Heart turns gold,  
-Heavy stone.  
-
-Foreign moon  
-Cold and far.  
-Can’t warm love,  
-Can’t heal scars.  
-
-Two white swans,  
-Hold me tight.  
-Gentle hands,  
-End the night.  
-
-I would sing  
-Soft and slow,  
-But your touch  
-Let me go.  
-
-How to live?  
-Burn or wait?  
-Die in love  
-Or age in fate?  
-
-Every beauty  
-Walks its way.  
-For the ear,  
-For display.  
-
-If a song  
-Has no roots,  
-It is dust,  
-Not the truth.  
-
-
-Say my name.  
-Say it low.  
-Hold me close.  
-Let me go.  
-
-Love is light.  
-Love is loss.  
-Every path  
-Has its cost.  
-
-Two white swans,  
-White and kind.  
-Softest hands,  
-Cruelest bind.  
-
-I would sing  
-Pure and free,  
-But those swans  
-Silenced me.  
-
-
-Say of me,  
-When I’m gone:  
-He could sing…  
-But swans won.
 
 ## Production notes
 

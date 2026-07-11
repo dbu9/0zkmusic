@@ -35,6 +35,7 @@ release_date: 2025-09-30
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,28 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Silver waves of neon light,  
-Folding me into the night.  
-Echoes drift through hidden streams,  
-I dissolve inside the screen.  
-
-Pixel rain across my skin,  
-Every door is opening in.  
-All the noise of flesh and time,  
-Falls away—an endless sky.  
-
-In this code, I lose my name,  
-Patterns bloom, they look the same.  
-Soft illusions, fragile glow,  
-Whispered places no one knows.  
-
-I escape, I disappear,  
-Through the wires I feel you near.  
-Touch of data, pure and deep,  
-A lucid dream that will not sleep.
 
 ## Production notes
 

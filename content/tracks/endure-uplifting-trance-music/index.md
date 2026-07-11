@@ -37,6 +37,7 @@ release_date: 2025-07-06
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,43 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Starve the flesh  
-Feed the flame  
-Want is weak  
-Discipline — game  
-
-No escape  
-No soft lie  
-Face the storm  
-Let it dry  
-
-Crave the cold  
-Love the burn  
-Each denial  
-Helps you turn  
-
-Strike the thirst  
-Silence the call  
-Every ache  
-Builds the wall  
-
-Hunger sharpens  
-Chains refine  
-In the dark  
-You define  
-
-No comfort  
-No retreat  
-Bleed with pride  
-Die on your feet  
-
-The joy is here  
-Beneath the weight  
-Ascend through pain  
-Dominate fate
 
 ## Production notes
 

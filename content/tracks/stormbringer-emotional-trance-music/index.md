@@ -37,6 +37,7 @@ release_date: 2025-03-16
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,52 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Storm is coming  
-Sky turns black  
-Thunder cracks  
-
-Winds are screaming  
-Clouds collide  
-Waves arise  
-
-Stormbringer!  
-Screams in fire  
-Born of rage, climbing higher  
-
-Stormbringer!  
-Rides the tide  
-Breathes the storm, laughs with pride  
-
-Seagulls vanish  
-Shadows crawl  
-Darkness falls  
-
-Penguins tremble  
-Under stone  
-Cold, alone  
-
-They hear a voice  
-A cry, a roar  
-Strength of chaos—war and more  
-
-Stormbringer!  
-Screams in fire  
-Born of rage, climbing higher  
-
-Stormbringer!  
-Rides the tide  
-Breathes the storm, laughs with pride  
-
-Storm is roaring  
-Winds ignite  
-Madness fights  
-
-Storm is wanted  
-Storm is near  
-Storm is here!
 
 ## Production notes
 

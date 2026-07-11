@@ -35,6 +35,7 @@ release_date: 2025-09-13
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,60 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Your voice cuts the silence,  
-Like glass it shatters night.  
-Every word a burning match,  
-Every breath — a fight.  
-
-You paint the air in thunder,  
-My veins ignite with sparks.  
-In this storm of broken truth,  
-We are bleeding marks.  
-
-I drown in your fire,  
-Letters burn like skin.  
-Every poem sharper,  
-Than the knife within.  
-I scream into darkness,  
-But the echoes lie,  
-We were gods for a moment,  
-Now we’re ghosts that cry.  
-
-You walk the streets in rhythm,  
-Your shadow writes the rhyme.  
-Even pain becomes a song,  
-Even loss — sublime.  
-
-My chest is torn with meters,  
-Your heartbeat is the drum.  
-In your silence I still hear,  
-The end that will not come.  
-
-I drown in your fire,  
-Letters burn like skin.  
-Every poem sharper,  
-Than the knife within.  
-I scream into darkness,  
-But the echoes lie,  
-We were gods for a moment,  
-Now we’re ghosts that cry.  
-
-Ink runs red,  
-From the veins of night.  
-Love unread,  
-Is a fatal rite.  
-
-I drown in your fire,  
-Till the world is ash.  
-Every dream a requiem,  
-Every kiss a lash.  
-And if my voice is breaking,  
-Let the sky reply —  
-We were gods for a moment,  
-Now we’re ghosts that cry.
 
 ## Production notes
 

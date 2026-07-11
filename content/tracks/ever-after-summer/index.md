@@ -37,6 +37,7 @@ release_date: 2026-06-08
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,76 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-When the summer fades  
-I still feel your light  
-In the quiet waves  
-Calling through the night  
-
-I was lost in blue  
-Falling out of time  
-Then I thought of you  
-And the stars aligned  
-
-You are my ever after  
-You are my endless sky  
-Higher than time can carry  
-Deeper than goodbye  
-
-Love me beyond the thunder  
-Hold me beyond the rain  
-Even when all things vanish  
-I’ll find you again  
-
-Find you again  
-Again  
-Find you again  
-
-No rose has your fire  
-No dawn has your name  
-You are the desire  
-Burning through the same  
-
-Time can steal the morning  
-Time can break the sea  
-But it cannot take you  
-Out of me  
-
-You are my ever after  
-You are my endless sky  
-Higher than time can carry  
-Deeper than goodbye  
-
-Love me beyond the thunder  
-Hold me beyond the rain  
-Even when all things vanish  
-I’ll find you again  
-
-Find you again  
-Again  
-Find you again  
-
-When the world is fading  
-When the lights go low  
-You will be the reason  
-I still glow  
-
-You are my ever after  
-You are my endless sky  
-Higher than time can carry  
-Deeper than goodbye  
-
-Love me beyond the thunder  
-Hold me beyond the rain  
-Even when all things vanish  
-I’ll find you again  
-
-Find you again  
-Again  
-Find you again  
-Find you again
 
 ## Production notes
 

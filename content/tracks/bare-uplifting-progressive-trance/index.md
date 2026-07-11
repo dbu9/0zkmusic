@@ -37,6 +37,7 @@ release_date: 2025-07-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,60 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Take me far from flashing lights  
-From the weight of neon skies  
-Let the silence pull me under  
-Let the static fade and die  
-
-No voices left to follow  
-No masks we have to wear  
-Just breath and skin and shadows  
-Nothing false, nothing spared  
-
-Let’s get bare  
-No more lies, no more noise  
-Just you and the air  
-Stripped of time, stripped of choice  
-Let’s be real  
-Like the wind, like the flame  
-Let’s be still  
-Till the world forgets our name  
-
-Pull the cables from my mind  
-Lay me down in waves of light  
-Close my eyes and lose the surface  
-Fall into the pulse of night  
-
-No screens, no explanations  
-Just your voice inside my chest  
-All the truth in your vibration  
-All the rest can be undressed  
-
-Let’s get bare  
-No more dreams, no control  
-Just you and the stare  
-Of a soul meeting soul  
-Let’s be real  
-Let the rhythm be our prayer  
-Let’s be still  
-Let the moment strip us bare  
-
-No more signs, no more schemes  
-Only breath between the beats  
-Every layer falling free  
-Only now, only we  
-
-Let’s get bare  
-No escape, no disguise  
-Just you and the dare  
-Of a world without lies  
-Let’s be real  
-Like the sea, like the flame  
-Let’s be still  
-Till we're nothing, and the same
 
 ## Production notes
 

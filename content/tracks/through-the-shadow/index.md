@@ -35,6 +35,7 @@ release_date: 2025-08-25
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,38 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You walk the line,  
-The night surrounds you.  
-But every step,  
-The fire is true.  
-
-You do not break,  
-You do not fall.  
-The path you take,  
-Is worth it all.  
-
-You hear the doubt,  
-It whispers lies.  
-But deep within,  
-The flame won’t die.  
-
-Your strength is real,  
-It carries you.  
-The storm is fierce,  
-But you shine through.  
-
-Keep moving on,  
-The dark won’t stay.  
-Your soul is strong,  
-You light the way.  
-
-No need to turn,  
-No need to hide.  
-You’re on the road,  
-The road is right.
 
 ## Production notes
 

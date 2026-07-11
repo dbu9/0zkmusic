@@ -33,6 +33,7 @@ release_date: 2025-04-03
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,16 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-1. Woke in Silence - 0:00  
-2. You looked at the stars - 3:04  
-3. Waves of thought - 5:27  
-4. Silent, I was born - 8:28  
-5. I watch how they smile - 11:46  
-
-Woke in Silence - 0:00
 
 ## Production notes
 

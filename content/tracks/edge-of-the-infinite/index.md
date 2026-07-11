@@ -33,6 +33,7 @@ release_date: 2025-10-12
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,37 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Pages burn beneath my hands,  
-Truth dissolves in shifting sands.  
-The stars are cold, the world’s asleep,  
-The void is wide, the dream too deep.  
-
-I call your name — it never fades,  
-Through silent walls, through empty shades.  
-
-At the edge of the infinite,  
-I see the fire, I fall within it.  
-All I was begins to break,  
-Light from the night, awake, awake.  
-
-Echoes drift in fields of glass,  
-Reflections weep, the moments pass.  
-The universe begins to bend,  
-No start, no death, no end.  
-
-I am the spark, I am the flame,  
-I am the loss, the love, the name.  
-
-At the edge of the infinite,  
-I see the fire, I fall within it.  
-All I was begins to break,  
-Light from the night, awake, awake.  
-
-In every sound, the stars align,  
-The void is yours, the light is mine.
 
 ## Production notes
 

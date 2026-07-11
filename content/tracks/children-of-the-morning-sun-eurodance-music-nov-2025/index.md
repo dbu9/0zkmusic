@@ -31,6 +31,7 @@ release_date: 2025-11-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -49,39 +50,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Children of the morning sun,  
-Dreamers born as one.  
-Voices rising through the ages,  
-Writing peace on empty pages.  
-
-Hearts awaken, skies align,  
-Truth will shine in every mind.  
-No more silence, no more fear —  
-Light is speaking, we can hear.  
-
-We are one creation,  
-Turning with the wheel.  
-Under one vibration,  
-Learning how to feel.  
-Every soul’s salvation  
-Starts when love is real —  
-Children of the morning sun.  
-
-Mountains fall and rivers bend,  
-Still the song will never end.  
-Echoes call the world to dance,  
-Time becomes another chance.  
-
-We are one creation,  
-Turning with the wheel.  
-Under one vibration,  
-Learning how to feel.  
-Every soul’s salvation  
-Starts when love is real —  
-Children of the morning sun.
 
 ## Production notes
 

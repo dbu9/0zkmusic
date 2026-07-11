@@ -35,6 +35,7 @@ release_date: 2025-07-01
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,48 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-She comes in the night  
-No sound, no light  
-I wait, I fall  
-Into her call  
-
-A breath, a flame  
-She speaks my name  
-No past, no pain  
-Just dark remains  
-
-Daughter of dusk  
-Shadow and skin  
-She draws me close  
-She pulls me in  
-
-Eyes like smoke  
-Voice so thin  
-She steals my sleep  
-She crawls within  
-
-No love, no rest  
-Just her embrace  
-I lose myself  
-In her cold grace  
-
-Daughter of dusk  
-Forever near  
-She feeds on dreams  
-And swallows fear  
-
-She doesn’t cry  
-She doesn’t care  
-She walks through fire  
-Like empty air  
-
-No stars, no dawn  
-No final sign  
-Only her kiss  
-Outside of time
 
 ## Production notes
 

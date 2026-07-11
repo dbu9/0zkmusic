@@ -37,6 +37,7 @@ release_date: 2025-08-29
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -60,14 +61,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-*TrackList*  
-
-0:00 Runway of Shadows  
-5:40 Cascading Skyline  
-12:10 Synthetic Elegy
 
 ## Production notes
 

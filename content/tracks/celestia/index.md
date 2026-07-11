@@ -33,6 +33,7 @@ release_date: 2025-03-07
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,43 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Drifting far beyond the light,  
-A ship awakens in the night.  
-Leaving Earth with silent grace,  
-Lost among the endless space.  
-
-Through the dark, where echoes call,  
-A lonely traveler, seeking all.  
-
-Oh Celestia, through the nebulae glide,  
-Carrying dreams on a starlit tide.  
-Oh Celestia, through the echoes of time,  
-Unravel the stars, and follow the signs.  
-
-Celestia...  
-
-Memories fade, the journey remains,  
-Guided by whispers of distant flames.  
-Worlds unseen, a spark in the cold,  
-A tale of wonder, waiting untold.  
-
-Through the void, where shadows roam,  
-A silent traveler, far from home.  
-
-Oh Celestia, through the nebulae glide,  
-Carrying dreams on a starlit tide.  
-Oh Celestia, through the echoes of time,  
-Unravel the stars, and follow the signs.  
-
-Stars will turn, but you’ll remain,  
-Sailing on through endless rain.  
-With every light, with every sea,  
-You carry our dreams, into eternity.  
-
-Celestia...
 
 ## Production notes
 

@@ -33,6 +33,7 @@ release_date: 2025-09-16
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,38 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Among the ruins, shadows stay,  
-The ghosts of voices fade away.  
-The stones are silent, skies turn red,  
-They guard the names of all who bled.  
-
-Exiled echoes call my name,  
-Through endless fire, endless flame.  
-I am the witness, I remain,  
-Through endless loss, through endless pain.  
-
-We swore the stars would never die,  
-We carved our vows against the sky.  
-But time betrayed what hearts had made,  
-And left us ashes, cold and frayed.  
-
-Exiled echoes call my name,  
-Through endless fire, endless flame.  
-I am the witness, I remain,  
-Through endless loss, through endless pain.  
-
-The fallen whisper in the rain,  
-Their fire lives beyond the chain.  
-From grief and dust, the truth will rise,  
-No death can silence ancient cries.  
-
-Exiled echoes call my name,  
-Through endless fire, endless flame.  
-I am the witness, I remain,  
-Forsaken never, I remain.
 
 ## Production notes
 

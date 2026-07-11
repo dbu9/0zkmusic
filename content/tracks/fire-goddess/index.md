@@ -31,6 +31,7 @@ release_date: 2026-02-11
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,17 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I continue to explore the world of music. This time I chose to focus on fire - the most magnitizing phenomana for human eye.  
-The track is instrumental, featuring esotheric background voices and fire goddess visualisations.  
-
-Your like, comment, subscription is of archi-inportance for me. This is actually the only satisfaction I get - my ego is in heavens when other people are fond of my creative abilities.  
-
-Enjoy the music and visual.  
-
-With love, 0zkMusic
 
 ## Production notes
 

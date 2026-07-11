@@ -35,6 +35,7 @@ release_date: 2025-07-25
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,38 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Not all will see  
-Not all will feel  
-A quiet spark  
-Cuts through the steel  
-
-No trumpet call  
-No blazing sun  
-A thread of fire  
-For only one  
-
-The dark is deep  
-The crowd is blind  
-But eyes that search  
-Will surely find  
-
-A pulse, unseen  
-A distant gleam  
-For hearts that ache  
-For those who dream  
-
-It will not burn  
-To light the hall  
-But in the void  
-It speaks to all  
-
-Some pass by  
-Some never knew  
-But to the few—  
-The light shines through
 
 ## Production notes
 

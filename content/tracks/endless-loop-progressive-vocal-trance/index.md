@@ -37,6 +37,7 @@ release_date: 2025-07-04
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,53 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Night again.  
-Same old street.  
-Lamp is low.  
-No retreat.  
-
-Pharmacy light.  
-Flicker and fade.  
-Cold and slow.  
-Nothing’s made.  
-
-Round and round,  
-the cycle turns.  
-Walls don’t speak.  
-The silence burns.  
-
-Shadows stretch.  
-Pain repeats.  
-Rain returns.  
-Empty beats.  
-
-Far away,  
-a distant star.  
-Close in dream,  
-in life — too far.  
-
-Round and round,  
-the cycle turns.  
-Walls don’t speak.  
-The silence burns.  
-
-Footsteps fall.  
-Same refrain.  
-Street and flame.  
-Night and rain.  
-
-No escape.  
-No one calls.  
-Only echoes  
-in these walls.  
-
-Round and round,  
-the cycle turns.  
-Walls don’t speak.  
-The silence burns.
 
 ## Production notes
 

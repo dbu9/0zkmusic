@@ -33,6 +33,7 @@ release_date: 2025-05-15
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,12 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-The first track of organ concert "Bach: Deus Ex Machina".  
-
-☩🎶⛪🦾🦾🦾
 
 ## Production notes
 

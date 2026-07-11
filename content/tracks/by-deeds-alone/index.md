@@ -37,6 +37,7 @@ release_date: 2025-08-26
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,28 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-No crown, no name,  
-No stolen flame.  
-The bloodline calls,  
-The false one falls.  
-
-With roots or lies,  
-The spirit dies.  
-The past is near,  
-Choose truth or fear.  
-
-The traitors speak,  
-Their voices weak.  
-No mask, no creed,  
-Can plant the seed.  
-
-By deeds you rise,  
-By deeds you shine.  
-No words, no guise,  
-The fire is mine.
 
 ## Production notes
 

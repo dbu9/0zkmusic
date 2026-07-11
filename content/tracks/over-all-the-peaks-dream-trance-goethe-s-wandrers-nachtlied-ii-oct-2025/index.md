@@ -33,6 +33,7 @@ release_date: 2025-10-11
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,45 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-The lyrics of „Über allen Gipfeln (Träum dich heim)” are inspired by Johann Wolfgang von Goethe’s timeless poem “Wandrers Nachtlied II” (1780), expanding its vision of peace and transcendence into a modern, ethereal form.  
-
-https://en.wikipedia.org/wiki/Wanderer%27s_Nightsong  
-
-
-*German*  
-
-Über allen Gipfeln  
-Ist Ruh,  
-Die Nacht atmet leise —  
-Und du.  
-
-Im Wind der Sterne  
-Verblasst das Sein,  
-Ein Lied aus Ferne  
-Wiegt dich ein.  
-
-In allen Wipfeln  
-Spürst du kaum —  
-Den letzten Hauch,  
-Den alten Traum.  
-
-Die Vögelein schweigen,  
-Der Himmel lauscht,  
-Die Seele fliegt,  
-Vom Licht berauscht.  
-
-Warte nur, balde  
-Ruhest du auch,  
-In goldner Kälte,  
-Im Weltenhauch.  
-
-Träum dich heim  
-Durch Raum und Zeit,  
-Kein Schmerz, kein Name —  
-Nur Ewigkeit.
 
 ## Production notes
 

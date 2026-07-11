@@ -37,6 +37,7 @@ release_date: 2025-08-26
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,28 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I entered the house of night,  
-a candle gave its light.  
-The mirror showed my face,  
-a shadow, no embrace.  
-
-It’s over, my dear one,  
-the silence says it’s done.  
-I slip the glove, so cold,  
-the last thing left to hold.  
-
-The sky refused to glow,  
-your steps dissolved in snow.  
-No longer yours, nor mine,  
-two paths that can’t align.  
-
-A whisper turned to air,  
-the night was stripped and bare.  
-The final breath was thin,  
-an end that won’t begin.
 
 ## Production notes
 

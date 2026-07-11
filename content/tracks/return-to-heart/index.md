@@ -35,6 +35,7 @@ release_date: 2025-08-24
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,28 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-When the night is still,  
-Let your spirit sing.  
-When the silence calls,  
-You are everything.  
-
-Don’t be afraid,  
-To cry, to fall.  
-The child within,  
-Is the truth of all.  
-
-The path you walk,  
-Is the path of light.  
-Every shadow fades,  
-At the edge of night.  
-
-Come back to the heart,  
-Where the rivers flow.  
-In the voice of love,  
-You will always know.
 
 ## Production notes
 

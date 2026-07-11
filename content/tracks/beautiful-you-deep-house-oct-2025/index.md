@@ -37,6 +37,7 @@ release_date: 2025-10-29
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,27 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Beautiful you,  
-I see you in future — and wait.  
-Beautiful you,  
-I know you’ll come someday.  
-
-Through the light,  
-Through the sound,  
-You’re near —  
-You’re found.  
-
-I feel you now,  
-Across the time,  
-You call —  
-I align.  
-
-Beautiful you...  
-I wait...  
-I wait...
 
 ## Production notes
 

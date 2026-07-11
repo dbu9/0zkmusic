@@ -37,6 +37,7 @@ release_date: 2025-08-30
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -61,32 +62,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Kreuz aus Stahl,  
-Schiffe, Zahl.  
-Feuer brennt,  
-Nacht erkennt.  
-
-Blut im Sand,  
-Fremdes Land.  
-Wald ist laut,  
-Ahnen traut.  
-
-Kirche steigt,  
-Volk nicht schweigt.  
-Krone bricht,  
-Finstres Licht.  
-
-Dreihundert Jahr,  
-Schlacht so klar.  
-Schwert und Flamm,  
-Baltikum, Bann.  
-
-======================  
-
-Three Hundred Winters
 
 ## Production notes
 

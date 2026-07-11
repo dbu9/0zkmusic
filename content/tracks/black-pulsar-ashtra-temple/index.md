@@ -31,6 +31,7 @@ release_date: 2025-07-11
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,10 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-One of the tracks of Ashtra Temple Album.
 
 ## Production notes
 

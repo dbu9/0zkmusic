@@ -33,6 +33,7 @@ release_date: 2025-10-17
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,30 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-🔥 Blutpfad 🔥  
-
-Aus kaltem Schlaf erwacht der Stahl,  
-Rosen blühn im Totenmahl.  
-Feuer tanzt auf offner Hand,  
-Schweigen herrscht im Ascheland.  
-
-Kein Ziel, kein Trost, nur Gang,  
-Schritt um Schritt im Weltenklang.  
-Der Weg verzehrt, was Leben war,  
-Und führt durch Schmerz ins Immerdar.  
-
-Kein Gott, kein Schwur, kein Recht,  
-Nur Glut, die Dunkel bricht und spricht.  
-Wer fällt, vergeht, doch geht der Pfad,  
-Wie Frost, wie Flamme, ewig hart.  
-
-Wenn Blut die Erde segnet rot,  
-Erblüht im Leid das letzte Lot.  
-Kein Ende, nur der Kreis der Macht,  
-Aus Feuer wird das neue Nacht.
 
 ## Production notes
 

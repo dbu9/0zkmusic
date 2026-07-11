@@ -33,6 +33,7 @@ release_date: 2025-08-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -50,48 +51,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I thought you were the light,  
-But you faded into gray,  
-Every promise you had whispered,  
-Just another game you play.  
-
-I carried all your silence,  
-Like a secret in my chest,  
-Now I see the truth is simple,  
-You were never second best.  
-
-(Chorus)  
-You’re not so special,  
-Not what I believed,  
-A painted vision,  
-That only deceived.  
-You’re not so special,  
-You’re only a lie,  
-I’ve broken the mirror,  
-And waved you goodbye.  
-
-I wanted to believe you,  
-Every word you used to spin,  
-But your love was just an echo,  
-Cold and hollow deep within.  
-
-Now the sky has lost its color,  
-And the night won’t hide your face,  
-All the dreams we built together,  
-Vanished, gone without a trace.  
-
-(Chorus)  
-You’re not so special,  
-Not what I believed,  
-A painted vision,  
-That only deceived.  
-You’re not so special,  
-You’re only a lie,  
-I’ve broken the mirror,  
-And waved you goodbye.
 
 ## Production notes
 

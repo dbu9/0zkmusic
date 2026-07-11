@@ -35,6 +35,7 @@ release_date: 2025-09-03
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,28 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Night falls, the city breathes in smoke,  
-I walk alone where the silence spoke.  
-Your shadow eyes, they burn in me,  
-A secret fire no one can see.  
-
-I hear your voice in the neon rain,  
-A thousand scars whisper my name.  
-The dark is calm, but I can’t rest,  
-You’re the poison running in my chest.  
-
-Moonlight cuts through the broken glass,  
-Time dissolves but the moments last.  
-Your shadow eyes, they haunt my soul,  
-Pulling me deep where I lose control.  
-
-I’m chained to dreams I cannot fight,  
-Dancing with ghosts through endless night.  
-Your shadow eyes, my sweetest crime,  
-Forever lost, but still in time.
 
 ## Production notes
 

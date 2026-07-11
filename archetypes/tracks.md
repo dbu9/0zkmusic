@@ -25,6 +25,7 @@ release_date: {{ .Date }}
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags: []
@@ -35,10 +36,6 @@ keywords:
 ## The idea
 
 Write the story or central idea of the track here.
-
-## Lyrics
-
-Write the lyrics here.
 
 ## Production notes
 

@@ -35,6 +35,7 @@ release_date: 2025-11-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,28 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-In the night when hope feels thin,  
-And the darkness closes in,  
-I still whisper through despair—  
-Hold me now, my silent prayer.  
-
-If I break beneath the strain,  
-If I’m drowning in the rain,  
-Let your voice cut through the air—  
-Lift me up, my silent prayer.  
-
-When the world is cold and wide,  
-And there’s nowhere left to hide,  
-Let your light be shining there—  
-Guide me home, my silent prayer.  
-
-If I’m lost beyond the flame,  
-If I fade without a name,  
-Let my echoes linger where  
-You once heard my silent prayer.
 
 ## Production notes
 

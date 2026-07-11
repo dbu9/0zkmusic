@@ -35,6 +35,7 @@ release_date: 2025-10-15
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,33 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Wheel of fire, turning high,  
-Shadow rises, angels cry,  
-Luck and loss entwined as one,  
-Under moon, beneath the sun.  
-
-Voices chant in coded streams,  
-Digital fate, electric dreams,  
-Hearts awaken, lights collide,  
-Fortune falls — the tide decides.  
-
-O Fortuna, nova, nova,  
-Pulse of chaos, supernova,  
-O Fortuna, vox divina,  
-Burns within the code, machina.  
-
-Fall to rise, and rise to fall,  
-In your spin we lose it all,  
-Hands of time — they never cease,  
-Breaking faith to forge release.  
-
-O Fortuna, nova, nova,  
-Dance of fate, eterna nova,  
-O Fortuna, vox divina,  
-Echoes through the night — machina.
 
 ## Production notes
 

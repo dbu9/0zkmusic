@@ -37,6 +37,7 @@ release_date: 2025-10-01
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,28 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Shadows move,  
-lights decay.  
-Cold machines,  
-show the way.  
-
-Steel on skin,  
-breath is fire.  
-Broken faith,  
-dark desire.  
-
-Echoes burn,  
-silence screams.  
-Rust and blood,  
-haunt the dreams.  
-
-Falling slow,  
-into night.  
-Iron pulse,  
-kills the light.
 
 ## Production notes
 

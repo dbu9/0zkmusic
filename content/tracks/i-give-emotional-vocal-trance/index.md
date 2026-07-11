@@ -37,6 +37,7 @@ release_date: 2026-01-17
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,50 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-
-I open my hands.  
-I don’t ask.  
-
-I don’t count.  
-I don’t wait.  
-I don’t trade love  
-For fate.  
-
-I step closer.  
-I let go.  
-
-Love is giving.  
-Not receiving.  
-No return.  
-No believing.  
-
-Love is light.  
-Passed along.  
-I give first.  
-I stay strong.  
-
-I give.  
-I breathe.  
-
-No debt.  
-No claim.  
-No need  
-For a name.  
-
-Love is giving.  
-That is all.  
-I don’t rise  
-When you fall.  
-
-I give.  
-I’m free.
 
 ## Production notes
 

@@ -33,6 +33,7 @@ release_date: 2025-07-14
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,33 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I call your name into the void,  
-And stars begin to stir—  
-The galaxies, they shift and bend,  
-Each whisper leading me to her.  
-
-No matter where you drift or hide,  
-Beyond the light, beyond the line,  
-I feel you through the woven dark,  
-Your pulse forever tied to mine.  
-
-A thread of silver through the mist,  
-Unseen by eye, yet fierce and true—  
-It sings in silence, spans all worlds,  
-A song that only leads to you.  
-
-We are two sparks in endless night,  
-Entangled past what fate can see.  
-Not even time could cut the string  
-That pulls your soul through space to me.  
-
-So let the heavens burn and break,  
-Let black holes roar or stars decay—  
-I’ll find you, love, through every realm.  
-Irene, you are my only way.
 
 ## Production notes
 

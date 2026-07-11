@@ -33,6 +33,7 @@ release_date: 2025-02-22
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,30 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝑳𝒚𝒓𝒊𝒄𝒔 📝  
-
-Be, please, just a little weaker,  
-Or else I will soar too high.  
-Don't make me stronger than I am—  
-I don’t want that… not I.  
-
-Don’t slip away like sand through fingers,  
-Don’t take your light and go.  
-I can’t keep chasing after you,  
-I’m growing old, you know.  
-
-Be, please, just a little human,  
-A little softer… please.  
-Let pain, unbidden, flicker once  
-Upon your stern, cold cheeks.  
-
-Let something trivial—something small—  
-Make you weep at least one time.  
-It's not the weak who need this, no—  
-It’s us, the strong, who cry.
 
 ## Production notes
 

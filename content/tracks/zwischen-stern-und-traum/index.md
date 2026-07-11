@@ -37,6 +37,7 @@ release_date: 2025-10-15
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,28 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Im Nebel, leise ruft der Wind,  
-Vergessen, was wir einmal sind.  
-Kein Licht, kein Wort, nur Zeit,  
-die sich in Ewigkeit verteilt.  
-
-Ich fall, ich schweb, ich bin —  
-ein Ton im weiten Sinn.  
-Das Herz, so still, so klar,  
-verblasst im Strom der Jahr.  
-
-Zwischen Stern und Traum,  
-verliert sich jeder Raum.  
-Kein Ziel, kein Name mehr,  
-nur Schweigen, kalt und schwer.  
-
-Und wenn der Morgen spricht,  
-verblasst das alte Licht.  
-Ich geh, doch bleib ich hier,  
-im Klang, im Jetzt, in dir.
 
 ## Production notes
 

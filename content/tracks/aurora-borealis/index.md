@@ -33,6 +33,7 @@ release_date: 2026-01-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,10 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Instrumental, Finnish arctic landascapes.
 
 ## Production notes
 

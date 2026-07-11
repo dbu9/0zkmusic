@@ -37,6 +37,7 @@ release_date: 2025-06-12
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,54 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-=====  
-
-You build.  
-You dream.  
-You climb.  
-You fall.  
-
-Death waits.  
-He grins.  
-He stays.  
-Takes all.  
-
-A plan —  
-a grave.  
-A throne —  
-a lie.  
-You chase.  
-You burn.  
-You live —  
-you die.  
-
-Cold breath.  
-No light.  
-He walks.  
-Tonight.  
-
-You lie.  
-You run.  
-You rise.  
-You're done.  
-
-Death sings.  
-You fade.  
-The truth —  
-betrayed.  
-
-You speak.  
-He hears.  
-You scream.  
-He nears.  
-
-You stall.  
-You swear.  
-You crawl.  
-He's there.
 
 ## Production notes
 

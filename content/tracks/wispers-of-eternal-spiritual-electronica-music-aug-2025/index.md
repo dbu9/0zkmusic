@@ -31,6 +31,7 @@ release_date: 2025-08-22
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,29 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-In silence I breathe,  
-In darkness I see,  
-The river within,  
-The mirror of me.  
-
-Lux aeternum, vita nova,  
-Lux aeternum, anima sola.  
-
-Shadows dissolve,  
-Time slips away,  
-Nothing remains,  
-Yet all will stay.  
-
-Touch of the unseen,  
-Voice in the wind,  
-The circle begins,  
-The circle will end.  
-
-Lux aeternum, vita nova,  
-Echoes eternal, anima sola.
 
 ## Production notes
 

@@ -33,6 +33,7 @@ release_date: 2025-03-21
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,28 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You move like light.  
-I fade from sight.  
-You never see.  
-But still I reach.  
-
-You laugh. I freeze.  
-You shine with ease.  
-You feel no flame.  
-I burn the same.  
-
-I'd give it all.  
-Just one small call.  
-You look ahead.  
-I'm left for dead.  
-
-The gap is wide.  
-But hope won't hide.  
-Each day, I try.  
-I live. You’re why.
 
 ## Production notes
 

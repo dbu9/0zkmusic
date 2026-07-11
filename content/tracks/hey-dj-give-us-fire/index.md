@@ -39,6 +39,7 @@ release_date: 2026-07-06
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,74 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Hey DJ.  
-Turn it up.  
-Give us fire.  
-Make it drop.  
-
-Come on, people.  
-Move tonight.  
-Feel the rhythm.  
-Feel the light.  
-
-Everybody.  
-Hands up high.  
-We don’t stop.  
-We touch the sky.  
-
-Hey DJ.  
-Give us trance.  
-Give us fire.  
-Make us dance.  
-
-Come on.  
-Come on.  
-Feel the bass.  
-Lose your mind.  
-Leave this place.  
-
-We are moving.  
-We are one.  
-Night is burning.  
-Beat has come.  
-
-Everybody.  
-Into sound.  
-No more silence.  
-Shake the ground.  
-
-Hey DJ.  
-Give us trance.  
-Give us fire.  
-Make us dance.  
-
-We are faster.  
-We are bright.  
-We are thunder.  
-In the night.  
-
-Bassline rolling.  
-Hearts ignite.  
-People dancing.  
-Pure delight.  
-
-Come on, people.  
-Come alive.  
-Feel the kick.  
-Feel the drive.  
-
-Hey DJ.  
-Turn it up.  
-Give us fire.  
-Make it drop.  
-
-Hey DJ.  
-Give us trance.  
-Give us fire.  
-Make us dance.
 
 ## Production notes
 

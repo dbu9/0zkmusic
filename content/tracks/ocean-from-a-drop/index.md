@@ -33,6 +33,7 @@ release_date: 2025-08-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,28 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-A single drop, a hidden sea,  
-Worlds unfold in mystery.  
-From the smallest spark of light,  
-Infinite patterns come to sight.  
-
-See the river, see the flame,  
-From the fragment, know the frame.  
-In the silence, thought takes flight,  
-Building oceans out of night.  
-
-From the stone, the stars arise,  
-From the glance, a thousand skies.  
-Concrete shadows melt away,  
-Abstract voices guide the way.  
-
-Ocean from a drop of rain,  
-Order hidden in the chain.  
-From the echo, worlds expand,  
-Endless truth within your hand.
 
 ## Production notes
 

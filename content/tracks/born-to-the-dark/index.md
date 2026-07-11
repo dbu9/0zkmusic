@@ -35,6 +35,7 @@ release_date: 2025-02-16
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,58 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙗𝙮 𝙇𝙞𝙠𝙚 𝙖𝙣𝙙 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 💪  
-
-
-𝙏𝒆𝙭𝒕  
-
-Every night & every morn,  
-Some are cursed, some are torn,  
-Born to pain, born to fight,  
-Some are shadows in the night.  
-
-Every morn & every night,  
-Some see gold, some lose sight,  
-Some got wings, some just crawl,  
-Some rise up, some just fall.  
-
-Tell me why the dice ain't fair,  
-Why some kings breathe poisoned air?  
-Why some rise while others drown,  
-Why some smile, some break down?  
-
-Some are born to sweet delight,  
-Some are born to endless night,  
-Some get love, some get war,  
-Some get less, some get more!  
-
-Runnin’ these streets like a ghost in a maze,  
-Watchin’ the lucky ones set fire to the stage,  
-I see the rich sip blood from a glass,  
-While the lost ones beg for a piece of the past.  
-
-Pray to the moon, ain't no sun in my sky,  
-Born in the gutter, ain't scared to die,  
-Some get the light, some fight to survive,  
-Some get a taste, some eat just to die.  
-
-Fate ain't mercy, fate ain't kind,  
-Spin that wheel, leave fate behind,  
-Who’s got power? Who’s got chains?  
-Some play God, some die in pain!  
-
-Some are born to sweet delight,  
-Some are born to endless night,  
-Some get crowns, some get scars,  
-Some get light, some burn in dark!  
-
-Every night & every morn...  
-Some are cursed, some are torn...  
-Every morn & every night...  
-Some will fade, some will fight...
 
 ## Production notes
 

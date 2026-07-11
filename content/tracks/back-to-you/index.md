@@ -37,6 +37,7 @@ release_date: 2026-06-11
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,63 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I keep a light inside the room,  
-A little ghost of me and you.  
-The night is moving, I stay still,  
-Holding on against my will.  
-
-Every street remembers us,  
-Every rain, every dust.  
-I hear your voice in passing cars,  
-I see your face in fading stars.  
-
-I’m going back, back to you,  
-To the days we never knew  
-Would turn to gold, then disappear,  
-Leaving only echoes here.  
-
-I’m going back, back to you,  
-Living in the afterglow.  
-All I have is what we knew,  
-I’m still lost in memories of you.  
-
-Time goes on, but I don’t move,  
-Dancing with the thought of you.  
-Every heartbeat pulls me near  
-To a love that isn’t here.  
-
-I close my eyes and you return,  
-Like a fire that doesn’t burn.  
-Soft and distant, warm and blue,  
-I am only there with you.  
-
-I’m going back, back to you,  
-To the days we never knew  
-Would turn to gold, then disappear,  
-Leaving only echoes here.  
-
-I’m going back, back to you,  
-Living in the afterglow.  
-All I have is what we knew,  
-I’m still lost in memories of you.  
-
-Don’t wake me from this dream,  
-Don’t take the past from me.  
-It’s all that still feels true,  
-It’s where I’m close to you.  
-
-Back to you,  
-Back to you,  
-I keep falling  
-Back to you.  
-
-Back to you,  
-Back to you,  
-I keep living  
-In memories of you.
 
 ## Production notes
 

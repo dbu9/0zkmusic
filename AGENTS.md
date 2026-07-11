@@ -47,11 +47,12 @@ Track pages are Hugo leaf bundles:
 ```text
 content/tracks/track-slug/
 ├── index.md
+├── lyrics.txt
 ├── cover.webp
 └── track.mp3
 ```
 
-The MP3 is optional. Only set `download_enabled: true` when the matching bundle resource exists and is intended for download.
+The lyrics and MP3 files are optional. Use `lyrics.txt` for lyrics when lyrics exist; the template renders it as Markdown in the sticky lyrics panel. Only set `download_enabled: true` when the matching bundle resource exists and is intended for download.
 
 Track front matter should keep these paired taxonomies in sync:
 
@@ -65,6 +66,12 @@ moods:
 The custom templates use the singular keys, and Hugo taxonomy pages use the plural keys.
 
 Use `cover.webp` for track art. If a YouTube thumbnail is used as a cover, generate a local `cover.webp` in the track bundle rather than hotlinking the thumbnail.
+
+Keep the main track body for the idea, production notes, and other non-lyric sections. Do not put a `## Lyrics` section in `index.md` for new pages; put lyrics in `lyrics.txt` and set:
+
+```yaml
+lyrics_file: "lyrics.txt"
+```
 
 ## YouTube Content Updates
 
@@ -92,6 +99,7 @@ When importing videos:
 - If an existing placeholder page clearly matches a real channel video, update the existing page instead of duplicating it.
 - Read lyrics from the YouTube description when present.
 - Preserve original lyrics and translations from the description.
+- Write lyrics to `lyrics.txt`, not to a `## Lyrics` section in `index.md`.
 - Use hashtags from the description/title to populate genre and tag metadata.
 - Use the public watch URL in `youtube_url`.
 - Use `youtube_short_id` for teaser/short videos that belong to an existing full track.

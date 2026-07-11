@@ -35,6 +35,7 @@ release_date: 2026-02-15
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -70,23 +71,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Pure nocturnal darkness. Aggressive 145 BPM dark dramatic trance. Piercing supersaw leads, crushing sidechained sub-bass, cinematic risers, shadowy atmospheres — no happy uplift, no euphoria, just raw tension and hypnotic menace.  
-
-*Tracklist*  
-
-Midnight Fracture – 5:33  
-Phantom Choir – 4:49  
-Obsidian Descent – 3:15  
-Screaming Horizon – 3:52  
-Eclipse Blade – 4:42  
-Void Sovereign – 5:16  
-
-Total runtime: ~27:27  
-
-Best with headphones or big speakers at night.
 
 ## Production notes
 

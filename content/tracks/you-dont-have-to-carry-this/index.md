@@ -37,6 +37,7 @@ release_date: 2026-01-03
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -61,80 +62,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Some days feel heavy.  
-Not loud.  
-Just dense.  
-Hard to move through.  
-
-Breath comes late.  
-Thoughts repeat.  
-The body remembers  
-what words avoid.  
-
-Pain is not failure.  
-Tired is not shame.  
-Nothing here proves  
-you are to blame.  
-
-Let it slow.  
-Let it rest.  
-You did your best.  
-
-Let it go.  
-Drop the weight.  
-This isn’t your debt.  
-
-The mind runs circles.  
-Looking for errors.  
-Counting seconds.  
-Rewriting moments.  
-
-Every “should” hurts.  
-Every “why” stays.  
-But no one lives  
-without these days.  
-
-You don’t need answers.  
-Not tonight.  
-You don’t need fixing  
-to be right.  
-
-Let it slow.  
-Let it rest.  
-You did your best.  
-
-Breathe out.  
-Unclench.  
-Release the test.  
-
-No blame.  
-No race.  
-No role to play.  
-
-You’re here.  
-That’s enough.  
-Stay.  
-
-It’s okay…  
-It’s okay…  
-It’s okay…  
-
-Let it soften.  
-Let it fade.  
-Nothing is broken.  
-
-Let it be.  
-Let it pass.  
-You’re still whole.  
-
-
-You can stop now.  
-You can rest.  
-You don’t owe  
-the world perfection.
 
 ## Production notes
 

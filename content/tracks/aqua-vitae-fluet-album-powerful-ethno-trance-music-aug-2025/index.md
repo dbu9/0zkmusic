@@ -39,6 +39,7 @@ release_date: 2025-08-14
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -65,16 +66,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-*Tracklist*  
-
-1. Ila Al Jabali Nasir – 0:00  
-2. Vita Nova – 5:30  
-3. Verum in Aeternum – 10:27  
-4. Dominus via Nostra – 15:12  
-5. El A Ar Naale – 19:02
 
 ## Production notes
 

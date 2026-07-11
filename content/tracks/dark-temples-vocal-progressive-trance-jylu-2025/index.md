@@ -39,6 +39,7 @@ release_date: 2025-07-04
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -61,43 +62,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I walk through darkened halls,  
-where breath and shadow call.  
-Incense in the air,  
-a flicker, cold and rare.  
-
-I seek what lies unseen,  
-the silence in between.  
-Your name, a whispered flame —  
-it burns, but speaks no name.  
-
-I hear you in the night,  
-a star beyond the light.  
-Alone, I move through stone,  
-to find what’s never known.  
-
-The arches hum with grace,  
-I see your hidden face.  
-A dream, a fading trace,  
-then gone without a place.  
-
-I hear you in the night,  
-a star beyond the light.  
-Alone, I move through stone,  
-to find what’s never known.  
-
-In shadows, I remain,  
-half-healed by sacred pain.  
-A shrine of distant tears,  
-echoes of lost years.  
-
-I hear you in the night,  
-a star beyond the light.  
-Alone, I move through stone,  
-to find what’s never known.
 
 ## Production notes
 

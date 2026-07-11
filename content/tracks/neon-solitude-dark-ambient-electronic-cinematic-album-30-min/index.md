@@ -35,6 +35,7 @@ release_date: 2025-05-14
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -60,18 +61,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-*TrackList*  
-
-Neon Solitude – 00:00  
-Echo Vector Collapse – 05:07  
-Glass Cities Sleep – 07:41  
-Obsidian Drift – 12:35  
-Signal Beneath the Rain – 16:15  
-Drift Through Hollow Light – 19:40  
-Last Memory Before Shutdown – 23:25
 
 ## Production notes
 

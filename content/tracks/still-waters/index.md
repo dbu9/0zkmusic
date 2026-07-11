@@ -37,6 +37,7 @@ release_date: 2026-04-18
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,80 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Breathe…  
-The center holds…  
-
-Thunder murmurs low,  
-Shadows kiss the soul,  
-Ancient stones lie cold,  
-They will not dissolve.  
-Turning blinds the stream,  
-Depths begin to swell,  
-Yet quiet eyes awaken,  
-Where gentle currents dwell.  
-
-No frantic flight in sight,  
-No veiling of the night,  
-Gentle comes the knowing,  
-Dawn brings the morning light.  
-
-Be calm when tempests rise,  
-Still waters mirror skies,  
-Face the quiet truth,  
-With clear and silver eyes.  
-Nothing to lose inside,  
-In endless glowing light,  
-Be calm, be calm,  
-Wisdom softly sings tonight.  
-The heart remains.  
-
-Fear drinks the morning glow,  
-Clarity breaks the flow,  
-Burdens bow like willows,  
-Wings remember how to soar.  
-Stand where wild winds play,  
-Serene and far away,  
-The silent mind will sway,  
-And turn the storm to day.  
-
-No frantic flight in sight,  
-No veiling of the night,  
-Gentle comes the knowing,  
-Dawn brings the morning light.  
-
-Be calm when tempests rise,  
-Still waters mirror skies,  
-Face the quiet truth,  
-With clear and silver eyes.  
-Nothing to lose inside,  
-In endless glowing light,  
-Be calm, be calm,  
-Wisdom softly sings tonight.  
-The heart remains.  
-
-Fear dissolves like mist,  
-In golden morning air,  
-Nothing to lose exists,  
-Only freedom there.  
-Breathe…  
-The center holds.  
-
-Be calm when tempests rise,  
-Still waters mirror skies,  
-Face the quiet truth,  
-With clear and silver eyes.  
-Nothing to lose inside,  
-In endless glowing light,  
-Be calm, be calm,  
-Wisdom softly sings tonight.  
-Forever bright.  
-
-Be calm…  
-The heart remains…  
-The center holds…
 
 ## Production notes
 

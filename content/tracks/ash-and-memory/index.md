@@ -37,6 +37,7 @@ release_date: 2025-09-08
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,35 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Ash in the sky.  
-Stars pass by.  
-
-Grain in the sand.  
-No place to stand.  
-
-Time runs deep.  
-Nothing to keep.  
-
-Cosmos is blind.  
-Leaves us behind.  
-
-Only the flame.  
-Memory’s name.  
-
-If they forget,  
-We fade to net.  
-
-If they recall,  
-We live in all.  
-
-We are the breath.  
-We are not death.  
-
-We are the song.  
-Memory strong.
 
 ## Production notes
 

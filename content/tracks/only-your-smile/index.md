@@ -37,6 +37,7 @@ release_date: 2025-05-04
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,51 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-I don't need much in this world tonight  
-No diamonds, no fame, no neon light  
-Just a moment when your eyes shine bright  
-Your joy alone makes everything right  
-
-When you laugh, I rise so high  
-Above the clouds, beyond the sky  
-You're the reason, you're the fire  
-Lifting me in endless flight  
-
-Only your smile  
-Takes me to the stars  
-I feel alive  
-Wherever you are  
-All of my life  
-I’ll take care of you  
-Forever in love  
-Forever true  
-
-No words can tell what I feel inside  
-You're my calm, my storm, my tide  
-Even time stops when you're near  
-You're the one I hold so dear  
-
-You’re my rhythm, you’re my light  
-Every heartbeat feels so right  
-I don’t need the world to know  
-As long as you never let go  
-
-Only your smile  
-Takes me to the stars  
-I feel alive  
-Wherever you are  
-All of my life  
-I’ll take care of you  
-Forever in love  
-Forever true
 
 ## Production notes
 

@@ -33,6 +33,7 @@ release_date: 2025-09-27
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,23 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Aus Eichenhallen, tief und alt,  
-spricht ein Pinsel, kühn und kalt.  
-In Runen, Liedern, Stein und Traum  
-lebt deutscher Geist – wie starker Baum.  
-
-Der Dichter schlägt den Reim aus Licht,  
-der Maler malt ein ehern Gesicht.  
-Die Saiten klingen, das Erz wird rein,  
-Kunst ist Blut – und Blut ist Reim.  
-
-Die Ahnen wachen, die Flamme glüht,  
-der Künstler lebt, wenn Volk verblüht.  
-Sein Werk durchbricht den Nebel, Zeit –  
-ein Reim, der bleibt in Ewigkeit.
 
 ## Production notes
 

@@ -37,6 +37,7 @@ release_date: 2025-05-17
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,54 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-Smile…  
-Let it flow…  
-Smile…  
-Feel it glow…  
-
-Smile — the world will turn.  
-Smile — and hearts will learn.  
-Smile — when pain is near.  
-Smile — and bring it clear.  
-
-Smile — though you feel low.  
-Smile — and let it grow.  
-Smile — let the light appear.  
-Smile — chase away the fear.  
-
-Even when it’s hard to try,  
-Lift your gaze and meet the sky.  
-Soft and slow, let healing start—  
-A smile can warm the coldest heart.  
-
-Smile to heal, smile to rise.  
-Shine like stars in heavy skies.  
-Smile for her, smile for you.  
-Smile — make the world brand new.  
-
-Smile is calm,  
-Smile is grace.  
-Smile can touch  
-The darkest place.  
-
-Smile…  
-Let it flow…  
-Smile…  
-Feel it glow…  
-Smile…  
-Let it grow…  
-Smile…  
-And you'll know.  
-
-Smile…  
-and you'll know...
 
 ## Production notes
 

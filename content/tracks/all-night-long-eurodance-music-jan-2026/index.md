@@ -33,6 +33,7 @@ release_date: 2026-01-13
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -48,104 +49,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Hands up  
-Move your body  
-Tonight  
-
-Lights are flashing, feel the sound  
-Heartbeat lifts me off the ground  
-DJ play it loud and strong  
-We don’t need a reason, come along  
-
-City sleeping, we’re awake  
-Every rule we’re gonna break  
-Feel the bass inside your chest  
-This moment is the only test  
-
-No tomorrow, no regrets  
-Sweat and fire, silhouettes  
-Close your eyes and count to one  
-When the beat drops, we’re already gone  
-
-All night long  
-We don’t stop  
-Turn it up  
-Feel it drop  
-
-All night long  
-Move with me  
-Lose control  
-Set it free  
-
-All night long  
-Hands in air  
-Right now  
-Everywhere  
-
-Neon colors, burning bright  
-Every move feels so right  
-Step by step, side to side  
-Feel the rhythm, let it guide  
-
-No more talking, just the beat  
-Crowded floor, electric heat  
-When the melody kicks in  
-That’s the moment we begin  
-
-No tomorrow, no regrets  
-Sweat and fire, silhouettes  
-Close your eyes and count to one  
-When the beat drops, we’re already gone  
-
-All night long  
-We don’t stop  
-Turn it up  
-Feel it drop  
-
-All night long  
-Move with me  
-Lose control  
-Set it free  
-
-All night long  
-Hands in air  
-Right now  
-Everywhere  
-
-Jump  
-Jump  
-Feel the fire  
-Jump  
-Jump  
-Take it higher  
-
-Jump  
-Jump  
-Hear the sound  
-We’re the kings  
-Of this town  
-
-All night long  
-We don’t stop  
-Turn it up  
-Feel it drop  
-
-All night long  
-Move with me  
-Lose control  
-Set it free  
-
-All night long  
-Hands in air  
-Right now  
-Everywhere  
-
-All night  
-All night  
-All night long
 
 ## Production notes
 

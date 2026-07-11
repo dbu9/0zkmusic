@@ -39,6 +39,7 @@ release_date: 2025-03-04
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -62,18 +63,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Happiness for all, no price to pay,  
-No one leaves with tears today.  
-Take my dreams, make them fly,  
-Let them shine in the endless sky.  
-
-
-If there is light, let it stay,  
-No one should fade in pain today.  
-Happiness… for all… for all…
 
 ## Production notes
 

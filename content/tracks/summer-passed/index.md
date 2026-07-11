@@ -37,6 +37,7 @@ release_date: 2025-08-23
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,28 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Here the summer passed,  
-Shadows burned too fast,  
-Passion turned to flame,  
-Nothing stayed the same.  
-
-Whispers in the rain,  
-Sorrow leaves a stain,  
-Memories collide,  
-Buried deep inside.  
-
-Storms across the sky,  
-Dreams that fade, that die,  
-Fire turns to dust,  
-Ashes, love, and trust.  
-
-Darkness pulls me near,  
-Echoes drown the fear,  
-Here the summer bled,  
-All the light is dead.
 
 ## Production notes
 

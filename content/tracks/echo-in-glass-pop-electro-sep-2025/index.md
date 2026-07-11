@@ -31,6 +31,7 @@ release_date: 2025-09-04
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -49,33 +50,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-A window cracks, the silence bends,  
-The city hums, but never mends.  
-You trace the air, a fleeting sign,  
-A ghost of breath that once was mine.  
-
-The world unravels, thread by thread,  
-But shadows cannot raise the dead.  
-Still something stirs beneath the skin,  
-A fragile spark that fights to win.  
-
-Rise, though the night is hollow.  
-Rise, though your hands may fall.  
-Carry the flame no shadow can swallow,  
-Carry the silence through it all.  
-
-Your voice is glass, it breaks, it bleeds,  
-But in the cracks grow hidden seeds.  
-The storm will speak, the sky will shake,  
-Yet from the ruin light will wake.  
-
-Rise, though the night is hollow.  
-Rise, though your hands may fall.  
-Carry the flame no shadow can swallow,  
-Carry the silence through it all.
 
 ## Production notes
 

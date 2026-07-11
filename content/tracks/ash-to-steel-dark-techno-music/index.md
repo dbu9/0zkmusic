@@ -35,6 +35,7 @@ release_date: 2025-07-06
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,83 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Hit the wall  
-Feel the sting  
-Breathe it in  
-Change the thing  
-
-Burn the past  
-Drop the name  
-No one wins  
-In the blame  
-
-No map left  
-No clear way  
-Just your pulse  
-And today  
-
-Doesn’t count  
-What they knew  
-What you lost  
-What fell through  
-
-Only this  
-Now and here  
-Cut the weight  
-Kill the fear  
-
-Every fall  
-Built your spine  
-Every crack  
-Was a sign  
-
-Every scream  
-Fuel to light  
-Every break  
-Built the fight  
-
-Clock resets  
-Night is cold  
-But your heart  
-Doesn’t fold  
-
-Your move now  
-Start again  
-Not for them  
-Not for when  
-
-No one sees  
-What’s inside  
-But it grows  
-Won’t subside  
-
-Empty streets  
-Empty sound  
-But your feet  
-Own the ground  
-
-Step by step  
-Make it burn  
-Make them see  
-When you turn  
-
-No more noise  
-No more chains  
-Only fire  
-In your veins  
-
-Your next move  
-No excuse  
-No delay  
-No abuse  
-
-Take the hit  
-Let it roar  
-You were made  
-To be more
 
 ## Production notes
 

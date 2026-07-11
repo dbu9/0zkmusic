@@ -33,6 +33,7 @@ release_date: 2025-08-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,33 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Scorre il fiume nero,  
-porta via il pensiero.  
-Niente resta uguale,  
-tutto è temporale.  
-
-Ombre senza nome,  
-cambiano le forme.  
-Mondo che si piega,  
-luce che rinnega.  
-
-Vento che consuma,  
-notte senza luna.  
-Il destino tace,  
-nulla mai rimane.  
-
-Tutto scorre, fugge via,  
-eco in fiamme, malinconia.  
-Cuore infranto, cenere e mare,  
-ogni istante deve passare.  
-
-====  
-
-
-Everything Flows
 
 ## Production notes
 

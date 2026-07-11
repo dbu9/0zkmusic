@@ -37,6 +37,7 @@ release_date: 2025-07-14
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,38 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Don’t be afraid  
-The silence won’t break you  
-The shadows you cradle  
-Were never meant to shape you  
-
-You speak to the void  
-Like it answers in kind  
-But the voice that you’re seeking  
-Still lives in your mind  
-
-You are not broken  
-Though the world might pretend  
-You bend, you fall,  
-But you rise in the end  
-
-The mirrors you shattered  
-Were never the truth  
-Just flickers of sorrow  
-That borrowed your youth  
-
-And I’ve seen the storm  
-That lived in your gaze  
-The fight in your silence  
-The ache in your praise  
-
-You are the reason  
-The dawn learns to feel  
-You are not fiction  
-You’re the flicker of real
 
 ## Production notes
 

@@ -37,6 +37,7 @@ release_date: 2025-07-14
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -61,33 +62,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I stood where silence used to scream,  
-In the wreckage of a dream.  
-Your shadow burned into the floor,  
-Still I reach, but you’re no more.  
-
-Time has teeth—it chewed me through,  
-Left a shell that once knew you.  
-Every breath a debt unpaid,  
-Every dawn a light that fades.  
-
-The ghosts I keep are wearing thin,  
-Their voices drown beneath my skin.  
-I trace your name on fogged-up glass,  
-But even that is fading fast.  
-
-I wore your loss like sacred cloth,  
-Wrapped in sorrow, soaked in rot.  
-I begged the night to bring you back,  
-But stars just whispered what I lack.  
-
-And so I walk with fractured grace,  
-A pilgrim through your empty place.  
-Not seeking peace, nor seeking blame—  
-Just echoing your silent name.
 
 ## Production notes
 

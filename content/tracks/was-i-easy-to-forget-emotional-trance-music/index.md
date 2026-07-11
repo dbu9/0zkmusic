@@ -41,6 +41,7 @@ release_date: 2025-02-27
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -64,33 +65,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-Falling deeper, lost in shade,  
-Every promise starts to fade.  
-When did love become a ghost?  
-When did I lose you the most?  
-
-Silent whispers, empty air,  
-Reaching out but you're not there.  
-Did we crumble? Did we drown?  
-Did you care, or let me down?  
-
-I suppose all love must die,  
-Burns too bright, then says goodbye.  
-Ashes settle, cold and true,  
-Now I'm left with shades of you.  
-
-Falling deeper, sinking slow,  
-In the dark where echoes go.  
-Tell me, love, did you regret?  
-Or was I easy to forget?
 
 ## Production notes
 

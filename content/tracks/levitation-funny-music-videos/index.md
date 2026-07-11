@@ -52,10 +52,6 @@ keywords:
 
 This release was added from the official 0zkMusic YouTube channel.
 
-## Lyrics
-
-
-
 ## Production notes
 
 - Added from the official 0zkMusic YouTube channel description.

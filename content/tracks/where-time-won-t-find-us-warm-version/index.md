@@ -41,6 +41,7 @@ release_date: 2025-07-01
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -65,33 +66,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-In this silence,  
-I still hear you breathe.  
-Shadows move,  
-But you never leave.  
-
-Walls remember  
-What we used to be,  
-Flickers of touch  
-Still echo in me.  
-
-Stay where the time won’t find us,  
-Stay where the noise won’t crawl,  
-Whisper my name without sound —  
-You are still all.  
-
-In this silence,  
-You unfold my fear,  
-Tear by tear,  
-You're the one still near.  
-
-In this silence,  
-I still feel your flame.  
-Even alone,  
-It burns the same.
 
 ## Production notes
 

@@ -31,6 +31,7 @@ release_date: 2025-06-12
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -49,40 +50,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-=====  
-
-We walked through fire  
-We climbed with pain  
-Steel in our bones  
-Loss was our gain  
-
-Now we stand—  
-Apex breed  
-Bow or break  
-We make you bleed  
-
-We are the lions  
-We are the sharks  
-We leave no room  
-We leave no marks  
-
-Challenge us—  
-You pay the toll  
-No retreat  
-Total control  
-
-Thrones are ours  
-By sweat and scar  
-You rise too high?  
-We end your war  
-
-No one climbs  
-No one dares  
-We are the top  
-The throne is bare
 
 ## Production notes
 

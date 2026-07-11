@@ -37,6 +37,7 @@ release_date: 2026-06-12
 featured: false
 
 lyrics: "Placeholder lyrics."
+lyrics_file: "lyrics.txt"
 production_notes: "Placeholder production notes."
 
 tags:
@@ -53,15 +54,6 @@ keywords:
 ## The idea
 
 This sample release is about leaving the ground without pretending the night is soft. The track should feel open, but still edged by darkness.
-
-## Lyrics
-
-Sample lyric placeholder:
-
-> Fly this night beyond the glass.
-> Leave the city, leave the past.
-
-Replace this section with the final lyrics before publishing.
 
 ## Production notes
 

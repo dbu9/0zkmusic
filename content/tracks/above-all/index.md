@@ -35,6 +35,7 @@ release_date: 2025-08-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,38 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Pain is the teacher,  
-I do not break.  
-Silence is power,  
-I do not ache.  
-
-No cry for mercy,  
-No reaching hand.  
-I walk the fire,  
-Alone I stand.  
-
-To be strong—  
-Is to endure.  
-To be strong—  
-Is to be pure.  
-
-No chains of comfort,  
-No binding call.  
-Self is the fortress,  
-Above them all.  
-
-Autonomous spirit,  
-Unbowed, untamed.  
-Above the voices,  
-Above the names.  
-
-To be strong—  
-Is not to bend.  
-To be strong—  
-Is to transcend.
 
 ## Production notes
 

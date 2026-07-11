@@ -37,6 +37,7 @@ release_date: 2026-06-17
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,61 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Ten to one.  
-We leave the sun.  
-Silent skies.  
-Open eyes.  
-
-Blue world fades.  
-Through silver haze.  
-No more ground.  
-Only sound.  
-
-We fly tonight,  
-Past the light.  
-Far from home,  
-Still not alone.  
-
-Blue star calling,  
-We are falling.  
-Through the fire,  
-Higher, higher.  
-
-One last sign.  
-Across the line.  
-Hearts ignite.  
-Into night.  
-
-Stars awake.  
-The heavens shake.  
-New worlds glow.  
-We have to go.  
-
-We fly tonight,  
-Past the light.  
-Far from home,  
-Still not alone.  
-
-Blue star calling,  
-We are falling.  
-Through the fire,  
-Higher, higher.  
-
-Beyond the dawn,  
-We carry on.  
-Through endless blue,  
-To something new.  
-
-Blue star calling,  
-We are falling.  
-Through the fire,  
-Higher, higher.  
-
-Ten to one.  
-A new sun.
 
 ## Production notes
 

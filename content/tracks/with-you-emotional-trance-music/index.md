@@ -35,6 +35,7 @@ release_date: 2025-03-10
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,39 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-i’m always with you, whatever happens,  
-Through every storm, through every silence.  
-While I breathe, I will be near you,  
-A whisper in the wind, a shadow in your light.  
-
-I will cradle your sorrows,  
-Steal the weight from your soul,  
-Hold you when the night grows cold.  
-I will shield you from the darkness,  
-Be the warmth within your bones,  
-The steady hand that leads you home.  
-
-I will never leave you alone,  
-Even when the world forgets your name.  
-Through every fall, through every scar,  
-I’ll still see you as you are.  
-
-If your voice ever trembles,  
-I will be your song.  
-If your hope ever shatters,  
-I will carry you along.  
-
-And when my last breath fades to silence,  
-Know my love will never die.  
-For even if the stars burn out,  
-I’ll still be shining in your sky.
 
 ## Production notes
 

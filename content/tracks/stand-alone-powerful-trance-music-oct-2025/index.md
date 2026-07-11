@@ -35,6 +35,7 @@ release_date: 2025-10-14
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,38 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I don’t care what they say,  
-Their lies decay.  
-I walk through fire,  
-Cold with desire.  
-
-I don’t need their crown,  
-I’ll tear it down.  
-I rise from ash,  
-Born to clash.  
-
-I don’t care who they are,  
-I’ve come this far.  
-No gods, no kings,  
-Just broken wings.  
-
-I don’t need their light,  
-I own the night.  
-Their truth is dust,  
-Mine is trust.  
-
-I don’t care for pain,  
-It feeds my vein.  
-I fall, I stand,  
-I take command.  
-
-I don’t need their zone,  
-I stand alone.  
-No fear, no plea,  
-Just me — and me.
 
 ## Production notes
 

@@ -37,6 +37,7 @@ release_date: 2025-07-07
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,38 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-They came in silence  
-You looked away  
-You closed your eyes  
-And chose to stay  
-
-No scream, no stance  
-No blood, no line  
-You gave your soul  
-To buy more time  
-
-You feared the fight  
-You feared the flame  
-Now bow your head  
-And wear their name  
-
-No sword, no shield  
-No voice, no claim  
-Now you're the ghost  
-Inside the chain  
-
-But those who rise  
-With fists of fire  
-Will die like stars  
-But never tire  
-
-So choose your path  
-The void, or war  
-Be slave in peace  
-Or free in war
 
 ## Production notes
 

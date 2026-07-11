@@ -33,6 +33,7 @@ release_date: 2025-06-28
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -50,38 +51,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-There is no wound, yet still I bleed  
-A whisper where the blade should be  
-No flame, but still I feel the burn  
-The past returns — it waits its turn  
-
-The body lies, the nerves obey  
-An echo from a distant day  
-A scar the mirror cannot show  
-But pain remembers what we know  
-
-It's not the flesh — it's in the mind  
-A ghost in wires, perfectly designed  
-We carry storms inside our head  
-We feel what's gone, we fear what's said  
-
-A thought can pierce, a memory sting  
-A breath recall the death of spring  
-The brain, a theater made of pain  
-Where shadows play, again, again  
-
-No gall, no war beneath the skin  
-Yet ache unfolds its arms within  
-The nerve may sleep, the soul does not  
-The mind remembers what we've forgot  
-
-It’s not the blade — it’s not the flame  
-The hurt is forged without a name  
-We cry from wounds no eye can trace  
-We suffer deep in silent place
 
 ## Production notes
 

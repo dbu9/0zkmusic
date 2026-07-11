@@ -37,6 +37,7 @@ release_date: 2025-10-13
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,44 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Inspired by Goethe’s “Nähe des Geliebten”  
-
-https://de.wikipedia.org/wiki/N%C3%A4he_des_Geliebten  
-
-*Germanisch*  
-
-Du atmest in den Winden,  
-im Nebel ruht dein Schein.  
-Ich such dich in den Schatten,  
-und finde dich in mir allein.  
-
-Die Sterne flüstern leise,  
-ein fernes Echo ruft —  
-durch Räume ohne Ende,  
-wo Liebe ewig ruht.  
-
-Nächte ohne Namen,  
-träumend ohne Zeit,  
-deine Stimme — meine Flammen,  
-verglühen in Ewigkeit.  
-
-Ich hör dich in den Wellen,  
-im Rauschen meiner Haut.  
-Dein Licht will mich erhellen,  
-so still, so tief, so laut.  
-
-Bleib — in mir,  
-Schweige — zu mir,  
-Flieg — durch mich,  
-Vergeh — in mir.  
-
-Nächte ohne Namen,  
-träumend ohne Zeit,  
-deine Stimme — meine Flammen,  
-verglühen in Ewigkeit.
 
 ## Production notes
 

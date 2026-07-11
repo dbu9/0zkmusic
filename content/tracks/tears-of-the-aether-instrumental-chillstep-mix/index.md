@@ -35,6 +35,7 @@ release_date: 2025-05-11
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,22 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-*Tracklist*  
-
-00:00 Celestial Drift  
-03:55 Cristalline Dusk  
-07:53 Echoes of Solitude  
-10:53 Eventide Memory  
-14:33 Gravity Bloom  
-19:34 Midnight Horizon  
-22:18 Nebula Veins  
-25:32 Shadows in Orbit  
-28:38 The Last Ember  
-31:38 Twilight Sanctuary  
-34:58 Windswept Silence
 
 ## Production notes
 

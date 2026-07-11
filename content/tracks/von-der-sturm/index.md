@@ -37,6 +37,7 @@ release_date: 2025-10-17
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -60,39 +61,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-This song was inspired by Maxim Gorky’s “Song of the Stormy Petrel”  
-
-
-🇩🇪 Vor dem Sturm  
-
-
-Schwarze Wellen.  
-Der Himmel reißt.  
-Die Welt erstarrt.  
-Der Donner kreist.  
-
-Stumme Klippen.  
-Das Nichts ist nah.  
-Der Sturm erwacht.  
-Kein Auge sah.  
-
-Flügel brennen.  
-Der Wind gehorcht.  
-Durch dunkle Stille  
-Die Seele forscht.  
-
-Finsternis singt.  
-Das Meer entfacht.  
-Der Vogel schreit –  
-Er weckt die Nacht.  
-
-Kein Frieden mehr.  
-Kein falsches Sein.  
-Aus Sturm und Chaos  
-Wird Sonne sein.
 
 ## Production notes
 

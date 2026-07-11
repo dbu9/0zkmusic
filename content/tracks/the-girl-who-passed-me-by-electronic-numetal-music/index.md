@@ -35,6 +35,7 @@ release_date: 2025-05-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,33 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-She walked alone,  
-In fading light.  
-One look was fire,  
-Then came the night.  
-
-I stayed in place,  
-Too scared to call.  
-She slipped away,  
-Like leaves in fall.  
-
-I search the crowd,  
-Through endless rain.  
-Her face is gone,  
-But not the pain.  
-
-Will time be kind?  
-Will paths align?  
-Or was she just  
-A ghost in mine?
 
 ## Production notes
 

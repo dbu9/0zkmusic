@@ -31,6 +31,7 @@ release_date: 2025-09-09
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -49,38 +50,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I fear no death.  
-I need no breath.  
-A second gone,  
-The void moves on.  
-
-The pain is vain.  
-It leaves no gain.  
-Not my will,  
-To suffer still.  
-
-All must decay.  
-All fades away.  
-So why to cry?  
-We live, we die.  
-
-Believe or not.  
-It changes not.  
-The end will stay,  
-The same old way.  
-
-From dust begun,  
-To dust undone.  
-No need to care.  
-No burden bear.  
-
-Be calm, be free.  
-Transcend with me.  
-The night will pass.  
-Return to dust.
 
 ## Production notes
 

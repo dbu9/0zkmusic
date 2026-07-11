@@ -33,6 +33,7 @@ release_date: 2025-05-08
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,105 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-🇩🇪🇩🇪  
-
-Mit Frost im Atem zog ich los  
-Mit Stahl in Hand – mein Herz war groß  
-Der Sturm war Feuer, das Meer ein Grab  
-Doch ich kehrte heim – stolz und knapp  
-
-Die See, sie tobte, schlug mich nicht  
-Sie zerriss den Himmel, nahm mein Licht  
-Doch meine Segel hielt sie still  
-Gab mir das Leben, nicht aus Will’  
-
-O Mutter Meer, ich danke dir  
-Du trugst mein Schiff, du trugst auch mir  
-Und wenn du rufst: „Komm heim, mein Sohn“  
-Dann folg ich dir, geh still davon  
-Kein Angst in mir, kein letzter Schrei –  
-Du bist mein Traum, mein Sterbelei  
-
-Der Wald, er flüsterte im Eis  
-Er sah mich jung und nun im Kreis  
-Ich jagte tief im alten Grün  
-Und trank aus Quellen, die längst glühn  
-
-Das Feuer sprach in dunkler Glut  
-Es zeigte mir des Lebens Gut  
-Mit Axt und Lied, mit Baum und Tier  
-War ich im Gleichgewicht mit dir  
-
-O Mutter Meer, ich danke dir  
-Du trugst mein Schiff, du trugst auch mir  
-Und wenn du rufst: „Komm heim, mein Sohn“  
-Dann folg ich dir, geh still davon  
-Kein Angst in mir, kein letzter Schrei –  
-Du bist mein Traum, mein Sterbelei  
-
-Lass Blitz und Donner mich durchfahr’n  
-Lass Wellen mich zur Ruhe fahr’n  
-Die Raben kreischen, Flammen brenn’n –  
-Doch ich geh würdig zu den Enn’n  
-
-O Meer, o Wald, o Himmel rot  
-Ich trage kein Gebet, kein Lot  
-Doch wenn du sprichst, dann geh ich tief –  
-Senke mein Haupt, und still entschlief  
-
-
-Lyrics  
-🇬🇧🇬🇧  
-
-*When the Waves Call My Name*  
-
-
-With frost upon my breath I strode  
-Steel in hand — my heart bestowed  
-The storm was fire, the sea a grave  
-But I returned, unbroken, brave  
-
-The sea, she raged but spared my soul  
-She tore the skies, yet left me whole  
-My sail she held in silent grace  
-And let me live to face this place  
-
-O Mother Sea, I give you praise  
-You bore my ship through darkest days  
-And when you whisper, “Come, my son,”  
-I’ll follow you, my journey done  
-No fear in me, no final cry —  
-You are my dream, my way to die  
-
-The forest whispered in the frost  
-It knew me young, it knows me lost  
-I hunted deep where shadows grow  
-And drank from wells the gods bestow  
-
-The fire spoke in ember's glow  
-It taught me when to reap and sow  
-With axe and song, with beast and tree  
-I lived in balance, wild and free  
-
-O Mother Sea, I give you praise  
-You bore my ship through darkest days  
-And when you whisper, “Come, my son,”  
-I’ll follow you, my journey done  
-No fear in me, no final cry —  
-You are my dream, my way to die  
-
-Let thunder strike and blaze my chest  
-Let waves embrace me into rest  
-The ravens scream, the flames arise —  
-Still I walk proud beneath the skies  
-
-O Sea, O Wood, O sky in flame  
-I seek no crown, I crave no name  
-But when you speak and call me deep —  
-I bow my head and go to sleep
 
 ## Production notes
 

@@ -39,6 +39,7 @@ release_date: 2025-04-27
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -61,35 +62,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-=====  
-
-
-India, river of gold,  
-Stories of stars, forever told.  
-Winds of the ages call your name,  
-Whisper of fire, whisper of flame.  
-
-India, light of the dawn,  
-Heart of the world, ancient and strong.  
-India, dream in the sky,  
-Keeper of secrets, never to die.  
-
-India, cradle of rain,  
-Songs of the mind, songs of the flame.  
-Fields of the heavens in your hand,  
-Teaching the oceans to understand.  
-
-India, light of the dawn,  
-Heart of the world, ancient and strong.  
-India, dream in the sky,  
-Keeper of secrets, never to die.  
-
-India... India...  
-Light of the dawn...  
-India...
 
 ## Production notes
 

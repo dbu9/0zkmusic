@@ -35,6 +35,7 @@ release_date: 2025-08-28
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,32 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-The candle burns.  
-The night is cold.  
-The shadows move.  
-The dark takes hold.  
-
-The flame is weak.  
-The air is stone.  
-It fights the void.  
-It dies alone.  
-
-A fragile spark.  
-A fleeting breath.  
-The light resists.  
-The hand of death.  
-
-The smoke will rise.  
-The ashes fall.  
-The flame remembers.  
-It burns us all.  
-
-=====  
-
-https://en.wikipedia.org/wiki/Boris_Pasternak
 
 ## Production notes
 

@@ -35,6 +35,7 @@ release_date: 2025-04-17
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,22 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Track list  
-
-1. Ageless Stone - 0:00  
-2.Alpha - 4:24  
-3. Closing Road - 11:40  
-4. Coldstone - 14:47  
-5. Dark Alleys - 18:24  
-6. Dread - 21:36  
-7. Europa - 23:46  
-8. Fallow - 31:34  
-9. Flight 47 - 36:51  
-10. Loserve - 40:53  
-11. Madone - 44:58
 
 ## Production notes
 

@@ -37,6 +37,7 @@ release_date: 2026-06-07
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,120 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You are here  
-Then gone  
-Here  
-Then gone  
-
-I feel you  
-Then I lose you  
-I breathe you  
-Then you fade  
-
-You are here  
-Then gone  
-Here  
-Then gone  
-
-I follow every shadow  
-That carries back your name  
-I listen to the silence  
-And hear you through the rain  
-
-You move beneath the water  
-You burn behind the stars  
-I reach into the distance  
-But never where you are  
-
-You are here  
-Then gone  
-Here  
-Then gone  
-
-I feel you  
-Then I lose you  
-I breathe you  
-Then you fade  
-
-You are here  
-Then gone  
-Here  
-Then gone  
-
-I am falling through your signal  
-I am drifting through your light  
-Every time I come closer  
-You disappear into the night  
-
-I am holding on to nothing  
-But the echo of your heart  
-You are near enough to haunt me  
-Still too far to fall apart  
-
-Here  
-Then gone  
-
-Here  
-Then gone  
-
-I feel you  
-Then I lose you  
-I breathe you  
-Then you fade  
-
-You are here  
-Then gone  
-Here  
-Then gone  
-
-Take the darkness  
-Take the fever  
-Take the memory  
-Take the need  
-
-Leave the silence  
-Leave the shimmer  
-Leave the ocean  
-Under me  
-
-You are here  
-Then gone  
-Here  
-Then gone  
-
-I feel you  
-Then I lose you  
-I breathe you  
-Then you fade  
-
-You are here  
-Then gone  
-Here  
-Then gone  
-
-I am falling through your signal  
-I am drifting through your light  
-Every time I come closer  
-You disappear into the night  
-
-Here  
-Then gone  
-
-Here  
-Then gone  
-
-I feel you  
-Then I lose you  
-I breathe you  
-Then you fade  
-
-You are here  
-Then gone  
-Here  
-Then gone
 
 ## Production notes
 

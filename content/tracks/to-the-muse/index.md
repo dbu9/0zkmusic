@@ -39,6 +39,7 @@ release_date: 2025-08-25
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -61,28 +62,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You came in silence,  
-Pale and weak,  
-Whispered sorrow,  
-Burned my speech.  
-
-You lit the night,  
-You cursed the day,  
-Every song,  
-You take away.  
-
-I bleed in rhythm,  
-Your gift, my chain,  
-You breathe in fire,  
-I drown in pain.  
-
-Still I follow,  
-Through the flame,  
-Silent torment,  
-Sacred name.
 
 ## Production notes
 

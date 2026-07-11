@@ -37,6 +37,7 @@ release_date: 2026-04-22
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,38 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Every dawn might be the last,  
-World decides, no future cast.  
-Fate turns cold without a sign,  
-Lights extinguish, not by mine.  
-
-Morning light, a borrowed lie,  
-Evening falls—perhaps I die.  
-Breath I draw, the cosmos claims,  
-External storm rewrites the names.  
-
-Prayers bleed in silent air,  
-Universe grants no mercy there.  
-Clinging hard to fleeting days,  
-Yet the void devours its prey.  
-
-Hours slip like grains of sand,  
-Sudden end by unseen hand.  
-No tomorrow ever sure,  
-Desperation finds no cure.  
-
-Hold me close before the end,  
-World may break what time won’t mend.  
-Life’s a spark the darkness steals,  
-External forces turn the wheels.  
-
-One more sunrise, one more plea,  
-Let the heavens spare or free.  
-Every day could end in black—  
-Powerless soul, no turning back.
 
 ## Production notes
 

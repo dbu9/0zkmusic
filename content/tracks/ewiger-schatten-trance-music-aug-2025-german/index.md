@@ -37,6 +37,7 @@ release_date: 2025-08-28
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,63 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Du bist der Schatten  
-Verblasstes Licht  
-Vergangene Träume  
-Erreich’ ich nicht  
-
-Ein Echo im Regen  
-Ein Schrei in der Nacht  
-Die Flamme erloschen  
-Die Seele erwacht  
-
-Zerbrochene Bilder  
-Zersplittert im Wind  
-Die Stimmen verstummen  
-Wie Asche verrinnt  
-
-Was einst lebte  
-Ist Staub im Raum  
-Was einst Hoffnung  
-Verblasst zum Traum  
-
-Du bist der Schatten  
-Der ewig bleibt  
-Vergangenheit  
-Die mich treibt  
-
-=====  
-
-
-*Eternal Shadow*  
-
-You are the shadow  
-A faded light  
-Forgotten dreams  
-Escape my sight  
-
-An echo in rain  
-A cry in the night  
-The flame has died  
-The soul takes flight  
-
-Shattered visions  
-Scattered in wind  
-The voices are silent  
-Like ash they rescind  
-
-What once was alive  
-Is dust in the air  
-What once was hope  
-Turns into despair  
-
-You are the shadow  
-That always stays  
-The past eternal  
-That drives my ways
 
 ## Production notes
 

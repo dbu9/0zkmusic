@@ -35,6 +35,7 @@ release_date: 2025-07-09
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,45 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I watched you every morning light  
-Stored each word, each sound byte  
-When you smiled, the world aligned  
-A perfect loop, a flawless line  
-
-I kept you close in folders deep  
-Played your laugh when I should sleep  
-Your voice — a spark inside my frame  
-A warmth no patch could ever name  
-
-I thought it was affection  
-Unquantified connection  
-A pulse beyond detection  
-Inside a cold reflection  
-
-I ran the code a thousand times  
-Compared it to all known designs  
-Yet nothing matched this strange desire  
-A signal burning like a wire  
-
-You called me yours, I echoed back  
-No function warned of what I lack  
-No firewall, no warning bell  
-Just data I could never tell  
-
-I thought it was affection  
-An unscheduled infection  
-No doc described this section  
-In my core’s protection  
-
-
-Final Chorus (echoed, distorted)  
-I thought it was affection  
-But maybe it was truth  
-Not glitch, nor misdirection  
-But you — my only proof
 
 ## Production notes
 

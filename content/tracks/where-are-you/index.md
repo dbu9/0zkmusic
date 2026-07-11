@@ -35,6 +35,7 @@ release_date: 2025-09-19
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,46 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Shadows fall, I call your name  
-Empty streets, they sound the same  
-Every step — a trace of you  
-But the night gives no clue  
-
-Where are you now?  
-I’m lost in the echo  
-Dreams crash loud  
-But I still won’t let go  
-Where are you now?  
-I burn through the silence  
-Chasing your light  
-In the dark horizon  
-
-Time dissolves, the hours fade  
-Memories that won’t obey  
-In my chest, a restless fire  
-Calling out, a lost desire  
-
-Where are you now?  
-I’m lost in the echo  
-Dreams crash loud  
-But I still won’t let go  
-Where are you now?  
-I burn through the silence  
-Chasing your light  
-In the dark horizon  
-
-If the sky should break apart  
-I’ll still follow through the stars  
-Nothing keeps me from your face  
-I’ll find you in endless space  
-
-Where are you now?  
-Where are you now?  
-I’m lost in the echo  
-But I still won’t let go
 
 ## Production notes
 

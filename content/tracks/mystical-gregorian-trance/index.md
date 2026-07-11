@@ -37,6 +37,7 @@ release_date: 2026-02-12
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -64,18 +65,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Immerse yourself in a seamless 26-minute mystical epic trance journey — ancient pseudo-Latin Gregorian choir chants, layered male & female ethereal vocals, driving kick & bass, lush atmospheric pads, soaring supersaw arpeggios, swelling cinematic strings, and powerful uplifting breakdowns.  
-
-Dark spiritual cinematic atmosphere meets uplifting trance energy at a steady 140 BPM.  
-
-Perfect for late-night drives, deep meditation, focus sessions, gaming, or pure trance immersion.  
-
-Created with love in 2026. Hit LIKE if it gave you chills, SUBSCRIBE & turn on notifications 🔔 for more atmospheric trance explorations!  
-
-Which moment hit you hardest? Let me know in the comments 🌌
 
 ## Production notes
 

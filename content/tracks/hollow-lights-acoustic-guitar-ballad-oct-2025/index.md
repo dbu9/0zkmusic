@@ -31,6 +31,7 @@ release_date: 2025-10-15
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -49,28 +50,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-We are the hollow lights,  
-Flicker, fade, repeat.  
-Whispers of broken rites,  
-Echo where hearts used to beat.  
-
-Silent is every prayer,  
-Ashes drift through glass.  
-No gods are waiting there,  
-Only shadows that pass.  
-
-Desire burns, then dies,  
-In circuits cold and blind.  
-Voices beneath the skies,  
-Seeking what none will find.  
-
-This is the way it ends,  
-Pulse dissolves in mist.  
-No savior, no amends,  
-Only the dream that ceased.
 
 ## Production notes
 

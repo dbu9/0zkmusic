@@ -31,6 +31,7 @@ release_date: 2025-09-03
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -49,33 +50,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I speak in broken glass,  
-Every word a wound.  
-The city echoes me,  
-Stone against the moon.  
-
-You wanted love,  
-But I gave you thunder.  
-You wanted silence,  
-I tore it asunder.  
-
-I write on walls with blood,  
-Letters that don’t fade.  
-Your name is a scream,  
-My soul, a grenade.  
-
-The night is a stage,  
-I burn with confession.  
-Each line I break,  
-Another obsession.  
-
-I’m the verse that kills,  
-The kiss that explodes.  
-A poet of shadows,  
-Where madness corrodes.
 
 ## Production notes
 

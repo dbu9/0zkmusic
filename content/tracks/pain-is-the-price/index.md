@@ -35,6 +35,7 @@ release_date: 2025-03-08
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,46 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙗𝙮 𝙇𝙞𝙠𝙚 𝙖𝙣𝙙 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 👹👹  
-
-
-They said it’s over, I said it’s fate,  
-Burned every bridge, now there’s no escape.  
-Every cut, every scar that I take,  
-Carved in my skin, but I never break.  
-
-Shadow’s screaming, pain won’t fade,  
-Weight on my back, but I won’t cave.  
-One more step, one more breath,  
-Crawling through fire, out of this death.  
-
-Push forward, no way back,  
-Blood on my hands, but I stay on track.  
-Feel the weight, let it crush, don’t crack,  
-Pain is the debt, now I’m payin’ it back.  
-
-Push through, you were made for this,  
-Every fall just tightens your grip.  
-Bear the wounds, let ‘em cut so deep,  
-Crown on your head when you finally reap.  
-
-Lost in the dark but I found my name,  
-Carved it in stone so they know my pain.  
-Every nightmare, every tear, every scream,  
-Fuel to the fire, I was born to bleed.  
-
-No surrender, no rewind,  
-No escape, just the grind.  
-Hurt me now, make me crawl,  
-I take the pain—I take it all.  
-
-Push forward, no way back,  
-Scars turn to gold when you face the past.  
-Feel the weight, let it mold your path,  
-Pain is the price—you will outlast.
 
 ## Production notes
 

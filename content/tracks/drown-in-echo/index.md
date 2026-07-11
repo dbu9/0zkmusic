@@ -35,6 +35,7 @@ release_date: 2025-07-22
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,35 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You said you’d wait in the static glow  
-I searched the wires, but you let go  
-Your voice is fractured in the air  
-It lingers soft like you were there  
-
-Mmm… you were there…  
-Slipping through the dark, I swear…  
-
-Your name’s a glitch beneath my skin  
-A loop I fall, and fall again  
-You hum in chords I used to know  
-Now every beat just feels too slow  
-
-Caught in the pulse  
-Can’t move on  
-You’re the breath  
-in every song  
-I try to rise  
-but I’m below  
-Still—  
-drown in echo  
-
-I  
-drown  
-in  
-you
 
 ## Production notes
 

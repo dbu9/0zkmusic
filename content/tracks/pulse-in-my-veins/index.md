@@ -39,6 +39,7 @@ release_date: 2026-07-09
 featured: true
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -60,53 +61,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Pulse in my veins  
-Fire in my chest  
-Heart like a hammer  
-Never needs rest  
-
-Beat after beat  
-Straight through the night  
-I lock on the signal  
-I move to the light  
-
-Steady  
-Ready  
-Harder  
-Higher  
-
-Focus is clean  
-Will is a blade  
-Target ahead  
-I am not afraid  
-
-Pulse in my veins  
-Power in line  
-Heart beats strong  
-The target is mine  
-
-No drift  
-No doubt  
-No fear  
-No way out  
-
-Forward  
-Faster  
-Closer  
-After  
-
-Pulse in my veins  
-Heart beats strong  
-I see the target  
-I move along  
-
-One will  
-One aim  
-One strike  
-One flame
 
 ## Production notes
 

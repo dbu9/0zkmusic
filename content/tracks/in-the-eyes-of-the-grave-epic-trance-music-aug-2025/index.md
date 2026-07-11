@@ -33,6 +33,7 @@ release_date: 2025-08-24
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,57 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-What thou dost build,  
-Shall fall to dust.  
-What thou dost love,  
-Shall fade, as must.  
-
-Gold turns to sand,  
-Crowns turn to clay.  
-The grave makes kings,  
-And slaves the same.  
-
-
-Pulvis et umbra sumus,  
-Tempus fugit, mors certa.  
-Ubi sunt qui ante nos fuerunt?  
-In aeternum, silentium.  
-
-
-Fair face shall pale,  
-Proud form shall bend.  
-Beauty is brief,  
-Ash is the end.  
-
-All songs are hushed,  
-All fires wane.  
-The earth reclaims,  
-The dark shall reign.  
-
-
-Pulvis et umbra sumus,  
-Tempus fugit, mors certa.  
-Ubi sunt qui ante nos fuerunt?  
-In aeternum, silentium.  
-
-
-Where are they now,  
-The ones before?  
-Their names are wind,  
-Their crowns no more.  
-
-So draw thy breath,  
-So spend thy flame.  
-For in the grave,  
-All is the same.  
-
-
-Pulvis et umbra sumus,  
-Tempus fugit, mors certa.  
-In aeternum, silentium…
 
 ## Production notes
 

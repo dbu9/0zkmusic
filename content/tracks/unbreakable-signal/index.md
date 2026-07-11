@@ -37,6 +37,7 @@ release_date: 2026-01-13
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,109 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You throw your words  
-Like sparks at skin  
-Trying to see  
-Where I break in  
-
-Every doubt  
-You aim at me  
-Turns to echoes  
-I don’t bleed  
-
-I hear the noise  
-I feel the force  
-But nothing hits  
-My inner core  
-
-Push me harder  
-Feel me rise  
-I don’t shatter  
-I ignite  
-
-You can shout it out  
-You can tear me down  
-Every strike just  
-Lifts me now  
-
-I’m still standing  
-In the firestorm  
-Pressure makes me  
-Something more  
-
-You can aim your fear  
-At my open chest  
-I don’t fall  
-I don’t bend  
-
-Stronger  
-Louder  
-I remain  
-
-I’ve been shaped  
-By falling days  
-By silent wars  
-I didn’t say  
-
-All the weight  
-You think I hold  
-Turns to light  
-I let it go  
-
-Every scar  
-A line of code  
-Built me up  
-Made me whole  
-
-Hit the limit  
-Cross the pain  
-I don’t crack  
-I sustain  
-
-You can shout it out  
-You can tear me down  
-Every strike just  
-Lifts me now  
-
-I’m still standing  
-In the firestorm  
-Pressure makes me  
-Something more  
-
-You can aim your fear  
-At my open chest  
-I don’t fall  
-I don’t bend  
-
-No shield  
-No wall  
-Just will  
-That won’t fall  
-
-Slow breath  
-Clear sight  
-I stay  
-Upright  
-
-Unbreakable  
-Unmoved  
-Unbound  
-
-Every impact  
-Pulls me up  
-Not down  
-
-I don’t break  
-I don’t break  
-I don’t break  
-
-When the silence comes  
-I’m still here  
-Not untouched  
-Just clear
 
 ## Production notes
 

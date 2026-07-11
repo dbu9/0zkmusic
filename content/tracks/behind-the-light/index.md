@@ -33,6 +33,7 @@ release_date: 2026-01-27
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,25 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Some figures search in equations.  
-Others pray.  
-Others listen to voices no one else hears.  
-
-The same questions appear in different rooms.  
-They wear different uniforms.  
-They return under different names.  
-
-Light is used to measure.  
-To reveal.  
-To control.  
-
-What remains is not measured.  
-
-If these images belong together, it is not because they agree —  
-but because they look in the same direction.
 
 ## Production notes
 

@@ -35,6 +35,7 @@ release_date: 2025-10-26
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,19 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-A thousand eyes reflect one flame,  
-a thousand hearts keep time.  
-Glass becomes a living ocean,  
-each ripple a memory of truth.  
-We dance where thought dissolves,  
-where sound becomes form and form returns to air.  
-The mirror hums a sacred note,  
-we lose ourselves within its tone.  
-Not worship, not prayer —  
-just the quiet union of all that is.
 
 ## Production notes
 

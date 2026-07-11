@@ -37,6 +37,7 @@ release_date: 2025-05-17
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -60,45 +61,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-You see this star — it's yours to keep  
-Forever, my love, in skies so deep  
-When I’m with you, or far away  
-This star will shine, night and day  
-
-Alive or gone, I still remain  
-In light and wind, in sun and rain  
-No matter time, no matter place  
-This star holds all my love and grace  
-
-This star will never fade, never fall  
-It burns for you, through it all  
-Whenever you see its golden light  
-I'm with you — holding you tight  
-
-I’m always loving you  
-Through the stars, through the blue  
-Endless love — shining true  
-This star is my heart for you  
-
-So look above when you feel alone  
-That star is me — you're never on your own  
-It sings our song across the skies  
-A love that never says goodbye  
-
-This star will never fade, never fall  
-It burns for you, through it all  
-Whenever you see its golden light  
-I'm with you — holding you tight  
-
-This star is yours  
-Forever mine, forever yours
 
 ## Production notes
 

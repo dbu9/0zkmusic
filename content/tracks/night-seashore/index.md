@@ -33,6 +33,7 @@ release_date: 2025-11-18
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,20 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Relaxing EBM music with slow industrial beats, atmospheric synths, and hypnotic basslines.  
-Great for:  
-✔ focus & productivity  
-✔ late-night listening  
-✔ cyberpunk vibes  
-✔ emotional unwind  
-✔ study & work sessions  
-✔ deep thinking / meditation  
-✔ gaming background music  
-
-If you’re into EBM, darkwave, industrial ambient, futurepop, chill synth, electro-industrial, or deep electronic beats, this track is for you.
 
 ## Production notes
 

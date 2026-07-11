@@ -37,6 +37,7 @@ release_date: 2025-08-25
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,33 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Deutschland, Land voller Traum,  
-Deutschland, Glut und Raum.  
-Von Kindheit an, ein helles Licht,  
-Die Helden glänzen, vergisst man nicht.  
-
-Größte Ahnen, stolz und frei,  
-Ihr Feuer lebt, vergeht nie.  
-Ich flüst’re Liebe in die Nacht,  
-Mein Vaterland, du meine Macht.  
-
-Bitte lebe, Deutschland — stirb nicht,  
-Verlösch nicht, verlier dein Gesicht.  
-Strahle hell wie einst zuvor,  
-Mein Heimatland, ich fleh’ empor.  
-
-Echos steigen, Sturm und Flamm’,  
-Ich ruf’ den heiligen Namen.  
-Deutschland, Traum, der ewig brennt,  
-Ich halt’ dich fest, mein Herz dich kennt.  
-
-
-======  
-
-Germany, Eternal Dream
 
 ## Production notes
 

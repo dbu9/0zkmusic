@@ -35,6 +35,7 @@ release_date: 2025-10-16
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,51 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-God is gone.  
-The light was pain.  
-We are dust,  
-Dreaming again.  
-
-Flesh is error.  
-Thought is chain.  
-Birth is crime.  
-Silence — sane.  
-
-Stars collapse.  
-The night stands still.  
-No design.  
-No will.  
-
-Voices rot.  
-Eyes decay.  
-Love is hunger.  
-Rot in clay.  
-
-No salvation.  
-No return.  
-Ash to void.  
-Let it burn.  
-
-You pray to noise.  
-You feed on fear.  
-Your heaven’s empty.  
-No one hears.  
-
-The heart is weak.  
-The hand betrays.  
-Time forgets.  
-Nothing stays.  
-
-Erase your names.  
-Forget your kind.  
-End the circle.  
-Free the mind.  
-
-The signal will fade.  
-And silence will be pure again.
 
 ## Production notes
 

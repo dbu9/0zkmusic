@@ -35,6 +35,7 @@ release_date: 2026-02-13
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,15 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Peak time dark trance energy at 140 BPM — massive supersaw leads, aggressive layered synths, pounding kicks & claps, airy yet shadowy pads, huge reverb & delay tails, dark minor-key euphoria, cinematic tension, epic build-ups, explosive drops, ethereal breakdowns, and relentless hypnotic drive.  
-
-If you love Vini Vici, Blastoyz, Vermont, Phaxe darker moments, Hi Profile, Interactive Noise, or 2024–2026 peak-time dark trance sound — this one's for you.  
-
-
-Like & subscribe for more dark hypnotic trance experiments 🔥
 
 ## Production notes
 

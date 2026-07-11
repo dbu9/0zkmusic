@@ -33,6 +33,7 @@ release_date: 2025-07-24
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,45 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Your shadow moves like waves in glass  
-I reach for light, but moments pass  
-Fingers trace a fading sound  
-Where we were once, I'm not found  
-
-Falling through you  
-Like the rain through air  
-I feel you move  
-But you’re not there  
-
-Falling through you  
-With nowhere to land  
-I call your name  
-But lose command  
-
-Soft echoes fold into the night  
-Your silence burns a colder light  
-Breathless pulses on my skin  
-The memory loops where we begin  
-
-Falling…  
-Falling through…  
-Through you…  
-You…  
-
-Falling through you  
-Like the rain through air  
-I feel you move  
-But you’re not there  
-
-Falling through you  
-With nowhere to land  
-I call your name  
-But lose command  
-
-I fall, I fade, I feel...
 
 ## Production notes
 

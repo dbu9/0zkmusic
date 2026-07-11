@@ -28,73 +28,29 @@
       {{ partial "download-button.html" . }}
     </section>
 
-    {{/* Split body markdown into H2 sections so Lyrics can be a scroll panel. */}}
-    {{ $raw := strings.TrimSpace .RawContent }}
-    {{ $ideaHTML := "" }}
     {{ $lyricsHTML := "" }}
-    {{ $notesHTML := "" }}
-    {{ $otherSections := slice }}
-    {{ if $raw }}
-      {{ $body := $raw }}
-      {{/* Normalize CRLF and strip the first leading H2 marker. */}}
-      {{ $body = replace $body "\r\n" "\n" }}
-      {{ if hasPrefix $body "## " }}
-        {{ $body = strings.TrimPrefix "## " $body }}
-      {{ else if hasPrefix $body "##" }}
-        {{ $body = strings.TrimPrefix "##" $body | strings.TrimSpace }}
-      {{ end }}
-      {{ range split $body "\n## " }}
-        {{ $chunk := strings.TrimSpace . }}
-        {{ if $chunk }}
-          {{ $lines := split $chunk "\n" }}
-          {{ $heading := index $lines 0 | strings.TrimSpace }}
-          {{ $sectionBody := "" }}
-          {{ if gt (len $lines) 1 }}
-            {{ $sectionBody = strings.TrimSpace (delimit (after 1 $lines) "\n") }}
-          {{ end }}
-          {{ $key := $heading | lower }}
-          {{ $rendered := cond (eq $sectionBody "") "" ($sectionBody | markdownify) }}
-          {{ if eq $key "lyrics" }}
-            {{ $lyricsHTML = $rendered }}
-          {{ else if or (eq $key "the idea") (eq $key "idea") }}
-            {{ $ideaHTML = $rendered }}
-          {{ else if or (eq $key "production notes") (eq $key "production note") (eq $key "notes") }}
-            {{ $notesHTML = $rendered }}
-          {{ else }}
-            {{ $otherSections = $otherSections | append (dict "heading" $heading "html" $rendered) }}
-          {{ end }}
-        {{ end }}
+    {{ with .Params.lyrics_file }}
+      {{ $lyricsPath := path.Join "content" $.File.Dir . }}
+      {{ if fileExists $lyricsPath }}
+        {{ $lyricsHTML = $.RenderString (readFile $lyricsPath) }}
       {{ end }}
     {{ end }}
+    {{ if and (not $lyricsHTML) .Params.lyrics }}
+      {{ $lyricsHTML = .RenderString .Params.lyrics }}
+    {{ end }}
 
-    {{/* Fallback when content is not H2-sectioned. */}}
-    {{ if and (not $ideaHTML) (not $lyricsHTML) (not $notesHTML) (eq (len $otherSections) 0) }}
+    {{ $contentHTML := .Content }}
+
+    {{ if not $lyricsHTML }}
       <section class="track-section track-content prose dark:prose-invert">
-        {{ .Content }}
+        {{ $contentHTML }}
       </section>
     {{ else }}
       <div class="track-body-layout">
         <div class="track-body-main">
-          {{ with $ideaHTML }}
-            <section class="track-section track-content prose dark:prose-invert">
-              <h2>The idea</h2>
-              {{ . }}
-            </section>
-          {{ end }}
-
-          {{ range $otherSections }}
-            <section class="track-section track-content prose dark:prose-invert">
-              <h2>{{ .heading }}</h2>
-              {{ .html }}
-            </section>
-          {{ end }}
-
-          {{ with $notesHTML }}
-            <section class="track-section track-content prose dark:prose-invert">
-              <h2>Production notes</h2>
-              {{ . }}
-            </section>
-          {{ end }}
+          <section class="track-section track-content prose dark:prose-invert">
+            {{ $contentHTML }}
+          </section>
         </div>
 
         {{ with $lyricsHTML }}
@@ -103,7 +59,7 @@
               <header class="track-lyrics-header">
                 <h2 id="track-lyrics-heading">Lyrics</h2>
               </header>
-              <div class="track-lyrics-scroll prose dark:prose-invert" tabindex="0">
+              <div class="track-lyrics-scroll prose dark:prose-invert" tabindex="0" aria-labelledby="track-lyrics-heading">
                 {{ . }}
               </div>
             </div>

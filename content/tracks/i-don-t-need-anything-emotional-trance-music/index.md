@@ -33,6 +33,7 @@ release_date: 2025-03-10
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,50 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-Please, believe in me,  
-I know I’m not strong.  
-I fall, I break, I lose,  
-But I’ve loved you all along.  
-
-I don’t wear a crown,  
-I don’t have it all.  
-But if you hold my hand,  
-I will never let you fall.  
-
-All I do is for you,  
-Every step, every move.  
-I don’t need anything,  
-I don’t need anything.  
-All I have is yours to take,  
-Every breath, for your sake.  
-
-Please, just trust in me,  
-Let me prove my way.  
-I will climb, I will fight,  
-I will never walk away.  
-
-No fortune, no pride,  
-Nothing else is real.  
-If you’re here with me,  
-I have everything I feel.  
-
-All I do is for you,  
-Every step, every move.  
-I don’t need anything,  
-I don’t need anything.  
-All I have is yours to take,  
-Every breath, for your sake.  
-
-I don’t need anything…  
-I don’t need anything…  
-All belongs to you…
 
 ## Production notes
 

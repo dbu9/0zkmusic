@@ -35,6 +35,7 @@ release_date: 2025-09-13
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,44 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Shadows fall across your name  
-I still burn inside this flame  
-Chains of silence, hearts collide  
-I can’t escape, I cannot hide  
-
-Your voice — a storm inside me  
-Your eyes — the night that blinds me  
-
-Take me deeper, break me open  
-Through the ashes, love unspoken  
-In your darkness, I am found  
-I will rise when you pull me down  
-
-Blood of memory, running slow  
-Every scar is all I know  
-Still I reach through walls of pain  
-To feel your touch again  
-
-Your breath — it drags me under  
-Your light — a violent thunder  
-
-Take me deeper, break me open  
-Through the ashes, love unspoken  
-In your darkness, I am found  
-I will rise when you pull me down  
-
-I fall into you  
-I crawl into you  
-Scream into silence  
-Bleed into truth  
-
-Take me deeper, break me open  
-Through the ashes, love unspoken  
-In your shadow, I belong  
-I will burn, I will be strong
 
 ## Production notes
 

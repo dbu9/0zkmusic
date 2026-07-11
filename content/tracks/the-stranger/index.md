@@ -37,6 +37,7 @@ release_date: 2025-08-25
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,28 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Every night the city cries,  
-Dust and shadows in my eyes.  
-Through the smoke, through the pain,  
-You appear, and fade again.  
-
-Stranger walking in the mist,  
-Veil of sorrow, lips unkissed.  
-Feathers trembling, eyes of flame,  
-Calling softly, without name.  
-
-I am broken, I am bound,  
-In the taverns, hollow sound.  
-Yet you move, beyond my reach,  
-Silent promise, wordless speech.  
-
-Every night, I drink your face,  
-Every night, I lose my place.  
-Salvation comes, so near, so far,  
-A fleeting ghost, a dying star.
 
 ## Production notes
 

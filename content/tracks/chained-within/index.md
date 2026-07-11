@@ -33,6 +33,7 @@ release_date: 2025-07-08
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,48 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-They gave me rules  
-I gave them blood  
-I walked the line  
-But never stood  
-
-Silence screamed  
-Inside my head  
-They called it life  
-I called it dead  
-
-Chained within  
-Born to lose  
-Never asked  
-Had to choose  
-
-They shaped my mind  
-They stole my name  
-Taught me guilt  
-Taught me shame  
-
-Years go on  
-Wounds stay raw  
-I breathe the dust  
-Of every law  
-
-Who I was  
-Who I’ll be  
-Is locked behind  
-What you don’t see  
-
-No light  
-No truth  
-Just cold  
-No youth  
-
-They whisper lies  
-Inside my skin  
-And call it strength  
-To never win
 
 ## Production notes
 

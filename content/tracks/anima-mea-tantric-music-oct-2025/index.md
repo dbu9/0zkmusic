@@ -33,6 +33,7 @@ release_date: 2025-10-21
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,22 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Sanctum somnium, anima mea.  
-Je dors dans ta lumière.  
-Verbum absconditum,  
-ton nom brûle sans cendres.  
-Je t’appelle encore,  
-in nocte infinita.  
-
-Ave anima mea,  
-dans la pluie des étoiles.  
-Vita nascitur ex umbra,  
-et je deviens prière.  
-Credo in flamma amoris,  
-jusqu’à la dernière larme.
 
 ## Production notes
 

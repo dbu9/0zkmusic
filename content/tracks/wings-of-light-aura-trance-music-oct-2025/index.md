@@ -35,6 +35,7 @@ release_date: 2025-10-09
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,40 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Whisper to me,  
-Under the veil of dawn.  
-Shadows fall,  
-And the stars are gone.  
-
-Breathe in the tide,  
-Silver and slow —  
-Carry my soul  
-Where the soft winds go.  
-
-Aaaah... elora...  
-Light within the sky…  
-Eyaaah... seluna…  
-Dreams that never die.  
-
-Through crystal rain,  
-Through the quiet sea,  
-Echoes of time  
-Return to me.  
-
-Flow, river of night,  
-Shine, memory bright.  
-Rise, spirit unseen,  
-Awake within the dream.  
-
-Aaaah... elora...  
-Light within the sky…  
-Eyaaah... seluna…  
-Dreams that never die.  
-Aaaah... elora…  
-Guide me home again.
 
 ## Production notes
 

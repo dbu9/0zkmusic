@@ -62,9 +62,9 @@ Then:
 
 1. Edit the front matter.
 2. Add `cover.webp` to the same bundle directory.
-3. Optionally add `track.mp3`.
+3. Optionally add `lyrics.txt` and `track.mp3`.
 4. Add the YouTube video ID.
-5. Write the Markdown body.
+5. Write the Markdown body for the idea, production notes, and other non-lyric sections.
 6. Set `draft: false`.
 
 Sample front matter:
@@ -109,6 +109,7 @@ release_date: 2026-07-10
 featured: true
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -134,6 +135,22 @@ content/tracks/track-slug/cover.webp
 ```
 
 The templates use Hugo page resources and generate optimized derivatives. If no cover exists, `static/img/placeholder-cover.svg` is used.
+
+## Lyrics
+
+For new track pages, store lyrics in the track bundle as:
+
+```text
+content/tracks/track-slug/lyrics.txt
+```
+
+Set this front matter field:
+
+```yaml
+lyrics_file: "lyrics.txt"
+```
+
+The track template renders `lyrics.txt` as Markdown in the sticky lyrics panel. Keep `index.md` for the idea, production notes, and other non-lyric sections.
 
 ## YouTube Embeds
 

@@ -35,6 +35,7 @@ release_date: 2025-08-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,34 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Child of fire, born to rise,  
-Echo lives where silence dies.  
-Spirit burning, spirit free,  
-Shadows fall but cannot be.  
-
-Age is dust, the dream will stay,  
-Night consumes but won’t decay.  
-Carry wonder, fierce and true,  
-Darkness fades — the spark breaks through.  
-
-Whispers call, the soul ignites,  
-Breath of dawn in endless nights.  
-Flame eternal, never tame,  
-Light survives within the name.  
-
-Enthusiasm, fever, flame,  
-Blood remembers, calls your name.  
-Chains of time can’t hold the core,  
-Child within forevermore.  
-
-
-Secret buried, yet revealed,  
-Power endless, never sealed.  
-Genius rises, shadows fall,  
-Child inside outshines it all.
 
 ## Production notes
 

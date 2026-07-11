@@ -33,6 +33,7 @@ release_date: 2025-06-12
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,38 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-=====  
-
-
-Du – oder Feind  
-Einer lebt, der andere weint  
-Kampf bis Tod  
-Sieg ist Gebot  
-
-Keiner steht still  
-Es kommt zu dir  
-Willst du nicht –  
-Es nimmt dich hier  
-
-Du wählst nicht  
-Kein Wille frei  
-Zerbrich den Traum  
-Die Zeit ist Blei  
-
-Kein Erbarmen  
-Kein Gefühl  
-Der Weg ist stumm  
-Und dennoch schwül  
-
-Kein Zittern  
-Kein Preis  
-Nur Sieger –  
-oder Eis  
-
-English
 
 ## Production notes
 

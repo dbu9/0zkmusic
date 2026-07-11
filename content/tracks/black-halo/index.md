@@ -39,6 +39,7 @@ release_date: 2026-06-15
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -60,53 +61,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Your eyes were snow,  
-I let them glow.  
-My hands were flame,  
-You spoke my name.  
-
-We broke the sky,  
-We learned to lie.  
-Your kiss was rain,  
-It taught me pain.  
-
-Black halo, fall on me,  
-Burn the ghost I used to be.  
-Call my name inside the rain,  
-Break my heart alive again.  
-
-You left no door,  
-I loved you more.  
-You turned to stone,  
-I slept alone.  
-
-The moon went blind,  
-Inside my mind.  
-Your voice stayed near,  
-A knife of fear.  
-
-Black halo, fall on me,  
-Burn the ghost I used to be.  
-Call my name inside the rain,  
-Break my heart alive again.  
-
-No dawn can rise,  
-Behind your eyes.  
-No prayer can stay,  
-Where you decay.  
-
-I wear your scar,  
-Like one dead star.  
-It gives me light,  
-It kills the night.  
-
-Black halo, fall on me,  
-Burn the ghost I used to be.  
-Call my name inside the rain,  
-Break my heart alive again.
 
 ## Production notes
 

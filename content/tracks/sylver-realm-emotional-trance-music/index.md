@@ -37,6 +37,7 @@ release_date: 2025-05-06
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -62,32 +63,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-Beneath the silver sky, there lies a quiet land,  
-With gates like crystal glass and stars on every strand.  
-There songs are born of wind, and rivers hum in light,  
-And beasts of holy silence walk beneath the night.  
-
-One bears a crown of flame, with mane of flowing gold,  
-Another, deep as oceans, wise and blue and old.  
-And high above them circles still  
-A bird whose gaze the soul can feel.  
-
-A single star alights the endless silent dome,  
-It shines for you, my dearest one — it guides you home.  
-For love is love returned, and light is always right,  
-And through the star you’ll walk into the garden bright.  
-
-You’ll meet the lion crowned in flame,  
-The gentle beast no words can tame,  
-And by them soars the golden dove,  
-Whose glance remembers all your love...
 
 ## Production notes
 

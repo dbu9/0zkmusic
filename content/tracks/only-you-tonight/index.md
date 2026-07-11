@@ -37,6 +37,7 @@ release_date: 2026-06-09
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,66 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-City lights are falling  
-Softly on your face  
-Every beat is calling  
-Pulling me your way  
-
-We don’t need a reason  
-We don’t need a sign  
-Lost inside the rhythm  
-Your heart next to mine  
-
-Only you tonight  
-Only you can make me fly  
-In the neon light  
-We’re dancing through the sky  
-
-Only you tonight  
-Only you and I collide  
-Like a dream alive  
-Don’t let the morning find us  
-
-Your touch is like a whisper  
-Burning through the blue  
-Every little moment  
-Leads me back to you  
-
-Music in the silence  
-Stars beneath our feet  
-Nothing feels so distant  
-When you dance with me  
-
-Only you tonight  
-Only you can make me fly  
-In the neon light  
-We’re dancing through the sky  
-
-Only you tonight  
-Only you and I collide  
-Like a dream alive  
-Don’t let the morning find us  
-
-Stay with me  
-Close to me  
-Feel the night breathe slowly  
-
-Stay with me  
-Set me free  
-You’re the light inside me  
-
-Only you tonight  
-Only you can make me fly  
-In the neon light  
-We’re dancing through the sky  
-
-Only you tonight  
-Only you and I collide  
-Like a dream alive  
-Don’t let the morning find us
 
 ## Production notes
 

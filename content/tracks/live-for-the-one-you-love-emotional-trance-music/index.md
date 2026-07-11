@@ -33,6 +33,7 @@ release_date: 2025-03-14
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,32 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-Run or stay, don’t look back,  
-You can’t change the past like that.  
-Joy is just a fleeting light,  
-Words don’t matter, feel what’s right.  
-
-Let it go, just set it free,  
-Feel the rush, let it be.  
-Open up, don’t hold it in,  
-Let the love begin.  
-
-You just wanna feel the love,  
-Turn the night to something bright.  
-Let the past fade away,  
-Bring the lost into the light.  
-
-So live for the one you love.  
-So live for the one you love.  
-So live for the one you love.  
-So live for the one you love.
 
 ## Production notes
 

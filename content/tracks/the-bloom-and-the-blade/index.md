@@ -37,6 +37,7 @@ release_date: 2025-07-14
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,48 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I met her down by the blackened stream,  
-Where the dusk devours the day,  
-Her eyes were thorns, her lips a dream,  
-And silence paved her way.  
-
-She said, "The roses speak in red,"  
-And pressed one to her chest.  
-"But love," she sighed, "is born to bleed—  
-It cannot long find rest."  
-
-I brought her wine, I brought her flame,  
-I wrote her name in sand.  
-She kissed the wound, she cursed the blame,  
-And took me by the hand.  
-
-"Each petal hides a secret sin,"  
-She whispered with a smile.  
-"The bloom begins where knives dig in,  
-Stay with me for a while."  
-
-The moon grew pale, the night grew still,  
-The forest held its breath—  
-She danced upon the chapel hill  
-And sang a hymn to death.  
-
-I held her close, I held her tight,  
-The wind began to howl.  
-I saw the blade, I felt the bite,  
-The sky began to scowl.  
-
-They found me there with bloodstained hands,  
-Beside the crimson flower.  
-They said, "He loved her past the end—  
-She bloomed, then claimed her power."  
-
-Now every year, where wild things grow,  
-A single rose appears.  
-And lovers pass, but none will know  
-The cost of love and tears.
 
 ## Production notes
 

@@ -37,6 +37,7 @@ release_date: 2025-02-11
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,34 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-🎵 Lyrics to "Be a Little Weaker, Please" 🎵  
-
-
-Be a little weaker, please,  
-A little less unshakable...  
-Let me sense, at least for once,  
-That you truly need me.  
-
-Let me feel I'm not in vain,  
-Not just a shadow by your side,  
-That in this vast and fleeting world,  
-I'm more than just a passerby.  
-
-Be a little weaker, please,  
-Just for a moment, not for long…  
-Let your strength not be a fortress  
-That keeps my tenderness withdrawn.  
-
-Let me guard you from the night,  
-From storms that rage and winds that wail,  
-Let me be the one who shields you,  
-When your strength begins to pale.  
-
-Be a little weaker, please...  
-So I can stand up strong for you.
 
 ## Production notes
 

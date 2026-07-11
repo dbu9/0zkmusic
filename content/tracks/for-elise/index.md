@@ -33,6 +33,7 @@ release_date: 2025-10-15
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,38 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Einst war ein Licht an meinem Haus,  
-es ging nie fort, es brannte aus.  
-Ein leiser Klang, ein ferner Traum,  
-verweht im Wind, im alten Raum.  
-
-Elise, du bleibst bei mir,  
-in jeder Stunde, tief in mir.  
-Die Zeit verrinnt, der Klang vergeht,  
-doch dein Motiv im Herzen steht.  
-
-Der Mond, er flüstert still und sacht,  
-von deiner Hand, von jener Nacht.  
-Die Tasten weinen leis und rein,  
-sie wollen ewig bei dir sein.  
-
-Elise, mein Herz, mein Glück,  
-kein Weg führt je zu dir zurück.  
-Doch spielt der Wind dein sanftes Lied,  
-das nie aus meiner Seele zieht.  
-
-Wenn auch der Morgen dich vergißt,  
-dein Name in den Tönen ist.  
-Und jede Träne, die mir fällt,  
-klingt wie dein Gruß aus jener Welt.  
-
-Elise, Erinnerung,  
-dein Klang bleibt ewig jung.  
-Und wenn die Zeit verweht, verfliegt,  
-mein Herz dein Lied noch immer wiegt.
 
 ## Production notes
 

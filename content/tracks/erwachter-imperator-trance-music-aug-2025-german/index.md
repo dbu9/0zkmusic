@@ -33,6 +33,7 @@ release_date: 2025-08-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,28 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Deine Geschichte brennt im Licht,  
-Vergessen – doch sie spricht.  
-Krieger, du bist nicht verloren,  
-Aus der Asche neu geboren.  
-
-Schlaf hat deine Kraft gebrochen,  
-Doch die Flammen sind entflohen.  
-Öffne Flügel, reiß sie weit,  
-Schatten weichen deiner Zeit.  
-
-Sie legten Asche auf dein Haupt,  
-Doch dein Erbe bleibt, vertraut.  
-Sieh, die Ketten fallen nieder,  
-Hör den Ruf der alten Lieder.  
-
-Du bist Sieger, du bist Thron,  
-Unerschütterlich, wie Stein, wie Kron’.  
-Keine Scham im Glanz der Macht,  
-Dein Imperium erwacht in Nacht.
 
 ## Production notes
 

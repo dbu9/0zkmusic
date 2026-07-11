@@ -33,6 +33,7 @@ release_date: 2025-11-03
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,42 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-A thought appears.  
-The air shifts.  
-Light bends.  
-Time drifts.  
-
-Dreams unfold.  
-The silence hums.  
-Worlds awaken.  
-The future comes.  
-
-You think — it grows.  
-You breathe — it flows.  
-From mind to flame,  
-All things have name.  
-
-Shadows fall.  
-The stars ignite.  
-A wish becomes  
-A thread of light.  
-
-No sound.  
-No form.  
-Just will —  
-Becoming storm.  
-
-You think — it grows.  
-You breathe — it flows.  
-Within your thought,  
-The cosmos glows.  
-
-All begins.  
-All ends.  
-In thought.
 
 ## Production notes
 

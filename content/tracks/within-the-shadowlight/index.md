@@ -37,6 +37,7 @@ release_date: 2025-08-08
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,33 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-In the silence, truth will hide,  
-Not in echoes from outside.  
-Eyes may wander, hearts may stray,  
-But your flame won’t fade away.  
-
-Chasing faces in the crowd,  
-Leaves the soul without a sound.  
-Mirrors break, the glass will fall,  
-Only you can hear the call.  
-
-Shadowlight — it burns within,  
-Not in others, not in sin.  
-Shadowlight — it calls to you,  
-Find the path, and make it true.  
-
-No reflection holds the key,  
-Chains will break when you can see.  
-Darkness folds, the night will clear,  
-Your own sun is always near.  
-
-Shadowlight — it burns within,  
-Not in others, not in sin.  
-Shadowlight — it calls to you,  
-Find the path, and make it true.
 
 ## Production notes
 

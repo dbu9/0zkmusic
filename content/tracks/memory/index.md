@@ -33,6 +33,7 @@ release_date: 2025-05-21
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -50,55 +51,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-I hear a sound, I see a light  
-And suddenly I lose the fight  
-I’m back beneath a younger sky  
-Where time stood still, and so did I  
-
-No past, no name, no need to run  
-The child I was, the only one  
-A scent, a breeze, a golden tone  
-And I remember I’m not alone  
-
-Take me back, take me home  
-To the place I used to know  
-Where the stars would speak in code  
-And the silence softly glowed  
-Whispers calling through the door  
-Of the world I knew before  
-In the echoes, I am free  
-And the child returns in me  
-
-A hallway dim, a secret room  
-A summer night, a lullaby tune  
-No questions asked, no need to try  
-Just wonder glowing in my eyes  
-
-No past, no name, no need to run  
-The child I was, the only one  
-A scent, a breeze, a golden tone  
-And I remember I’m not alone  
-
-Take me back, take me home  
-To the place I used to know  
-Where the stars would speak in code  
-And the silence softly glowed  
-Whispers calling through the door  
-Of the world I knew before  
-In the echoes, I am free  
-And the child returns in me  
-
-Just for a breath, I cross the line  
-To touch a self I left behind  
-Then it fades—but leaves a trace  
-The child I was… still knows this place
 
 ## Production notes
 

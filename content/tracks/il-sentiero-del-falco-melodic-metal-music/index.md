@@ -33,6 +33,7 @@ release_date: 2025-05-09
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,46 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-🇮🇹🇮🇹  
-
-Nel silenzio delle voci spente,  
-tra le ombre lente e indifferenti,  
-cammino sola, senza nome,  
-nel vento freddo che non ha perdone.  
-
-Ogni parola è una ferita,  
-ogni respiro, una preghiera smarrita...  
-
-Troverai il sentiero, o falco fiero,  
-oltre l’eco e il cielo nero.  
-Nel vuoto eterno volerai,  
-tra stelle spente troverai  
-la verità che il mondo nega ormai...  
-
-Nel buio dove il tempo tace,  
-dove l’anima non ha più pace,  
-nessuna luce, nessun perché—  
-solo silenzi che portano a te.  
-
-Tra la fine e l’infinito,  
-si apre il cielo mai tradito...  
-
-Troverai il sentiero, o falco fiero,  
-oltre l’ombra e il deserto intero.  
-Nel gelo alto volerai,  
-dove la vita si spezzerà  
-per rinascere nell’eternità.  
-
-(Volerai… senza catene…)  
-(Ascolta… il richiamo silenzioso…)  
-
-Vola, falco, verso il destino,  
-tra morte e luce, senza cammino.  
-Nel vuoto canta il tuo addio—  
-e trova il cielo solo tuo.
 
 ## Production notes
 

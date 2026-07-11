@@ -37,6 +37,7 @@ release_date: 2026-06-09
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,73 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-In the neon rain,  
-I can feel you close.  
-Through the midnight haze,  
-You’re the one I chose.  
-
-Every beat we lost,  
-Every dream we made,  
-Comes alive again  
-When the night turns late.  
-
-Whisper my name,  
-When the lights go down.  
-Pull me back again,  
-From the silent crowd.  
-
-Whisper my name,  
-Like a secret flame.  
-I will find you there,  
-Calling out the same.  
-
-Oh-oh, in the dark we shine,  
-Your heartbeat next to mine.  
-Oh-oh, through the endless night,  
-We disappear in light.  
-
-I was running far,  
-From the sound of you.  
-But the stars all know  
-Where my soul runs to.  
-
-Every lonely road,  
-Every empty sky,  
-Turns to gold again  
-When you’re by my side.  
-
-Whisper my name,  
-When the lights go down.  
-Pull me back again,  
-From the silent crowd.  
-
-Whisper my name,  
-Like a secret flame.  
-I will find you there,  
-Calling out the same.  
-
-Say it slow, say it true,  
-I belong to the echo of you.  
-Say it now, say it loud,  
-Lift me high above the crowd.  
-
-Whisper my name,  
-When the lights go down.  
-Pull me back again,  
-From the silent crowd.  
-
-Whisper my name,  
-Like a secret flame.  
-I will find you there,  
-Calling out the same.  
-
-Whisper my name…  
-Whisper my name…  
-In the dark we shine,  
-Your heartbeat next to mine.
 
 ## Production notes
 

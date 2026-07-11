@@ -35,6 +35,7 @@ release_date: 2026-02-14
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,26 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-"Edge of Eternity" – an intense cinematic chillstep full album, Aurora Night-inspired but amplified: heavier wobbly drops, deep rumbling subs, lush reverby pads, dramatic piano, fast builds to epic emotional releases, and powerful, breathy soaring female vocals at 110 BPM.  
-
-Paired with stunning visuals of graceful female figure skaters in sparkling costumes — silhouettes against dramatic lighting, ethereal poses, mist-filled arenas, and intense extensions on the ice. The perfect fusion of uplifting melancholy and high-energy drive.  
-
-Ideal for night vibes, focus sessions, workouts, or feeling that edge-of-tears intensity.  
-
-*Tracklist*  
-0:00 01 - Unbreakable Arc  
-3:20 02 - Evening shelter  
-6:35 03 - Gaze of the Stars  
-9:44 04 - Flame Eternal  
-13:00 05 - Never Fades  
-16:38 06 - I can see you  
-20:57 07 - I've never felt this close to the edge  
-
-
-If you love emotional electronic like Aurora Night, Blackmill, or intense chill with visuals — LIKE, SUBSCRIBE & hit the bell 🔔
 
 ## Production notes
 

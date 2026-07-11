@@ -37,6 +37,7 @@ release_date: 2025-03-24
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,28 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You look at me, but never see,  
-A shadow lost in memory.  
-You speak as if you understand,  
-But never touched the place I stand.  
-
-We’re inches close, yet worlds apart,  
-Like mirrored dreams inside the dark.  
-Two minds that drift, two souls alone,  
-Together, yet we've never known.  
-
-I don’t believe in finding "true",  
-I never hoped I'd resonate with you.  
-This love is static, undefined,  
-A signal lost across the lines.  
-
-But still we dance in distant fire,  
-Bound by something we can’t admire.  
-A parallel, a fleeting spark,  
-That fades before it leaves a mark.
 
 ## Production notes
 

@@ -37,6 +37,7 @@ release_date: 2025-10-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,10 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-For all covers: https://www.youtube.com/watch?v=POPt97-7Mr4&list=PLb8iaT5Qp7625r_eXGxDn2FTfjD0eg34M
 
 ## Production notes
 

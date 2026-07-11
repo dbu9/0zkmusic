@@ -31,6 +31,7 @@ release_date: 2025-09-16
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -50,32 +51,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I walk among cities  
-Empty glass towers  
-Whispers in the stone  
-No exit, no door  
-
-Shadows follow shadows  
-Every street repeats  
-The lights are hollow suns  
-Cold, unyielding, dead  
-
-I touch the walls  
-They breathe with silence  
-I speak—no echo  
-Only the hum of dust  
-
-Corridors stretch forever  
-Windows open to nothing  
-The sky is a mirror  
-Cracked, black, blind  
-
-I walk among cities  
-Lost  
-No exit
 
 ## Production notes
 

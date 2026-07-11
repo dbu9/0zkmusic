@@ -33,6 +33,7 @@ release_date: 2026-02-28
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,25 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Белая берёза  
-Под моим окном  
-Принакрылась снегом,  
-Точно серебром.  
-На пушистых ветках  
-Снежною каймой  
-Распустились кисти  
-Белой бахромой.  
-И стоит берёза  
-В сонной тишине,  
-И горят снежинки  
-В золотом огне.  
-А заря, лениво  
-Обходя кругом,  
-Обсыпает ветки  
-Новым серебром.
 
 ## Production notes
 

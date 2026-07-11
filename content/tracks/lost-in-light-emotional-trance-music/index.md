@@ -35,6 +35,7 @@ release_date: 2025-02-27
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,38 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-In your dream, I hear you call,  
-Echoes rise and softly fall,  
-Through the dark, I see your face,  
-Fading slow, but leaves no trace.  
-
-Lost in the light, I'm falling deeper,  
-Caught in the waves, you're my keeper,  
-Open my heart, don't let it break,  
-Holding on for love’s own sake.  
-
-Through the stars, we chase the night,  
-Burning bright, but out of sight,  
-Every touch, a spark remains,  
-Love and fire in our veins.  
-
-Lost in the light, I'm falling deeper,  
-Caught in the waves, you're my keeper,  
-Open my heart, don't let it break,  
-Holding on for love’s own sake.  
-
-Let the sound pull us high,  
-Weightless as we touch the sky,  
-No more fear, just you and me,  
-Drifting on infinity.  
-
-Lost in the light, I hear you say,  
-Love won’t ever fade away.
 
 ## Production notes
 

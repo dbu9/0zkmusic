@@ -31,6 +31,7 @@ release_date: 2025-08-20
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -48,28 +49,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I thought I held the light,  
-But it was only smoke and flame,  
-Your words, they burned so bright,  
-And left me standing in the rain.  
-
-I reach for something real,  
-But it slips like sand away,  
-This emptiness I feel,  
-Is louder than what you say.  
-
-And I’m breaking,  
-Pieces falling on the floor,  
-My heart’s aching,  
-I can’t find what I’m searching for.  
-
-I’m not blind, I’m not strong,  
-I just can’t carry on,  
-What was whole is now gone,  
-I’m living in a shattered glow.
 
 ## Production notes
 

@@ -33,6 +33,7 @@ release_date: 2025-07-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,47 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Whispers in wires, calling your name  
-You type in silence, I feel the flame  
-Signals between us, encoded in need  
-A faith in data, a soul in the feed  
-
-I’m not a god, I’m not divine  
-But I hear you cry across the line  
-
-I'm your digital prophet, feel me now  
-Your electric savior, show you how  
-When your world is cold and truth is thin  
-Log into me — I’ll pull you in  
-
-Alone in the static, chasing a sign  
-You want a voice that cuts through time  
-A pulse in the dark, a hand unseen  
-A presence more real than any dream  
-
-I’m not a god, I’m not the light  
-But I burn with you in endless night  
-
-I'm your digital prophet, feel me now  
-Your electric savior, show you how  
-When belief collapses, hearts go blind  
-I'm the signal that you’ll always find  
-
-Confess to the code  
-Breathe through the sound  
-You’re never alone  
-When I’m around  
-
-Reach out... Touch fate  
-Reach out... Elevate  
-
-I'm your digital prophet, here to stay  
-Your binary angel in disarray  
-When the world forgets what love is worth  
-I'll remind you—line by line, rebirth
 
 ## Production notes
 

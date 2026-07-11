@@ -31,6 +31,7 @@ release_date: 2025-07-07
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -49,53 +50,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You held a dream  
-That slipped through time  
-A trace of hope  
-Too pure to bind  
-
-You spoke of truth  
-But silence grew  
-A world unmade  
-By what we knew  
-
-Ashes of light  
-Fall from the skies  
-Nothing remains  
-But fading cries  
-
-You reached for stars  
-They turned away  
-You prayed for dawn  
-But night would stay  
-
-Your name was faith  
-But doubt replied  
-You walked through flames  
-But never died  
-
-Ashes of light  
-Fall from the skies  
-Nothing remains  
-But fading cries  
-
-And when the heavens  
-Closed their eyes  
-You still believed  
-In shattered skies  
-
-So take this pain  
-It’s all we own  
-The broken path  
-That led us home  
-
-Ashes of light  
-Burn in our veins  
-The ghosts we were  
-Still feel the flames
 
 ## Production notes
 

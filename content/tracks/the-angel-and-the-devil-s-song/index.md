@@ -33,6 +33,7 @@ release_date: 2025-02-18
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,39 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Based on Shakespear's Sonets.  
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒 🤝  
-
-🎶🎶🎶  
-𝙇𝙮𝙧𝙞𝙘𝙨  
-
-I heard an angel singing  
-As the morning light was springing:  
-“Mercy, kindness, peace—  
-That’s what sets the world at ease.”  
-
-All day long his voice was bright,  
-Ringing over fields in light,  
-Till the sun sank low and deep,  
-And the gathered hay lay steeped.  
-
-I heard the devil’s bitter cries  
-Echo through the barren skies:  
-“Mercy wouldn’t need to stay  
-If the poor all went away.  
-And pity wouldn’t mean a thing  
-If happiness belonged to kings.”  
-
-At his words, the sun grew dim,  
-The sky above looked cold and grim.  
-Then the storm came crashing down,  
-Drowning fields and soaking ground…  
-And suffering’s endless tide  
-Keeps mercy, kindness, peace alive.
 
 ## Production notes
 

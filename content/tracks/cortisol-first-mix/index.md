@@ -37,6 +37,7 @@ release_date: 2025-07-17
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,33 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Cortisol first—sharp like a blade,  
-Breaking the will that progress made.  
-Heavy the breath, slower the beat,  
-Fire in muscle, doubt in feet.  
-
-I stay the course, I bear the flame,  
-Each aching pulse, a sacred game.  
-No soft arrival, no easy win,  
-Only the storm can call it in.  
-
-Through gritted will, the rhythm grows,  
-The silence cracks, the tension flows.  
-I feel the shift, the pain turns thin—  
-The gates unlock, and light floods in.  
-
-Endorphine comes, late but pure,  
-A secret prize for those who endure.  
-It rides the wave, it soars, it sings—  
-Born in the ash of suffering things.  
-
-Cortisol first—then if you stay,  
-Endorphine dances and leads the way.  
-One is trial, one is grace,  
-Both are written on my face.
 
 ## Production notes
 

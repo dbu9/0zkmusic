@@ -33,6 +33,7 @@ release_date: 2025-03-22
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,14 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-1. 00:00 - Oblivion  
-2. 04:32 - Nice book  
-3. 08:18 - I saw this face  
-4. 10:59 - Deliverance  
-5. 15:01 - Deep Sleep
 
 ## Production notes
 

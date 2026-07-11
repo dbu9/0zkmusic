@@ -37,6 +37,7 @@ release_date: 2026-06-22
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,83 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Letzter Zug  
-Nasser Stein  
-Keine Stimme  
-Steigt mit ein  
-
-Ich geh fort  
-Ich geh fort  
-Ich geh fort  
-Ohne Ziel  
-
-Weiter raus  
-Weiter raus  
-Durch den Rauch  
-Durch den Frost  
-
-Was ich war  
-Bleibt zurück  
-Nur ein Schatten  
-Nur ein Stück  
-
-Neon stirbt  
-Über mir  
-Kalte Fenster  
-Sehen hier  
-
-Ich geh fort  
-Ich geh fort  
-Ich geh fort  
-Ohne Ziel  
-
-Weiter raus  
-Weiter raus  
-Durch den Rauch  
-Durch den Frost  
-
-Auf den Straßen  
-Liegt kein Klang  
-Jeder Morgen  
-Fühlt sich krank  
-
-Keine Namen  
-Keine Tür  
-Nur der Regen  
-Folgt noch mir  
-
-Weiter raus  
-Weiter raus  
-Durch den Rauch  
-Durch den Frost  
-
-Alles leise  
-Alles leer  
-Meine Schritte  
-Werden schwer  
-
-Ich verschwinde  
-Ich verschwinde  
-Ich verschwinde  
-In der Zeit  
-
-Weiter raus  
-Weiter raus  
-Durch den Rauch  
-Durch den Frost  
-
-Weck die Stadt nicht  
-Frag mich nicht  
-Lass die Lichter  
-Hinter sich  
-
-Weiter raus  
-Weiter raus  
-Durch den Rauch  
-Durch den Frost
 
 ## Production notes
 

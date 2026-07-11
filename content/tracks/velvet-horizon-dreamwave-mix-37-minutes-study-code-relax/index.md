@@ -33,6 +33,7 @@ release_date: 2025-07-10
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,23 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-If you enjoy the music, don't forget to *like* , *share* , *comment* and *subscribe*  🫂  
-
-*TRACKLIST*  
-
-00:00 Chrome Tears  
-03:49 Distant Lovers in Static  
-08:11 Fading into Tomorrow  
-11:25 Lost in Analog  
-14:41 Midnight Frequencies  
-17:11 Mirage Memory  
-20:58 Neon Reverie  
-24:53 Radiowaves of You  
-28:49 Slow Dive into Neon  
-32:29 Velvet Horizon
 
 ## Production notes
 

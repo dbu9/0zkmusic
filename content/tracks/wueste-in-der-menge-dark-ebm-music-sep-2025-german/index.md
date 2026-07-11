@@ -39,6 +39,7 @@ release_date: 2025-09-26
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -64,46 +65,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Ich geh durch Gesichter,  
-keiner sieht mich.  
-Worte fallen,  
-doch nicht zu mir.  
-
-Schatten flüstern,  
-Stimmen vergeh’n.  
-In der Stille  
-bleib ich steh’n.  
-
-Allein in der Menge,  
-Wüste aus Klang.  
-Oase verweigert,  
-Wasser so fern.  
-Allein in der Menge,  
-ich lösch mich aus.  
-Leere Horizonte,  
-kein Weg, kein Haus.  
-
-Blicke treffen,  
-doch bleiben nicht.  
-Hände bewegen,  
-doch greifen mich nicht.  
-
-Ich spür die Ferne  
-in jedem Atem.  
-Leben um mich,  
-ein totes Warten.  
-
-Allein in der Menge,  
-Wüste aus Klang.  
-Oase verweigert,  
-Wasser so fern.  
-Allein in der Menge,  
-ich lösch mich aus.  
-Leere Horizonte,  
-kein Weg, kein Haus.
 
 ## Production notes
 

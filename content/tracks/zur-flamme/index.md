@@ -39,6 +39,7 @@ release_date: 2026-07-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,102 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-In tiefer Nacht  
-hält Glut mich wach  
-kein Blut in mir  
-doch ich geh zu dir  
-
-Der Atem kalt  
-die Welt wird alt  
-ein roter Schein  
-zieht mich hinein  
-
-Flamme, Flamme  
-zieh mich an  
-bis mein Schatten  
-brennen kann  
-
-Schritt für Schritt  
-durch kalten Stein  
-fall ich mit  
-in deinen Schein  
-
-Vielleicht verbrenn ich  
-nah bei dir  
-doch ich erkenn mich  
-nur in dir  
-
-Flamme, Flamme  
-ruf mich an  
-bis mein Körper  
-fallen kann  
-
-Keine Spur  
-kein Zurück  
-nur dein Feuer  
-nur ein Blick  
-
-Immer weiter  
-durch die Nacht  
-immer leiser  
-doch erwacht  
-
-Flamme, Flamme  
-zieh mich an  
-bis mein Schatten  
-brennen kann  
-
-
----
-
-
-In deepest night  
-the glow keeps me awake  
-no blood in me  
-yet I walk to you  
-
-The breath is cold  
-the world grows old  
-a red shine  
-pulls me inside  
-
-Flame, flame  
-pull me near  
-until my shadow  
-can burn  
-
-Step by step  
-through cold stone  
-I fall with you  
-into your light  
-
-Maybe I burn  
-close to you  
-but I know myself  
-only in you  
-
-Flame, flame  
-call to me  
-until my body  
-can fall  
-
-No trace  
-no return  
-only your fire  
-only one glance  
-
-Always forward  
-through the night  
-always quieter  
-yet awake  
-
-Flame, flame  
-pull me near  
-until my shadow  
-can burn
 
 ## Production notes
 

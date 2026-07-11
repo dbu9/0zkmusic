@@ -33,6 +33,7 @@ release_date: 2025-03-12
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -48,30 +49,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-Lúmëa lissë, undómë taina,  
-silmë laita, i aira lúmë,  
-neldë súrë, lírë mírë,  
-elenna lírë, serë nárë.  
-
-Mára ambar, vinya yána,  
-sílanë elen, sílanë órë,  
-naur i aiwë, lissë lómi,  
-nai laurëa, nai mára.  
-
-Nahta lassë, lirë sirya,  
-lúmë elda, sí ar lúmë,  
-mórenya quetë, alta vanwa,  
-na mátë, na serë.  
-
-Sílanë elen, lissë yéni,  
-nai calma, nai sérë.
 
 ## Production notes
 

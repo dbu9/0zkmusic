@@ -37,6 +37,7 @@ release_date: 2025-07-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,46 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-In silence, I walked through the ruins of light  
-Where promises echoed, then vanished from sight  
-The stars had gone cold, no answers remain  
-Just whispers of hope drowned in memory's rain  
-
-You said we'd never fall  
-But silence buried all  
-The dream we dared to claim  
-Now only shadows call my name  
-
-I am the ghost of what we made  
-A voice that time could not persuade  
-The night devours what light pretends  
-And every truth betrays in the end  
-
-I held on too long to a fading flame  
-Now ashes are all that remain  
-The world moves, but leaves me behind  
-Forsaken, by mercy, by humankind  
-
-Forsaken… forgotten… abandoned… alone  
-The echoes… the silence… they’ve turned me to stone  
-
-Was I ever seen?  
-Was it all a dream?  
-Or just a place to fall  
-When hope lost all meaning at all?  
-
-I am the ghost of what we made  
-A voice that time could not persuade  
-The night devours what light pretends  
-And every truth betrays in the end  
-
-Let the stars forget my name  
-Let the world turn, just the same  
-But somewhere deep, the shadows know  
-What light refused to ever show
 
 ## Production notes
 

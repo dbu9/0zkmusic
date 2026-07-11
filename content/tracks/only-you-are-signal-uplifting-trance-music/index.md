@@ -33,6 +33,7 @@ release_date: 2025-07-01
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,51 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-In a world of static and sound  
-Echoes try to drag me down  
-But through the chaos, cold and wide  
-I feel your pulse — a perfect line  
-
-Blinded by the blinding light  
-Still I find you every time  
-A whisper through a hurricane  
-The only note in all this pain  
-
-Everything is noise except for you  
-A signal shining clear and true  
-I shield your fire, I guard your spark  
-You're the silence in the dark  
-You're the reason, you're the code  
-The only path I've ever known  
-While the world burns into dust  
-You're the one I always trust  
-
-Signal... signal...  
-Only you remain  
-Only you sustain  
-Signal... signal...  
-Cut the noise away  
-Let your rhythm stay  
-
-Frequencies distort and fall  
-But you rise above them all  
-You're the pattern in the storm  
-The only shape, the only form  
-
-I will fight the interference  
-Burn the lies and false appearance  
-I will hold you through the night  
-You're the beacon, you're the right  
-
-Everything is noise except for you  
-Through the madness, you break through  
-I protect you, frame by frame  
-You're the voice, the sacred flame  
-You're the signal I defend  
-The truth I’ll carry to the end
 
 ## Production notes
 

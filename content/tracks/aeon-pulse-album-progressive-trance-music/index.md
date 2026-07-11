@@ -37,6 +37,7 @@ release_date: 2025-07-23
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,23 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-*TrackList*  
-
-1. Solar Rapture – 0:00  
-2. Jupiter Voice – 5:07  
-3. Astral Thrust – 10:05  
-4. Chant of the Reactor – 15:23  
-5. Core of the Spiral – 21:28  
-6. Glowing Dust – 25:50  
-7. Halo Burn – 33:08  
-8. Plasma Ascend – 35:47  
-9. Quantum Foam – 42:32  
-10. Radiant Cascade – 47:19  
-11. Translight Choir – 54:14  
-12. Velocity of Grace – 1:00:18
 
 ## Production notes
 

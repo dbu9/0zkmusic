@@ -39,6 +39,7 @@ release_date: 2026-06-28
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,78 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Strange weed  
-Secret seed  
-In the night  
-Breathing light  
-
-Moon glass  
-Moments pass  
-Velvet rain  
-Softly stains  
-
-I don’t know  
-Where I go  
-I just slide  
-Through the tide  
-
-Strange weed  
-Velvet seed  
-Calls my name  
-Feeds the flame  
-
-Strange weed  
-Strange weed  
-Pulls me low  
-Lets me go  
-
-Blue smoke  
-Silent joke  
-Every wall  
-Starts to fall  
-
-No street  
-Only beat  
-No more time  
-Only rhyme  
-
-I don’t know  
-Where I go  
-Half awake  
-Softly break  
-
-Strange weed  
-Velvet seed  
-Calls my name  
-Feeds the flame  
-
-Strange weed  
-Strange weed  
-Pulls me low  
-Lets me go  
-
-Eyes bloom  
-In the room  
-Shadows bend  
-Never end  
-
-Lights crawl  
-Through the wall  
-I can see  
-What sees me  
-
-Strange weed  
-Sacred seed  
-Not a lie  
-Not the sky  
-
-Strange weed  
-Strange weed  
-Pulls me low  
-Lets me go
 
 ## Production notes
 

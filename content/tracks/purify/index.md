@@ -35,6 +35,7 @@ release_date: 2025-07-06
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,49 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Run  
-Breathe  
-Feel  
-Get stronger  
-Inhale  
-
-Each step — fire  
-Each breath — steel  
-Cells ignite  
-Nerves reveal  
-
-Blood is rushing  
-Veins expand  
-Oxygen storm  
-Take command  
-
-Clean the pain  
-Burn the past  
-Pulse is rising  
-Fast, fast, fast  
-
-Sweat is truth  
-Motion is law  
-Muscle screams  
-But shows no flaw  
-
-Flesh obeys  
-Mind is clear  
-No more doubt  
-No more fear  
-
-Purge the dark  
-Fuel the flame  
-Every second  
-Kills the shame  
-
-Heart like hammer  
-Bones like glass  
-Break yourself  
-Then surpass
 
 ## Production notes
 

@@ -35,6 +35,7 @@ release_date: 2025-04-16
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,39 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-There is a path the wind forgets,  
-And she walks it.  
-
-The mountain does not know her name,  
-Yet it bears her weight without question.  
-
-She is clothed in silence.  
-No song greets her, no voice warns her.  
-
-What is the purpose of ascent,  
-If all things are brought low?  
-
-The grass remembers nothing.  
-It dances, but it does not rejoice.  
-It sways, but it does not see.  
-
-Under her steps, the world does not break,  
-It yields—  
-Like time,  
-Like memory.  
-
-She walks,  
-And the sky watches  
-But does not speak.  
-
-All things wither.  
-Even the sun forgets to shine forever.  
-Even the soul,  
-If it wanders long enough,  
-Becomes the wind it chases
 
 ## Production notes
 

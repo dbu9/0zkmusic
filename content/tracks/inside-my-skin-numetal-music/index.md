@@ -33,6 +33,7 @@ release_date: 2025-07-15
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,48 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I feel the weight  
-Of things unsaid  
-They echo loud  
-Inside my head  
-
-The mirror cracks  
-But shows no face  
-I try to scream  
-It leaves no trace  
-
-My hands are mine  
-But feel too far  
-Like wearing flesh  
-That never scars  
-
-A voice I hear  
-Is not my own  
-It drags me down  
-Through blood and bone  
-
-I fight to breathe  
-But drown in air  
-I beg for light  
-But nothing's there  
-
-This isn’t me—  
-Or maybe it is  
-I lose myself  
-In what I miss  
-
-I try to stand  
-But something pulls  
-A thousand knives  
-Beneath my skull  
-
-Each day I crawl  
-Through hollow skin  
-Not sure where I end  
-Or where I begin
 
 ## Production notes
 

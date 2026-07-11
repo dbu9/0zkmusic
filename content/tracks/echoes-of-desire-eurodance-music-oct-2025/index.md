@@ -35,6 +35,7 @@ release_date: 2025-10-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,38 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Whispered night, the city sleeps  
-I chase the fire, your heartbeat speaks  
-Through the silence, you pull me near  
-Your shadow’s song is all I hear  
-
-Echoes of desire, burning in the dark  
-You’re the only rhythm, written on my heart  
-Every breath is trembling, falling into you  
-Echoes of desire, carrying me through  
-
-The waves collide, we lose control  
-Your voice a spark, it makes me whole  
-No distance now, no world apart  
-We live forever in this spark  
-
-Echoes of desire, burning in the dark  
-You’re the only rhythm, written on my heart  
-Every breath is trembling, falling into you  
-Echoes of desire, carrying me through  
-
-Hold me tighter, don’t let go  
-Time dissolves in afterglow  
-Endless night, your eyes confess  
-Love’s refrain in every breath  
-
-Echoes of desire, burning in the dark  
-You’re the only rhythm, written on my heart  
-Every breath is trembling, falling into you  
-Echoes of desire, carrying me through
 
 ## Production notes
 

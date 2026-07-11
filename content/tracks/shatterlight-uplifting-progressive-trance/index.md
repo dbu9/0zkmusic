@@ -39,6 +39,7 @@ release_date: 2025-07-02
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -62,43 +63,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You held the light  
-Like fire in glass  
-A spark too bright  
-Too soft to last  
-
-You spoke in gold  
-But silence stayed  
-Your warmth was cold  
-Your colors—fade  
-
-I chased the sound  
-Of dreams you sold  
-They spun around  
-Then left me cold  
-
-No truth, no flame  
-Just drifting eyes  
-No name, no shame  
-Just lullabies  
-
-You touched the void  
-With hands so still  
-A hope destroyed  
-By silent will  
-
-I called your name  
-It turned to dust  
-No one to blame  
-No one to trust  
-
-So burn the sky  
-And close the door  
-Illusion dies  
-It sings no more
 
 ## Production notes
 

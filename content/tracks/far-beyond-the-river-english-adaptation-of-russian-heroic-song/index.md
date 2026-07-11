@@ -33,6 +33,7 @@ release_date: 2025-11-01
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,11 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-An English adaptation of the timeless Russian song “Там вдали за рекой.”  
-This version keeps the original melody and spirit — the courage, sacrifice, and brotherhood of soldiers riding through the night, facing their fate with honor.
 
 ## Production notes
 

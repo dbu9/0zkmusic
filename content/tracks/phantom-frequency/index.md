@@ -33,6 +33,7 @@ release_date: 2025-12-30
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -64,23 +65,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-There’s a hum that follows every step,  
-a secret tone the world has kept.  
-It vibrates through the scars I hide,  
-a phantom frequency inside.  
-
-You said that silence makes us real,  
-but I can’t trust the things I feel.  
-Each sound a mirror, cold and bent,  
-reflecting what the pain has meant.  
-
-I tune myself to what remains,  
-the hiss between the loves and chains.  
-And if this signal fades from me,  
-then let it end in harmony.
 
 ## Production notes
 

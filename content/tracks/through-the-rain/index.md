@@ -39,6 +39,7 @@ release_date: 2026-06-09
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -61,89 +62,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-When the skyline breaks  
-And the night falls down  
-I will find your light  
-In the storm somehow  
-
-When the thunder calls  
-And the streets turn cold  
-You don’t have to run  
-You don’t stand alone  
-
-Stay with me  
-Through the rain  
-Through the fire  
-Through the waves  
-
-Stay with me  
-When the world fades out  
-I’ll be your shelter now  
-
-Let it fall  
-Let it fall  
-We can rise above it all  
-
-Let it fall  
-Let it fall  
-I will hold you when you fall  
-
-When the clouds come close  
-And your heart feels small  
-I’ll be there beside you  
-I’ll be through it all  
-
-Every drop that falls  
-Every tear you hide  
-Turns to silver oceans  
-In the morning light  
-
-Stay with me  
-Through the rain  
-Through the fire  
-Through the waves  
-
-Stay with me  
-When the world fades out  
-I’ll be your shelter now  
-
-Let it fall  
-Let it fall  
-We can rise above it all  
-
-Let it fall  
-Let it fall  
-I will hold you when you fall  
-
-No more running  
-No more fear  
-Close your eyes  
-I’m standing here  
-
-In the silence  
-In the sound  
-When you’re lost  
-I’ll bring you back somehow  
-
-Stay with me  
-Through the rain  
-Through the fire  
-Through the waves  
-
-Stay with me  
-When the world fades out  
-I’ll be your shelter now  
-
-Let it fall  
-Let it fall  
-We can rise above it all  
-
-Let it fall  
-Let it fall  
-I will hold you when you fall
 
 ## Production notes
 

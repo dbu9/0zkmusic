@@ -37,6 +37,7 @@ release_date: 2026-04-24
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,61 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-We were one.  
-Now we’re done.  
-Flames that soared.  
-Now cold and torn.  
-We have changed.  
-Nothing’s the same.  
-Once we glowed.  
-Now we’re alone.  
-We share the space.  
-We share the place.  
-Yet never meet.  
-Our souls don’t graze.  
-We walk right through.  
-Like shades untrue.  
-Parallel lines.  
-In faded signs.  
-Close enough to break.  
-Too far to reach or take.  
-Remote in the same air.  
-We drown without a care.  
-We pass like strangers.  
-Silent dangers.  
-Empty eyes.  
-Forgotten cries.  
-We have changed.  
-Nothing’s the same.  
-Once we burned.  
-Now cold and drained.  
-Your voice calls soft.  
-A hollow loft.  
-I reach my hand.  
-Through drifting sand.  
-We wear the mask.  
-We hide the scars.  
-We circle close.  
-Yet distant stars.  
-We walk right through.  
-Like shades untrue.  
-Parallel lines.  
-In faded signs.  
-Close enough to break.  
-Too far to reach or take.  
-Remote in the same air.  
-We drown without a care.  
-We pass like strangers.  
-Silent dangers.  
-Empty eyes.  
-Forgotten cries.  
-We have changed.  
-Nothing’s the same.  
-Hearts estranged.  
-Forever changed.
 
 ## Production notes
 

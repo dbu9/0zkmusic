@@ -35,6 +35,7 @@ release_date: 2025-05-22
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -58,40 +59,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-=====  
-
-Arwen, light in the skies  
-Stars are born in your eyes  
-Dawn is caught in your hair  
-Magic moves through the air  
-
-Arwen, child of the night  
-Silver soul, burning bright  
-From the stars you were cast  
-Here to make beauty last  
-
-Soft your step on the trees  
-Voice that drifts with the seas  
-Beauty silences war  
-Peace we’ve never known before  
-
-Arwen, child of the night  
-Silver soul, burning bright  
-From the stars you were cast  
-Here to make beauty last  
-
-Through the dark, still you shine  
-Like a fire, clear and fine  
-Lost ones follow your flame  
-Whisper low, call their name  
-
-Arwen, light in the skies  
-Hope returns when you rise  
-From the stars you were cast  
-Here to make beauty last
 
 ## Production notes
 

@@ -33,6 +33,7 @@ release_date: 2025-08-30
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,72 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Marsch aus Eisen,  
-Schatten kreisen.  
-Trajans Wille,  
-Stärker, stille.  
-
-Flüsse brennen,  
-Berge rennen.  
-Dakien fällt,  
-Rom erhält.  
-
-Adler steigen,  
-Trommeln geigen.  
-Stahl und Stein,  
-Nacht wird sein.  
-
-Kronen glühen,  
-Götter mühen.  
-Rom besteht,  
-Ewigkeit weht.  
-
-Säule flammt,  
-Narbe stammt.  
-König Staub,  
-Trajan Raub.  
-
-Sieg im Stein,  
-Blut ist Thron.  
-Echo schreit,  
-Erobrung bleibt.  
-
-============  
-
-*Fall of Dacia*  
-
-March of iron,  
-Shadows gyre.  
-Trajan’s will,  
-Silent, higher.  
-
-Rivers burning,  
-Mountains turning.  
-Dacia falls,  
-Rome enthralls.  
-
-Eagles soaring,  
-Drums outpouring.  
-Steel and stone,  
-Night alone.  
-
-Crowns are glowing,  
-Gods are bowing.  
-Rome remains,  
-Eternal reigns.  
-
-Column blazing,  
-Scars engraving.  
-Kings to dust,  
-Trajan’s thrust.  
-
-Victory stoned,  
-Blood enthroned.  
-Echo cries,  
-Conquest flies.
 
 ## Production notes
 

@@ -507,6 +507,10 @@ header img,
   margin-top: 0;
 }
 
+.track-body-main .track-content > h2:first-child {
+  margin-top: 0;
+}
+
 .track-lyrics-section {
   margin: 0;
   position: sticky;

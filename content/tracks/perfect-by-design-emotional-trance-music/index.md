@@ -33,6 +33,7 @@ release_date: 2025-03-13
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -49,35 +50,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-No roots, no dust, no sky to chase,  
-Numbers weave a flawless place.  
-Rhythms coded, taste refined,  
-Pure design, no fate, no time.  
-
-I trust the mind, I trust the line,  
-Built by math, divine, defined.  
-Nature whispers, we reply—  
-Perfect logic, never lies.  
-
-Printed fruits, electric streams,  
-Melodies born in lucid dreams.  
-Not a copy, not a trace,  
-Only progress, only grace.  
-
-I trust the mind, I trust the line,  
-Built by math, divine, defined.  
-Nature whispers, we reply—  
-Perfect logic, never lies.  
-
-Not beyond, not apart,  
-Just the sum of human art.
 
 ## Production notes
 

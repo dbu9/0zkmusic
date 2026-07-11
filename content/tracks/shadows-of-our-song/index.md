@@ -35,6 +35,7 @@ release_date: 2025-09-27
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,28 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I walked through silence,  
-where your voice used to stay.  
-The echo of your laughter  
-is fading far away.  
-
-The night remembers,  
-though morning will not speak.  
-Your warmth has turned to ashes,  
-your promise turned to grief.  
-
-I reach for shadows,  
-they slip between my hands.  
-Love was a fleeting river,  
-I cannot cross again.  
-
-So play, oh sorrow,  
-play the final tone.  
-The song of lost devotion,  
-the heart left all alone.
 
 ## Production notes
 

@@ -35,6 +35,7 @@ release_date: 2025-10-12
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,23 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Cold breath of night, the trees divide,  
-The hooves in mist, the stars collide.  
-A whisper calls — I hear my name,  
-The wind itself becomes the flame.  
-
-He rides beside, unseen, yet near,  
-His voice a song I long to hear.  
-He offers peace, he offers pain,  
-He speaks of love beyond the rain.  
-
-The child inside my heart still cries,  
-The rider knows, he never lies.  
-Through shadow fields, through endless snow,  
-He takes me where the lost ones go.
 
 ## Production notes
 

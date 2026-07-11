@@ -37,6 +37,7 @@ release_date: 2025-08-08
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,38 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I see her eyes through silver light,  
-They cut the day and rule the night.  
-Her steps ignite the frozen ground,  
-They mark the path where I am bound.  
-
-I need her shadow, sharp and near,  
-Her burning voice is all I hear.  
-She pulls me deep, I can’t let go,  
-She is the fire I must know.  
-
-Her lips are storms, they break my sky,  
-Her touch is truth I can’t deny.  
-She moves like flames the winds obey,  
-And drags my soul to where she’ll stay.  
-
-I need her shadow, sharp and near,  
-Her burning voice is all I hear.  
-She pulls me deep, I can’t let go,  
-She is the fire I must know.  
-
-The night may close, the gates may fall,  
-I’ll chase her breath, I’ll risk it all.  
-Through chains of time, through dust and stone,  
-Her blaze will claim me as its own.  
-
-I need her shadow, sharp and near,  
-Her burning voice is all I hear.  
-She pulls me deep, I can’t let go,  
-She is the fire I must know.
 
 ## Production notes
 

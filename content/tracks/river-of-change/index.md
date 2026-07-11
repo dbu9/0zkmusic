@@ -35,6 +35,7 @@ release_date: 2025-08-21
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,28 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Flow turns, I return,  
-But the waters never burn the same.  
-Shadows shift, I discern,  
-I am not the one I came.  
-
-Step by step, I dissolve,  
-In the current, I evolve.  
-Fading man, fleeting stream,  
-Nothing stays, it’s only dream.  
-
-No return, no refrain,  
-Only echoes in the rain.  
-River moves, I move too,  
-I am old, and I am new.  
-
-Darkened tide, endless spin,  
-I step out, I step in.  
-Not the same, not the same,  
-Both the river and my name.
 
 ## Production notes
 

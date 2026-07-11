@@ -37,6 +37,7 @@ release_date: 2026-06-21
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -56,43 +57,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I waited years,  
-I hid the tears.  
-For one soft light,  
-Inside your night.  
-
-I took the blame,  
-I lost my name.  
-Your silence grew,  
-Cold and true.  
-
-I brought you warm,  
-Through every storm.  
-I poured my heart,  
-Into your dark.  
-
-The years went by,  
-No change, no sign.  
-A darker sky,  
-The same old line.  
-
-You stayed the same,  
-You burned my name.  
-You strike again,  
-I fall in pain.  
-
-You stayed the same,  
-You strike again.  
-Ash falls from my name,  
-I choke in pain.  
-
-I waited years,  
-I lost the tears.  
-No dawn became,  
-Only your flame.
 
 ## Production notes
 

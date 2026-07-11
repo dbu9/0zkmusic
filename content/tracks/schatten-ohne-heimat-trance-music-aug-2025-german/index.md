@@ -33,6 +33,7 @@ release_date: 2025-08-21
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -51,28 +52,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Mauern fallen, Grenzen tot,  
-Wer nicht schützt, verliert das Brot.  
-Träume lügen, Frieden flieht,  
-Krieg erwacht, er endet nie.  
-
-Kein Paradies, kein Märchenland,  
-Nur Feuer, Blut in kalter Hand.  
-Wer nicht steht, wird untergeh’n,  
-Ohne Heimat, nichts besteh’n.  
-
-Dunkle Stimmen, Sturm erwacht,  
-Eis und Stahl in schwarzer Nacht.  
-Schütze Erde, sonst verlierst,  
-Alles, was du heut’ noch führst.  
-
-Illusionen, Staub im Wind,  
-Nur der Starke überwind’.  
-Wer das Schwert nicht tragen kann,  
-Bleibt im Schatten – namenloser Mann.
 
 ## Production notes
 

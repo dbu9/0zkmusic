@@ -33,6 +33,7 @@ release_date: 2025-07-22
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -52,40 +53,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Steel veins twist, ignite the core,  
-Hydraulic thoughts—can't think no more.  
-Pulse is war, silence roars,  
-Body's data, soul’s a floor.  
-
-Break—  
-the frame,  
-Snap—  
-the chain,  
-Bite down hard on synthetic pain.  
-
-Biceps twitch, command obeyed,  
-Muscles wired, gods decayed.  
-Fire in the nerves, code in the flesh,  
-Collapse in the beat, rebirth in the mesh.  
-
-Glitch me—  
-Kill me slow,  
-Build me—  
-Let it flow.  
-Every rep’s a loaded vow,  
-I don’t break, I reprogram now.  
-
-Crush the loop, reload the skin,  
-Metal’s breath is truth within.  
-This isn’t strength,  
-This is the end,  
-And I flex it  
-again  
-and  
-again.
 
 ## Production notes
 

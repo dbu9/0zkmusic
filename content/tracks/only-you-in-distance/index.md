@@ -37,6 +37,7 @@ release_date: 2025-09-30
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -59,28 +60,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Whispers on the night air,  
-Shadows drift away…  
-I’m reaching for a silence,  
-That carries me to stay.  
-
-Across the endless shimmer,  
-Your voice is breaking through…  
-The stars dissolve around me,  
-And still it’s only you.  
-
-I’m falling into echoes,  
-A dream I can’t let go…  
-Your light becomes my horizon,  
-The one I long to know.  
-
-The night repeats its secret,  
-The dawn forgets its truth…  
-But deep inside this yearning,  
-I know it’s only you.
 
 ## Production notes
 

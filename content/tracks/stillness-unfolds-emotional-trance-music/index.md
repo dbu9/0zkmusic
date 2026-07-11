@@ -35,6 +35,7 @@ release_date: 2025-04-26
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,51 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
-
-𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
-
-Draw in the quiet — a thread through the air,  
-Weave with the twilight, dissolving despair.  
-Thoughts are but ripples on rivers of glass,  
-Let them all soften, let the moment pass.  
-
-In the hush between the stars,  
-You will find who you are.  
-
-Anchor in the deep unknown,  
-Stand unshaken, stand alone.  
-Breath of stone, soul of flame,  
-Whisper calm into your name.  
-
-Pulse of the stillness, the weight of the sea,  
-All that you carry, set quietly free.  
-The world bends around the silence you bear,  
-You are the center, the quiet, the prayer.  
-
-In the hush between the stars,  
-You will find who you are.  
-
-Anchor in the deep unknown,  
-Stand unshaken, stand alone.  
-Breath of stone, soul of flame,  
-Whisper calm into your name.  
-
-No tempest shakes the mountain’s breath,  
-No fear can break a mind at rest.  
-Within the hush, within the night,  
-You rise — unbound, alight.  
-
-Anchor in the deep unknown,  
-Stand unshaken, stand alone.  
-Breath of stone, soul of flame,  
-Whisper calm into your name.  
-
-Stillness unfolds...  
-Stillness unfolds...
 
 ## Production notes
 

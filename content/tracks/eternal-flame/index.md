@@ -37,6 +37,7 @@ release_date: 2025-09-12
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -57,33 +58,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-I was lost in fire, searching through the night,  
-Calling to the silence, longing for the light.  
-Every breath a prayer, written in my veins,  
-Guide me through the shadows, free me from the chains.  
-
-Sacred river flows, carrying my soul,  
-Endless circle knows, where the spirits go.  
-Whispers in the sky, calling out my name,  
-In the dark you rise, burning bright, eternal flame.  
-
-All the worlds collide, mirrors break apart,a  
-Still I hear the sound, beating in my heart.  
-Ancient voices sing, through the storm and rain,  
-Nothing can divide us, love will still remain.  
-
-Sacred river flows, carrying my soul,  
-Endless circle knows, where the spirits go.  
-Whispers in the sky, calling out my name,  
-In the dark you rise, burning bright, eternal flame.  
-
-Through illusion’s veil, I will see the way,  
-Night will turn to dawn, breaking into day.  
-Every step I take, closer to your name,  
-Shine into my soul, burning bright, eternal flame.
 
 ## Production notes
 

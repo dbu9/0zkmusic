@@ -37,6 +37,7 @@ release_date: 2025-07-21
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -60,18 +61,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-*TrackList*  
-
-1. Temple Gate – 0:00  
-2. Running with Fire – 4:03  
-3. Joyful Mountain – 10:28  
-4. Glowing Coal – 13:39  
-5. Poison and Fate – 20:33  
-
-If you enjoyed this album, check https://www.youtube.com/watch?v=I-PqNIJ7ss4
 
 ## Production notes
 

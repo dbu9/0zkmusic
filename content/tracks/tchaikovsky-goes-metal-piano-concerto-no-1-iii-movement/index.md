@@ -33,6 +33,7 @@ release_date: 2026-02-08
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -63,12 +64,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Metal cover/remix derived from 'Tchaikovsky - Piano Concerto No. 1, Op. 23 - 3rd Movement - Arranged for 2 Pianos' by Gregor Quendel / classicals.de, licensed under CC BY-NC 4.0. Original: [https://www.classicals.de/tchaikovsky-op23]. Changes: AI-generated metal guitar style.  
-
-The video is not monetized.
 
 ## Production notes
 

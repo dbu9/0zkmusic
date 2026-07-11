@@ -33,6 +33,7 @@ release_date: 2026-01-18
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -54,18 +55,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Naereth is a dark, ethereal elven lament — a ritual of memory, loss, and inevitable fate.  
-
-Built from whispered phonetic vocals and slow ceremonial harmonies, the music unfolds like an ancient remembrance rather than a song. The visuals follow fragments of a forgotten war: scorched lands, summoning magic, silent watchers, and a lone white figure standing against fire.  
-
-This piece is not about victory or hope — it is about witnessing.  
-
-A cinematic fantasy experience inspired by ancient myth, ritual music, and tragic high fantasy worlds.  
-
-Created with AI-assisted music and visuals.
 
 ## Production notes
 

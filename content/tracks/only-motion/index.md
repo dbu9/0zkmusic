@@ -37,6 +37,7 @@ release_date: 2026-01-10
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -55,54 +56,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-No errors  
-In the quiet  
-No scars  
-In the still  
-
-Nothing breaks  
-If you never move  
-Nothing shakes  
-If you stand and wait  
-
-But I move  
-I drift  
-I fall into the light  
-I move  
-I try  
-And the world feels right  
-
-No errors  
-In doing nothing  
-No sound  
-In standing still  
-
-But the pulse  
-Calls my name  
-Every step  
-Leaves a trace  
-
-I move  
-Through open space  
-I lose  
-And still embrace  
-Every line  
-I cross tonight  
-Every wrong  
-Feels alive  
-
-Let it fade  
-Let it flow  
-Every mistake  
-Means I know  
-
-No errors  
-In doing nothing  
-But life  
-Begins in motion
 
 ## Production notes
 

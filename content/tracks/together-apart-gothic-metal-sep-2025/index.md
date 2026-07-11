@@ -35,6 +35,7 @@ release_date: 2025-09-26
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,33 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-You are the sky, I am the ground,  
-Our silence speaks without a sound.  
-So close we breathe the same night air,  
-Yet still a gulf is waiting there.  
-
-You are the river, I am the stone,  
-Together bound, yet still alone.  
-Your waters touch, they carve, they fall,  
-But never break my heart’s cold wall.  
-
-You are the flame, I am the smoke,  
-Entwined, and yet the link is broke.  
-The fire glows, the shadows stay,  
-The light and dark both walk away.  
-
-You are the star, I am the sea,  
-Your shimmer falls, yet not on me.  
-I feel your song, I hear its tone,  
-But still it fades, it is my own.  
-
-So near, so far, the truth is spun,  
-We live as two, yet move as one.  
-Forever bound in mirrored skies,  
-A love unseen, yet never dies.
 
 ## Production notes
 

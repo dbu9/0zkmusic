@@ -33,6 +33,7 @@ release_date: 2025-10-17
 featured: false
 
 lyrics: ""
+lyrics_file: "lyrics.txt"
 production_notes: ""
 
 tags:
@@ -53,12 +54,6 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Lyrics
-
-Based on “Du bist wie eine Blume” by Heinrich Heine, this trillwave adaptation transforms the Romantic ideal of purity and divine beauty into a spectral, dreamlike meditation on memory and loss — a frozen prayer echoing through fog and neon, where love becomes both wound and eternity.  
-
-https://de.wikipedia.org/wiki/Du_bist_wie_eine_Blume
 
 ## Production notes
 
