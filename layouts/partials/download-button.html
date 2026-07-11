@@ -1,10 +1,17 @@
 {{- $p := . -}}
-{{- if and $p.Params.download_enabled $p.Params.download_file -}}
-  {{- with $p.Resources.GetMatch $p.Params.download_file -}}
-    <a class="ozk-button ozk-button-primary" href="{{ .RelPermalink }}" download>
-      {{ $p.Params.download_label | default "Download MP3" }}
+{{- if $p.Params.download_enabled -}}
+  {{- $label := $p.Params.download_label | default "Download MP3" -}}
+  {{- if $p.Params.download_url -}}
+    <a class="ozk-button ozk-button-primary" href="{{ $p.Params.download_url }}" target="_blank" rel="noopener noreferrer">
+      {{ $label }}
     </a>
-    <span class="download-note">{{ site.Params.downloadNote | default "MP3 · Personal listening" }}</span>
+  {{- else -}}
+    {{- with $p.Params.download_file -}}
+      {{- with $p.Resources.GetMatch . -}}
+        <a class="ozk-button ozk-button-primary" href="{{ .RelPermalink }}" download>
+          {{ $label }}
+        </a>
+      {{- end -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
-

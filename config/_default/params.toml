@@ -18,7 +18,6 @@ contactEmail = "0zkmusic@tuta.io"
 bandcampURL = ""
 soundcloudURL = ""
 brandPhrase = "We do not fight the future. We become it."
-downloadNote = "MP3 · Personal listening"
 
 [seo]
   metaDescriptionOrder = ["description", "summary", "site"]

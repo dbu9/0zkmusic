@@ -11,6 +11,7 @@ youtube_url: ""
 youtube_short_id: ""
 
 download_file: "track.mp3"
+download_url: ""
 download_enabled: false
 download_label: "Download MP3"
 

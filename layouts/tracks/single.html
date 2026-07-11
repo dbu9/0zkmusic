@@ -26,10 +26,6 @@
     {{ end }}
 
     {{ $contentHTML := .Content }}
-    {{ $productionHTML := "" }}
-    {{ with .Params.production_notes }}
-      {{ $productionHTML = $.RenderString . }}
-    {{ end }}
 
     {{ if or .Params.youtube_id $lyricsHTML }}
       <section class="track-section track-listen-section" aria-labelledby="track-listen-heading">
@@ -74,7 +70,7 @@
       </section>
     {{ end }}
 
-    {{ if or .Params.production_tool .Params.production_model .Params.production_custom_model $productionHTML }}
+    {{ if or .Params.production_tool .Params.production_model .Params.production_custom_model }}
       <section class="track-production" aria-labelledby="track-production-heading">
         <h2 id="track-production-heading">Production</h2>
         {{ if or .Params.production_tool .Params.production_model .Params.production_custom_model }}
@@ -104,11 +100,6 @@
               </div>
             {{ end }}
           </dl>
-        {{ end }}
-        {{ with $productionHTML }}
-          <section class="track-production-notes prose dark:prose-invert">
-            {{ . }}
-          </section>
         {{ end }}
       </section>
     {{ end }}

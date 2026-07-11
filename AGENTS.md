@@ -52,7 +52,7 @@ content/tracks/track-slug/
 └── track.mp3
 ```
 
-The lyrics and MP3 files are optional. Use `lyrics.txt` for lyrics when lyrics exist; the template renders it as Markdown in the Listen section next to the YouTube embed. Only set `download_enabled: true` when the matching bundle resource exists and is intended for download.
+The lyrics and MP3 files are optional. Use `lyrics.txt` for lyrics when lyrics exist; the template renders it as Markdown in the Listen section next to the YouTube embed. Set `download_enabled: true` only when either `download_url` points to an intended external download page or the matching `download_file` bundle resource exists.
 
 Track front matter should keep these paired taxonomies in sync:
 

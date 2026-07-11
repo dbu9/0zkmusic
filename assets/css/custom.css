@@ -496,11 +496,6 @@ header img,
   width: 100%;
 }
 
-.download-note {
-  color: var(--ozk-dim);
-  font-size: 0.88rem;
-}
-
 .track-content {
   max-width: 760px;
 }
@@ -648,18 +643,6 @@ header img,
 .track-production-meta a {
   color: var(--ozk-signal);
   text-decoration: none;
-}
-
-.track-production-notes {
-  color: var(--ozk-muted);
-  font-size: 0.95rem;
-  line-height: 1.55;
-  max-width: 760px;
-}
-
-.track-production-notes p,
-.track-production-notes ul {
-  margin: 0.25rem 0 0;
 }
 
 @media (max-width: 900px) {

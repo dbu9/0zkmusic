@@ -187,23 +187,29 @@ Embeds use `https://www.youtube-nocookie.com/`, preserve aspect ratio, lazy load
 
 ## MP3 Downloads
 
-To enable a download:
+Local file in the track bundle:
 
 ```yaml
 download_file: "track.mp3"
+download_url: ""
 download_enabled: true
 download_label: "Download MP3"
 ```
-
-Place the MP3 at:
 
 ```text
 content/tracks/track-slug/track.mp3
 ```
 
-The download button is only rendered when `download_enabled` is true and the bundle resource exists. The sample `pulse-in-my-veins` bundle includes a short test MP3. Replace it with the real file before publishing.
+External host (e.g. Proton Drive):
 
-The small file note is controlled by `downloadNote` in `config/_default/params.toml`.
+```yaml
+download_file: ""
+download_url: "https://drive.proton.me/urls/..."
+download_enabled: true
+download_label: "Download MP3"
+```
+
+The button shows when `download_enabled` is true and either `download_url` is set or the local `download_file` resource exists. External links open in a new tab. Structured data advertises MP3 encoding only for local bundle files, because share pages such as Proton Drive are HTML pages rather than direct `audio/mpeg` resources.
 
 ## Articles
 

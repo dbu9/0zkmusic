@@ -6,8 +6,10 @@
 {{- with $p.Params.youtube_id -}}{{- $data = merge $data (dict "embedUrl" (printf "https://www.youtube-nocookie.com/embed/%s" .)) -}}{{- end -}}
 {{- $coverName := $p.Params.cover | default "cover.webp" -}}
 {{- with $p.Resources.GetMatch $coverName -}}{{- $data = merge $data (dict "image" .Permalink) -}}{{- end -}}
-{{- if and $p.Params.download_enabled $p.Params.download_file -}}
-  {{- with $p.Resources.GetMatch $p.Params.download_file -}}{{- $data = merge $data (dict "encoding" (dict "@type" "MediaObject" "contentUrl" .Permalink "encodingFormat" "audio/mpeg")) -}}{{- end -}}
+{{- if $p.Params.download_enabled -}}
+  {{- with $p.Params.download_file -}}
+    {{- with $p.Resources.GetMatch . -}}{{- $data = merge $data (dict "encoding" (dict "@type" "MediaObject" "contentUrl" .Permalink "encodingFormat" "audio/mpeg")) -}}{{- end -}}
+  {{- end -}}
 {{- end -}}
 {{- with $p.Params.duration -}}
   {{- $parts := split . ":" -}}
@@ -16,4 +18,3 @@
   {{- end -}}
 {{- end -}}
 <script type="application/ld+json">{{ $data | jsonify | safeJS }}</script>
-

@@ -10,8 +10,9 @@ youtube_id: "EOVhqZjLPJo"
 youtube_url: "https://www.youtube.com/watch?v=EOVhqZjLPJo"
 youtube_short_id: ""
 
-download_file: "track.mp3"
-download_enabled: false
+download_file: ""
+download_url: "https://drive.proton.me/urls/6XTZMY49B0#RnOVvDiSQ7GP"
+download_enabled: true
 download_label: "Download MP3"
 
 genre:
