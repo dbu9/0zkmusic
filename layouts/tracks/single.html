@@ -28,15 +28,98 @@
       {{ partial "download-button.html" . }}
     </section>
 
-    <section class="track-section track-content prose dark:prose-invert">
-      {{ .Content }}
-    </section>
+    {{/* Split body markdown into H2 sections so Lyrics can be a scroll panel. */}}
+    {{ $raw := strings.TrimSpace .RawContent }}
+    {{ $ideaHTML := "" }}
+    {{ $lyricsHTML := "" }}
+    {{ $notesHTML := "" }}
+    {{ $otherSections := slice }}
+    {{ if $raw }}
+      {{ $body := $raw }}
+      {{/* Normalize CRLF and strip the first leading H2 marker. */}}
+      {{ $body = replace $body "\r\n" "\n" }}
+      {{ if hasPrefix $body "## " }}
+        {{ $body = strings.TrimPrefix "## " $body }}
+      {{ else if hasPrefix $body "##" }}
+        {{ $body = strings.TrimPrefix "##" $body | strings.TrimSpace }}
+      {{ end }}
+      {{ range split $body "\n## " }}
+        {{ $chunk := strings.TrimSpace . }}
+        {{ if $chunk }}
+          {{ $lines := split $chunk "\n" }}
+          {{ $heading := index $lines 0 | strings.TrimSpace }}
+          {{ $sectionBody := "" }}
+          {{ if gt (len $lines) 1 }}
+            {{ $sectionBody = strings.TrimSpace (delimit (after 1 $lines) "\n") }}
+          {{ end }}
+          {{ $key := $heading | lower }}
+          {{ $rendered := cond (eq $sectionBody "") "" ($sectionBody | markdownify) }}
+          {{ if eq $key "lyrics" }}
+            {{ $lyricsHTML = $rendered }}
+          {{ else if or (eq $key "the idea") (eq $key "idea") }}
+            {{ $ideaHTML = $rendered }}
+          {{ else if or (eq $key "production notes") (eq $key "production note") (eq $key "notes") }}
+            {{ $notesHTML = $rendered }}
+          {{ else }}
+            {{ $otherSections = $otherSections | append (dict "heading" $heading "html" $rendered) }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+    {{/* Fallback when content is not H2-sectioned. */}}
+    {{ if and (not $ideaHTML) (not $lyricsHTML) (not $notesHTML) (eq (len $otherSections) 0) }}
+      <section class="track-section track-content prose dark:prose-invert">
+        {{ .Content }}
+      </section>
+    {{ else }}
+      <div class="track-body-layout">
+        <div class="track-body-main">
+          {{ with $ideaHTML }}
+            <section class="track-section track-content prose dark:prose-invert">
+              <h2>The idea</h2>
+              {{ . }}
+            </section>
+          {{ end }}
+
+          {{ range $otherSections }}
+            <section class="track-section track-content prose dark:prose-invert">
+              <h2>{{ .heading }}</h2>
+              {{ .html }}
+            </section>
+          {{ end }}
+
+          {{ with $notesHTML }}
+            <section class="track-section track-content prose dark:prose-invert">
+              <h2>Production notes</h2>
+              {{ . }}
+            </section>
+          {{ end }}
+        </div>
+
+        {{ with $lyricsHTML }}
+          <section class="track-section track-lyrics-section" aria-labelledby="track-lyrics-heading">
+            <div class="track-lyrics-panel">
+              <header class="track-lyrics-header">
+                <h2 id="track-lyrics-heading">Lyrics</h2>
+              </header>
+              <div class="track-lyrics-scroll prose dark:prose-invert" tabindex="0">
+                {{ . }}
+              </div>
+            </div>
+          </section>
+        {{ end }}
+      </div>
+    {{ end }}
 
     {{ with .Params.youtube_short_id }}
-      <section class="track-section">
-        <h2>Short</h2>
-        {{ partial "youtube-short.html" (dict "id" . "title" (printf "%s Short by 0zkMusic" $.Title)) }}
-      </section>
+      {{/* Only embed real video ids (11 chars), not shelf item tokens. */}}
+      {{ if eq (len .) 11 }}
+        <section class="track-section">
+          <h2>Short</h2>
+          {{ partial "youtube-short.html" (dict "id" . "title" (printf "%s Short by 0zkMusic" $.Title)) }}
+        </section>
+      {{ end }}
     {{ end }}
 
     {{ partial "related-tracks.html" . }}
