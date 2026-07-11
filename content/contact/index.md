@@ -5,9 +5,9 @@ date: 2026-07-10
 draft: false
 ---
 
-For now, use the placeholder email address below until the real contact address is configured.
+Reach out for releases, collabs, or anything else about the music.
 
-- Email: [REPLACE_WITH_EMAIL@example.com](mailto:REPLACE_WITH_EMAIL@example.com)
+- Email: {{< contact-email >}}
 - YouTube: [0zkMusic channel](https://www.youtube.com/@0zkMusic)
 
-Optional Bandcamp and SoundCloud links are driven from `config/_default/params.toml`.
+Optional Bandcamp and SoundCloud links are set in `config/_default/params.toml`.
