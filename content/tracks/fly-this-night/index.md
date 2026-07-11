@@ -38,7 +38,8 @@ featured: false
 
 lyrics: "Placeholder lyrics."
 lyrics_file: "lyrics.txt"
-production_notes: "Placeholder production notes."
+production_notes: |-
+  Sample notes: melodic arpeggio, cleaner supersaw layers, lighter percussion, and a wider stereo image than the darker tracks.
 
 tags:
   - "trance"
@@ -54,7 +55,3 @@ keywords:
 ## The idea
 
 This sample release is about leaving the ground without pretending the night is soft. The track should feel open, but still edged by darkness.
-
-## Production notes
-
-Sample notes: melodic arpeggio, cleaner supersaw layers, lighter percussion, and a wider stereo image than the darker tracks.

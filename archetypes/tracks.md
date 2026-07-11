@@ -27,6 +27,10 @@ featured: false
 lyrics: ""
 lyrics_file: "lyrics.txt"
 production_notes: ""
+production_tool: ""
+production_model: ""
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags: []
 keywords:
@@ -36,7 +40,3 @@ keywords:
 ## The idea
 
 Write the story or central idea of the track here.
-
-## Production notes
-
-Write production notes here.

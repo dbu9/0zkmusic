@@ -14,20 +14,6 @@
       </div>
     </header>
 
-    {{ with .Params.youtube_id }}
-      <section class="track-section">
-        <h2>Listen</h2>
-        {{ partial "youtube-privacy.html" (dict "id" . "title" (printf "%s by 0zkMusic" $.Title)) }}
-      </section>
-    {{ end }}
-
-    <section class="track-actions">
-      {{ with .Params.youtube_url }}
-        <a class="ozk-button ozk-button-primary" href="{{ . }}" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
-      {{ end }}
-      {{ partial "download-button.html" . }}
-    </section>
-
     {{ $lyricsHTML := "" }}
     {{ with .Params.lyrics_file }}
       {{ $lyricsPath := path.Join "content" $.File.Dir . }}
@@ -40,32 +26,91 @@
     {{ end }}
 
     {{ $contentHTML := .Content }}
+    {{ $productionHTML := "" }}
+    {{ with .Params.production_notes }}
+      {{ $productionHTML = $.RenderString . }}
+    {{ end }}
 
-    {{ if not $lyricsHTML }}
-      <section class="track-section track-content prose dark:prose-invert">
-        {{ $contentHTML }}
-      </section>
-    {{ else }}
-      <div class="track-body-layout">
-        <div class="track-body-main">
-          <section class="track-section track-content prose dark:prose-invert">
-            {{ $contentHTML }}
-          </section>
-        </div>
+    {{ if or .Params.youtube_id $lyricsHTML }}
+      <section class="track-section track-listen-section" aria-labelledby="track-listen-heading">
+        <div class="{{ if and .Params.youtube_id $lyricsHTML }}track-listen-layout{{ else }}track-listen-layout track-listen-layout-single{{ end }}">
+          {{ with .Params.youtube_id }}
+            <div class="track-listen-video">
+              <h2 id="track-listen-heading">Listen</h2>
+              {{ partial "youtube-privacy.html" (dict "id" . "title" (printf "%s by 0zkMusic" $.Title)) }}
+              <section class="track-actions">
+                {{ with $.Params.youtube_url }}
+                  <a class="ozk-button ozk-button-primary" href="{{ . }}" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+                {{ end }}
+                {{ partial "download-button.html" $ }}
+              </section>
+            </div>
+          {{ end }}
 
-        {{ with $lyricsHTML }}
-          <section class="track-section track-lyrics-section" aria-labelledby="track-lyrics-heading">
-            <div class="track-lyrics-panel">
+          {{ with $lyricsHTML }}
+            <section class="track-lyrics-section" aria-labelledby="track-lyrics-heading">
               <header class="track-lyrics-header">
                 <h2 id="track-lyrics-heading">Lyrics</h2>
               </header>
               <div class="track-lyrics-scroll prose dark:prose-invert" tabindex="0" aria-labelledby="track-lyrics-heading">
                 {{ . }}
               </div>
-            </div>
+            </section>
+          {{ end }}
+        </div>
+      </section>
+    {{ else }}
+      <section class="track-actions">
+        {{ with .Params.youtube_url }}
+          <a class="ozk-button ozk-button-primary" href="{{ . }}" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+        {{ end }}
+        {{ partial "download-button.html" . }}
+      </section>
+    {{ end }}
+
+    {{ with $contentHTML }}
+      <section class="track-section track-content track-idea-content prose dark:prose-invert">
+        {{ . }}
+      </section>
+    {{ end }}
+
+    {{ if or .Params.production_tool .Params.production_model .Params.production_custom_model $productionHTML }}
+      <section class="track-production" aria-labelledby="track-production-heading">
+        <h2 id="track-production-heading">Production</h2>
+        {{ if or .Params.production_tool .Params.production_model .Params.production_custom_model }}
+          <dl class="track-production-meta">
+            {{ with .Params.production_tool }}
+              <div>
+                <dt>Made with</dt>
+                <dd>{{ . }}</dd>
+              </div>
+            {{ end }}
+            {{ with .Params.production_model }}
+              <div>
+                <dt>Model</dt>
+                <dd>{{ . }}</dd>
+              </div>
+            {{ end }}
+            {{ with .Params.production_custom_model }}
+              <div>
+                <dt>Custom model</dt>
+                <dd>
+                  {{ with $.Params.production_custom_model_url }}
+                    <a href="{{ . }}">{{ $.Params.production_custom_model }}</a>
+                  {{ else }}
+                    {{ . }}
+                  {{ end }}
+                </dd>
+              </div>
+            {{ end }}
+          </dl>
+        {{ end }}
+        {{ with $productionHTML }}
+          <section class="track-production-notes prose dark:prose-invert">
+            {{ . }}
           </section>
         {{ end }}
-      </div>
+      </section>
     {{ end }}
 
     {{ with .Params.youtube_short_id }}

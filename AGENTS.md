@@ -52,7 +52,7 @@ content/tracks/track-slug/
 └── track.mp3
 ```
 
-The lyrics and MP3 files are optional. Use `lyrics.txt` for lyrics when lyrics exist; the template renders it as Markdown in the sticky lyrics panel. Only set `download_enabled: true` when the matching bundle resource exists and is intended for download.
+The lyrics and MP3 files are optional. Use `lyrics.txt` for lyrics when lyrics exist; the template renders it as Markdown in the Listen section next to the YouTube embed. Only set `download_enabled: true` when the matching bundle resource exists and is intended for download.
 
 Track front matter should keep these paired taxonomies in sync:
 
@@ -67,10 +67,20 @@ The custom templates use the singular keys, and Hugo taxonomy pages use the plur
 
 Use `cover.webp` for track art. If a YouTube thumbnail is used as a cover, generate a local `cover.webp` in the track bundle rather than hotlinking the thumbnail.
 
-Keep the main track body for the idea, production notes, and other non-lyric sections. Do not put a `## Lyrics` section in `index.md` for new pages; put lyrics in `lyrics.txt` and set:
+Keep the main track body for the idea and other interpretive, non-lyric sections. Do not put a `## Lyrics` section in `index.md` for new pages; put lyrics in `lyrics.txt` and set:
 
 ```yaml
 lyrics_file: "lyrics.txt"
+```
+
+Do not put `## Production notes` in `index.md`. Production details render as a compact metadata block from front matter:
+
+```yaml
+production_tool: "Suno"
+production_model: "5.5"
+production_custom_model: "AN"
+production_custom_model_url: "/articles/model-an/"
+production_notes: "Made with Suno 5.5 using the custom AN model."
 ```
 
 ## YouTube Content Updates
@@ -100,6 +110,7 @@ When importing videos:
 - Read lyrics from the YouTube description when present.
 - Preserve original lyrics and translations from the description.
 - Write lyrics to `lyrics.txt`, not to a `## Lyrics` section in `index.md`.
+- Write production details to front matter, not to a `## Production notes` section in `index.md`.
 - Use hashtags from the description/title to populate genre and tag metadata.
 - Use the public watch URL in `youtube_url`.
 - Use `youtube_short_id` for teaser/short videos that belong to an existing full track.

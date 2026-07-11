@@ -42,7 +42,10 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
-production_notes: ""
+production_notes: |-
+  AI model: nothern star
+  
+  Add production notes for arrangement, sound design, mix decisions, and visual direction here.
 
 tags:
   - "German vocals"
@@ -63,9 +66,3 @@ keywords:
 ## The idea
 
 This release was added from the official YouTube video.
-
-## Production notes
-
-AI model: nothern star
-
-Add production notes for arrangement, sound design, mix decisions, and visual direction here.

@@ -33,7 +33,8 @@ release_date: 2025-05-20
 featured: false
 
 lyrics: ""
-production_notes: ""
+production_notes: |-
+  - Added from the official 0zkMusic YouTube channel description.
 
 tags:
   - "germanlanguage"
@@ -50,7 +51,3 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Production notes
-
-- Added from the official 0zkMusic YouTube channel description.

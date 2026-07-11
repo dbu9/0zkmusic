@@ -42,7 +42,8 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
-production_notes: ""
+production_notes: |-
+  - Added from the official 0zkMusic YouTube channel description.
 
 tags:
   - "chill trance"
@@ -64,7 +65,3 @@ keywords:
 ## The idea
 
 This release was added from the official 0zkMusic YouTube channel.
-
-## Production notes
-
-- Added from the official 0zkMusic YouTube channel description.

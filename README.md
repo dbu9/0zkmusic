@@ -111,6 +111,10 @@ featured: true
 lyrics: ""
 lyrics_file: "lyrics.txt"
 production_notes: ""
+production_tool: ""
+production_model: ""
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "AI music"
@@ -150,7 +154,21 @@ Set this front matter field:
 lyrics_file: "lyrics.txt"
 ```
 
-The track template renders `lyrics.txt` as Markdown in the sticky lyrics panel. Keep `index.md` for the idea, production notes, and other non-lyric sections.
+The track template renders `lyrics.txt` as Markdown in the Listen section next to the YouTube embed. Keep `index.md` for the idea and other interpretive, non-lyric sections.
+
+## Production Metadata
+
+Production notes are rendered as a compact block below the idea section, not as a large article section. Use short values such as:
+
+```yaml
+production_tool: "Suno"
+production_model: "5.5"
+production_custom_model: "AN"
+production_custom_model_url: "/articles/model-an/"
+production_notes: "Made with Suno 5.5 using the custom AN model."
+```
+
+Use `production_custom_model_url` to link to a site article that explains how a pretrained/custom model was created.
 
 ## YouTube Embeds
 
