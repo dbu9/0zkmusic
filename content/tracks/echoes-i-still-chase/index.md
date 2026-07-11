@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -80,4 +85,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Two plates still set on a cold table. Perfume worn on nights that cannot breathe. *You’re gone, you’re gone, but the echo stays*—and the body keeps falling through the sound left behind, reaching for a hand that is only afterglow.
+
+Time is called a liar without ceremony. Stars stay indifferent; the sky swallows every scream of the name. Melodic vocal trance turns that private theater into wide nocturnal euphoria: devotion that knows the trade would be every heartbeat for one more second, and still offers it.

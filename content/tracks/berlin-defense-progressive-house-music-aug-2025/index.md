@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -61,4 +66,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Three instrumental moves named like a night campaign: runway of shadows, cascading skyline, synthetic elegy. Chess hangs in the title—Berlin Defense—so one may imagine progressive house as careful counterplay under pressure: dark drive, delayed release, structure over confession. City geometry and machine mourning, without a lyric to explain either.

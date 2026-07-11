@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "electronic music"
@@ -49,4 +54,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Quenya—or something wearing its music—spills like soft metal: *Lúmëa lissë*, sweet time, twilight blessed, starlight praised. Birds of fire, golden wishes, leaves and flowing song, the long years of the elves condensed into nocturnal electronica.
+
+I will not pretend to parse every stem as a philologist might. What comes through is atmosphere: calm ambar, shining stars, rest and flame braided, a wish for light and peace—*nai calma, nai sérë*. Atmospheric, nocturnal electronics as if Middle-earth’s evening had learned synthesis.
+
+Perhaps meaning is meant to arrive as sound-color first: a constructed tongue used as incense rather than argument.

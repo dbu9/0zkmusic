@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "fracturedhalos"
@@ -69,4 +74,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Instrumental airy trance in a minor key: crystalline leads, breathy choir, arpeggios without the usual club kick. Titles drift like damaged sanctity—pale choir that never arrived, glass cathedral, last signal sleeping, ash of forgotten constellations. Chill and atmospheric, built for late contemplation rather than peak-hour heat. Halos here are already cracked; beauty is the crack’s light.

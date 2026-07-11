@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Motion is sacrament. Running, rising, breathing anew: each step a flame that passes through the body until pain dissolves and the past falls off “in burning dust.” The lyric baptizes sweat, lets air invade the cell, treats pace as medicine—illness flees “this holy race,” sadness melting under the simple insistence of movement.
+
+Progressive vocal trance at night can hold both the dark and the euphoric without apology. The repeated command—run, climb higher, don’t ask why—is less coach-speak than liturgy of the pulse. Strength is not argued; it is returned with the breath, “this is your hour” as permission rather than threat.

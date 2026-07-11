@@ -33,8 +33,13 @@ release_date: 2025-10-23
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "electronicmusic"
@@ -53,4 +58,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A title like a late-bar order: cool color, soft intoxication, breakbeat under nocturnal atmosphere. Without lyric, the drink becomes climate—blue light on glass, mood before meaning, the hour when conversation thins and the groove keeps its own counsel.

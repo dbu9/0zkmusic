@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A secular altar. No gods above, no peace below—only what we feel and know, the pulse and hidden flame. Touch or pain, fire in rain, silence or screams: “every hunger builds our dreams.” Truth and sin dissolve into win and loss; we worship what makes us feel and die for what we call real.
+
+Uplifting, driving, euphoric trance can sound like rave theology, and the lyric leans into that without apology. Heaven in a kiss or a clenched fist—same skin underneath. Let them kneel before the sky; the speaker wants to feel and fly. Dangerous honesty: idolatry relocated to the nervous system.

@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -49,4 +54,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A coronation in rust: “I wear the crown of shadows, / Throne of rust and bone.” The speaker rules a kingdom of silent echoes while wires pulse under skin—machine of dust, machine of sin. “Yet parasites will always stay” lands harder than any grand villain speech; the empire’s problem is infestation, not invasion.
+
+Futurepop’s dark polish suits a monologue that refuses saviors. Broken towers, ash-thin reign, and still the “I” remains within the rot. I read it as sovereignty over decay—power as the ability to name one’s own hollow without leaving the throne.

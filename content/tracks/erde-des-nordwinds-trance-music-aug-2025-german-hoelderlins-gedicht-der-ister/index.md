@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -65,4 +70,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Steel and blood, singing swords, then oaks that murmur of heroes whose word never dies—after war, a “Reich der Händen,” thoughts bright as stars, poets and seers whose speech grows heavier. The note points to Hölderlin’s *Der Ister*; heritage is not costume but river-memory, Germania’s spirit enduring storm.
+
+Trance and techno’s uplifting drive reframe that national-mythic material as club prophecy rather than museum piece. One can hear danger in any revival of iron-and-oak imagery; one can also hear the older Romantic hope that word and river outlast the sword. The production keeps the feet moving while the lyric looks backward with pride.

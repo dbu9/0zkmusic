@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Buried, bound, hidden from light—not every flame rises at day; some are nameless and still find a way. Roots hold the past while the world pulls away. Then rain: earth breaks, stone splits, depths wake. What was given “will not decay”; chains turn to sand; years cannot kill the stand it takes.
+
+*Rain calls your name. You rise again.* Dark-uplifting trance as resurrection weather—fire the same, remaining. I read persistence as underground faith: dormancy mistaken for death until water remembers the seed’s true name.

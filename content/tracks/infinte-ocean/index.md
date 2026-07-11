@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Freedom is defined as motion without shoreline. Dance, night walk, cold air; no walls in the breath, every step a door opening inward. “No lines on the water, / No end in the sky”—the world reimagined as infinite ocean, current as guide, happiness as free space and free sea. Vocal trance’s wide pads and uplifting night mood make that philosophy almost tactile.
+
+The bridge’s ship without anchors is the purest image: carried by light, not control; horizon inside the soul. Not chasing the shore, not fearing the deep—awake in the drift. Borders dissolve into wave ethics; every breath a spark, every moment whole. Perhaps this is hedonism, or spiritual minimalism, or simply the right to remain unassigned to a single plot of land. The song wants the listener wet with possibility, not dry with maps.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The return fantasy is admitted and revoked in the same breath: “I will come back to you… / But deep inside I knew / This love was never true.” Enough is a feeling before it is a decision—“Ends right here, ends tonight.” Wrongness of the other coexists with irresistible will; the heart was never known.
+
+Emotional uplifting trance often softens breakups into glow; here the glow may be the courage of ending. “What am I to do? / There’s no more me and you” is plain, almost bare. After enough roughness, freedom arrives dressed as emptiness.

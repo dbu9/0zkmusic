@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -60,4 +65,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Whispers on night air; silence sought as a place to remain; across shimmer, one voice still breaks through. Stars dissolve and the conclusion does not: only you. Distance is the setting, not the obstacle that wins.
+
+Night repeats its secret; dawn forgets its truth; yearning keeps a private knowledge. Dark-uplifting vocal trance can make that fixation feel vast rather than small—horizon as a single person.

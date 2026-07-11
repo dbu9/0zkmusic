@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Distance measured in held breath. *You’re worlds away / You’ve been too long*, yet the speaker keeps holding until a dawn that may never arrive with the missing body. Ghost of light, voice still calling—grief as a loop the night wind keeps replaying.
+
+Emotional trance lets the ache drive without resolving it into false reunion. Uplift and darkness share the same pulse: memory that will not fade, silence stolen by wind, a soul’s trace that draws closer even while the person stays gone. Holding becomes the whole religion.

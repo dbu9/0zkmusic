@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -63,4 +68,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A litany of what love costs and what it does: forget the pain (or at least its grip), forgive while it burns, dissolve pride, remain when they leave, fall without return, absorb wounds, find stars in loss. Progressive vocal trance stretches each clause into breath and reverb until “if you love” feels like a law of physics.
+
+Victory is denied—love is not a thing to win—only fire, fall, ashes, all. There is little irony; the track seems to mean it. One may find the ethic severe, even self-destructive, and still recognize the dignity it assigns to staying open. Scar as proof of having been alive “inside the depth.”

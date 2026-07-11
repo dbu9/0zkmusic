@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Silent skies begin to glow; footsteps fade into blue. The ask is simple and enormous: *Take me where the starlight breaks*—through night that shakes silence, past walls, beyond gray, into colors wide enough to hold two bodies past the tide.
+
+Progressive trance maps that crossing as both lift and dark weather. Rain washes dust of pain; time dissolves in light; fear is left behind until the pair becomes the break of day. Searching resolved, briefly, as shared dawn.

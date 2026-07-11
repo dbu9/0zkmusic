@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Night again. Same street. Pharmacy light flicker. Progressive vocal trance here is less escape than accurate circling—euphoria pressed against walls that do not speak, silence that burns.
+
+Round and round, the cycle turns: rain returns, pain repeats, empty beats. A distant star is close in dream and too far in life. No one calls; only echoes in these walls. The lyric’s short lines match the trap—enough language for recognition, not enough for exit.
+
+I wouldn’t call it despair so much as fidelity to a loop the body already knows. The uplift in the genre becomes ironic heat: motion without destination, beauty in the very refusal of the night to change.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A hard political allegory: lies that keep you small, monsters through the open door, poison in words, “strangers” marching, house taken, empire to ash and grave. Then the turn—remember, free the mind, breathe the stillness; “das Schwert bleibt Gewinn.” Memory as weapon, silence as armory.
+
+Uplifting driving trance under such text is unsettling by design. Whether one hears legitimate resistance myth or darker nationalist panic depends on the listener’s nerves; the lyric itself is stark. The sword of memory cuts both ways—liberation and grievance share a blade.

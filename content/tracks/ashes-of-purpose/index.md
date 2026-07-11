@@ -35,8 +35,13 @@ release_date: 2025-02-14
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "numetal"
@@ -54,4 +59,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Hardstyle under dark, aggressive heat: a title that already smells of burned intention. Without words, purpose arrives as impact—kick as argument, distortion as aftermath. One imagines resolve that has already failed once and returned louder for it.

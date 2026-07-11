@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -60,4 +65,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Secrets hide in a gaze; words and silence both haunt; an ember burns deep yet cold inside. Falling “in and out of time”—*this time, this time*—as if repetition might finally pin a slippery almost-love. Whispers on the tide drift closer and pull wider at once.
+
+Dark-euphoric vocal trance thrives on that instability: nocturnal lift for a connection that will not stabilize into daylight narrative. Fire, voice, touch—each keeps haunting. Perhaps “this time” is hope’s last adverb, or the recognition that every attempt re-enters the same temporal glitch.

@@ -33,8 +33,13 @@ release_date: 2025-05-28
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Duduk-led and wordless: home as timbre rather than address. Nocturnal atmosphere, the reed’s ache carrying what a lyric might only over-explain—distance, belonging, a single place held in the throat of the instrument.

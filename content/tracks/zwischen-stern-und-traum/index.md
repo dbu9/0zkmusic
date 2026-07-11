@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Between star and dream, space itself loses shape. Fog, wind, forgotten identity—no light, no word, only time spreading into forever. The self falls, floats, becomes a tone in a wide meaning; heart still and clear, fading in the current of years.
+
+German vocal trance at its most weightless. *Kein Ziel, kein Name mehr*—no goal, no name—only heavy silence, until morning speaks and old light fades. Leaving while remaining: *im Klang, im Jetzt, in dir*—in sound, in the now, in you. Euphoria as dissolution that still chooses intimacy.

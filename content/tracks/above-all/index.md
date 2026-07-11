@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Pain, in these lines, is not an accident but a curriculum. “Pain is the teacher” lands without self-pity; endurance is treated as a craft rather than a mood. The speaker refuses the theatre of need—“no cry for mercy,” no outstretched hand—and walks fire as if solitude were the only honest weather. Trance, when it is driving and euphoric, can sound like this: a body that keeps climbing while the lyric forbids soft collapse.
+
+Strength is defined by subtraction. To endure, to stay pure, to refuse comfort’s “chains.” The self becomes fortress, then something colder: an autonomous spirit set “above the voices, above the names.” I hear a Stoic hardness braided into uplift—not celebration of cruelty, but a refusal to bend for approval. The chorus’s blunt catechism—to be strong is not to bend, but to transcend—reads less like victory speech than a private law, shouted into a major-key engine that never asks permission to ascend.

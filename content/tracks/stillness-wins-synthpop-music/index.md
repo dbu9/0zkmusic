@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+City screams, neon burns, desire spreads, nobody learns. Chains of want, noise like knives—only calm still survives. Fast falls, loud fades; the wise walk through the blade. In fire, dreams combust; peace remains while desire rusts. He walks slow, eyes like stone; no gold, no thrill, no chase—just will.
+
+High-energy EDM tagging against a lyric that kills the noise is an interesting tension: club weather arguing for withdrawal. Stillness wins, chaos dies—not with rage but steady eyes. Through smoke and code, survival by no road; the quiet breaks the hold.
+
+I take it as a counter-anthem smuggled into a loud form: refusal of the feed, the chase, the applause economy. Sleep or wake as the only real choice, and the track votes for wake—without needing the crowd’s permission.

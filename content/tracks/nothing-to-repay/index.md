@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance"
@@ -50,4 +55,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Born into a debt that was never contracted. Carried before standing, named before consent, shaped by unfinished souls who called control love. The track’s work is moral accounting in reverse: *What you carry is not your fault. No hidden debt.*
+
+Trance drive becomes a steady clearing of false shame. Their fear is not yours; their lack is not your identity; pressure is not proof of blame. *You are allowed to simply exist*—a line that would be soft elsewhere and here feels almost radical. Not yours. Not yours. Not yours.

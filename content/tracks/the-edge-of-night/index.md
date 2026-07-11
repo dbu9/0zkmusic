@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -57,4 +62,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Still night, near stars, a reminder that love is here—don’t fear falling or feeling; broken shadows become real. Trance dark-to-uplift maps the arc: come back to the light, to the flow; at the edge of night the spirit is found.
+
+When darkness fades and dawn is bright, you are not alone in heaven’s arms. Hidden sorrow turns real when allowed to cry and heal. The lyric is pastoral for electronic music—gentle without being empty.
+
+I take the edge as threshold, not cliff. Night is where the return begins.

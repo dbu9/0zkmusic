@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Mother Sea as destiny and death: frost on the breath, steel in hand, storm as fire, sea as grave—and still the sailor thanks the water that bore the ship. Gothic metal intensity for a love letter to elements that can kill.
+
+When she whispers “come home, my son,” there is no fear, no final cry—she is dream and dying. Forest, fire, axe and song, balance with beast and tree: a life lived wild, then willingly returned to the deep. Bow the head and sleep when called.
+
+I read it as pagan gratitude rather than despair. The waves that name you are both cradle and last bed; dignity is answering without struggle.

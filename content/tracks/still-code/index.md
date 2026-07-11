@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "cyberpunkmusic"
@@ -56,4 +61,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Screens obey in silence while walls are carved away; victories shine like stars “hidden from the light.” No name, no face—only echoes in data-space, the forgotten hand that reprograms the plan. Ego dies on the breath; a cobra still, strike withheld; calm as monks where fire meets void.
+
+Vocal trance euphoria for a lyric of anti-spectacle. Will set, heart cold, flow without show; cracks seen, law shaped, then vanishing “flaw by flaw.” You will never know the wars won or gates spun—only a buried trace inside the flawless scheme.
+
+I hear the romance of the invisible operator: power that refuses applause, code as quiet destiny.

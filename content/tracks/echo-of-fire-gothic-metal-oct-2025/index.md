@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Short, almost chant-like: hold the night, feel the pulse, rise through dark with burning stars for eyes. The “echo” is companionship as much as sound—stand with me, we don’t break—while fire is identity claimed in the plural: we are echo, we are fire.
+
+Gothic metal’s intensity gives the brevity weight. There is little narrative furniture; instead, a vow to dive one more moment, to find flame through noise, to light the sky higher. I read it as defiance braided with loyalty—the whispered name that calls you forward, and the decision to answer together.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Latin prayer and French intimacy share the same breath—*anima mea*, “I sleep in your light,” a name that burns without ash. The lyric is short enough to feel like a mantra rather than a story: sanctuary, dream, infinite night, love as a flame that lasts until the last tear.
+
+Atmospheric electronics let those lines hang the way incense hangs in a dark room. Credo in the fire of love; life born from shadow; the self turning into prayer. Whether you take it as erotic mysticism or pure devotion hardly matters—the music asks you to lower the volume of ordinary speech and listen as if the night itself were answering.

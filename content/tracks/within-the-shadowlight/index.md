@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Truth hides in silence, not in outer echoes; the flame that matters is one’s own. Crowds and mirrors mislead—“Only you can hear the call.” *Shadowlight* burns within, not in others, not in sin; chains break when sight returns; “Your own sun is always near.”
+
+Dark-uplifting trance makes interior sun feel like a drop and a lift at once. Less love-triangle than spiritual self-reliance: stop chasing faces, find the path, make it true. The oxymoron of the title is the doctrine—light that needs a little darkness to be seen.

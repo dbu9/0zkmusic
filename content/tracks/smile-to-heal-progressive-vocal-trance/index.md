@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Almost naively kind: smile when pain is near, smile though you feel low, a smile can warm the coldest heart. Progressive vocal trance wraps the advice in glow—euphoria as gentle instruction rather than conquest.
+
+Smile for her, for you; calm, grace, a touch for the darkest place. Even when trying is hard, lift the gaze; healing starts soft and slow. Skeptics may flinch at the simplicity; the track commits to it without irony.
+
+I hear sincerity as the aesthetic choice. In a catalog full of ash and steel, this one risks hope out loud.

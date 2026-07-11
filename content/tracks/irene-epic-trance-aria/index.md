@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -57,4 +62,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Irene is sought across galaxies—a silver thread, two sparks entangled past fate, a name the void itself seems to rearrange for. Epic trance aria is the right exaggeration: love scaled to cosmology without apology.
+
+Black holes may roar, stars decay; the vow is still to find her through every realm. The lyric is unabashedly romantic, almost operatic in its confidence that distance is temporary and the pulse is shared.
+
+Whether Irene is person, muse, or pure idea barely matters. The music believes in the thread, and for the length of the track, so can the listener.

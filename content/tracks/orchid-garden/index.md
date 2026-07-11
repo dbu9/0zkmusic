@@ -33,8 +33,13 @@ release_date: 2025-04-02
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Instrumental climate: nocturnal, atmospheric electronics named for a garden of orchids—lush, slightly dangerous beauty without a storyline. Texture does the speaking; the rest is air and shadow.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -51,4 +56,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The light fades to gray; whispered promises reclassify as games. Silence once carried like a secret finally reads as evidence. The chorus strips the pedestal: *you’re not so special*—painted vision, lie, mirror broken, goodbye waved.
+
+Bitterness has clarity’s cold comfort. Love as hollow echo; sky drained of color; shared dreams vanished without residue. Nocturnal, atmospheric electronics (with alt-rock grit in the framing) can keep the cut clean rather than theatrical. Nothing left to say is itself the statement—disenchantment finished, and oddly free.

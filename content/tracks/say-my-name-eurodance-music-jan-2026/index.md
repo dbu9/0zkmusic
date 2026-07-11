@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "dancemusic"
@@ -55,4 +60,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Eurodance hunger, simple and effective: say my name, light the fire, take me high. Identity becomes erotic only when spoken by the other—eyes that pull through, warmth that returns with a single word.
+
+Without the voice, blue nights and lostness; with it, burn. The repetition is the point, not a flaw—name as spell, name as proof of being seen. Even if the spark fades slow, the need stays.
+
+Dark-nocturnal-euphoric electronics dress a classic club plea. I wouldn’t over-intellectualize it; the song knows what it wants and asks at full volume.

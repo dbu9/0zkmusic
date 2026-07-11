@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Physics as love language. Falling into the other “like a secret”; seasons pulling near; whisper caught on an atmosphere; golden sparks as broken embers; hearts surrendering in “the ocean of your burning eyes.” Stars upon skin. Heavy skies, storms where “us” still glows; silence and rain; calling a name; gravity as “fire I can’t hide.” Uplifting vocal trance is almost literally orbital mechanics for the body.
+
+Shattered pieces drift in endless skies; truth still hides in eyes; quiet breaks into call; colors fade into one flame. Even if dark closes fast, “we will outshine the past.” The refrain’s secrecy matters: falling is not public spectacle but intimate collapse of distance. Gravity here is chosen captivity—orbits widened, then gladly broken toward a denser center. I will not look away until night turns to day: attention as the last faithful physics.

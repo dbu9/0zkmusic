@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -51,4 +56,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Hook as open wound: lover, lover, why can’t we—and the smile that already means never. Pretend is mutual theater; the heart was lent and treated like soft beat instead of craft. Friend-zone named without euphemism; safe-lane exhaustion; orbiting as ghost while someone else fails to see the shine.
+
+Verses do the private work—memorizing blinks, crumbling quiet, wishing to be him when lights dim—while the dance shell keeps the room moving. Euphoric electronics under unrequited detail create a useful dissonance: body might still dance; the lyric knows it was never free to lose what was never held. Love without guidance, still written “through the silence.”

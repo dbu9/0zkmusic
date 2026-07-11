@@ -33,8 +33,13 @@ release_date: 2025-05-17
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Fingerstyle guitar under an electronic night-sky: summer height remembered in cooler air. Without words, the mountain is contour and resonance—open strings as ridgeline, atmosphere instead of plot, a climb you hear rather than narrate.

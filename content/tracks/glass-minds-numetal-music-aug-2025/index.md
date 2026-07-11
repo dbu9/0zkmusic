@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -49,4 +54,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A crowd poem of willful blindness: empty eyes chasing flame, masses turning from truth “written on the wall,” darkness as comfort and silence as shrine. “Blind in glass minds, they fall in line”—the glass suggests both screen and fragility, minds that reflect without seeing.
+
+Dark nu-metal electronics give the sermon its teeth. Echo chambers, velvet chains, brittle pride: the lyric’s contempt is almost classical satire, yet “one spark of vision, a fracture, a tear” admits a slim heresy of sight. Few see the world as it is—perhaps the track wants to be that fracture more than that sermon.

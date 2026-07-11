@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "euphoricmusic"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Burns’s plow and mouse rewritten as nocturnal electronic tenderness. The small shy creature need not run; the speaker claims kinship—“both flesh and bone”—and refuses the role of farmer-destroyer for a day. Best-laid plans of mice and men still fail; dreams slip into sorrow; winter nears; the field is torn. Yet the moral turn is gentle: a stolen grain is survival, not crime.
+
+The sting arrives late: the mouse is luckier, living without past regret or future dread, while the human remains “lost in my head.” Atmospheric night electronics can hold that philosophical sigh without sermonizing. Run along, live now—the elegy is for the speaker’s overthinking more than for the ruined nest. Fate is cruel, trust persists, and memory is the human tax the mouse does not pay.

@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "darktrance"
@@ -57,4 +62,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Peak-time dark trance as pure architecture of force: minor-key euphoria, supersaw weather, the long build and the hard drop. Without a sung story, the “journey” is tempo and pressure at 140—hypnosis earned by repetition, shadow that still wants to lift.

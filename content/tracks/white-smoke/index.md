@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -60,4 +65,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Renunciation without bitterness: “I don’t regret, I don’t call… Like white smoke I used to know.” Golden days cold, youth dissolved, birchwood roads and barefoot dreams fading; the heart is told to stop fighting the chill. Bless the rise and bless the end; nothing built to last; “Everything we love / Was never ours at all.”
+
+Uplifting driving trance under such letting-go is paradoxical and right—the body still lifts while the will releases claim. Pink sky into blue, copper leaves, white smoke and cold air: a late-summer philosophy set to vertical motion. Not despair’s theater; a calm inventory of impermanence.

@@ -33,8 +33,13 @@ release_date: 2025-02-27
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Space trance as departure narrative without words: leaving Earth, aimed at a center that may be cosmic or inner. Uplifting drive, long horizon, the odyssey implied by trajectory alone.

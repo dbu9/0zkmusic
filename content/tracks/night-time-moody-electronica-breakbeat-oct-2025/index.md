@@ -31,8 +31,13 @@ release_date: 2025-10-23
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -50,4 +55,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Moody electronica and breakbeat after dark: the title is the brief. No lyric thesis, only nocturnal pulse—hours when thought thins and rhythm thickens.

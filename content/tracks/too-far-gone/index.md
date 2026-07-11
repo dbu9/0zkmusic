@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "progressive trance"
@@ -60,4 +65,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+City lights, silver rain, engines crying—flight as the only remaining sentence. *Too far gone / Too far now*: not tragedy, but successful escape. Sirens fall, no one stays, no one calls; roads divide while two shadows keep past the end.
+
+Progressive trance and deep/chill house give the run a smooth chassis. Let them chase, let them burn; no return. Passing like a dream is the victory condition. Uplift as distance already achieved.

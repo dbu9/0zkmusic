@@ -33,8 +33,13 @@ release_date: 2025-10-18
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+No words here—only the slow descent the title promises. Deep synth ambient as if the northern lights were going under rather than rising: color folding into pressure, atmosphere thickening into a long, chill immersion. A place for the mind to drift while the horizon sinks by degrees.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -57,4 +62,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Less song lyric than manifesto: an age of mind unshackled, science as compass, technology as chariot, stars as frontier rather than forbidden realm of gods. Space trance odyssey for a speech that refuses superstition and fear of the unknown.
+
+Destiny forged by intellect and curiosity; walls of ignorance torn down; united by knowledge, not faith. The hour of reason, triumph of mind, humanity unleashed—rhetoric at full sail toward three parsecs from the sun.
+
+I hear utopian heat more than subtlety, and the genre agrees: uplift as ideology, the cosmos as addressable home. Whether you salute or smile, the conviction is the instrument.

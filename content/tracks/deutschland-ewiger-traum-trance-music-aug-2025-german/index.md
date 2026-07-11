@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Homeland addressed as lover and altar: “Ich flüst’re Liebe in die Nacht,” Germany as dream, glow, and space. Childhood light, unforgettable heroes, a plea that the country not die or lose its face. Vocal trance’s euphoric engine turns patriotism into something almost liturgical—storm and flame as accompaniment to a whispered name.
+
+It is easy to misread intensity as mere slogan; the lyric’s core is fear of extinction—“Bitte lebe… stirb nicht.” The eternal dream burns because it might go out. Whether one shares the devotion or stands outside it, the emotional architecture is clear: identity held as sacred heat, heart as keeper of a land that must “shine bright as once before.” The dancefloor becomes a place where longing for continuity can sound like flight.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Ruins of light, promises that vanished, stars gone cold. The speaker becomes *the ghost of what we made*—voice time could not persuade, truth that betrays, flame reduced to ash while the world moves on without looking back.
+
+Forsaken, forgotten, abandoned, alone: the litany turns the body to stone. Progressive and vocal trance still reach for uplift, but the final mercy belongs to shadows that remember what light refused to show. Let the stars forget the name; the dark keeps the record.

@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -64,4 +69,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Caught in old Triebe, wanting only Liebe; stay, and it might become real; words can land like Hiebe, yet love is still what counts. Letters full of pure feeling; a heart grown trübe until the other person redeems the light. Then the plea: pull me from the swamp of starved-out love where true love has no place—what remains is hoffnungsvoller Liebe, repeated until it becomes drum and prayer.
+
+Euphoric nocturnal vocal trance loves this kind of open longing. The German rhyme chain (Triebe/Liebe/Bliebe/Ziehe…) is half game, half compulsion—language spinning around the same center because the speaker cannot leave it.
+
+I hear need that knows its own hunger and still chooses hope as the last usable word. Not polished theology—more like someone singing their way out of a mire by naming the only exit they still believe in.

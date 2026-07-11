@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Capability is redefined downward, which is to say more honestly. Bend without breaking. Shake and stay upright. The ground moves; the answer is simply *I breathe*. After a long apprenticeship in disappearance, a pulse in the chest insists *you’re still here*—not triumph, only refusal to finish vanishing.
+
+Vocal trance lifts that stubbornness into the open air. Scar and thin voice are allowed; perfection is declined. *I’m capable* becomes a mantra for people who rise like waves—slow, repeatable, true—rather than for those who never fell. The dark is not a verdict. The fall is not the ending.

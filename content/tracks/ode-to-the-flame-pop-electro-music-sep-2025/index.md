@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Love remembered as combustion that outlasts the body. Stars that burned before, shadows and embers leading toward a shore; whispered prayers; fears fading in silver light. “Ode to the flame, / It carries my name”—identity hitchhiking on fire through storm and pain. Dark nocturnal electro-pop can make devotion sound like a torch procession rather than a diary.
+
+Time dissolves like water; fire refuses death; dreams become “daughters of the endless sky.” Wounds turn to song; silence to strength. The late image—we are ashes, we are fire, bound by desire—refuses to choose purity over heat. Perhaps the flame is the beloved, or memory, or will itself. What matters is the claim that in the dark it remains “still the same,” still calling a name the night has not managed to extinguish.

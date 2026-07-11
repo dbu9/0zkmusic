@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A room built “with thread and dust,” walls that remember love and lust, cold that is “strangely warm.” Outside, the world has lost its form; inside, the speaker sheds skin and care, disappears into hollow love that will never break. Absence becomes “deepest truth,” grace found in “every inch of your erased face.”
+
+Dark pop’s melancholy fits this enclosure perfectly. The hollow is both wound and chapel—doors gone, clocks stopped, identity only possible in the shape of someone no longer fully there. Dangerous intimacy: stilling and aching as the same gift.

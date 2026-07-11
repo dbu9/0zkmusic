@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Dysphoria of the ordinary self: weight of unsaid things, mirror without face, scream without trace. Hands that feel too far, “like wearing flesh / that never scars”; a voice not one’s own dragging through blood and bone. The terror is not invasion from outside so much as uncertainty—“This isn’t me— / Or maybe it is.”
+
+Nu-metal night-atmosphere fits that crawl through hollow skin. Ending and beginning refuse to stay mapped; each day is negotiation with knives under the skull. I hear less monster movie than honest panic about ownership of one’s body and mind.

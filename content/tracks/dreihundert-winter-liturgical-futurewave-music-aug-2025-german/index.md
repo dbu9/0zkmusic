@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -62,4 +67,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Three hundred winters compressed into steel cross, ships, number, blood in sand, ancestral forest, breaking crown, Baltic ban. Sparse German lines read like carved plaques more than confessions. Liturgical futurewave—trance pressed against dark techno—could turn that history into ritual pulse: fire, sword, a long memory that refuses to stay museum-quiet.

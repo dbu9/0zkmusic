@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Season as autopsy: summer passed, shadows burned too fast, passion to flame, nothing the same. Whispers in rain, storms, fire to dust—then the bleak couplet “Here the summer bled, / All the light is dead.” Echoes drown fear only by louder weather.
+
+Trance’s dark drive suits a short lyric that refuses consolation. Memory collides underground; love and trust join the ash list. I hear end-of-affair as end-of-season—time itself accused of arson.

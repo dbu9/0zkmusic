@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -58,4 +63,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Hands as white swans—soft, too near—in hair and in fear. The world sings one song; the speaker joins, then learns what gentleness costs. Love warms the soul to the bone and turns the heart to “gold, heavy stone.” A foreign moon cannot heal scars.
+
+*Hold me tight / let me go*—the swans’ double law. Beauty walks for ear and display; a song without roots is dust. Softest hands, cruelest bind; they silence the singer. The epitaph is already written: *He could sing… but swans won.*
+
+Vocal trance lift over a lyric of tender captivity. Perhaps love here is not villainy but a softness so absolute it smothers the voice it meant to cherish.

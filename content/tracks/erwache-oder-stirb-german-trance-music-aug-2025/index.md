@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Diagnosis first: heroes falling, cowards praised, strength cursed, truth made lame. The German verses paint inversion as climate—madness ruling an empty game—until the command cuts through: *Wach, erwache… Steh oder stirb*.
+
+Trance’s drive becomes a wake-up strike rather than a party engine. *Awaken or die* is ugly honesty about what happens when weakness eats what no one names. You can hear the uplift as adrenaline, not optimism: stand, or the self that could have stood is already gone.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Nine chapters of subatomic weather: vacuum sparks, event cascade, waves of collapse, zero-point fractals, graviton mirage, entropic horizon. Progressive house as physics daydream—uplifting drive through scales too small for ordinary narrative. Foam as the restless floor of reality, danced rather than explained.

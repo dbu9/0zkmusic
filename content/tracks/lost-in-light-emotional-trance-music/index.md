@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Dream-call and fading face: “Lost in the light, I'm falling deeper.” The keeper is also the wave that catches you; sparks remain in every touch; love and fire share the same veins. Fear is set down for weightlessness—“No more fear, just you and me, / Drifting on infinity.”
+
+Dark-uplifting trance loves this grammar of falling upward. Holding on “for love’s own sake” is almost tautological and therefore pure: the reason is the feeling itself. I hear devotion as free-fall illuminated, not as argument.

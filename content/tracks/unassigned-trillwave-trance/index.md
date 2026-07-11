@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trillwave"
@@ -64,4 +69,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A hymn to remaining undefined. Frames that never bind, folded time, pressure that slips its form—“not a signal, not a role,” not the sum you are meant to find. Maps dissolve at edges; rhythm bends; phase slips and realigns without broken code or final role. Vocal trance that is euphoric, nocturnal, chill can make unassignment feel like mercy rather than failure.
+
+“Let it blur, let it unfold, / Out of frame and out of hold.” Static, unmarked, still in phase—then air returns, a floor is found, nothing taken. No demand carved into place; motion warm and slow, allowed to ebb. Low frequency stays awake even when patterns break. I hear neurodivergence, grief recovery, or simply the right to not resolve into a brand. Unassigned, “but not in vain”: meaning without the prison of a single assignment.

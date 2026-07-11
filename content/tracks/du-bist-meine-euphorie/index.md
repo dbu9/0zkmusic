@@ -44,8 +44,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "melodic techno"
@@ -69,4 +74,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Dunkler Raum, kaltes Licht, Puls als Träger: die Liebe hier ist club-theologisch, Körper vor Plot. Kalte Haut, heißes Blut, kein Ziel, kein Zurück—Euphorie ist nicht Freude im bürgerlichen Sinn, sondern Unter-der-Haut-Sein, leise und laut zugleich, Verlust des Ichs als Geschenk.
+
+Melodic und dark techno, vocal trance, progressive house—Berliner Nacht als Grammatik. „Ich fall tief / durch den Klang“ ist beinahe die ehrlichste Liebesdefinition des Tracks: der Andere ist Licht und Sog, Rauch und roter Schein, und das Glück heißt, sich zu verlieren, ohne nach dem Ausgang zu fragen.

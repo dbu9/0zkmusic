@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A catechism of the body under strain: run, breathe, cells ignite, “Sweat is truth / Motion is law.” Shame is killed by seconds; the past is burned for fuel. “Break yourself / Then surpass” is the only theology on offer.
+
+Nocturnal driving synthwave with sports energy makes purification feel like neon training montage and ascetic rite at once. Flesh obeys when mind clears; doubt is treated as toxin. I hear self-remaking without apology—brutal, clean, almost joyful.

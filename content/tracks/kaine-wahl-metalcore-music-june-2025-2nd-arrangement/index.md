@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Binary violence as metaphysics: you or enemy, one lives and one weeps, victory as commandment. Will is denied—“Du wählst nicht / Kein Wille frei”—time is lead, the path mute and yet stifling. Only winner or ice.
+
+Aggressive metalcore makes the lack of choice feel physical. No pity, no price, only outcome. Perhaps a critique of forced combat, perhaps a celebration of it; the lyric’s coldness does not decide for us, it only shuts the door on soft exits.

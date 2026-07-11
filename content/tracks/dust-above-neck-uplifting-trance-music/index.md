@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Hourglass theology, stripped bare. Time drops grain by grain; the bottom waits; nothing escapes. Past dead, future blind—“only the neck, only the grind.” Then a strange resurrection: *we rise as dust*, floating the breach, orbiting stillness, burning a hole through the glass’s logic.
+
+Uplifting trance usually promises escape; this lyric promises presence without fall. “Hover in the neck. Now is forever.” Flesh forgets, glass forgives, but dust remains—and *lives*. I hear an ontology of the present tense, almost defiant: not sand as death-measure, not soul as abstraction, but residual matter that refuses the drop.
+
+Perhaps “above neck” is the thin strait where all remaining life concentrates—the choke-point that becomes a throne.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Memento mori set to trance: what you build falls to dust, gold to sand, crowns to clay; the grave equalizes kings and slaves. Latin refrains—*pulvis et umbra sumus*, time flees, death is certain—turn the dancefloor into a chapel of ash.
+
+Beauty is brief; all songs hush; earth reclaims. Where are those who came before? Their names are wind. Yet the lyric still urges breath and flame spent fully, because in the grave all is the same.
+
+Uplifting drive under that message creates a strange double vision: bodies moving while the text reminds them they are shadow. I find that tension more interesting than pure gloom or pure celebration.

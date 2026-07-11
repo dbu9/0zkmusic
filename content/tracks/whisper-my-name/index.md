@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Neon rain, midnight haze, the one chosen when the night turns late. Whisper my name when the lights go down—pull me from the silent crowd, secret flame, mutual calling. Running from the sound of the other only proves the stars know where the soul returns.
+
+Uplifting vocal trance loves this intimacy-at-scale: personal address over communal pulse. Belonging to “the echo of you,” shining in the dark with heartbeats aligned—romance as recognition signal. The whisper is quieter than the drop, which may be why it feels truer.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Practical metaphysics for the dancefloor: run or stay, but don’t look back—the past will not rewrite on request. Joy is “fleeting light”; words rank below right feeling. Let go, open, let love begin—simple directives that trance can make feel enormous.
+
+The chorus is almost a commandment: *live for the one you love*, repeated until it becomes gait. Night turned bright, lost things brought into light. Driving uplift as ethical clarity rather than complexity—choose the living bond over the museum of regrets.
+
+One reading: not naive happiness, but triage. What still burns gets the remaining life.

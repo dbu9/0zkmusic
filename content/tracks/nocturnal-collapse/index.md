@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "darktrance"
@@ -71,4 +76,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Dark dramatic trance at 145 BPM with no polite euphoria on offer: fracture, phantom choir, obsidian descent, void sovereign. The suite title is the thesis—night as structural failure, tension that prefers menace to lift. Listen as weather for headphones after midnight: collapse not as ending, but as the shape the dark insists on.

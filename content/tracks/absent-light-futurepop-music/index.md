@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Someone keeps offering the soft future tense of comfort: wounds will seal, the world will yield if only forgiveness is learned. The body disagrees. Time passes *through* it, not over it, and the ache settles where bone keeps score. Silence arrives as freight—unshared, unliftable.
+
+What was promised as fire freezes; the cure brings no peace; light blinds. Contradiction is the relationship’s true climate, and Futurepop’s cool, polished surface makes that climate feel precise rather than melodramatic. You can almost hear the spare drum machine ticking under wreckage that was never cleaned away.
+
+Then a harder quiet: rising through gray, rebuilding from someone else’s decay, learning to stay after being taught disappearance. The last fire is solitary. Pain is not denied—it is simply refused as a place to drown.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Mortality without monument. Days as borrowed threads, name rotting, face fleeing—what remains is *echoes* singing in data streams and fractured dreams. No bones, no final plea; only melodies that used to be a person.
+
+The lyric is short enough to feel like an epitaph whispered into circuitry. Vocal trance makes that afterlife audible: identity surviving as frequency rather than flesh. It is not comfort exactly. It is the strange mercy of being remembered as sound.

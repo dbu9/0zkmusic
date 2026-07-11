@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "chillstep"
@@ -56,4 +61,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A chillstep album at the brink of tears: wobbly weight, piano, breathy lift, titles like Unbreakable Arc and I’ve never felt this close to the edge. Without a continuous lyric, the idea lives in pressure and release—night focus, figure-skater grace, melancholy that still wants to soar. Eternity here is not theology; it is the feeling of almost breaking while the beat keeps you upright.

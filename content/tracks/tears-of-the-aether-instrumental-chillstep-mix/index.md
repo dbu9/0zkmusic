@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "chillmusic"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+An instrumental chillstep suite named like weather reports from high altitude: *Celestial Drift*, *Cristalline Dusk*, *Nebula Veins*, *The Last Ember*. Dark, chill, atmospheric—grief without a face, only titles that behave like tears the aether forgot to hide.
+
+Listen as continuous dusk rather than separate songs. Orbit, horizon, sanctuary, windswept silence: the mix maps solitude in slow drops and bloom, emotion carried entirely by low-end and space.

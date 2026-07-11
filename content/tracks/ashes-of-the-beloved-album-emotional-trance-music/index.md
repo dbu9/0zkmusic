@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+An album of aftermath: not rage at betrayal so much as a long look at what faith left behind—love, virtue, friendship, the old human promises. Titles sketch a descent from shared belief into hollow pacts and frail devotion. Trance here seems intended for the afterglow, when the room is still warm and the fire is already ash.
+
+Ethereal lines, distant pulse, grief spoken softly rather than shouted: a requiem posture. Whether every track holds that intimacy is for the ear to judge; the frame, at least, is clear. Memory stands in the ruins and breathes.

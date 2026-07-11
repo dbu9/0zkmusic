@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Encouragement without sugar: walk the line, night around you, fire true, “You do not break.” Doubt whispers lies; the flame inside refuses to die. Storm fierce, yet shine; dark won’t stay; the road is simply right—no need to turn or hide.
+
+Dark-uplifting trance often needs this kind of spine. I read it as companion piece to harder despair tracks: not denial of shadow, but passage *through* it. Strength as something that carries you when belief flickers.

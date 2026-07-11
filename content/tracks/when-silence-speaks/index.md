@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Domestic afterimage as sacred text. Pale light, kettle singing, sweater still by the door; quiet traced in small things, footsteps on kitchen floor. Rain paints glass as if time forgot to move; shadows from the past answer “things we never said.” Uplifting vocal trance might seem large for a kitchen; here the large feeling grows from the small object.
+
+Absence becomes “a silent kiss” carried where one used to stand. Voice still hums in the air; loneliness is briefly forgotten. “You never tried to change the sky— / Just held my storms until they passed.” Gratitude without spectacle: gentle word, steady hand, quiet grace filling empty space. When silence speaks, it speaks in residual warmth—the beloved as climate that remains after the body has gone, soft enough to make the world less wrong for a few measures.

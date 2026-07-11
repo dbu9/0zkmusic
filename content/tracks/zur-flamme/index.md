@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -60,4 +65,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Deep night; glow that keeps sleep away; no blood left, yet walking toward a red shine. Flame called by name until shadow can burn, body can fall. Cold stone underfoot; self recognized only near the fire that may consume.
+
+No trace, no return—only fire, only a glance. Quieter and quieter, still awake, always forward. German lines are spare; dark psy-tinged vocal trance can turn them into ritual pull. Whether love, death, or pure attraction to intensity, the magnet is the same: better to burn in recognition than stay cold and unknown to oneself.

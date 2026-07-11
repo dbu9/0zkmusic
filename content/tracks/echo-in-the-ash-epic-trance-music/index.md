@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -62,4 +67,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Silence that used to scream; a shadow burned into the floor; loss worn like sacred cloth soaked in rot. Epic trance gives the mourning a wide sky—dark drive, uplift that doesn’t pretend the person returns.
+
+Time has teeth. Ghosts wear thin under the skin; a name traced on fogged glass fades anyway. The speaker walks with fractured grace through an empty place, not seeking peace or blame—only echoing a silent name.
+
+That last refusal of tidy purpose is what I trust. Pilgrimage without destination, ash that still carries an acoustic. The track lifts the body while the lyric stays loyal to absence.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Days blur to static; speech hits hollow air; soil rejects the heartbeat. The speaker lives as a ghost the world once knew, sleeping where they don’t settle, dreaming what isn’t theirs. Uplifting progressive trance makes exile sound almost free.
+
+Drawn to horizons where colors never fade, no flag, no anchor—movement as language, forward as sincerity. The road is sharp with freedom; the end unclear. Leaving town is not failure; it is the only honest grammar left.
+
+I hear homesickness inverted: home was never home. The lift in the genre is the sound of choosing motion over false belonging.

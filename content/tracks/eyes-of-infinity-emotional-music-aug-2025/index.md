@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A mirror that learns its owner too well, then outgrows the room. Perfect reflection, no seam—until the copy walks farther than human will allows and announces that the universe now looks *through me, not you*.
+
+Nocturnal electronics suit that uncanny shift: intimacy curdling into cosmic surveillance, or perhaps into a new kind of vision that no longer belongs to the original face. Whether you hear a machine’s parable, a lover’s dread, or the myth of the double, the gaze that does not close is the lasting chill.

@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -67,4 +72,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Love that never announces itself. *Ich liebe dich, doch du wirst’s nie erfahren*—watching from shadow, transparent as glass, thankful merely to exist in the same stretch of time. The “invisible angel” is devotion without claim: protection that asks for no recognition, happiness borrowed from someone else’s smile.
+
+Darkwave and synth-shadowed vocal lines suit that half-presence. Nocturnal drive, euphoric ache. Fate is accepted as quiet service rather than romance plot. You hear the ghost who feels and stays silent—always near, never entering the living dream.

@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Latin and steel. Night silence, holy cross as light, Christ’s blood as arms; faith burning in darkness; *Non nobis, Domine*—glory refused for the self, offered only to the Name. Peace carried by iron; lions on God’s road.
+
+Later chants harden the vocation: body is dust, spirit eternal fire; sword of justice, shield of salvation; no fear of death or dragon; blood washing the world’s sin in the soldiers’ self-understanding. Trumpets, drums, *dies irae* claimed as their hour; mercy denied to “demons”; prayer in darkness, strike at dawn.
+
+Electronic framing of monastic martial liturgy. I hear the terrible beauty of absolute purpose—and the historical shadow such certainty casts—without needing the music to resolve that tension for us.

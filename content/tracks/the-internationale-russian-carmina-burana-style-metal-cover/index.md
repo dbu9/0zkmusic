@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "theinternationale"
@@ -61,4 +66,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The old workers’ hymn in Russian, recast with Carmina-Burana mass and metal muscle. *Вставай, проклятьем заклеймённый*—rise, you branded by the curse—then the demolition of a world of violence and the building of another where *кто был никем — тот станет всем*.
+
+No private confession here; the voice is collective will. Gods, tsars, and heroes denied as saviors; liberation claimed by the hand that labors. Aggressive intensity suits a text that still believes history can be seized while the iron is hot—anthem as impact, not museum piece.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Motion past moral sorting—no wrong or right, only white echoes in silver night. Dreams dissolve and reform; gravity wears a human name; hearts collide and dissolve in black. Dark techno’s club drive makes metaphysics physical: pulse, shimmer, breath.
+
+“We never stop… we never break… we just awaken.” Frozen yet always flown, shadows in a stream, lucid dream as velocity. Intimacy here is co-acceleration rather than conversation. The dancefloor as near-light experience—alone together in the dark.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -57,4 +62,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Years of waiting, tears hidden, one soft light sought inside another’s night. Blame taken, name lost; silence growing cold and true. Warmth poured through every storm into their dark—and years pass with no change, only darker sky, the same old line. They stay the same; they strike again; ash falls from the speaker’s name.
+
+Dark, euphoric, nocturnal vocal trance can make masochism sound almost holy. Here the holiness frays: no dawn became, only their flame. Devotion has become a one-way climate system.
+
+I hear a portrait of love that mistook endurance for intimacy, and finally names the asymmetry without yet knowing how to leave it.

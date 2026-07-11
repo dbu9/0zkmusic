@@ -33,8 +33,13 @@ release_date: 2025-10-29
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Perhaps the title is already the whole argument: altitude over canopy, green mass translated into wave rather than map. Without words to insist on a plot, the piece seems content to hover—nocturnal electronics, new-age patience, a tribal pulse that never quite becomes speech. One listens as if from a plane window after midnight: the forest is real, but the vantage makes it geometry and breath.

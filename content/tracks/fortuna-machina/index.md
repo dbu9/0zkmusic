@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Carmina Burana’s old terror of chance rewired: wheel of fire, luck and loss entwined, “Digital fate, electric dreams.” The Latin cries—*O Fortuna, nova, nova… vox divina… machina*—make fortune sound like both goddess and operating system. Hands of time never cease; faith breaks so that release can be forged.
+
+Dark-uplifting trance is apt for a wheel that rises only to fall. I hear medieval dread speaking through coded streams—the same spinning injustice, now with a motherboard heartbeat. Chaos as supernova: not comfort, but the honesty that tide decides.

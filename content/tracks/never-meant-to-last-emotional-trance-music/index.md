@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+It was never meant to last—and still the city keeps glowing violet. Golden hours glitch; the other person was stardust in a dream; now the speaker spirals through chrome as a ghost in circuits. EDM/trance high energy frames heartbreak as cyber-loneliness.
+
+Phantom frequency, waveform out of alignment, laughter caught between stations: “I still hear you in the static.” You were real; now you are code and color. The club body moves while the lyric admits entropy.
+
+Nowhere repeated like a destination. I find the honesty in that refusal of forever—synthetic days that knew their own expiration and still burned.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+*Darlin’ darlin’* repeats like a bruise you keep pressing. Wide smile, never together: the classic trap of being safe lane, soft beat, art mistaken for friendship while someone else gets the full moon.
+
+Melodic rap lets the bitterness stay melodic. No blame performance, only the slow burn of memorizing eyes that do not choose you, writing hymns that may never be read as love. Orbit as ghost-work—close enough to ache, never close enough to land.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A physiology of will. Cortisol first—sharp, will-breaking, fire in the muscle and doubt in the feet—then, only if you stay, endorphine “late but pure,” born in the ash of suffering things. The lyric refuses soft arrival; the storm is the only door, and both trial and grace are “written on my face.”
+
+Vocal trance’s euphoric drive maps neatly onto that chemical arc: tension, grit, the silence cracking, light flooding when the gates unlock. I hear it as a love letter to endurance that knows chemistry is not metaphor—pain thins, then something sings, and the song does not pretend the first half was pretty.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Butterfly effect as love physics: a light wingbeat expands into broken time, distant hearts share one palace, borders collapse. Italian lines chain silence to space, small choices to eternity. Uplifting trance can literalize that cascade—each bar a consequence of the one before.
+
+Nothing cancels; a remote pulse lights a star. The poem trusts total connection almost as doctrine. One might doubt such seamlessness and still feel the beauty of the claim when the rhythm carries it.

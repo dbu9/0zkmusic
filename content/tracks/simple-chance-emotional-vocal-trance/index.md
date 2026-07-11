@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Not forever—only a moment in someone’s light, caught between silence and the hope they might. Healing hearts are quiet; still one calls another’s name. The ask is deliberately small: *simple chance*, no grand romance, something undestroyed, calm in the night, truth in the eyes rather than vows.
+
+Past as distant thunder, fear as rain, one step met by another. Vocal trance can inflate modesty into soaring, which is part of the charm and the risk—the “simple” request rides a euphoric engine. Underneath: a wish to float above wreckage where “realness never dies,” and not to let go once admitted.

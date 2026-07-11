@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Shadows on the floor, touch gone, echoes fading—only “what we made” left as residue. Closer yet further each day; ground lost in the other’s eyes; love present and then unfindable. Heartbeats out of time; moments burning bright then cold.
+
+Metal’s dark intensity under whispered dreams breaking apart; silence cutting the heart; endless night without guiding flame—“together, yet not the same.” I hear the slow disaggregation of a couple still occupying the same dark: intimacy’s ghost shift, not a clean exit.

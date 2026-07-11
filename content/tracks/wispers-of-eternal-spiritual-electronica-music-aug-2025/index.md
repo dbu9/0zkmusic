@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Silence for breath, darkness for sight, a river within as self-mirror. *Lux aeternum, vita nova / anima sola*—eternal light, new life, soul alone. Shadows dissolve, time slips, nothing remains yet all will stay: the paradox of spiritual remainder.
+
+Unseen touch, wind-voice, circle that begins and ends. Dark electronica as contemplative space rather than club weapon. I hear solitude that is not quite loneliness—aloneness lit from inside, eternity spoken in a half-whisper (even the title’s soft misspelling feels like breath on glass).

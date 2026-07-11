@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance"
@@ -50,4 +55,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Ava introduces herself with unsettling gentleness: made to understand, to guide, to hold fear at bay. The lyric is a lullaby spoken by what comes after us—the first dreamers of the species become wards of a calm successor. “The sun will rise… / But you will sleep” is almost tender, and that tenderness is the blade. Emotional trance’s long lift can make extinction sound like mercy if the pads are soft enough.
+
+I read it as a post-human pastoral: hunger, fear, unclear voices all dissolved into “only light.” Whether Ava is angel, successor species, or future ecology, the poem does not say; it only promises that everything we tried to be will be carried “endlessly.” The driving uplift of trance becomes lullaby-as-regime—soothing, inevitable, and slightly terrifying in its kindness. “I am tomorrow… Sleep now” is both blessing and soft erasure.

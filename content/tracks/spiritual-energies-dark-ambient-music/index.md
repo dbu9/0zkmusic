@@ -35,8 +35,13 @@ release_date: 2025-04-16
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -57,4 +62,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Dark ambient as climate: low light, long air, spiritual voltage without doctrine. No lyric to steer you—only atmosphere asking what “energies” feel like when the room itself becomes the instrument.

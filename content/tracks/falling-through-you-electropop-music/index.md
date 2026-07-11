@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Shadows move “like waves in glass”; fingers trace a fading sound; the self is no longer found where “we” once were. The central figure is physics of grief: *falling through you* like rain through air—feeling motion without substance, calling a name and losing command.
+
+Electropop chill with a dark undercurrent suits loops of memory that will not ground. Silence burns “a colder light”; breathlessness on the skin; the beginning keeps replaying. Nowhere to land is both image and condition.
+
+Perhaps intimacy has become a medium one passes through rather than a person one meets—presence reduced to turbulence.

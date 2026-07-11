@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A vow of presence through grey. Night over skin, city still breathing, noise fading to one pulse; when colors turn, the speaker will not run. No grand signs—just a hand, standing till the sun, remaining through fall and flame, even “if the light never comes.”
+
+Nocturnal euphoric vocal trance thrives on this kind of loyalty-as-lift. Survival is mutual and ordinary: step by step, breath by breath, outlasting what is left. When the light returns, the knowledge is simple and hard-won—we survived the long road—not because the dark was denied, but because someone stayed inside it.

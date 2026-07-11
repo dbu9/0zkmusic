@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Cold law: the strong live, the weak fall, nature is ice and only force counts. Industrial bite and nocturnal electronics suit a lyric that wants no soft weather—storm decides, fire does not ask, the word is hard and the sword understands.
+
+Nietzsche is named openly; will is right, anger is clear, steel is the order that “does.” Softness is not merely criticized; it is erased—“you were soft, you are no more.” The ideology is ugly on purpose, a hymn to sieving rather than care.
+
+I wouldn’t soften the reading. The song stages a creed of combat and selection; the music’s aggression is the argument’s body, not decoration.

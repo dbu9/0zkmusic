@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "electronic music"
@@ -49,4 +54,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The lyric has almost no interior furniture: hands up, lights, bass in the chest, “no tomorrow, no regrets.” That is not a failure of depth so much as a deliberate ethics of the floor. Night is framed as an exception zone where the sleeping city becomes irrelevant and the only test is whether you are still moving when the drop arrives. Eurodance and nocturnal euphoria share that theology of the present tense.
+
+What the words refuse is narrative consequence. Silhouettes, sweat, neon, the command to jump—desire reduced to pulse and permission. “When the beat drops, we’re already gone” might be the purest line: identity dissolves into motion before thought can catch up. Perhaps the track’s seriousness is exactly its unseriousness—an insistence that liberation can look like a crowded room counting to one together, then vanishing into sound.

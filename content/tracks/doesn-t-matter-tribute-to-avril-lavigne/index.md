@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "AI music"
@@ -62,4 +67,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Defiance with a dancefloor grin: you talk too loud, your rules don’t touch, I’m already moving on. The Avril shadow is attitude more than imitation—pop-punk nerve translated into nocturnal electronics that still want bodies in motion.
+
+“Doesn’t matter” repeats until it becomes philosophy: I decide my gravity; I’m exactly who I’ll be. Drama fades into noise; flaws get counted by someone else while the singer counts lights above. Freedom is not argued; it is danced.
+
+The charm is how little apology the track bothers with. Turn it up, let it be—identity as beat rather than explanation.

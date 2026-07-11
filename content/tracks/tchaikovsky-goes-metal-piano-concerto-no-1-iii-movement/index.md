@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "tchaikovsky"
@@ -64,4 +69,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Tchaikovsky’s third movement under metal voltage: classical architecture re-voiced as aggressive intensity. The familiar themes survive as ghosts inside distortion—elegance arguing with force. No new lyric; the argument is purely sonic.

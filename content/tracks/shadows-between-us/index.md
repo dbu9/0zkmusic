@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Night remembers the loss; echoes fall like glass; a name dissolves in rain. Trance’s dark uplift carries the chase of a ghost across the sky—fragile light dying, promises turning to rust, heartbeat to dust.
+
+Do you hear me call your name through distance and flame? The face appears in the dark as a dream that cannot be held. Still the speaker wanders and stays, lost in yesterday on purpose.
+
+I hear loyalty to absence more than hope of return. The distance is structural; the music only makes the reaching beautiful.

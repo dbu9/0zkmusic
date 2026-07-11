@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -50,4 +55,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A window cracks; the city hums and never mends; breath that was yours becomes a ghost-sign in the air. The world unravels thread by thread, yet something under the skin still sparks. Rise, the chorus says, though the night is hollow and hands may fall—carry flame and silence together.
+
+Dark electro-pop can turn fragility into architecture. Voice as glass that breaks and bleeds, seeds in the cracks, light waking from ruin: the images are almost gothic, but the will is forward. Not denial of damage—use of it.
+
+I read the track as stubborn tenderness toward a self that has already been shattered once and is being asked, carefully, to stand in the draft.

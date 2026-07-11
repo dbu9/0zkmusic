@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Almost a catalog of longing’s weather: torn soul, weeping moon, black sea, cold flame that still holds the heart, name written and failing. “I live for you, though love has passed” is the cruel thesis—devotion outliving its object. Broken glass still shows the face; the clock is blind; the search continues for what will never be found.
+
+Dark trance drive keeps the vigil from collapsing into soft ballad. Prayer toward absence, steps heard without sound: desire here is haunted architecture. Late hour as permanent condition.

@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -49,4 +54,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Light mistaken for smoke and flame; words that burned bright and left the speaker in rain. Alt-rock chill frames a softer collapse—reaching for something real that slips like sand, emptiness louder than speech.
+
+Breaking, pieces on the floor, living in a shattered glow: not blind, not strong, simply unable to carry on with what was whole. I take the title at its word—radiance after fracture, beauty that admits the break.
+
+The song doesn’t strut through pain. It sits in the residual light and names the ache.

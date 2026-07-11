@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Surrender without the usual fight-choreography. “Hold me down / In the silence / Let me drown / In the light”—and then the admission: “I don’t fight / anymore.” Falling into the other becomes the only motion left; self-knowledge fades “in you.” Vocal trance’s nocturnal euphoria can make abandonment feel like grace rather than defeat.
+
+“Don’t wake me / Don’t save me / Just take me / Through the blue.” Rescue is refused; immersion is requested. Name soft and cold like endless rain; come undone in arms; let go of pain. Perhaps this is romantic dissolution, or spiritual kenosis, or depression’s magnetic pull toward a single voice. The refrain’s simplicity—still I fall into you—is the whole theology. Resistance was the old life; the new one is continuous descent that somehow sings.

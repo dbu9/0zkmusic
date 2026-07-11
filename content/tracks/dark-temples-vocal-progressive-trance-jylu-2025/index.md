@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -62,4 +67,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Darkened halls, incense, arches that hum: the beloved is sought as something half-sacred and never fully known. Progressive vocal trance walks those stone corridors at a patient pace—nocturnal, a little euphoric, more pilgrimage than club confession.
+
+The name is a whispered flame that burns without speaking. Alone through stone toward what is never known; half-healed by sacred pain; a shrine of distant tears. Presence arrives as a star beyond the light and leaves without a place to stay.
+
+I wouldn’t force a single theology onto it. The song feels like grief dressed as ritual—or desire dressed as prayer—and the music keeps the air cool enough for either reading.

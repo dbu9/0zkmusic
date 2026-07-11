@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -57,4 +62,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A love already finished, still not erased: voice in snow, shadow that dances, silence filling the room where the other person used to stand. Trance carries the ache at dancefloor scale—dark lift rather than quiet confessional—so bitterness can move without pretending to heal.
+
+In the ashes of us, the speaker stays. That is the cruel detail: not leaving the site of the fire, still feeling a ghost that leaves a mark, flame reduced to spark and still reaching through the dark. Time fades and does not heal; emptiness is what makes the memory real.
+
+If the track uplifts, it uplifts a refusal to tidy the ending. The dream died; the body keeps the temperature.

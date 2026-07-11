@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+No limits, no fear, no mercy: break or break through. Metal aggression for pure gym theology—pain in the chest, weights crash, one more rep, body says quit and the mind overrides.
+
+I am the storm; I will survive; feed on pain, thrive on the low. The language is blunt on purpose—war on the ground, steel in the veins, take my spot. Scars are marks of what was taken, not tragedies.
+
+I wouldn’t dress it in irony. It is motivational blunt force, and the music’s intensity is the point.

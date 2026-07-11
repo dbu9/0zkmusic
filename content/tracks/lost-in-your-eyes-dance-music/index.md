@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+One glance does the whole work of fate. Name unknown, soul already felt—*lost in your eyes* as the city’s fade and time’s unwind. Dance music frames that stranger-ballet as euphoria: silent wish, pleaded heart, rhythm becoming the other’s presence in the mind.
+
+Will fate be kind, or will the dream stay confined? The lyric leaves the question open on purpose. What it trusts is the first breath of recognition—stars in endless night—before story has a chance to disappoint.

@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "dancemusic"
@@ -55,4 +60,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+City asleep; a chase of fire; heartbeat speaking through silence. Desire here is not polite—it burns in the dark, becomes the only rhythm written on the heart, carries the body through until waves collide and control dissolves. Afterglow as temporary forever.
+
+Eurodance energy under dark, nocturnal, euphoric moods makes longing feel like a floor-filling anthem rather than a diary entry. “Hold me tighter, don’t let go / Time dissolves” is the old club promise: for the length of the track, distance is cancelled.
+
+Whether the love is real or the night is inventing it hardly matters; the song believes the spark hard enough that disbelief feels almost rude.

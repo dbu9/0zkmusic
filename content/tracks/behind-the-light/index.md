@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "dark"
@@ -60,4 +65,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+These lines read less like a love song than like a thesis whispered in different rooms. Some search in equations, others pray, others hear voices; the uniforms change, the questions do not. Light, here, is not salvation by default—it measures, reveals, *controls*. What matters, the text suggests, is what remains unmeasured.
+
+In dark EBM-tinged electronics, that idea acquires a ghost-story temperature. Figures looking “in the same direction” without agreeing: spiritual pressure without creed, nocturnal atmosphere as the shared corridor between science, faith, and haunt. I take the title seriously—behind the light is not darkness alone, but the residue light fails to colonize.

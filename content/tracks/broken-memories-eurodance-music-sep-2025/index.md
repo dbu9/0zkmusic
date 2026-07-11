@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The plea is reverse-nostalgia: *don’t remember me*. Day burned too bright; fire and flame leave ash; hearts will not rewind. Eurodance energy wrapped around a breakup that wants erasure as mercy—“only silence heals broken memories.”
+
+There is tenderness in the cruelty. Wings given that could not fly, truth met by a life lived as lie, pain still cutting through the eyes. The “ooooh” refrains feel like the body admitting what the will denies: *I still feel you here* even while asking the night to wipe the tape.
+
+One reading: the dance floor becomes a ritual of forgetting that never quite completes. High energy as the only available anesthetic for a love that will not fully leave the room.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -62,4 +67,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A manifesto disguised as space opera. Humanity chained by myth and fear is ordered to the precipice of the infinite; the cosmos claimed from the gods for engines of reason. Not prayer to the sky but reach; not fate but forged destiny—labs, equations, starships over temples and sacred texts.
+
+Trance and dark techno as vehicle for secular crusade: discovery as call to arms, minds and machines shaping stars, ghosts of the past refused governance. *To the center. Near Jupiter. And beyond.*—a vector more than a destination.
+
+I hear Promethean heat, for better and worse: the thrill of unbound exploration, and the old human habit of declaring the universe finally ours.

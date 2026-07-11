@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Against velvet drift and golden haze, the speaker chooses frost. Thoughts as blades, purpose as crystal lattice, delay as rust on the gear. Clarity is not coldness for its own sake; it is how the self stays *precise, untamed* when tides try to steal the frame.
+
+Trance and euphoria usually blur. This track argues for structured skies where calm commands and noise dies. Will grows like mineral—silence flowing through the lattice—while others drown in soft deceit. The boldness is intellectual weather: sharp, cool, unbending.

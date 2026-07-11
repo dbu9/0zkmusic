@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Ash on holy halls, weeping crosses, silent bells, rusted swords—Christendom staged as a ruined house that still remembers heat. The chorus calls an old flame awake: bloody oath, forgotten consecration, iron and thunder from the graves. Gothic death-metal aggression makes theology sound like a war drum.
+
+Wolves rule where the shepherd fled; scriptures blacken; knights are ordered up from sleep. The half-moon is named as rival; the cross as undying claim. Whether one hears genuine fervor, historical fever-dream, or both, the lyric refuses mildness. Justice without fear, truth in flame, enemies to dust—intensity as creed.

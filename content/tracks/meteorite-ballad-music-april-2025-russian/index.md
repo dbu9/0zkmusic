@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A life plotted as meteor: torn from heaven’s perfect track, plunged earthward, bright-blood flame “ignited by my soul,” then seized by air and burned to ash—heat that leaves no trace, like a dream night lends for a heartbeat. Days and years will vanish “as though they never were.”
+
+The Russian original and English twin share that fatal brevity. Nocturnal, atmospheric electronics suit the fall: beauty inseparable from erasure. I hear less self-pity than lucid awe—the soul as ignition source for something that must consume itself to be seen at all.

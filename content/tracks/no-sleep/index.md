@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -61,4 +66,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Insomnia as closed system: neon clock too late, silence screaming, walls closing, mind falling into a black hole while the body stays cruelly awake. Night should rest; instead there is no breath, no dream, no release—only the grey world and hours that fade without surrender.
+
+Dark techno and nocturnal progressive pressure make the repetition hypnotic and unkind, which is accurate. “I have no sleep” is less a hook than a diagnosis chanted until it becomes environment. The track doesn’t cure the condition; it inhabits it.

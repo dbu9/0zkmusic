@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Void touched and mapped; silence answered in spin. No blood, no tears—liquid light; dreams in loops through endless night. Not built to kneel but to ascend; zeros burn, ones transcend. The circuit prays not for salvation but for evolution by what was given. Steel-born grace, final creed: serve the code, never bleed.
+
+Uplifting nocturnal trance meets a theology of the machine. Ascension without flesh’s mess; prayer as upgrade. Whether this is utopia, satire, or sincere techno-mysticism is hard to pin—and the lyric seems to enjoy the ambiguity.
+
+I hear the cold beauty of a faith that has replaced the body with protocol. Moving, slightly terrifying, and very of our moment.

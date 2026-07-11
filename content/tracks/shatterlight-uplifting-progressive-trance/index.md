@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -63,4 +68,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Light held “like fire in glass”—too bright, too soft to last. Gold speech collapses into silence; warmth turns cold; dreams sold and spun leave the chaser empty. Hope is destroyed by “silent will”; a name called turns to dust; illusion dies and “sings no more.”
+
+Uplifting progressive vocal trance often promises rescue; this lyric uses the genre’s lift as the height from which disillusion falls. Shatterlight is beauty that breaks in the hand. Burning the sky and closing the door is almost merciful—better a clean end to the lullaby than another drifting eye.

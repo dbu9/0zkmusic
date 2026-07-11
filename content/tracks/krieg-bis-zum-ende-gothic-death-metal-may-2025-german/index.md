@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+War as tiger you cannot dismount: forced or chosen, only the end cools it. German gothic death metal weight fits the lesson—blood drunk, storm felt, half-decided and fully lost, half-wars reborn.
+
+War is fire that burns you empty; fight until everything glows into silence or the enemy lies on the ground. Get off the beast and it eats you—and the speaker too. Without victory, war returns at once.
+
+I hear no glory, only grim mechanics. Peace is not virtue here; it is the exhausted product of a fight taken to its last heat.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -60,4 +65,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Twelve titles sketch a solar system of progressive trance: *Solar Rapture*, *Jupiter Voice*, *Quantum Foam*, *Velocity of Grace*. The sequence feels less like a playlist and more like a long climb through plasma and dust, with chill plateaus (*Glowing Dust*, *Halo Burn*) between the harder thrusts.
+
+What the album proposes, if it proposes anything, is motion measured in aeons rather than verses. Uplift arrives as physics—radiant cascades, reactor chants—not as confession. You do not need a storyline when the titles already map heat, gravity, and the soft violence of light moving too fast to hold.

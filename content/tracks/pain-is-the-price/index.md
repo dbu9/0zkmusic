@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Gym-floor scripture and underworld grit in the same breath: bridges burned, scars carved, weight welcomed so it can crush without cracking the will. Pain is debt being repaid, then price of outlasting—alchemy of hurt into gold, name carved so others know the cost.
+
+No surrender, no rewind, only grind. The lyric does not romanticize ease; it romanticizes endurance until endurance becomes identity—“born to bleed,” crown after reaping. Dark, aggressive rap as engine. One may flinch at the absolutism and still recognize the useful lie that gets a body through another set, another night.

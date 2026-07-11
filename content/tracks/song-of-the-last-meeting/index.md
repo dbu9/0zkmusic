@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Akimatova’s cold room translated into trance shadow: house of night, candle, mirror showing a face that is only shadow—no embrace. “It’s over, my dear one,” silence as judge; the glove slipped off, last cold thing to hold. Steps dissolve in snow; two paths that cannot align. Dark-uplifting drive makes farewell processional rather than whispered only.
+
+Sky refuses glow; whisper becomes air; night stripped bare; final breath thin—“an end that won’t begin.” The beauty is ceremonial minimalism: almost nothing happens, and everything ends. I hear dignity in the refusal to beg the meeting longer. The last meeting is already memory while it occurs; the song simply keeps the candle steady until the glove is gone.

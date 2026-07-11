@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Sigurd rides through fire and snow, and the chorus does not negotiate: *Blut des Drachen*, curse of the jaws, hand of steel, heart of stone. Gothic metal returns the Nibelung story to muscle and chant—Fafnir’s sleep is not mercy but the quiet after the blade.
+
+The German lines hit harder than their English shadow, all short blows and ritual repetition. Gold is cursed; greed burns out; the serpent dies so the hero can bloom into something colder. Victory here tastes of blood-path, not applause—myth as percussion.

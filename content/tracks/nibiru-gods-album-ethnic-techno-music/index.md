@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -61,4 +66,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+An album-length rite in five gates: temple threshold, running with fire, joyful mountain, glowing coal, poison and fate. Ethnic-tinged dark techno and trance as if approaching a planetary myth—heat, ascent, ember, then the double edge of toxin and destiny. No lyric narrative needed; the titles already sketch a pilgrimage that ends where gift and doom share a name.

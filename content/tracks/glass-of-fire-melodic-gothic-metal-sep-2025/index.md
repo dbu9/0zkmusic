@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A voice that cuts silence like glass; every word a match, every breath a fight. Love and poetry fuse into the same wound—letters burn like skin, each poem sharper than the knife within. Melodic gothic metal gives that extremity a theatrical body: thunder, sparks, gods for a moment, ghosts that cry.
+
+Pain becomes song; loss, almost sublime. Ink runs red from the veins of night; unread love is called a fatal rite. One can hear mutual creation and mutual ruin. The sky is asked to reply when the voice breaks—grand, yes, but the core is intimate: two people who briefly outran mortality and now haunt what they made.

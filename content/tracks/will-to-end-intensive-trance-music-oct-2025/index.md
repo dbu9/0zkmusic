@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A reverse gospel. God gone, light as pain, flesh as error, birth as crime, silence as the only sanity. Stars collapse; love is hunger rotting in clay; heaven empty, no one hearing the prayers to noise.
+
+Intensive trance drives toward erasure: end the circle, free the mind, let the signal fade until silence is pure again. Nocturnal uplift here is the lift of negation—will aimed at ending will. Harsh, spare, almost monastic in its refusal of consolation.

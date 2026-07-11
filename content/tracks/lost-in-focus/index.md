@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A five-movement electronic suite named like a drifting mind: Oblivion, Nice book, I saw this face, Deliverance, Deep Sleep. Without full lyrics, the arc still suggests attention failing and reforming—focus lost, then found in fragments, then released into sleep. Nocturnal atmosphere as the room where concentration becomes dream.

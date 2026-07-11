@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+In a world of static, one pulse is “a perfect line.” Everything else is noise; the beloved is pattern in the storm, silence in the dark, code and path and beacon. Guarding the spark becomes vocation—“I will fight the interference… You’re the signal I defend.”
+
+Uplifting driving trance is almost literal here: signal rising above distortion. The metaphor is technological and tender at once. Trust as fidelity to a frequency when the world burns to dust—love as signal processing under fire.

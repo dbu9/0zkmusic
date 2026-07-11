@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The poem speaks to the nation as lover, child, bridal chamber, and sword at once—“mein Kind, mein Herz, mein Brautgemach.” Goethe’s song will not die; the son vows readiness “mit Blut und Herz” should the land fall and still breathe. It is patriotic mysticism in the old high register: vow, honor-bond, eternity.
+
+Nocturnal atmospheric electronics wrap that heat in night rather than parade daylight. One may bristle at the intensity or recognize a lineage of German *Vaterland* address that treats country as sacred person. I hear less policy than eros of belonging—dangerous, earnest, and musically held in a dark, steady glow.

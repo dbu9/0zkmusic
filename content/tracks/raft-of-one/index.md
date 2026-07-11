@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A raft of rope and tree, no sails, no flag, no captain’s bell—only drift and the private chart carved inside the head. Packs sail with steel and kings; this vessel stays bare wood under a fair sky.
+
+Trance’s forward motion becomes gliding rather than racing. When the river roars for charts and shores, the answer is shrug and float. Destination: *The sky. The dusk. The blue.* Solitude without self-pity—belonging to moon and sun more than to aim and gun.

@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Desire reduced to a moment and a glance: “Give me just a moment — / an echo of your eyes.” Time dissolves; silence moves; glass, rain, a quiet fire on a distant shore. The world hypnotized is not conquest—it is surrender to a face that reorganizes physics for the length of a chorus.
+
+Vocal trance with chill and nocturnal moods can hold that hypnosis without needing a plot. “We’re infinite tonight” is knowingly temporary infinity. I take the echo seriously: not the eyes themselves, but their afterimage—love as residual light the body keeps dancing inside.

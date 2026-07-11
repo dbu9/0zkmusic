@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The plea is almost anti-club: away from flashing lights and neon weight, toward silence that pulls under, static that is allowed to die. *Bare* is not exhibitionism so much as subtraction—masks off, cables pulled from the mind, layers falling until only breath remains between the beats.
+
+Progressive and vocal trance suit that stripping. The chorus treats rhythm as prayer and stillness as intimacy: *soul meeting soul* without screens or explanations. Euphoria, when it arrives, is the relief of having nothing left to perform—until the world forgets the names, and two people become weather instead of biography.

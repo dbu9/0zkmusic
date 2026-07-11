@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Dreams are drafted under clear skies that already carry a whisper of fate. Happiness is waited for as if it were a season due to arrive; sorrow finds each person in turn, patient and personal. The chorus is almost classical in its refusal to flinch: best-laid hopes fade like stars that die before day.
+
+Yet the song will not end in barren field alone. Still we build; still we light fire against haze; pain’s brief breath is taken as proof of being alive even inside decay. Dark and uplifting trance can hold that double weather—night returning before the shine, and the stubborn sow of worn hearts.
+
+I do not hear cheap optimism. I hear the dignity of continuing without guarantees, of planting into torn sky because refusal would be a colder death than failure.

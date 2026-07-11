@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A dark folk tale in trance clothing: meeting by a blackened stream, eyes of thorns, roses that speak in red. Love “born to bleed,” petals hiding secret sin, bloom beginning where knives dig in. She dances a hymn to death on chapel hill; the blade is felt before it is understood.
+
+Found with bloodstained hands beside a crimson flower—loved past the end; she bloomed, then claimed her power. Each year a single rose, cost unknown to passersby. Dark-uplifting vocal trance can gild the horror without canceling it. Beauty and predation share the same stem; the lyric knows it and still leans closer.

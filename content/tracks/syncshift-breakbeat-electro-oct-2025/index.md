@@ -33,8 +33,13 @@ release_date: 2025-10-23
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Breakbeat under nocturnal air: shift as verb, sync as demand. Without lyrics the track still proposes a climate—atmospheric pressure, club edges, motion that stutters and locks. Meaning lives in the cut of the drums and the dark sheen around them.

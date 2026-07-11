@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Forty minutes named after living things—butterfly, elm, lake, mist, sakura, sequoia, fern, wind. Ambient as soft architecture for attention: atmospheric, chill, more habitat than narrative. The mix does not argue; it lowers the room’s pulse so thought can wander without leaving.

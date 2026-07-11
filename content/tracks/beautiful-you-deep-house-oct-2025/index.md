@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Almost nothing is said, and that spareness is the point. “Beautiful you” is addressed across time—seen in a future, awaited, then suddenly felt “across the time,” alignment as arrival. Desire here is patient rather than devouring; the beloved is near, found, still not fully present.
+
+Deep house’s chill atmosphere and soft uplift suit waiting that believes in itself. The track circles a few phrases like a room with one window: light, sound, call, answer. I wait… I wait…—not empty repetition, but the pulse of hope kept deliberately small so it can last.

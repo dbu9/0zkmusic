@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -63,4 +68,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A private mythos under silver sky: crystal gates, wind-born songs, beasts of holy silence. Lion crowned in flame, ocean-deep companion, bird whose gaze the soul can feel—and a single star that *guides you home*.
+
+Vocal trance makes the garden bright without irony. Love returned, light trusted as right: almost fairy-tale, almost afterlife map. The realm feels less invented than remembered—childhood theology rebuilt as euphoric architecture for adults who still need a way home.

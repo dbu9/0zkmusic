@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Wind carries old songs through the blood; a tower of salt and longing; a face lost in fog. The seeker hunts a light that may be only a spark without warmth, breath without tone. Sea keeps footsteps but not the son—grief given a coastal, almost balladic shape inside metal intensity.
+
+Silence knows the life; depth knows the pain; heart densens toward stone; time becomes sea and duration. In the end the last light thins while the tower keeps breathing and the self does not. Nebel as condition of being: seeking flame until the seeker is the thing that fades.

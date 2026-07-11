@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Love here is not refuge; it is the storm that blinds and the thunder that drags under. The voice asks to be broken open through ashes, to be found in the beloved’s darkness and to rise only when pulled down—an erotic theology of descent, where scars are the only literacy left.
+
+Gothic metal’s aggression and weight give that paradox a body: chains of silence, blood of memory, the crawl into another person as if into truth. “Scream into silence / bleed into truth” sounds less like a slogan than a method. Belonging is claimed in shadow, and strength is measured by how thoroughly one is willing to burn.

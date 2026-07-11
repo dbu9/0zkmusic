@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "balalaika"
@@ -60,4 +65,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Fingerstyle balalaika as argument for motion without speech: tradition breaking into speed, percussion of strings against silence. Freedom here is not explained—it is felt in tension and release, modern virtuosity on an old Russian body of wood. No narrative required; the hands write the politics of unboundedness.

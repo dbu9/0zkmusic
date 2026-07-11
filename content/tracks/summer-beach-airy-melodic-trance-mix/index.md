@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -61,4 +66,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A coastal suite of attachments. *Always Us* vows a bond no space can sever; *Dance Alone* finds freedom when no hand waits—rhythm as self-love under wide night. Then *Fading Between Us*: separate streams, distance in the voice, fire cooled to dust, the other become ghost by mutual almost-choice.
+
+Elsewhere a figure “looks like a princess” and love arrives unplanned; sunlight returns; light of you becomes a path. Melodic and vocal trance, airy enough for beach hours, still carrying the full weather of keeping, losing, and dancing without witness.
+
+I hear the mix as tide chart: permanence, solitude, drift, and the glitter of new desire cycling under the same sun.

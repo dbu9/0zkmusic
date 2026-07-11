@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -58,4 +63,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Once one flame, now cold and torn—changed until nothing shared survives except address. Same space, same place, souls that never graze; walking through one another “like shades untrue,” parallel lines in faded signs. Close enough to break, too far to take: the geometry of estrangement.
+
+Uplifting trance over such lyrics creates a strange double exposure—drive and lift for people who already haunt the same rooms without meeting. Masks, scars, circling like distant stars; a hand reaches through “drifting sand.” Voices call from a hollow loft.
+
+Perhaps the most cutting line is the simplest: *we have changed. Nothing’s the same.* Hearts estranged as a permanent weather system, not a temporary quarrel.

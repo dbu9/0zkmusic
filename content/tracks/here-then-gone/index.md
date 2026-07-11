@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The whole song is a stutter of presence: here / then gone. Feeling, losing, breathing, fading—the beloved becomes signal under water and fire behind stars, near enough to haunt, too far to fall apart with. “I am falling through your signal” makes love into reception, a bad connection that still ruins sleep.
+
+Dark-euphoric nocturnal trance can live inside that flicker better than any ballad structure. The later permission—“some things only exist while they fade” is cousin to this—but here the mantra is simpler, almost childlike in its repetition, which makes the loss more absolute. What remains is rhythm of disappearance.

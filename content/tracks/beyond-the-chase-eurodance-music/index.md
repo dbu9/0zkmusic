@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Speed is the theology. Silver night, frost on open skin, steps like thunder—bodies that would rather dissolve into light than be caught, named, or owned. *Beyond the chase* is both direction and condition: already gone, already flame, already whisper.
+
+Eurodance machinery usually sells triumph; this one sells escape velocity with a darker, nocturnal edge. No return, no regret, no path already mapped. The euphoria is the storm that refuses to be won—motion as identity once the old chains have been outrun.

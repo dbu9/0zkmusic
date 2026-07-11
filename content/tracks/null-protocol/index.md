@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+This is a song about identity after the system stops recognizing you. Null ID, open skin thread, failed trust: the self appears as a broken protocol, something present enough to suffer but not stable enough to be named. The body becomes an error message with a pulse.
+
+The cyber imagery matters because it removes the comfort of confession. This is not simply someone saying they feel lost. It is a person translated into machine language and finding that every field returns empty: no flag, no fate, no god, only neon bleed and a chrome ghost moving through the remains.
+
+Yet the refusal to resolve is also a kind of survival. If the old identity cannot authenticate, then maybe the glitch is not just damage. Maybe it is the first sign of a self that no longer wants permission from the system that erased it.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance"
@@ -50,4 +55,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Cities burn without scream; ash sings softer than melody. Seas still, winds expire, gods fall silent—and from their dust nothing new rises. The walker moves through nothing with a heart of stone: no wish, no dream, only bare existence.
+
+German lines of cosmic cooling until will, thought, and pain also fall quiet. Then the turn that the title promises: in that silence after all being, *tiefer Friede*—deep peace—and a self that calls itself clean. Uplifting trance against entropy is almost ironic; perhaps the lift is the peace of release, not of victory.

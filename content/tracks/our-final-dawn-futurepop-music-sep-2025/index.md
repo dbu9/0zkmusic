@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -51,4 +56,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Apocalypse as intimacy. Empty streets, tall shadows, a skyline bending, hands joined while the world is erased. The final dawn is the last horizon—“cold and numb”—yet love outlives “the end of names,” and the end is “nothing if you’re here.”
+
+Dark, chill futurepop suits last-light romance without Hollywood rescue. Clocks go blind; stars ignite into eternal night; what remains is breath shared against the fade. Not optimism—fidelity at the edge of the map.

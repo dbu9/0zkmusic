@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Qoheleth walks into a rap track wearing street cadence instead of temple dust. “Meaningless! Meaningless!” is not soft philosophy here; it is the beat’s verdict. Labor under the sun yields vapor; generations turn over like a loop that never updates the sample.
+
+The images are almost meteorological—sun racing back to rise, wind circling, streams pouring into a sea that will not fill—so the hook lands with blunt finality: *ain’t nothing new under the sun*. Aggression in the delivery does not cancel the ancient fatigue; it sharpens it. Driving pulse for a teaching that refuses novelty as comfort.
+
+One reading: the song is less nihilism for its own sake than a cold inventory. Eyes never sated, ears never full, memory of the past already thinning for those not yet born. What remains is the earth’s stubborn sameness, and a voice that refuses to pretend the cycle has been interrupted.

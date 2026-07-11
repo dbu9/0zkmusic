@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+City crying nightly; dust and shadows in the eyes; a figure appears through smoke and pain, then fades. Stranger in mist—veil of sorrow, unkissed lips, feathers trembling, eyes of flame—calling without a name. Broken and bound in hollow taverns, the speaker cannot reach what moves just beyond.
+
+Drinking a face, losing a place: salvation near and far, fleeting ghost, dying star. Dark-uplifting trance can make the unattainable feel luminous enough to chase forever. Whether angel, addiction, or projection, the stranger remains *strange*—intimate distance as the whole plot.

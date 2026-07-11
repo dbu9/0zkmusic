@@ -33,8 +33,13 @@ release_date: 2025-05-20
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "germanlanguage"
@@ -50,4 +55,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A language-lesson track in electronic clothing—German articles under nocturnal atmosphere. Pedagogy as pulse: repetition, structure, the small grammar of der/die/das turning almost musical by insistence alone.

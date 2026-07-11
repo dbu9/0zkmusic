@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Recognition like a skipped heartbeat on a street. A face from behind a “dreamlike door,” eyes as spark and sign, a ghost that “once was mine.” “How can it be so true— / I always, always knew.” Reaching fails; time freezes; she vanishes with the heart. Trance’s driving uplift can make the vanishing feel mythic—encounter as brief sacrament.
+
+Afterward, shadows crowd the place; a million hidden faces; the question of dream versus message “in the line.” Night-to-night wandering, no peace: wait a life, or learn calm without her. I hear déjà vu eroticized and theologized at once—the soul’s claim that some strangers are not strangers. Whether she was real hardly matters; the knowing remains, and that is enough to unmake ordinary streets.

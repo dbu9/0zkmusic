@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -51,4 +56,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Scars are coronation, not apology. Fall and rise, break and repair, pain turned into light—the lyric stacks recovery as if it were a training montage written in stone. Even rest is conquest: “I rest, the night is mine.” The will is the true protagonist; walls, chains, storms all become scenery for unbreakable volition.
+
+Under a euphoric electronic shell (despite the nu-metal title’s grit), that resolve can sound almost bright—defiance with major-key blood. “Each scar becomes my crown” is the thesis: damage is not hidden; it is worn. Whether that feels heroic or slightly inhuman depends on the listener; the poem itself never doubts. The sky remains unchained, the flame refuses fade, and fate is “on this field,” not deferred to another life.

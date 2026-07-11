@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "euphoricmusic"
@@ -63,4 +68,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Blake’s microcosm opens the door: world in a grain, heaven in a flower, infinity small enough to hold. Then the lyric turns, almost cruelly, from vision to aftermath. Time “dissolves like waves on stone,” and the mystic palm empties—infinity slips, eternity becomes grit again.
+
+What I hear is less a sermon on wonder than a nocturnal elegy for someone who can no longer be touched. “Hold me close, though you’re not here” is the hinge: love surviving as echo, “soft as whispers lost in rain,” while every tear “falls like stardust” and vanishes. Vocal trance loves that contradiction—euphoria stretched over absence, a lift that keeps returning to the same empty air.
+
+Perhaps the grain of sand is both Blake’s cosmos and the residue of what was lost. Love and sorrow braid until the only honest refrain left is *lost in time*—not as slogan, but as the condition of still hearing a voice the body cannot find.

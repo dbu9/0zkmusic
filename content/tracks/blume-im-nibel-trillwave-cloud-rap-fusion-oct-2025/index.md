@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Heine’s *Du bist wie eine Blume*—purity, almost sacred beauty—gets pulled into fog and neon. Trillwave and cloud-rap textures can turn Romantic ideal into something spectral: love as wound and duration at once, a frozen prayer rather than a gallery portrait. How close the adaptation stays to Heine’s tenderness is uncertain; the declared mood is memory and loss under aggressive, driving weight.

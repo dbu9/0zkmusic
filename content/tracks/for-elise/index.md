@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Beethoven’s ghost in German: a light that once burned at the house and burned out, a motif that stays in the heart after time and sound have gone. Trance pushes the elegy into motion—uplift under a name that cannot be walked back to.
+
+Elise remains in every hour; the keys weep softly and want to stay forever. No path leads back, yet the wind still plays the gentle song that will not leave the soul. Morning may forget; the name lives in the tones.
+
+I read it as love folded into musical memory—grief that keeps tempo. The driving pulse doesn’t contradict the tenderness; it is how remembrance refuses to sit still.

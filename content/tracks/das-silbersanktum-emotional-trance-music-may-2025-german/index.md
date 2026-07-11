@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Unter silbernem Himmel ein stilles Land, Tore aus Kristall, Wind der zum Lied wird: the lyric builds a sanctuary rather than a crisis. Lion with golden mane carrying flame, a second mild as the sea, a bird’s gaze that stills souls—heraldic creatures in a garden reached by starlight. “Denn Liebe kehrt zurück, und Licht ist stets gerecht” offers a rare, almost medieval confidence that light is just.
+
+Emotional trance, uplifting and driving, can carry that vision without irony if one allows it. Jerusalem-tinged ethereal tags in the metadata hint at pilgrimage; the Silbersanktum feels like a night-chapel painted in silver and gold, less confession than arrival.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+No diamonds, no fame, no neon—only the moment when eyes shine and joy alone rights the room. Laugh, and the speaker rises beyond sky; smile as vehicle to the stars; a vow to take care, forever true. Rhythm and light, calm and storm and tide; even time stops when near.
+
+Uplifting vocal trance is almost too ready for this sincerity. The risk is sugar; the reward is that sometimes the simplest claim is the honest one. “I don’t need the world to know / As long as you never let go” keeps the scale intimate against the genre’s wide-open sky.
+
+I take it straight: a love song that knows its own simplicity and refuses to complicate affection into darkness it does not feel.

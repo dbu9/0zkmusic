@@ -33,8 +33,13 @@ release_date: 2025-10-23
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -51,4 +56,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Pacific as mood rather than postcard: nocturnal, atmospheric electronica that suggests horizon and depth without naming a story. Wide water after midnight—calm that still contains undertow.

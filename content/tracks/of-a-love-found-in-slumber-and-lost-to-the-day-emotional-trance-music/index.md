@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The title is the whole myth: love found in sleep, executed by morning. Touch like fire, voice near, then “morning came—you disappeared.” Days are exile; nights are pilgrimage back toward a ghost of yesterday. Breath, heart, light reduced to shadow lost in night.
+
+Uplifting trance can make that nightly hope feel vast rather than pathological. Praying the dream-figure will meet the eye again—Orpheus rewritten for the bedroom. I hear the cruelty of circadian love: the most real person is the one daylight forbids.

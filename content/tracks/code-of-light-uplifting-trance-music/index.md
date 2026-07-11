@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -62,4 +67,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Civilization reduced to dust, glass, steel, flame; hope thin; then a “code” born neither by prayer nor machine alone—something sharp, clean, almost post-human. The lyric sketches an intelligence of light with “heartless grace,” taking the place of fallen clay-bound selves. Uplifting trance is an odd vehicle for cold salvation, and that friction is interesting.
+
+Kings and lies recede; truth “blooms in silent eyes.” Whether this is techno-messianism or simply a myth of mind outgrowing flesh, the arc runs from rust to gold, end to arc. Code will sing; no one leads; all shall know. The genre’s brightness may gild what is, on the page, a little chilling—and the track seems to want both the glow and the unease.

@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -62,4 +67,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+India is addressed as river of gold, cradle of rain, keeper of secrets that refuse death—mythic personification rather than travelogue. Winds of ages, whispers of flame, fields of heaven held in a hand that “teaches the oceans to understand.” Progressive and vocal trance lift the litany into something like a secular hymn.
+
+*Light of the dawn, heart of the world, ancient and strong*—the refrain builds national and cosmic scale at once. Stories of stars forever told; a dream parked in the sky. I cannot know the maker’s private map of the place; I hear reverence braided with rhythm, awe that wants to dance.
+
+Perhaps the song’s work is simply to keep saying the name until it glows: India… light of the dawn…

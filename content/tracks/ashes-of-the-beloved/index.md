@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Love is cast here in the language of failed liturgy. Faith held “like sacred fire,” a shrine on sand, incense in rain—then the altar cracks and “the book is closed, the vows unread.” The beloved is not simply lost; the whole religious apparatus of devotion collapses into ash while the speaker still hears a “parting hymn” in the bones.
+
+Trance’s dark-uplifting double nature fits that wound with uncomfortable precision. The arrangement can still rise, still drive, even as the lyric insists on quiet dread rather than rage. What remains is not hatred but the colder knowledge that something holy died mid-ritual, and the body has not finished receiving the news.

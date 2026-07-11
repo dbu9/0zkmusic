@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Neon as temporary eternity. City light on a face, beat pulling bodies into orbit—*only you tonight*, collide like a dream, refuse the morning’s jurisdiction. Classic vocal-trance romance, unashamed of its simplicity.
+
+No reason required, no sign. Touch as whisper burning through blue; stars underfoot when the dance erases distance. Stay close, set free, light inside. The night breathes slowly on purpose—euphoria as a sealed room for two until dawn tries to collect them.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+After Goethe’s nearness of the beloved: you breathe in the winds, your gleam rests in fog, I seek you in shadows and find you only in myself. German vocal trance lifts that Romantic solitude into euphoric drive—nights without names, dreaming without time.
+
+Your voice as my flames, dying into eternity; light quiet and deep and loud at once. Stay in me, be silent toward me, fly through me, vanish in me: four imperatives of total intimacy. The beloved is everywhere weather and nowhere graspable.
+
+I hear devotion that has accepted distance as its native climate. The music makes endlessness feel almost kind.

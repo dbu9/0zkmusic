@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Unexplained sky-fire given a valley’s name: no reason, no label, quantum touch, worlds colliding. Short lines treat anomaly as summons—“calling me,” “infinity.” Trance’s upward drive suits wonder without needing a thesis. The lights remain lights; the self simply answers.

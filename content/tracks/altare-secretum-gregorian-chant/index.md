@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Solitude here is not loneliness with better branding. The singer sits *in tenebris*, and the cry that leaves the body is no longer human speech but *vox cordis*—heart-sound pressed into Latin until it behaves like liturgy. Nights become the *altare secretum*: a private altar built from tears that have learned the grammar of prayer.
+
+The electronic frame keeps the chant nocturnal and atmospheric rather than museum-still. Shadow covers; light answers from inside. Sin and failure are named without theatrical collapse, then washed against *misericordia* imagined as an endless sea. When the angel grants wings, the flight is almost quiet—new life beginning where the world and its voices have already fled.

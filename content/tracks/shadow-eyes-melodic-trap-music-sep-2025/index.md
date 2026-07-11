@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+City smoke, neon rain, eyes that burn as secret fire. Melodic trap lets the poison run sweet: *shadow eyes* as haunt, crime, and chain to dreams that cannot be fought.
+
+Dark and chill share the same chest. Moonlight through broken glass; time dissolves while moments refuse to leave. Dancing with ghosts through endless night—loss of control as the only honest choreography when the gaze has already taken the soul.

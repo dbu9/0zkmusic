@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Survival without explanation. Dragged through filth and rusted skies, the speaker should have perished “countless times,” yet something unsigned stirs under the skin—no faith, flame, or mortal tie, only a force that pulls when death would be simpler. Taste of death denied; breath returns without a name.
+
+Atmospheric black and gothic metal’s dark intensity match this cursed medicine. The antidote is not comfort; it haunts marrow, bars the dirt from claiming prey, and will not grant peace when peace is begged. One may curse the bond and still walk “decaying days,” held fast by what has no sacred note and will not leave.

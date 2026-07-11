@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "carmen"
@@ -65,4 +70,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Bizet’s prelude already knows how to swagger; metal only answers in kind—distortion, riff, the old motif forced through steel. Aggressive intensity without a new story: the drama of Carmen reduced to pure entrance energy, a classical nerve rewired for volume. Recognition and reinvention share the same bar.

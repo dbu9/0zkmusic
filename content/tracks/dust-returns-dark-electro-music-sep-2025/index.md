@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -50,4 +55,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Stoicism pushed until it becomes almost gentle: fear no death, pain is vain, all must decay—so why cry? “From dust begun, / To dust undone” is older than any scene, yet dark electro makes the proverb feel newly cold. The invitation is not despair but release: “Be calm, be free. / Transcend with me.”
+
+I hear a refusal of melodrama. The night will pass; return to dust is not threat but destination. In that sense the track’s darkness is clarifying rather than theatrical—an ethics of non-attachment set to hard, spare pulse.

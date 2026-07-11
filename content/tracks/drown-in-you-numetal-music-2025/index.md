@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Immersion as plea: you are the sea, I want the tide to keep me, and you keep pushing me back. The paradox is sharp—salvation that feels like rejection, a love that thinks it is saving while the other person breaks from being held at a distance.
+
+“Why don’t you take me?” is almost childish in its directness, which makes it land harder. Better to sink in deep blue than stand alone with no one true: desire for annihilation as intimacy. Salt, ghost of touch, the beloved as storm that keeps form while the speaker becomes castaway.
+
+Numetal weight and nocturnal electronic haze both fit this kind of drowning. The song doesn’t resolve the want; it keeps reaching for a depth that refuses to close over the head.

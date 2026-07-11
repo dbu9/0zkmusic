@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Night falling, a shadow thinning into sky, laughter still echoing in rain—the lyric stages farewell as something the heart simply will not authorize. “Don’t say goodbye” is plea and chorus at once, the flame “holding out for light” while tomorrow’s dream is insisted upon against the evidence of leaving.
+
+Eurodance’s high-energy club chassis makes refusal danceable: sorrow in major-key motion, the classic late-night bargain that love can still be guided if no one speaks the last word. The final soft demand—hold me close, and stay—is almost quieter than the beat allows, which may be why it stings.

@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -51,4 +56,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Train window as grief’s cinema: trees wave goodbye, a face dissolves in glass and rain, fields blur, wheels hum “a kind of knell.” Love that burned and could not mend runs backward in dream-time; each mile repeats the warmth of me and the ache of you.
+
+Chill emotional electronics suit the motion of departure more than the drama of confrontation. Knowing the other is “gone for good” does not cancel the wish to hold them still. The passing glass is both barrier and screen—distance made visible, memory sliding past at the speed of the journey.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The beloved as shadow brushed against light—reached for, melted into velvet night. Dreaming continues in blue fade; a ghost is not only seen but *let in*. Eyes as silent river; loss in the shimmer where lost things supposedly gather.
+
+Breath of silence, taste of rain, perfume danced with alone in every room: soft electronic nocturne, more ballad than banger. The title’s honesty is almost complete—shadow and dream, not possession. Beauty as the ache of almost-touch.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Night lowers, lights dim, and a name becomes the clearest object in the dark. Shadows run, beats come undone, rain writes the same map through town: every road returns to that sound. Dark-uplifting vocal trance suits a devotion that outlasts geography.
+
+The claim grows absolute—stars may fade, the world may fall, the name stays. Whether this is love, haunt, or identity fused to another’s syllable, the lyric does not dilute itself with irony. An echo, after all, is already a second life of a voice.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+*Blutpfad*—blood path—wakes steel from cold sleep and lets roses bloom at a funeral feast. Fire on an open hand, silence over ash-land: the images are martial and ritual at once. There is “kein Ziel, kein Trost, nur Gang”—no goal, no comfort, only the step itself, paced to a trance that wants epic scale.
+
+Gods, vows, and law drop away; what remains is glow that breaks darkness and speaks. Who falls is spent, yet the path continues, hard as frost and flame. When blood reddens the earth, “das letzte Lot” flowers in suffering—perhaps the last measure, the final assay of worth.
+
+I hear a cycle rather than a victory march: from fire into “neue Nacht,” power as endless ring. Uplifting drive for a lyric that refuses soft redemption and keeps walking.

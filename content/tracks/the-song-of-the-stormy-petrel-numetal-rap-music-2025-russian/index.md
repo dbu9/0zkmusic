@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Gorky’s stormy petrel—prophet of tempest among fearful birds—recast as Russian nu-metal and rap: aggressive, driving, experimental. Even without a printed lyric here, the title summons courage that *loves* the storm. Revolution’s old bird, new voltage.

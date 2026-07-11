@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Build, dream, climb, fall. Death waits, grins, stays, takes all. Plan as grave, throne as lie; chase, burn, live, die. Cold breath, no light; he walks tonight. The lyric is almost a skeleton of memento mori—verbs as bones, no soft tissue of hope.
+
+Vocal trance labeled euphoric and nocturnal under such text is a deliberate mismatch, or else a cruel joke of genre: uplift carrying a sermon of ending. Death sings; you fade; truth betrayed; he hears, he nears, he is there.
+
+I read “Rumor” as rumor of the only reliable future. The brevity is the point. There is nowhere to hide inside lines this short, and the music only makes the grin wider.

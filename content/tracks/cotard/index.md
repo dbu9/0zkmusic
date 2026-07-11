@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -56,4 +61,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Named for the delusion of nonexistence, the song makes absence anatomical. Once “ein Leib,” one mouth, one burning circle; now where the other was, nothing—grasping air, falling *through* the missing person. “Nur ein leerer Nerv sucht noch nach dir”: an empty nerve still hunting a signal.
+
+Dark vocal trance suits this register—melancholy stretched into nocturnal lift that never resolves. The heart knows a shape without a face; the arm ends in wind; a hole sits where a heart should be. Commands arrive like spells: *Sag nichts. Bleib tot. Bleib Licht. Bleib rot.*—stay dead, stay light, stay red—as if ordering the dead to remain in contradictory states.
+
+I swear you are—not. That broken oath is the track’s center. Cotard here is not clinical spectacle but grief’s logic: the beloved erased from the self, carried “unter der Haut,” so near and so empty that healing never arrives.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Proximity without knowing. Inches close, worlds apart—*mirrored dreams inside the dark*, two souls alone while standing together. The other looks and does not see; speech pretends understanding it never earned.
+
+Love as static, undefined signal lost across the lines. Still they dance in distant fire, bound by something they cannot admire. Dark and uplifting trance holds that parallel spark: a mark that fades before it lands, honest about resonance that never quite becomes “true.”

@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Light without spectacle. No trumpet, no blazing sun—only a quiet spark that cuts steel, a thread of fire “for only one,” a pulse unseen for hearts that ache and dream. The crowd is blind; the hall need not be lit; in the void the same gleam “speaks to all” who can hear it, and to the few it simply shines through.
+
+Dark-uplifting trance often promises mass catharsis; this lyric prefers the esoteric. I hear it as encouragement stripped of marketing: some will pass by, some never knew, and that is fine. Seeking is the condition; finding is almost private—recognition, not fireworks.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "numetal"
@@ -65,4 +70,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A hum that follows every step—secret tone, vibration through hidden scars, phantom frequency inside. Silence was supposed to make us real; feeling cannot be trusted; each sound a cold bent mirror of what pain has meant. The speaker tunes to what remains, the hiss between loves and chains, and accepts that if the signal fades, it may end in harmony.
+
+Aggressive metal can make inner noise literal. Here the metaphor is technical and intimate at once: the self as receiver stuck on a station that might be memory, trauma, or simply the nervous system’s private radio.
+
+I hear someone negotiating with an invisible soundtrack they did not choose—and finding, in the possibility of its end, not only fear but a strange peace.

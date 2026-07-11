@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance"
@@ -50,4 +55,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A hymn to made things. No roots, no dust—numbers weaving a flawless place, rhythms coded, taste refined. *I trust the mind, I trust the line*: math as a kind of divinity that does not lie the way nature’s whisper sometimes does.
+
+Printed fruits, electric streams, melodies from lucid dreams: progress as grace rather than theft of the original. Trance’s clean drive suits the argument. Human art is not beyond the world; it is the world’s sum answering back—perfect logic claimed without apology.

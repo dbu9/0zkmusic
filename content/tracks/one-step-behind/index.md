@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -57,4 +62,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A name in the spaces between; fading flame in a half-broken dream; turn around and the night is wide—ghost near, always on the other side. One step behind, breathing under the skin; every road of escape loops back to the beginning. Tried someone new; every touch led home. City sleeps; heart will not lie; voice returns like a wave in the sky.
+
+Euphoric vocal trance can make obsession sound beautiful, and here it is: light you cannot find, surrender that fails, “you never die” spoken of a love that should have ended. Behind tears, fear, goodbye—still the same presence.
+
+I hear the cruelty and comfort of unfinished attachment: the other person as permanent lag, a delay the speaker cannot close and cannot fully want to close.

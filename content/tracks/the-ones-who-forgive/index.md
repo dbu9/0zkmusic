@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Forgiveness as hard spiritual work: storms of pride, flame of sin, a whisper that crowns with love those who pardon. Trance drive lifts a nearly beatitudinal text—no gold or sword gives the peace reserved for those who forgive.
+
+Anger falls like leaves; wounds become shining fields; the world forgives itself through the one who yields. Ghosts your fears made, hands that betrayed—all included. The darkness bends; the soul ascends.
+
+Whether you share the theology or not, the emotional claim is clear: mercy is costly and generative. The music makes grace feel like motion rather than lecture.

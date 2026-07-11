@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -60,4 +65,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Frozen stars no wind can move; a map etched in “metal scars”; each step already taken. Turning the dial only summons static—every choice reduced to a drum hit already programmed. *Prewritten sky, electric thread*: free will as sequenced fear inside old design.
+
+Synthwave and progressive trance colors suit neon determinism—the night fixed, future sealed, “phantom tape that won’t rewind.” No chaos behind the veil, only guided trail and echoes of a dead machine. You burn and shine, yet remain “a ghost inside a perfect line.”
+
+One reading: dystopia of perfect choreography. Another: the dread that even rebellion was scored in advance.

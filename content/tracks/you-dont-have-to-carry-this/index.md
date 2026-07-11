@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trillwave"
@@ -62,4 +67,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Some days are not loud—only dense, hard to move through. Breath late; thoughts looping; body remembering what words avoid. Pain is not failure; tired is not shame; nothing here proves blame. Let it slow, rest; you did your best. Drop the weight; this is not your debt. Mind circling errors, counting seconds, rewriting moments; every should hurts; every why stays—and no one lives without these days. No answers needed tonight; no fixing required to be right. Breathe out, unclench; no role to play. You’re here. That’s enough. Stay. It’s okay—repeated until the nervous system might believe it. Nothing is broken. You’re still whole. You don’t owe the world perfection.
+
+Euphoric nocturnal vocal trance as care work rather than as romance or conquest. The lyric is almost therapeutic, and that could feel thin—but the precision of denseness versus loudness, of the body remembering what speech skips, keeps it human.
+
+I hear a rare kindness in this catalogue of night music: permission to stop performing strength. The drop is not only sonic; it is the weight finally allowed to leave the hands.

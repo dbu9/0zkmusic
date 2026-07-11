@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -61,4 +66,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+No gold, no diamonds—only heartbeat and a flashing light. The thesis is almost anti-economy: I don’t need money or control, only rhythm in the bones; best things free; no price, no cost, no fear, get lost.
+
+Vocal trance turns that ethic into communal heat—streetlight on skin, hands up, the night under our feet, no tomorrow in the beat. When the music fades, the body still carries it. Ownership dissolves: nothing owned, nothing owed, just fire and glow.
+
+I read it as hedonism with a moral edge—against pretense, tickets, better deals. Presence is the only currency the song accepts.

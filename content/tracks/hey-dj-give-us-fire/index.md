@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "psytrance"
@@ -60,4 +65,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Pure floor liturgy. *Hey DJ. Turn it up. Give us fire.* No metaphor to unpack—only hands high, bass as common body, night burning because the kick said so.
+
+Psytrance, tribal pulse, techno muscle: the track is a demand for transcendence through volume. *We are one* is not philosophy here; it is what happens when silence is banned and the ground has to shake. Club as temporary republic of pure delight.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Black riders, iron cross, blood-wind, ground quaking where a god’s will is said to burn. Bells silent, voices screaming, night red. Gothic industrial metal stages *Reconquista* as liturgy of fire and faith—one realm falling, one rising, land and time seized “in the name of justice.”
+
+Desert curse, crescent and cross, children becoming warriors: the lyric does not flinch from holy-war imagery. Motives are purified of gold and throne—only Word in flesh and wrath, light that breaks dark. One can hear historical reenactment, nationalist fever, or a deliberately uncomfortable myth. The music’s aggression leaves little room for gentle ambiguity; interpretation must do that work outside the blast.

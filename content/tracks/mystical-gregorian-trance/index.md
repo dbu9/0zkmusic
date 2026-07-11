@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance"
@@ -65,4 +70,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Pseudo-Latin choir against kick and supersaw: a long-form trance ritual that borrows the gravity of sacred chant without needing a single plain narrative. Dark spiritual atmosphere meets uplifting drive at a steady pulse—music for immersion, late roads, or the kind of focus that thrives in cathedral-sized reverb. Meaning arrives as shiver rather than as thesis.

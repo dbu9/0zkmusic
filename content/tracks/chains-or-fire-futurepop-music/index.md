@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+They arrive in silence; the addressee looks away, buys time with the soul, then wears the invader’s name. No scream, no line drawn—only the slow conversion of a living person into “the ghost inside the chain.” Dark techno’s nocturnal pressure fits that moral freeze.
+
+The counter-image is brief and costly: fists of fire, dying like stars that refuse to tire. Choice collapses to a hard binary—void or war, slave in peace or free in war. I am not sure the lyric romanticizes either side so much as it strips the middle ground of dignity.
+
+Perhaps the true accusation is toward the first verses: fear of flame as the origin of captivity. Intensity without sermon; a door left open only for those willing to burn.

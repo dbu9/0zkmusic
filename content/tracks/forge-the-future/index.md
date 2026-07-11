@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -63,4 +68,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Prometheus with a soldering iron. Metal, fire, circuits; “mind over myth”; steel in the veins and books unburned. The chorus forges future by breaking chains, melting veins of old fear, crowning truth and light while darkness is scrubbed like a stain. Rap, metal, and hardstyle share the same appetite for blunt certainty—logic as hammer, superstition as scrap.
+
+The historical sneers land hard: flat earth disproved, sky reclaimed from gods, dreamers standing “beyond their screams.” Whether one finds this liberating or a little absolute, the lyric’s faith is clear—no gods, no kings, “just mind and machine.” Intensity is the rhetoric: numbers speak, quantum minds unlock cores, bridges rise where flames once burned. It is a construction site hymn, aggressive enough to scare the past into stepping aside.

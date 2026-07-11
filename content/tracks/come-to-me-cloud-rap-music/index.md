@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -61,4 +66,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Invitation dressed as weather: *Come to me, don’t hesitate*—smooth entry, dropped guard, fire that no longer needs shame. Cloud rap’s haze softens the command without removing its heat; desire speaks as if freedom and fusion were the same frequency.
+
+What the lyric wants is mutual unlock—your rhythm into mine, give for give, nothing lost in the exchange. Aggressive drive lives under the atmospheric surface. Limitless is not abstract here; it is one deep breath and the decision to stop counting cost.

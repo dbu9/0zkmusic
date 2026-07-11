@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The title is a dare dressed as tenderness. Armor falls; voice trembles like broken glass; the storm is invited to pass rather than conquered. Victories turn to dust in the hand; silent tears have already shaped the land. Weakness, in this vocabulary, is not collapse—it is the condition under which love might still find a name.
+
+Trance that is uplifting and chill can make such advice sound like a floating mantra. Here the mantra has teeth: you are the wound and you are the help; forgive the world, forgive yourself. Surrender’s fire is where souls learn to pray—not for glory, but for permission to be human enough that even gods might understand.
+
+Whether one accepts the theology or simply the psychology, the song’s temperature is clear. Slower, kinder, weaker: not as diminishment, but as a way to hold the world without crushing it—or yourself—inside a fist.

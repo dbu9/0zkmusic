@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Past and fall demoted; location irrelevant—lost or broken, near or far. Only the next move: cut the chain, break the loop, kill the pain. Next step fire, next breath steel; life’s a wheel, and you return.
+
+Energetic uplifting trance is pure present tense. The lyric’s cold boldness is not cruelty so much as triage—what you hold unseen, what you rise to do now. Regret and fear are refused the vote; the burn is chosen because the alternative is the loop forever.

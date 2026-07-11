@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "instrumentaltrance"
@@ -64,4 +69,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The brief describes drifting sequences, airy pads, motion without force—cosmic progressive trance meant for headphones, night drives, the slow argument with weight. “Deny the gravity” need not mean triumph over physics so much as a sustained refusal to accept the floor as final.
+
+Uplifting and chill moods can float; the driving undercurrent keeps the float honest, a tension that never fully resolves into fluff. Listening becomes a private simulation of lift: not escape as fantasy, but resistance practiced as sound.

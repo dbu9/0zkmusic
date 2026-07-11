@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Identity as industrial catechism: ice and fire, steel and stone, blood and bone. “Ich – bin – Deutscher!” is punched into the bar like rivets—firm as walls, still as fog, strong as farmers. Ancestors call in song; duty and honor leave no room for flight. Metal’s aggression is the natural climate for a self that claims to be earth, courage, core and crown.
+
+“I shatter—but not” is the hinge: breakage admitted, collapse denied. Whether one receives this as pride, defiance, or something more fraught, the lyric’s surface is unflinching. Names are to be screamed in light; the past is “old and clear,” “as it always was.” Industrial cadence turns nationality into rhythm—less essay than anthem of refusal to vanish.

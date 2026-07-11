@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Hermetic optics: a drop conceals a sea; a spark shows infinite pattern; from fragment, know the frame. River and flame, stone birthing stars, a glance opening “a thousand skies.” Concrete shadows melt so abstract voices can lead.
+
+Trance’s uplifting drive mirrors the expansion from micro to macro—*ocean from a drop of rain*, order hidden in the chain, worlds swelling from an echo, “endless truth within your hand.” Cousin to Blake’s grain of sand, though here the mood is constructive wonder more than elegy.
+
+Perhaps the song’s faith is that scale is a trick of attention: hold the small thing long enough and it becomes weather.

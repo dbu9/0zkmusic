@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -62,4 +67,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The muse arrives pale, weak, whispering sorrow that burns speech; she lights the night and curses the day, takes every song away. Gift is chain: “I bleed in rhythm… You breathe in fire, / I drown in pain.” Still the follower goes through flame toward a “sacred name.”
+
+Uplifting dark-techno-tinged trance can ritualize that abusive intimacy with art. Inspiration as torment one chooses—old Romantic problem in club clothes. Silent torment, sacred name: worship that knows the cost and pays anyway.

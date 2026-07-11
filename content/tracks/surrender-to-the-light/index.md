@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance"
@@ -56,4 +61,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Running through silence with storm under the skin; shadows call backward; dreams wear thin. Then a voice like fire across water, and fatigue with resistance—including fatigue with the self. Surrender is not defeat so much as permission: fall into the unknown, release what cannot be held.
+
+Light inside rain, love beyond pain, walls of sorrow to dust at dawn. Peace under thunder; gold inside blue. The offering is total—fear, fire, desire’s weight, scars—left drifting through stars. Soft as morning, wide as heaven, still becoming. Dark-uplifting trance makes yielding feel like ascent; one may wonder what is given up along with the pain, and still understand the relief.

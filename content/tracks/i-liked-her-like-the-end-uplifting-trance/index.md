@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+She was not light; she was the wound. Grief in her breath, stars in her stare; not love, not warmth, but something pure enough that a spiral down seemed worth enduring. Moth and fire, shadow kissed, name taken—she is what remains when angels die, and the speaker would wear her dark like a crown.
+
+Uplifting trance under such imagery creates a beautiful friction: the genre promises lift while the lyric courts the fall. “Perfect rest” found in void and pull is a dangerous kind of peace, and the song does not pretend otherwise.
+
+I read it as clear-eyed romance with ruin—attraction to intensity that knows the cost and still chooses the burn as the only fully felt life available.

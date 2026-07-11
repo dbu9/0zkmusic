@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -63,4 +68,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A self hollowed into usefulness: smile like polished stone, weather read for someone else’s comfort, will broken into another’s hands. Emotional trance gives the confession room to lift while the words stay careful and frightened—“don’t speak, don’t move, the silence is watching.”
+
+Under the mask, an ember insists this life was never mine. Love that arrives as rage, quiet harm mistaken for peace, a cage whose keeper was called friend. The waking is incomplete and honest: still hollow, but full of light.
+
+I trust the hesitation more than any clean victory. Progressive pads and driving pulse carry a person reclaiming shape without pretending the damage vanishes on cue.

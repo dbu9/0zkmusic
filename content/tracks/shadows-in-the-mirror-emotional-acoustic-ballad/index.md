@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The smile as costume, painted skies that never admit the storm. “I’m not fine — I’m just quieter”: a shadow in the mirror, war behind the face, grace faked until the voice admits it cannot keep faking. Would you see through the glass, or walk past?
+
+Dark nocturnal ballad energy—even under an electronic tag—fits this confessional hush. Silence speaks what cannot be unheard; the fear is not only breaking, but being forgotten as a ghost. Tired of pretending to be strong or whole, the speaker offers the cage of fire under the skin as the only remaining honesty.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Fire given to keep another warm in rain; saving never asked for, bleeding done the same. Every heartbeat a promise to fade; every sunrise a price. To love is to burn, to fall and not return, to lose the self you were for a soul you earn—and never ask why light must hurt to turn the dark. Silence walked as sacred ground; wounds worn without sound. If pain is devotion, then divinity is claimed in ashes that still whisper possession of a heart.
+
+Uplifting euphoric vocal trance can glorify sacrifice until it sounds holy. Here holiness and self-erasure share a border. Forever, I’ll burn: vow or warning?
+
+I hear the beauty and the danger in equal measure—a love ethic that may be noble or may be a beautiful way to disappear. The song does not protect you from either reading.

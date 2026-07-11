@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A ship, a name, a departure: *Celestia* is less a person than a vessel of longing, gliding nebulae with dreams on a starlit tide. The electronic frame stays dark and nocturnal, space as loneliness with better lighting than ordinary isolation.
+
+Memories fade; the journey remains. That line may be the most honest thing here—wonder without guarantee of return, a traveler far from home following whispers of distant flames. Stars will turn, the lyric says, but you’ll remain: an address spoken into eternity rather than a plot resolved.
+
+Whether the ship is love, death, or pure escape is left suitably open. The music prefers drift over declaration, and that restraint fits the void it describes.

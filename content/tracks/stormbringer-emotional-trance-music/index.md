@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Sky black, thunder, winds screaming—then *Stormbringer*: rage that climbs, rides the tide, laughs with pride. Vocal progressive trance turns weather into character, almost mythic, while odd tender details (penguins trembling under stone) keep the vision slightly surreal.
+
+Storm wanted, storm near, storm here: the song doesn’t flee the chaos; it names a figure who breathes it. Seagulls vanish, shadows crawl, darkness falls—and the cry still roars as strength of chaos.
+
+I hear elemental identification more than meteorology. Someone becomes the weather that others fear.

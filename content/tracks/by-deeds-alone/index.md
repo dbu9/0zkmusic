@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The ethic is almost feudal and almost modern at once: “No crown, no name, / No stolen flame.” Lineage and falsehood are tested; “the traitors speak” and are dismissed as weak. What remains is a severe equation—rise and shine only by deeds, “no words, no guise.” Set against trance and dark techno, that severity can feel like a march: uplift as discipline, darkness as the cost of clarity.
+
+I hear a refusal of performance. Masks, creeds, and comfortable speech cannot “plant the seed”; the fire is claimed as private property of action. Whether one reads political allegory or personal honor code, the lyric will not soften into therapy. The last lines close the fist: words are suspect, deeds alone mint worth, and the fire stays “mine.”

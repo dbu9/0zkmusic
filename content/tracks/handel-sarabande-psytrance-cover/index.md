@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "psytrance"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Handel’s Sarabande, that dark D-minor procession (La Folia’s ghost in the room), reborn as psytrance: baroque gravity under modern hypnosis. The German lyric kneels with it—voices from an old time, a heart of ash carrying another’s light, night’s cold mask laid over two figures who fall “tief in den Klang.”
+
+Where angels break, eternity lengthens; they go under and still “werden erwacht,” burning without flame, becoming light and sound. Cinematic, nocturnal psytrance can make classical sorrow dance without mocking it. “Langsam, langsam, sinkt das Licht” feels like the sarabande’s own tempo of fate—holy, lonely, refusing to die.

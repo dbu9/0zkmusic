@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Rest as urban sacrament. Over rooftops, stillness hums in blue; chrome horizons fade; ghosts of yesterdays dance in the room. “Rest is not an ending, / It’s the sky in you.” Wires and thunder still carry overflowing hearts, but light fades gently, like breath through silver. Trance that is uplifting and nocturnal can cradle rather than launch—drive softened into lullaby.
+
+City hearts unwind; time dissolves in amber; neon veins glow while promising that peace will fall “over all the mountains.” The late turn toward “Ruh” and circuits humming like lullabies feels almost Goethean by echo: wait a little longer, close tired eyes. I hear insomnia’s treaty with the grid—permission to stop without dying, to let the night keep watch while the body finally believes the sky inside it.

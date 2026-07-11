@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Alone in neon: headphones on, world faded, basslines breathed like air. She is “wired in desire,” dancing for no one, stockings torn, silk and static, lips like venom, eyes like rain—falling through echoes “where secrets reside,” nowhere to go, nowhere to be found.
+
+Dark pop’s melancholy chill fits better than pure trance branding might suggest. Desire is circuit and solitude, not coupledom; every beat pulls deeper inside. Still moving, still dreaming, still lost in the feeling—the afterimage of a private night that refuses daylight’s plot.

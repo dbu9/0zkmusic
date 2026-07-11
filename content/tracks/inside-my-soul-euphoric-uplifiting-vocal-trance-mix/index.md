@@ -33,8 +33,13 @@ release_date: 2025-04-08
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A mix that promises interior weather: euphoric, nocturnal vocal trance aimed past the skin. Without a fixed lyric narrative, meaning rides the climb and the release—the sense of something private made briefly communal under lights that never quite become day.

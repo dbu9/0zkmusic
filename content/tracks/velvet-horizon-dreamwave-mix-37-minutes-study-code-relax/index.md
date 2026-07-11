@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Thirty-seven minutes of dreamwave weather: *Chrome Tears*, *Lost in Analog*, *Neon Reverie*, *Velvet Horizon*. Titles sketch lovers in static, midnight frequencies, slow dives into glow—study and code as the alibi for staying inside the haze.
+
+Ambient chill without a vocal argument. The horizon stays velvet on purpose: soft distance, analog memory, no demand that you finish a story before the last pad fades.

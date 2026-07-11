@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Surrender with open eyes. Shadows on fragile skin, whispers like burning steel, name lost *under the veil*. The other is abyss, game, rest; the self is captive tasting sorrow sweet with pain.
+
+Dark vocal trance can make bondage feel like lift—and this one does not pretend redemption waits at the end. No farewell, forever under the spell. Drive and uplift are the pulse of deeper night, not the exit from it.

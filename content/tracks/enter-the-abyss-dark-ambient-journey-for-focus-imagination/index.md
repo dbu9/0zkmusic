@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -57,4 +62,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A long dark-ambient crossing mapped like a katabasis: entry, ferryman, black water, ash memory, fields without song. Lethe and the Asphodel meadows appear as stations, not footnotes—forgetting and the pale afterlife of ordinary souls. Grey bloom, the nameless, then the quiet claim that eternity is already here. Music for focus that behaves like underworld weather: slow pressure, no chorus, only the mind learning to walk in dim light.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -63,4 +68,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+„Gezähmter Zorn“ ist kaum gezähmt. Geboren aus Blut, Eisen, Stein; der Letzte, der selbst das Feuer ist; der wilde Mann im Eck, Fäuste wie Feuer, Seele wie Feld. Ahnen schweigen im Schnee, Feinde reden von Frieden und tragen das Schwert—Zorn erwacht „und schlägt wie See.“
+
+Industrial gothic metal und dark techno teilen sich die Kälte und den Schlag. Kein König, kein Banner, nur Frost, Stahl, Wille: das Tier erhebt sich und weicht nicht. Vielleicht ist die Zähmung nur der Rhythmus—Wut, die Form gefunden hat, ohne sanft zu werden.

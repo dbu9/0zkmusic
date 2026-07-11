@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Short lines, hard cuts. Crowns and clay gods fall with the same impatient rhythm: *Let it fall / Let it break*. What rises afterward is not nostalgia but *metal dawn*—steel in the sky, neon rain, flame learning how to stand where institutions used to.
+
+Dark trance can sound like demolition when the vocal stays this spare. Uplift and drive do not contradict the ashes; they are the temperature of the burn. *From the end / Comes the flame* reads less like prophecy than like a machine rebooting after the old software finally crashed.

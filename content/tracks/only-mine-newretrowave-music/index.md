@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Cold self-ownership. Let them cry; good and bad dismissed as lie; belief and obedience left to others while the speaker takes and walks. Walls built, ties burned, truth dust, love lies—history to ash, hope rejected because pain is profitable.
+
+Synthwave nocturne for a narrator who will not perform regret. “This short life—it’s only mine.” Driving pulse behind a morality of extraction. I am unsure whether we are meant to admire the hardness or flinch from it; the text offers no soft landing, only the clean cruelty of someone who has decided empathy is a tax.

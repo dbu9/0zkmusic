@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The lyric is almost cruel in its smallness: lights low, one room, a name breathed into empty air. “One ghost in bloom” is the line that stays with me—grief presented as something still growing, not yet ash. The streets and sky are emptied on purpose; even tears are refused (“silent tears / I never cry”), which is a colder solitude than weeping.
+
+Vocal trance and the euphoric lift of the genre sit oddly—and therefore interestingly—against that numbness. The production wants height and bloom; the voice keeps saying nobody came. I hear the “glow” less as romance than as residual light in a city that no longer answers, uplift used to illuminate absence rather than cure it.

@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+When hope thins and dark closes, the only rite left is whisper: hold me, lift me, guide me home—addressed to a “silent prayer” that may be God, lover, or the act of praying itself. Breaking under strain, drowning in rain, fading without a name; the wish is that echoes linger where the prayer was once heard.
+
+Emotional dark-uplifting trance can make that whisper huge. I hear vulnerability without spectacle: not a demand for answers, but for contact when the world is cold and wide. Silence as both wound and medium.

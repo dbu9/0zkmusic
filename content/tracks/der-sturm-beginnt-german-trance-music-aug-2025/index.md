@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Sand to fire, sea to blood, iron gates swallowing the living—the storm does not approach; it begins mid-catastrophe. A thousand bodies fall while one heart breaks; prayer fails; light cannot pierce smoke. Only steel, silence, and fear in the gut.
+
+The address to the mother is the human crack in the epic: *verzeih mir, ich seh den Morgen nicht*. Trance’s driving uplift here feels almost ironic, or else it is the last surge of a life already canceling its dawn. The storm erases “mein letztes Licht” without negotiation.
+
+Perhaps this is war seen from inside a single extinguished day—no strategy, only weather that has learned cruelty.

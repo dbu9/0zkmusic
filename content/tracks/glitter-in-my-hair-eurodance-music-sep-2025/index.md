@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Club gloss over a heart that knows asymmetry. *Glitter in my hair tonight* sparkles while lead melts in the chest; for one person it is *oh yes*, for the other it is nothing left. Eurodance speed carries a young heart’s broken sky and the stubborn hope that true love still refuses to be sold.
+
+High energy does not cancel the wound. The floor keeps moving; the lyric keeps insisting that purest love is free magic, all-or-nothing, brighter than gold—even when the night has already proven how easily fire decays.

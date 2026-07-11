@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Disappearance rendered with unusual precision: thinner than a thought, a sentence breaking off, shadow learning to drift and split. Not goodbye, not a lie—“just a distance multiplying.” Smoke in the light, breath in the night: visible, untouchable, close enough to hurt. “What we were was almost true — / almost you.”
+
+Dark-uplifting vocal trance can float that smoke without forcing closure. The refrain “still in the air… still not gone… just not there” is philosophically exact. Some things exist only while they fade; the track seems to understand that without turning it into slogan. Soft as a scar, real for as long as it is.

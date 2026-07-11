@@ -40,8 +40,13 @@ featured: true
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -61,4 +66,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+This is not a confession; it is a targeting lock. The body is rewritten as hardware: pulse, hammer-heart, will sharpened to a blade. Night is not romance here—it is a corridor of signal and light, and every beat is a step that refuses drift.
+
+The track lives in that clean violence of focus. No doubt, no rest, no soft exit. Pressure becomes pleasure only because it points somewhere. The chorus does not ask for meaning; it claims a target and closes the distance.
+
+Under the trance engine is something colder and almost monastic: one will, one aim, one strike. The fire in the chest is not chaos. It is discipline wearing the mask of heat.

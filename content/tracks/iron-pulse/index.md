@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -60,4 +65,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Minimal and industrial in image: shadows move, lights decay, cold machines show the way; steel on skin, breath as fire, rust and blood haunting dreams. The iron pulse does not heal—it “kills the light,” a heartbeat that is also a sentence.
+
+Dark driving trance can sound like machinery learning to feel. Broken faith and dark desire share the same corridor; silence screams; the fall into night is slow, almost willing. I take the title as both rhythm and verdict—the body keeping time for a world already cooling.

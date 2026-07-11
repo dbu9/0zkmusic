@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Ruins keep shadows; stones refuse speech; skies go red over names of the bled. The speaker remains as witness through fire that does not end—exiled echoes calling a name that might be their own. Dark electro with a euphoric edge can make endurance feel almost radiant.
+
+Vows carved against the sky fail under time; ashes cool; still the fallen whisper in rain, fire living past the chain. “Forsaken never, I remain” is less triumph than vocation. Grief becomes a kind of citizenship among the dead.

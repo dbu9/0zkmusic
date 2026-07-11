@@ -33,8 +33,13 @@ release_date: 2025-10-02
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Vivaldi’s winter recast in progressive trance: frost becomes four-on-the-floor, baroque chill stretched into uplifting drive. No new words—only season as structure, cold as kinetic energy, classical bone under electronic weather.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Synthwave as séance. City lights flicker like echoes of a name; empty streets; shadow in the mirror; voice in the rain; static chased for a signal. “Talk to me, through the wires and the haze”—love reduced to the desperate need for one more transmission. Cassette dreams, VHS pain, rewind as ritual: the past is media that might still play if you wait on the right frequency.
+
+Alive “in the noise, in the circuitry,” the speaker decodes a heartbeat through radio, night by night, begging the other not to fade into neon. Dark, driving, nocturnal pop makes loneliness feel chrome-plated and sincere. Connection is claimed even in silence—“We’re still connected”—yet the chorus keeps asking, which means the connection is never secure. “I’m still here” is both promise and isolation’s last LED.

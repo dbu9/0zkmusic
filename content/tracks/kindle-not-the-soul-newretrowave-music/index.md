@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A dark beatitude. Before cry and burden, the void’s womb held peace; *this was good*. Then the warning: *Kindle not the soul that must thirst*—do not summon breath that must fail. Blessed are the unborn, over whom time’s weight never settles.
+
+Cloud-rap atmosphere makes the anti-natal psalm feel smoked and slow rather than academic. Light is cold; days are many with sorrow. Whether you hear it as genuine metaphysics or as aestheticized despair, the hush after *And this was good* is the track’s true instrument.

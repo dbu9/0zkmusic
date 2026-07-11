@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Die geliebte Nähe schweigt—und genau dieses Schweigen ist der Schrecken, „kein Fremder, kein Gespenst,“ sondern nahe Dunkelheit. Die Kristallträne fällt leise in die Stille; Glockenschlag fürs Herz; Türen, kalt wie Stein; die Frage wiederholt sich wie ein Ritual: wann sind wir zerfallen, wann war es verloren?
+
+Dream trance mit uplift und Drive trägt die Trauer, ohne sie zu dramatisch zu schminken. Am Ende steht der Preis, den die Liebe fordert—achtfach gefühlt, als müsste Wiederholung den Satz erst wahr machen. Einsames Lied, nicht Anklage: Verlust als klare, harte Rechnung.

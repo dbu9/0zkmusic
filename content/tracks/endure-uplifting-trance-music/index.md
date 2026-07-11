@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -60,4 +65,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A severe catechism: starve the flesh, feed the flame, want is weak, discipline is the game. Comfort and soft lies are refused; cold is craved, thirst struck, every ache recruited to “build the wall.” The joy, when it appears, sits “beneath the weight”—ascension through pain, fate dominated rather than soothed.
+
+Nocturnal uplifting vocal trance is an odd and perfect host for this austerity. The euphoria is not candy; it is the clarity after denial, hunger that sharpens, chains that refine. “Bleed with pride / die on your feet” risks bravado, yet in context it reads as a private law—define yourself in the dark, or be defined by ease.

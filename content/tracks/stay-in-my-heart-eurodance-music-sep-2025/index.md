@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Alone in a cold city, waiting for a voice on the phone, a picture by the bed, a name whispered to the sky. The chorus is pure need: stay in my heart, don’t let it break, don’t drift—life without you “more than I take.” Counting stars until sunrise heals nothing; longing “will never be still.”
+
+High-energy nocturnal eurodance wraps heartbreak in motion, the old club paradox: body moves, attachment won’t. I hear it as faithful to its era and feeling—simple lines, high stakes, the refusal to let absence become acceptance.

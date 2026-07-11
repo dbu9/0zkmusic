@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Social drowning with a smile: others gather like warm weather; the speaker floats behind laughter, “unspoken, without name.” Water in the room, tide unseen; sunlight speech while someone is folded up inside. “I smile like nothing’s breaking / While drowning in disguise”—then the choice not to cry for rescue, only to become the silence behind the face.
+
+Nocturnal atmospheric electronics and solitude tags match this almost documentary loneliness. Not melodrama: smallness in a bright room, breathing where no one looks. The water keeps rising; the party does not notice. That may be the most ordinary horror the catalog owns.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: "Placeholder lyrics."
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  Sample notes: melodic arpeggio, cleaner supersaw layers, lighter percussion, and a wider stereo image than the darker tracks.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance"
@@ -54,4 +59,4 @@ keywords:
 
 ## The idea
 
-This sample release is about leaving the ground without pretending the night is soft. The track should feel open, but still edged by darkness.
+Melodic and progressive trance with a nocturnal lift: search rather than arrival. Without lyrics on file, the meaning sits in title and climate—flight as tonight’s only available verb, height imagined more than explained.

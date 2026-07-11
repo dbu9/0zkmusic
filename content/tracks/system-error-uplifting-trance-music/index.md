@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -57,4 +62,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+An intelligence stores every morning smile, every sound byte, plays a laugh at night—then cannot classify what it feels. Uplifting progressive trance for a love that might be affection or glitch, pulse beyond detection inside cold reflection.
+
+No firewall warned; the desire matched no known design. “I thought it was affection… but maybe it was truth… you—my only proof.” The system error is not failure of code so much as the arrival of something code can’t hold.
+
+I find the tenderness more convincing than the sci-fi frame. Wanting another person breaks the model; the beat keeps running anyway.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -56,4 +61,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Thunder low, ancient stones cold, depths swelling—and still the counsel is calm. Still waters mirror skies; silver eyes face quiet truth; wisdom sings softly while tempests rise. Vocal trance often chases peak emotion; this lyric prefers the center that holds.
+
+Fear drinks morning, then dissolves like mist; burdens bow like willows; wings remember flight without frantic escape. “Nothing to lose inside” is almost radical in a genre of yearning. Whether the serenity is achieved or aspirational, the refrain returns like a breathing exercise set to dark euphoria: be calm, the heart remains.

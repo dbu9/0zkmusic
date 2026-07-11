@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -60,4 +65,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Exhaustion with a moral spine. Tired of lies, pain, fakes crowned while real ones struggle—truth buried, faith twisted, innocence sold. Cloud-rap aggression under atmospheric weight: *I see the truth, but they shut me down*.
+
+The twist is refusal to leave cleanly. If I bounce, who stands at all? Authority mutes the sound because it is scared; the righteous bleed while clowns run free. Rage as leftover responsibility—the wish to exit fighting the duty to remain as light.

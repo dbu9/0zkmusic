@@ -42,8 +42,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "chill trance"
@@ -64,4 +69,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+City fading into blue; every shadow leading toward one person. Soft as rain on skin; breathe out, breathe in. No words tonight, no need to hide; heartbeat next to heartbeat. Under your light—alive, lost in sound and eyes, sky touched, stay till dawn. Neon whispers on the floor; steps become flame; kisses repeat a name. Slow waves, soft fire, love like sunrise in deep night.
+
+Dark chill atmospheric trance and house make intimacy sound like climate rather than event. The erotic is gentle, almost tidal. Fear off; broken lines refused for one night’s length.
+
+I take it as a love song that trusts nearness more than narrative—presence as the whole plot, light as the only needed theology.

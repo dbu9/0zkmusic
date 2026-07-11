@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -57,4 +62,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A light kept on in an empty room; a ghost of “me and you” that refuses eviction. The night moves; the speaker does not. Streets, rain, dust, passing cars—ordinary city matter—become storage for a face that time has already demoted to afterglow.
+
+The refrain is not reunion so much as retreat: *back to you*, into days that turned gold only in retrospect, then vanished into echoes. Closing the eyes restores a fire that “doesn’t burn”—warmth without risk, presence without the other person. Vocal trance can make that loop feel luminous, almost merciful.
+
+And yet the mercy is also a trap. “Don’t wake me” is a plea against recovery. Memory becomes the only climate that still feels true, which is beautiful and a little devastating. The track keeps falling toward someone who is already gone.

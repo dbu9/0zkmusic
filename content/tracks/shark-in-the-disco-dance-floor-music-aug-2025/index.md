@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -51,4 +56,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Laser-fish, octopus DJ, jellyfish dancers, electric eels with neon eyes: the dance floor reimagined as absurd aquarium. Shark in the disco, fins in the air; bass tsunami; rave as ocean. Boom and crash and whirlpool—no compromise, no dry land.
+
+Nocturnal euphoric electronic music can be deadly serious; this one chooses carnival. The jokes are the substance. Body and beat matter more than meaning, and meaning is allowed to be silly without apology.
+
+I hear pure permission to be ridiculous under strobe light—a small, necessary heresy against the solemnity of so much night culture.

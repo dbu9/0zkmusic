@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A king without a throne, a crown of silence: power emptied, spirit still walking. Worldbeat colors and dark nocturnal electronics frame a ritual of fallen authority—*vive la nuit*, the crown broken, the soul still rising.
+
+Latin and French phrases act like incense smoke: hail soul, deep light; the king is gone, the dream continues. Names fade, time dissolves, yet an echo remains as fire inside clay. I hear less nostalgia for empire than stubbornness of interior life after the symbols collapse.
+
+The music keeps ceremonial gravity without needing a court. Endurance is the only remaining sovereignty.

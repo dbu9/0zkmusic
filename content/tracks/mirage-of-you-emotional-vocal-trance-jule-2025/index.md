@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Desire staged as desert physics. Light rises beyond “dunes of time”; the beloved is chased as shadow in the sky, scent in dust-strewn memory. “You are the mirage I follow”—thirst that cannot marry its dream, ghost in a desert bloom, song in an endless room. Dark, euphoric, nocturnal vocal trance is almost the correct climate for heat shimmer that feels like love.
+
+Each step a dance through fire; each breath feeds lost desire. The sun forgets, yet the image never sets; silence bends time. Perhaps the cruelty is that the mirage works—it organizes the whole journey—while remaining unpossessable. “A trace of light I never knew” closes on unfinished knowledge: the chase teaches longing more accurately than it teaches the person longed for.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Victory, here, is not rhetoric. Not word, not light—blood, dust, steel in the face. Land taken, enemy left begging with empty hands. The refrain hammers criteria: real victory when they scream, when they plead, when we stand on their ground as they go under.
+
+Pacts and vows are refuse; fire and army remain. “Ein echter Sieg—muss tödlich sein.” Peace exists only when the other side has nothing left. Viking metal’s aggression is the natural weather for such ethics—or anti-ethics.
+
+One may hear historical barbarism, satire of conquest culture, or both. The text itself does not blink: mercy is excluded from the definition of winning.

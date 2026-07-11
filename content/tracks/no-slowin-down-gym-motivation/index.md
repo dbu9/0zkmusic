@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Thunder in the veins, sweat, a clock that will not grant pause. The crown is a finish line claimed mid-stride; pain is fuel; doubt is told to quit. Heartbeat slammed like an 808—rap as metronome for the body refusing last place.
+
+There is little ambiguity and little need for it: *no slowin’ down, no turnin’ back*, full speed until light is touched and everything is taken. Motivation music as pure forward vector. I hear the fantasy of frictionless will—useful, loud, uninterested in the philosophy of rest.

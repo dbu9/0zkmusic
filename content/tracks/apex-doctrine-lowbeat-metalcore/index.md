@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -50,4 +55,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Apex Doctrine does not apologize for hierarchy. Fire, pain, “steel in our bones”—the lyric forges a caste of survivors who translate loss into license. “Bow or break” is not metaphor so much as policy; lions and sharks leave “no room,” and the toll for challenge is paid in blood.
+
+I read it as lowbeat swagger with a war-god’s simplicity: thrones claimed by scar, wars ended from above, the summit described as a bare throne no one else may climb. Whether one hears triumphant myth or a critique of pure dominance depends on how much irony one allows. The text itself offers little mercy.
+
+Perhaps that bareness is the point. Power here is not romanticized as justice; it is pure altitude—control without ornament, doctrine without soft edges.

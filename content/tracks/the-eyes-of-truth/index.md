@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "ambient"
@@ -53,4 +58,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Belief optional, understanding optional: still “universal justice,” and the eyes of truth always watching. Ambient chill makes the warning soft rather than thunderous—a brief metaphysical glance, more atmosphere than argument, the sense of being seen whether or not you consent.

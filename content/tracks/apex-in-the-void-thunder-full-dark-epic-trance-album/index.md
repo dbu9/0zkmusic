@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "darktrance"
@@ -76,4 +81,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+An instrumental dark-epic trance suite at 140 BPM, painted in thunder, supersaws, and half-time ruin: less a song than a weather system you drive through. The track titles—Melancholy Overdrive, Iron Tempest, Stormforged Requiem—sketch a battlefield that is both ancient and cybernetic, uplift that never quite becomes daylight. Without a voice to confess, meaning sits in pressure and scale: the apex is not a thesis, only the highest point of the storm.

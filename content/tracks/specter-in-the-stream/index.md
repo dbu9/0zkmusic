@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A technoir guardian without biography: deep in network dark, no name, ghosted signs, “code is law where law can’t reach.” He undoes threats, wears no crown; kingdoms stand because of an invisible will. One day the question “Who kept us safe?” meets only silence of a stream and shadows over dreams.
+
+Dark nocturnal synthwave is native habitat for that myth. Heroism without applause, sentinel denied his own truths—perhaps romance of the sysadmin, perhaps parable of unrecognized care. The stream keeps flowing; the face never appears.

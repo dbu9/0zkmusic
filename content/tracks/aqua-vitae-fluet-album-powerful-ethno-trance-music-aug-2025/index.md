@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -66,4 +71,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The titles alone sketch a theology of motion: *Vita Nova*, *Verum in Aeternum*, *Dominus via Nostra*—new life, truth forever, the Lord as road. Between Arabic and Latin fragments the album seems to stage pilgrimage as ethno-trance and dark techno: water of life that does not soothe so much as *flow* (*fluet*), driving and uplifting at once. One need not invent a story; the sequence of names already climbs from mountain (*Ila Al Jabali Nasir*) toward ascent (*El A Ar Naale*).

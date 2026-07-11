@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Collision of lights, thoughts turning, night awakening: the lyric wants only one direction—*into the pulse*. Falling as calling, echoes unending, nothing left that has not been transcended into sound.
+
+Eurodance energy with a chill-nocturnal aftertaste. Closer, faster, voices rising and breaking: identity surrendered to rhythm until dreams dissolve in neon fire. Euphoria as erasure that still feels like belonging.

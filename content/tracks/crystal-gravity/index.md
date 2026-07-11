@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Balance held on broken light; a smile painted across the night too tight, too bright. The speaker fakes steps, borrows breath, postpones the fall to tomorrow. “Crystal gravity” names a beautiful physics of self-suspension—hanging from the ceiling of mind and soul, shining just enough to hide the drop.
+
+Crowded rooms fill with glittered silence; noise mutes truth; motion is mistaken for strength. Trance’s upward pull becomes the metaphor’s literal engine: *spin me higher, don’t let go*. If the light goes, disappearance threatens—and still the figure swings, still here. Vulnerability dressed as luminescence: not confession for its own sake, but the cost of staying aloft.

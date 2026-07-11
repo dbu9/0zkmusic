@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -51,4 +56,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The city as sealed labyrinth. Empty glass towers, whispers in stone, “no exit, no door.” Streets repeat; lights are hollow suns—cold, dead. Walls breathe silence; speech returns no echo, only dust’s hum. Corridors forever; windows open onto nothing; sky a cracked black mirror. Dark electro needs little more than this claustrophobia to feel complete.
+
+“I walk among cities / Lost / No exit.” The lyric is almost a map of depression or of late-capitalist non-place—either reading fits the dead suns. Touch finds no dialogue; shadow follows shadow. Beauty here is anti-scenic: the sublime of being unable to leave, the elegance of total enclosure. One does not escape the poem; one recognizes having already lived a version of its streets.

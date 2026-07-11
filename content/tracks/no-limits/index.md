@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Almost a drill sergeant’s poem: move, do not stop, hold the line, act like champions, eyes forward, forget the past, no regret, claim ground. No limits, no fear, only forward—now.
+
+Uplifting driving trance loves this kind of clean imperative. There is no confession, no bruise on display—only direction as morality. The past is discarded like weight; the future is a territory to seize.
+
+Some will hear empty bravado; others will hear the exact temperature they need when hesitation has become a second prison. The song does not argue the difference. It simply keeps pointing ahead.

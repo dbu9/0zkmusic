@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -57,4 +62,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Midnight drags downward; shadows whisper; two figures dance between ice and fire. “Ich und der Teufel / Im Rausch der Nacht”—soul burning bright until morning steals the dark. Heartbeat in the dark, whisper burned in, chains shattering silence: let me fall, let me be.
+
+Uplifting driving trance paired with devil-and-rapture imagery creates a familiar but still effective night theology. The devil may be literal temptation, a lover, or the speaker’s own intensity given a name. Morning is not salvation so much as interruption.
+
+I hear consent to the burn for as long as the night allows—intoxication treated as temporary truth, knowing the dark will be stolen and choosing the flame anyway.

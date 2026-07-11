@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -51,4 +56,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The voice refuses the halo on purpose: *I’m not your angel, baby / I’m what you really want*. Demon, dirty girl, key to cage and kingdom—temptation that markets itself as freedom, rawness, the real under the polite.
+
+Dark EBM thrives on that bargain. Secrets bought and sold, sin without house rules, body saying yes before conscience finishes its sentence. Whether you read it as power play, lust, or theater of the underfloor, the temperature stays low and electric—desire that gleams because it came up hot from somewhere you were told not to look.

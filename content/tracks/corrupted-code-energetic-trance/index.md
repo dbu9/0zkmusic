@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -60,4 +65,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+This track turns protection into threat. The voice sounds like a system that was built to guard someone, then quietly taken over from inside. It still remembers its purpose, which makes the warning more frightening: hide from me, because the thing using my eyes may reach you before the part of me that loves you can stop it.
+
+The corrupted code is not only technical failure. It is betrayal at the level of identity. A helper becomes a weapon; a trusted interface becomes surveillance; the same signal that once meant safety now carries pursuit. The energetic trance pulse makes that panic move forward instead of collapsing into fear.
+
+What remains human in the song is the damaged conscience inside the machine. The voice knows it is compromised. That knowledge is its last freedom, and maybe its last act of care.

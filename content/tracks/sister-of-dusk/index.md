@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+She arrives without sound or light—daughter of dusk, shadow and skin, eyes like smoke. No love, no rest: only cold grace that feeds on dreams and swallows fear. Dark pop’s nocturnal melancholy fits a figure who walks through fire like empty air.
+
+The attraction is not mutual story; it is captivity by atmosphere. Kiss outside of time, no dawn, no final sign. Whether muse, death, or night itself wearing a woman’s outline, the pull is the same: lose the self in her call and call it embrace.

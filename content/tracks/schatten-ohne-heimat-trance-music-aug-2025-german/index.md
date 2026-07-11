@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Walls fall, borders die, and whoever will not guard loses bread. Dreams lie, peace flees, war wakes and never ends. No paradise—only fire and blood in a cold hand. Stand or go under; without homeland, nothing holds.
+
+Dark voices, storm, ice and steel in black night: protect the earth or lose what you still lead. Illusions as dust in wind; only the strong overcome; who cannot bear the sword remains shadow—“namenloser Mann.” Driving German trance for a lyric of hard borders and harder consequences.
+
+Perhaps it is warning, perhaps creed. Either way, namelessness is the price of refusing the blade.

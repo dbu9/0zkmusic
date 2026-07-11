@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A Tocatta reborn under the banner of *Deus Ex Machina*: Bach’s architecture meeting machine intervention, organ gravity remade as nocturnal electronic air. The sparse note in the text barely speaks—cross, church, prosthetic hand—yet the implication is clear enough. Sacred machinery, reopened at night.

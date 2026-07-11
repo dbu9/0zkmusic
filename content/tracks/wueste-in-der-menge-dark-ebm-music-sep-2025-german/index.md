@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -65,4 +70,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Loneliness with a crowd’s soundtrack. Faces that do not see, words that do not land—*Allein in der Menge*, alone in the throng, a desert of sound where the oasis refuses and water stays far.
+
+Dark EBM/club voltage makes the isolation danceable without softening it. Hands move but never grasp; life around the speaker is dead waiting. Self-erasure as the last available gesture under empty horizons—no path, no house, only the pulse of not being reached.

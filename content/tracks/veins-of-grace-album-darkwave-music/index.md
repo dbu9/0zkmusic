@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -63,4 +68,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+An album framed as ritual between sacred and profane: grace in the veins, confession in ruins of faith and flesh. Titles sketch the stations—*Say No More*, *I Burn for You*, *Mocking Grace*, *My Guilt, My Name*, *Nocturn Sister*—guilt, desire, and the beauty of silence. Darkwave and synth-dark-pop as gospel for the over-loving and the fallen.
+
+Nocturnal driving darkness suits a record that asks to be felt more than decoded. Analog warmth against synthetic decay: trembling hands still reaching. I take “veins of grace” as circulatory theology—salvation not pure, but still pumping.

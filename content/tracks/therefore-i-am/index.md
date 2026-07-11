@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -55,4 +60,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Descartes on the dancefloor: silent room, electric light, numbers shimmering; joy not from touch or craving but from focus sharp and pure. Trance nocturnal uplift for a mind that feels most alive when it solves.
+
+When I think, the dark retreats; when I solve, the pulse repeats. Endorphins from comprehension; identity from meaning; *cogito, ergo sum* sung without shame. Love stems through reason, the lyric claims—an unusual romance with thought itself.
+
+I believe the sincerity. For some bodies, logic is the flame. The beat is the proof of continued existence.

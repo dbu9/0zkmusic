@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The poem collapses the usual border posts: “Dream is real / Real is dream.” Eyes awake while mind sleeps; falling high, rising deep; body lost, spirit found. No place, no name, no time, no frame—only sound, light, stars, night. Vocal trance at its most nocturnal loves this state, where the drop feels like both disappearance and arrival.
+
+I hear less a puzzle to solve than a permission slip to stop solving. “I disappear / I start to feel” suggests that identity was the obstacle. The refrain’s symmetry is almost cruelly simple; it will not choose a side between illusion and fact. Perhaps that is the point: in the wave and the flow, ontology is less interesting than sensation, and the night offers a temporary country where nothing has to stay or seem.

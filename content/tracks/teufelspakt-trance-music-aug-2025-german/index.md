@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A whisper in the night, promise of power, hand reaching for false light—no grace waiting. Price never small; chains become yours; gain only appearance; loss the real outcome. Temptation burns close; every debt wakes tenfold; the devil does not write fair. Blood pays the rest; shadow takes you; no morning, only judgment; a bargain without sense that breaks what you once were.
+
+Uplifting driving trance can make damnation feel oddly radiant—which may be the point. The warning is clear, almost didactic, yet the music still seduces. That double bind is the pact itself: you know the contract is poison and still hear how beautiful the signature could sound.
+
+I hear a morality play that understands the glamour of the fall better than many sermons do.

@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The beloved becomes the silence remembered: ashes in blue, a dying ember, still burning for what was true. Vocal trance uplift under a lyric of aftermath—frozen smile, broken vow, only now left, no later.
+
+Echoes on the skin; you were lost, I let you in; now you’re gone and I remain under falling rain. No return, no second breath—only beauty shaped by death. Staying and recalling is the whole ethic.
+
+I hear fidelity after the end, not hope of restart. Silence is the form the other person still takes.

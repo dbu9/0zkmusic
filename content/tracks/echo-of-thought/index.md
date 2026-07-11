@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+This track treats thought as an event, not a private mood. A single idea enters the room and the world begins to answer: air shifts, light bends, time loosens. The lyric imagines consciousness as something with gravity, a force that does not merely observe reality but presses shape into it.
+
+The danger is that creation and obsession are almost the same motion. A wish becomes a thread of light, then a storm; silence becomes a field where worlds wake. The trance structure suits that escalation, because repetition makes the thought feel less like language and more like a signal gaining mass.
+
+At its center is a strange faith: before sound, before form, there is attention. The self thinks, and something begins. Whether that is miracle or delusion depends on how far the echo travels before it comes back.

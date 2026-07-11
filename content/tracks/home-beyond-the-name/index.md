@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "afrosoul"
@@ -62,4 +67,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Pilgrimage without GPS. Feet in dust, heart in light, calling a place never seen that nonetheless “breathes in me.” The name that surfaces in fall and flame is not city or sign but “home beyond all time.” Vocal trance’s nocturnal euphoria can make longing sound like arrival already—horizon held in the chest.
+
+The chant “Yeh-ru-sa-la-ma” works as mantra more than map: take me home, this is where the soul belongs. Every breath a borrowed fire, every step a quiet prayer. I hear sacred geography internalized—Jerusalem as direction of the heart rather than only coordinates—though the lyric keeps enough haze that any lost home might answer. Faith here is soft as rain and strong as itself, carried through dark by awareness of being called.

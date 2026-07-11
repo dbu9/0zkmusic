@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A small nocturnal contract: stay tonight, let rhythm sit right, light read in the eyes, hold tight. Slow dance under moon, hearts in sync, a whispered secret song. Chill-euphoric electronics for intimacy that does not need epic stakes—only the claim that with this person, one “can’t go wrong.”
+
+I hear it as soft neon rather than manifesto: midnight as permission, glow as mutual pulse.

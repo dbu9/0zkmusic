@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Minimal as a vigil. *The candle burns. The night is cold.* Flame weak against air like stone, fighting the void, dying alone—and still the spark remembers enough to burn us all. Symphonic metal dresses that small light in larger darkness.
+
+A nod toward Pasternak’s weather of conscience may hang in the air, but the lyric stays elemental: fragile breath versus the hand of death, smoke and ash as the only biography. Intensity without excess words—resistance measured in wick-height.

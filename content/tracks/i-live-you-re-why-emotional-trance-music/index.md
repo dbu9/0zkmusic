@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Short lines, wide distance: you move like light, I fade; you laugh, I freeze; you feel no flame, I burn the same. Trance drive frames an almost one-sided devotion—hope that won’t hide even when the gap stays wide.
+
+“I live. You’re why.” is nearly too simple, which is why it stings. One small call would be enough; the other person looks ahead. The song doesn’t invent reciprocity; it survives on asymmetry.
+
+I hear it as a portrait of necessary unrequitedness—not glamorous, just true enough to keep a body waking.

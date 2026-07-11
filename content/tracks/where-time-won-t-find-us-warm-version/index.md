@@ -42,8 +42,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -66,4 +71,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Silence where the other still breathes; walls that remember; stay where time won’t find us, where noise won’t crawl. Cloud-rap/dark-pop softness under progressive trance haze—atmospheric, chill, dark, almost a held breath.
+
+Whisper my name without sound; you are still all. Even alone the flame burns the same. Fear unfolds tear by tear, and the beloved remains the one near.
+
+I hear a pocket outside chronology—warmth as refusal of the world’s clock. The “warm version” title fits: same exile, gentler temperature.

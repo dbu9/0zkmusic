@@ -33,8 +33,13 @@ release_date: 2025-10-19
 featured: false
 
 lyrics: ""
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -51,4 +56,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+No lyric, only immersion: deep synth as pressure and climate, nocturnal electronics that treat depth as a place rather than a metaphor. Meaning, if you need one, is the long sink—texture before thesis, atmosphere as the whole argument.

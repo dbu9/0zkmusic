@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+While the city sleeps, another metabolism begins. Screens become constellations; code and spark replace morning rituals. Day people sip light; the speaker closes blinds. Night is caffeine, calling, the only face that feels true.
+
+There is pride here, and a little loneliness dressed as freedom—no traffic talk, moonlit thoughts, clocks that race on different wire. Vocal trance’s nocturnal euphoria fits the inverted schedule almost literally: soul taking flight when the world is loud with rules. Whether this is healthy vocation or beautiful insomnia, the lyric chooses the dark without apology.

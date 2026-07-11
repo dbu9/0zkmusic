@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Eagle as national wrath: Germany bites, centuries of cold blood, silence hiding flame until the strike. “Er kreist nicht lang, er schlägt sofort”—no long circling, only steel from the sky. Do not wake what sleeps; steel wings give no warning.
+
+Nu-metal electronics under nocturnal atmosphere make the heraldry feel immediate and harsh. Fatherland, Reichsadler, storm-fall: the lyric is martial myth, proud and menacing by design. One may hear warning or rally; the eagle, in any case, does not negotiate.

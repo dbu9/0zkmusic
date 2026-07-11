@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The pronoun is the whole shield. *We are the fire in the dark*, breath in the night, hearts side by side until storms cannot tear the tide. Scars, pain, silence trying to break the pair—answered with the single word *us*.
+
+Dark trance that still insists on rising. Tears turned to flame, loss become name: solidarity as weather system rather than slogan. Louder than pain is not denial; it is two pulses refusing to fall apart on schedule.

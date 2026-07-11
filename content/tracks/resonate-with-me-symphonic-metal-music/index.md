@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Connection as force, not comfort. Masks crack, teeth grind through the day, two figures on the edge who are “the same beneath the strain.” Resonance means letting silence break, walls give in, static die—signal against noise, chaos that destroys the false calm of the crowd.
+
+Symphonic metal’s aggression and sweep can make solidarity feel volcanic: tenfold strength, thoughts aligned, the storm beginning. “I’m not your mirror, not your chain” matters—the bond is chosen voltage, not fusion that erases. Fly, here, is what happens when two frequencies lock.

@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -60,4 +65,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Strange weed, secret seed: night that breathes light, moon glass, velvet rain, blue smoke, walls falling. Direction dissolves—“I don’t know / where I go”—half awake, softly breaking, eyes blooming in the room, able to see “what sees me.” Sacred or soft joke? The lyric won’t decide.
+
+Chill vocal trance and deep house moods fit the slide through the tide: euphoria without itinerary, only beat and rhyme, time abandoned. Pulls me low, lets me go—the same substance as trap and release. Less morality play than sensory weather report from inside the haze.

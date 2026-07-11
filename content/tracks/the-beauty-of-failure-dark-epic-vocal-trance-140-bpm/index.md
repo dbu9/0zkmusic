@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trillwave"
@@ -58,4 +63,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Dark epic vocal trance at 140 BPM for unfinished lives under neon and borrowed light. The title suggests failure not as shame but as luminous error—loneliness, impermanence, streets that never quite settle. Meaning lives in the glow that remains after plans break: uplift threaded through night, beauty that admits the crack.

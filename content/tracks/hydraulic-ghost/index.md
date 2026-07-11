@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Body as factory and battlefield: steel veins, hydraulic thoughts, “Body’s data, soul’s a floor.” Commands twitch through biceps; gods decay while code writes the flesh. The chant—glitch me, kill me slow, build me—treats self-destruction as upgrade path.
+
+Dark aggressive trap is the right brutality for “I don’t break, I reprogram now.” Strength is redefined as ending and flexing the end again. I hear gym-as-apocalypse and cyborg confession at once: pain synthetic, vow loaded into every rep.

@@ -42,8 +42,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -68,4 +73,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+In silence, breath still heard; shadows move, the other never leaves. Walls remember what you were; flickers of touch still echo. Stay where time will not find us, where noise will not crawl; whisper the name without sound—you are still all. Fear unfolded tear by tear; flame felt the same even alone.
+
+Cold version of a euphoric nocturnal trance idea: refuge as pocket outside chronology. Love as shelter from the world’s crawl, not as conquest of it. The plea is to remain in that pocket, not to win the larger war of time.
+
+I hear grief and preservation braided. If the beloved is gone, the song builds a room where gone is not the final word. If present, it asks for a quieter forever than the calendar allows.

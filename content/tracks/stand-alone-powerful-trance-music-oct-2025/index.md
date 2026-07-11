@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Independence as heat: I don’t care what they say, their lies decay; no gods, no kings, just broken wings; I own the night. Trance power chords (metaphorically) for a self that refuses borrowed light.
+
+Pain feeds the vein; fall and stand; no fear, no plea—just me and me. Crown torn down, truth of others reduced to dust, trust kept as private property. The stance is lonely by design.
+
+Whether you call it strength or armor depends on how much you need the crowd. The beat sides with the solitary claim.

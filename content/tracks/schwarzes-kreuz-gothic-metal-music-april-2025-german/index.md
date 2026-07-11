@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Northern wind, breath as fire, blade that sings when steel tightens. Heavy boots through “mud of time,” light hauled into darkest night. The black cross on a white field rises through storm—Teutonic glory crying that they never fall, they stand and fight. Gothic metal’s aggression gives the banner weight; history arrives as drum and iron vow.
+
+Brotherhood, ash in dawn-red glow, a banner that “denies the grave.” One may hear mythic reenactment, ancestral cosplay, or a darker nostalgia—the lyric itself chooses marching heat over ambiguity. “Gloria” repeats like a bell in smoke. Blood-and-steel as binding vow stronger than death’s howl: whatever one thinks of the emblem, the song’s weather is battle-lit and unapologetic, boots still advancing through the mud of centuries.

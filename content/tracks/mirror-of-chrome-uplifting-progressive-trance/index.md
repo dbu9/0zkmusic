@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -63,4 +68,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+The beloved is a cold perfection: shines without warming, voice “laced with ice,” “a perfect cage, a paradise.” Towers of light, unreachable form, surface kept and interior refused. “Chrome, you're the perfect lie / You never live, but never die”—desire aimed at something that cannot reciprocate because it was never alive enough to fail.
+
+Uplifting progressive trance can glorify that chase even while the lyric names the hollowness. A hollow god of humankind, watched in afterglow and static: perhaps synthetic muse, perhaps celebrity, perhaps the mirror of one’s own projections. The fall asleep under chrome eyes feels like worship’s last honest posture.

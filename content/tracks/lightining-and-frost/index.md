@@ -40,8 +40,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -63,4 +68,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Before the storm, pulse and lightning form; frozen breath, electric eyes; two worlds meeting and crystallizing. You burn, I freeze; still a dance of symmetry between thunder and snow. Hearts of the storm, frozen desire, electric and lost—the pair as echo of opposing elements that somehow complete a single night.
+
+Uplifting vocal trance and progressive house can make opposition feel like choreography. Touch becomes flame; name melts ice; the storm remembers what the lovers forgot. Cold fire, warm snow: paradox held until it sings.
+
+Whether this is romance, chemistry as metaphor, or simply the thrill of difference, the track trusts collision more than calm. Harmony, here, is not sameness—it is surviving the strike together.

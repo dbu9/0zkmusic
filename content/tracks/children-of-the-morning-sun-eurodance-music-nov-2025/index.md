@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -50,4 +55,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Collective dawn-song: dreamers born as one, peace written on empty pages, “no more silence, no more fear.” The refrain “Children of the morning sun” works like a soft manifesto—salvation begins “when love is real,” the wheel turns, mountains fall and still the song continues.
+
+Eurodance euphoria is the right weather for that kind of utopian sincerity. One can smile at the ABBA-adjacent brightness and still feel the earnestness: light speaking, minds aligning, history invited to dance. Perhaps naïveté is the point—morning as political and spiritual mood at once.

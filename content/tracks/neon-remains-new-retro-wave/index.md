@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -56,4 +61,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Aimless steps in midnight rain; thoughts catch on “neon veins”; shattered yesterdays drift down familiar alleys. The city hums like lost desire—glass, silence, pulse, wire—faces blurred under the glow of places once shared.
+
+The beloved becomes “a ghost in every sign,” flickering between lines while the self dissolves into haze of half-forgotten days. Skyscrapers weep static light; the past rewinds black and white; a name is traced on window frost while lost time is counted. Synthwave’s nocturnal drive is the natural chassis for this kind of memory-loop.
+
+Perhaps neon remains are all that love leaves in a city that never stops advertising what is already gone.

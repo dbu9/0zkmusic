@@ -42,8 +42,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -65,4 +70,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Promises fade; love becomes ghost; the question sharpens: when did I lose you most? Silent whispers, empty air, the dual suspicion—did we drown, or did you simply let me down? All love must die is offered as weary axiom; ashes settle; shades of you remain.
+
+The final ask is the blade: *did you regret—or was I easy to forget?* Euphoric nocturnal trance for a wound that wants an answer more than comfort. Sinking where echoes go, falling deeper without melodrama—just the quiet horror of being erasable.
+
+I hear dignity in the doubt; the speaker still prefers a hard truth to a soft silence.

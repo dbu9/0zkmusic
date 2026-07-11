@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Eraclito in discoteca: scorre il fiume nero, porta via il pensiero; niente resta uguale, tutto è temporale. Ombre senza nome, mondo che si piega, vento che consuma, destino che tace. Il ritornello fa della filosofia un lamento ballabile—eco in fiamme, malinconia, cuore infranto, cenere e mare.
+
+Trance uplifting e driving dà al flusso una spinta in avanti proprio mentre il testo nega la permanenza. Ogni istante deve passare: non c’è consolazione, solo l’onestà del movimento. Tutto fugge via, e il beat è l’unica cosa che accetta di restare abbastanza a lungo da dirlo.

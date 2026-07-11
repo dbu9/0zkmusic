@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "djent"
@@ -55,4 +60,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Commands like iron filings: move, do not stop, eyes forward, no return, forget the past, only forward. Future-pop/djent aggression suits a lyric that has no patience for narrative—only vector.
+
+We are champions; act like it. No regret, no weight, no limits, no fear. The past is simply gone. Whether you find that bracing or brutal depends on the day; the song itself does not debate.
+
+I take it as pure forward pressure—music as will, language reduced to orders the body can obey at once.

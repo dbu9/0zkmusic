@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trancecover"
@@ -55,4 +60,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Yesenin’s birch under the window, silvered with snow; fluffy branches, white fringe; sleepy quiet; snowflakes burning in golden fire; dawn lazily circling, pouring new silver on the limbs. A still life of winter grace, almost too pure for argument.
+
+Vocal trance, euphoric and nocturnal, lifts the poem out of the page into pulse. Classic Russian pastoral becomes light and motion without needing to modernize the words. The birch remains; the century around it changes.
+
+I hear reverence more than reinvention: electronic night weather asked to hold an old clarity, and mostly succeeding—cold beauty made to glow rather than to melt.

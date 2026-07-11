@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -50,4 +55,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Speech as broken glass, love answered with thunder, silence torn open: the speaker is a poet of shadows whose soul is a grenade. Pop-electro sheen and euphoric heat make the confession glitter while it wounds.
+
+Writing on walls in blood that doesn’t fade; each broken line another obsession; the night a stage for burning truth. Madness corrodes, and the kiss explodes. I read it as artistic self-portrait more than love story—identity forged in damage and performance.
+
+The track doesn’t ask to be liked for softness. It asks to be believed for voltage.

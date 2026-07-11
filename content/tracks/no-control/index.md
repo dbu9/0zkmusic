@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Autonomy ends in real time. *No control in my hands*—pulse rising, veins frying, every beat already owned. Skin as cold code, bones as old steel, voice filling the void until the self is only shell and song for someone else’s current.
+
+Vocal trance’s euphoria can sound like rapture or like capture; here the two fuse. Wires tight, signal burning the mind, dark flame where ownership used to live. Whether the “you” is lover, system, or drug of presence, the ending is the same: *You take it all / It’s lost*.

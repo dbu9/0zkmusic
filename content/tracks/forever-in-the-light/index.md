@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -61,4 +66,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+A star is deeded like a will: *yours to keep*, whether near or far, alive or gone. The dead—or the absent—remain “in light and wind, in sun and rain.” Golden light becomes a handheld eternity, a heart projected into the night sky so loneliness never fully closes.
+
+Euphoric vocal trance often needs a simple cosmic prop; here the prop is love’s legal fiction and its comfort. Look up when alone—that point of fire is companionship that refuses goodbye. “Forever mine, forever yours” seals the transfer.
+
+I read it as tender astronomy: grief and devotion sharing the same bright pin in the dark.

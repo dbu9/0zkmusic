@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -57,4 +62,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Körner’s sword-song reborn as dark trance: *Du Schwert an meiner Linken*, cold gleam in the storm, fire sinking in the heart while blood remembers an older dance. Night as companion; steel as earth; wrath stretched toward eternity.
+
+Less subtle patriotism than iron theology. The blade speaks the oath; no god softens the rider; courage is *Eisenblut*—iron-blood—when the sky tears red and death becomes a dance partner. Driving uplift here means forward motion through hostility, not soft light.

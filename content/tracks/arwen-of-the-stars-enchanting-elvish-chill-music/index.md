@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -59,4 +64,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Arwen arrives as star-matter given a human outline: light in the sky, dawn caught in hair, a silver soul that refuses to dim. The lyric is almost pure address—devotion dressed as myth, beauty treated as a force capable of silencing war.
+
+Vocal trance softens the edges so the exaltation never hardens into sermon. She is *cast from the stars* not to rule but *to make beauty last*, and the lost ones follow her flame the way moths follow a colder, cleaner fire. Euphoria here is nocturnal and chill: hope as afterglow rather than battle cry.

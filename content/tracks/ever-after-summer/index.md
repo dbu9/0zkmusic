@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "vocal trance"
@@ -58,4 +63,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Summer fades, yet the light of a person stays in quiet waves that call through night. Lost “in blue,” falling out of time, until memory realigns the stars. The beloved is named *ever after* and *endless sky*—higher than time’s carrying capacity, deeper than goodbye.
+
+Vocal trance thrives on this scale of vow: love beyond thunder and rain, survival past vanishing. No rose has that fire; no dawn owns that name; time may steal morning and break the sea, but cannot extract the other from the self. Even when lights go low, that presence is “the reason I still glow.”
+
+I hear less fairy-tale naivety than nocturnal insistence—the refusal to let seasonality have the last word on attachment.

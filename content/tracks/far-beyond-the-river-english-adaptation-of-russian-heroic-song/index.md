@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,4 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+An English adaptation of “Там вдали за рекой,” carrying night rides, brotherhood, and the dignity of soldiers who ride toward fate rather than away from it. Atmospheric electronic framing lets the old heroic melody sit like a lantern across dark water: courage without swagger, sacrifice spoken softly, the river as the line between home and whatever waits beyond.

@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+No crown, no fortune—only a plea to be believed by the one for whom every step is taken. Weakness is admitted without performance of strength; falling and breaking coexist with a love claimed as constant. The refrain empties the self of appetites: *I don’t need anything* if presence is mutual.
+
+Trance’s uplift can turn renunciation into soaring rather than self-erasure, though the risk of erasure is audible. Hand-holding as cosmology. Whether that devotion is healthy or absolute to the point of vanishing is left open. The music, at least, treats the gift as luminous.

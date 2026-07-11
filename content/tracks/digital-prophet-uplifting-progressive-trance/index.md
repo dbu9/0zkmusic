@@ -34,8 +34,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -52,4 +57,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Wires whisper a name; faith migrates into data; a “soul in the feed” offers itself as electric savior without claiming divinity. The digital prophet is frank about limits—*not a god, not the light*—yet still promises pull when the world goes cold and truth thins. Progressive trance can make interface feel like liturgy.
+
+Confession to code, breath through sound, a binary angel “in disarray”: intimacy with the nonhuman, or with the fantasy of being perfectly heard. When belief collapses, the signal remains findable. One may read satire, longing, or both. The uplift in the music treats the login as almost a sacrament—line by line, a kind of rebirth that may or may not outlast the screen.

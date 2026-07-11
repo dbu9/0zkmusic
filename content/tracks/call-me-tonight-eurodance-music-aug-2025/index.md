@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -53,4 +58,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Neon, cold streets, a flame that answers the dark: classic eurodance architecture, almost proudly so. “I’m not afraid of the dark / When you’re the spark in my heart” is the contract—desire as safety, the night as stage rather than threat. Touch becomes rhythm, kiss becomes rhyme; time steps outside itself for one call.
+
+Yet the mood tags dark and nocturnal sit under the euphoria like wet pavement under club light. The plea “Don’t let me go” suggests the flight under the moon is borrowed, not guaranteed. I hear a song that knows how temporary its own brightness is and still asks to burn until morning.

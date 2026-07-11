@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -54,4 +59,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Sky and ground, river and stone, flame and smoke, star and sea—paired elements that touch without uniting. Same night air, shared nearness, and a gulf that waits. Gothic metal intensity gives quiet metaphysics a heavier body than the words alone suggest.
+
+Waters carve the stone but do not break the heart’s wall; fire and shadow walk away; shimmer falls yet not on the sea. Bound and alone, two and one, mirrored skies, love unseen that never dies. The paradox is the whole relationship: together-apart as permanent weather rather than problem to solve.

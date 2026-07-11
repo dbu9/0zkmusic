@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -58,4 +63,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Falling through silence, hearing a name in rain; twilight echoes calling again. Memory fades like sun, yet “the warmth of your shadow” keeps the self undone. Through the light, pain turns into identity; in the dark a face appears; heartbeats find place; stars guide home.
+
+Whispers of distance, loss living behind the eyes, a world that turns while a left spark will not be released. Dark-uplifting vocal trance for grief that has learned locomotion—breaking free without abandoning the dead or the gone.
+
+*Home… through the light…* may be reunion, self-return, or both. I hear mourning that has found a direction.

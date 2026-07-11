@@ -32,8 +32,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -50,4 +55,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+“Ashes of light” is already an argument: illumination that has burned down to residue. A dream slips through time; truth is spoken and silence answers; stars turn away from the hand that reaches. Futurepop’s dark sheen fits a world unmade “by what we knew”—knowledge as undoing rather than cure.
+
+Yet the second half refuses pure extinction. Walked through flames, never died; still believed in “shattered skies.” Pain becomes inheritance—“all we own”—and the broken path is strangely called home. The ghosts still feel the heat in their veins.
+
+I take the chorus as elegy for faith that outlives its proofs. Not triumph, not collapse alone, but the afterglow of belief when the heavens have closed their eyes.

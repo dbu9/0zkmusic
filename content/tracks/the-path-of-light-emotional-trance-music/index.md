@@ -36,8 +36,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.3.
+production_tool: "Suno"
+production_model: "Suno v5.3"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "music"
@@ -61,4 +66,8 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Latin, German, and English braid a single gentle ascent: soft breeze, new light, silent hearts waking; heart-flame glowing as shadows yield; hope rising. Remember light “hidden behind quiet eyes”—love as strength unveiled rather than weakness confessed.
+
+Along the path, “Teutons crowned in white,” fear forbidden; soul’s thirst quenched by peace-dew at morning; hands that lift the night. Hearts unite, minds calm—*Amen, gentle peace.* Progressive trance as processional rather than combat: uplift toward quiet, not conquest.
+
+Perhaps the multilingual weave is itself the path—different tongues walking the same pale road toward a shared unclenching.

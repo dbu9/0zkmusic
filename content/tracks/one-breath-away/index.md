@@ -38,8 +38,13 @@ featured: false
 
 lyrics: ""
 lyrics_file: "lyrics.txt"
+
 production_notes: |-
-  - Added from the official 0zkMusic YouTube channel description.
+  Made with Suno v5.5.
+production_tool: "Suno"
+production_model: "Suno v5.5"
+production_custom_model: ""
+production_custom_model_url: ""
 
 tags:
   - "trance music"
@@ -58,4 +63,6 @@ keywords:
 
 ## The idea
 
-This release was added from the official 0zkMusic YouTube channel.
+Mortality without private drama—the cosmos claims the breath; external storms rewrite the names. Every dawn might be last; morning light is a borrowed lie; prayers bleed into air that grants no mercy.
+
+Uplifting vocal trance seems almost cruel against that powerlessness, which may be the point: hold me close before the end, one more sunrise, one more plea. The soul has no turning back and knows it. Clinging is not cure; it is the only available courage when the void keeps its appetite.
