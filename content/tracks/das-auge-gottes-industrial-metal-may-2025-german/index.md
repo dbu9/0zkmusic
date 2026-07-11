@@ -1,0 +1,141 @@
+---
+title: "Das Auge Gottes - Industrial Metal (May 2025) [German]"
+date: 2025-05-23
+draft: false
+description: "A metal release from 0zkMusic."
+summary: "A metal release from 0zkMusic."
+cover: "cover.webp"
+
+youtube_id: "StCY0eaPr3U"
+youtube_url: "https://www.youtube.com/watch?v=StCY0eaPr3U"
+youtube_short_id: ""
+
+download_file: "track.mp3"
+download_enabled: false
+download_label: "Download MP3"
+
+genre:
+  - "Metal"
+genres:
+  - "Metal"
+
+mood:
+  - "Aggressive"
+  - "Intense"
+moods:
+  - "Aggressive"
+  - "Intense"
+
+bpm:
+language: "German"
+duration: "2:56"
+release_date: 2025-05-23
+featured: false
+
+lyrics: ""
+production_notes: ""
+
+tags:
+  - "music"
+  - "industrialmetal"
+  - "electronicmusic"
+  - "neuedeutscheh"
+  - "blackmetal"
+  - "germanmusic"
+  - "gothicmetal"
+  - "metal"
+  - "electronic music"
+  - "YouTube release"
+
+keywords:
+  - "0zkMusic"
+  - "Das Auge Gottes - Industrial Metal (May 2025) [German]"
+  - "Metal"
+---
+
+## The idea
+
+This release was added from the official 0zkMusic YouTube channel.
+
+## Lyrics
+
+=====  
+
+Der Feind verdirbt – wir reinigen  
+Der Feind verkriecht – wir orten ihn  
+Ein Atemzug – ein Schuss, ein Schnitt  
+Die Schwäche stirbt – das Licht ist mit  
+
+Wir sehen – wir schweigen  
+Wir rechnen – wir greifen  
+Der Himmel brennt – die Erde fault  
+Die Zeit ist krank – der Feind ist laut  
+
+Wir wittern – wir folgen  
+Wir hören – wir holen  
+Kein Schritt entgeht – kein Wort verfliegt  
+Wir sind das Auge – das niemals liegt  
+
+Der Feind verdirbt – wir reinigen  
+Der Feind verkriecht – wir orten ihn  
+Ein Atemzug – ein Schuss, ein Schnitt  
+Die Schwäche stirbt – das Licht ist mit  
+
+Wir zählen – wir wachen  
+Wir richten – wir machen  
+Kein Gott, kein Traum, kein falsches Bild  
+Nur unser Blick – nur unser Schild  
+
+Wir kommen – wir löschen  
+Wir fragen nicht – wir löschen  
+Die Ordnung lebt – das Chaos stirbt  
+Der Feind vergeht – der Stahl regiert  
+
+Wir sind das Auge – das alles sieht  
+Wir sind die Faust – die niemals flieht  
+Wir sind der Wille – der nie verzeiht  
+Wir sind das Ende – und seine Zeit  
+
+Lyrics  
+=====  
+
+*The Eye of God*  
+
+The foe corrupts – we cleanse  
+The foe hides – we find  
+One breath – one shot, one cut  
+The weak will die – the light is just  
+
+We see – we stay silent  
+We count – we strike  
+The sky burns – the earth rots  
+Time is sick – the enemy shouts  
+
+We scent – we follow  
+We hear – we capture  
+No step escapes – no word survives  
+We are the eye – that never lies  
+
+The foe corrupts – we cleanse  
+The foe hides – we find  
+One breath – one shot, one cut  
+The weak will die – the light is just  
+
+We count – we guard  
+We judge – we build  
+No god, no dream, no false ideal  
+Just our gaze – just our shield  
+
+We come – we erase  
+We do not ask – we erase  
+Order lives – chaos dies  
+The foe decays – steel will rise  
+
+We are the eye – that sees it all  
+We are the fist – that never falls  
+We are the will – that won’t forgive  
+We are the end – and time to live
+
+## Production notes
+
+- Added from the official 0zkMusic YouTube channel description.

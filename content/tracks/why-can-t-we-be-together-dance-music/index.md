@@ -1,0 +1,118 @@
+---
+title: "Why can't we be together - Dance Music"
+date: 2025-04-05
+draft: false
+description: "A electronic music release from 0zkMusic."
+summary: "A electronic music release from 0zkMusic."
+cover: "cover.webp"
+
+youtube_id: "wrEeQd4zbus"
+youtube_url: "https://www.youtube.com/watch?v=wrEeQd4zbus"
+youtube_short_id: ""
+
+download_file: "track.mp3"
+download_enabled: false
+download_label: "Download MP3"
+
+genre:
+  - "Electronic Music"
+genres:
+  - "Electronic Music"
+
+mood:
+  - "Euphoric"
+moods:
+  - "Euphoric"
+
+bpm:
+language: "English"
+duration: "2:54"
+release_date: 2025-04-05
+featured: false
+
+lyrics: ""
+production_notes: ""
+
+tags:
+  - "music"
+  - "melodicrap"
+  - "femalerapper"
+  - "dancemusic"
+  - "electronic music"
+  - "YouTube release"
+
+keywords:
+  - "0zkMusic"
+  - "Why can't we be together - Dance Music"
+  - "Electronic Music"
+---
+
+## The idea
+
+This release was added from the official 0zkMusic YouTube channel.
+
+## Lyrics
+
+𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
+
+𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
+
+Lover lover  
+Why can’t we be together  
+Lover lover  
+You smile so wide  
+But I know it’s never  
+
+Lover lover  
+Why can’t we be together  
+Lover lover  
+You smile so wide  
+But I know it’s never  
+
+Go ahead go ahead keep playin’ pretend  
+Act like you don’t see me fallin’ again  
+Act like the time that I lent you my heart  
+Was just a soft beat, not a work of art  
+You laugh so free, with someone else near  
+While I sit back swallowin’ fear  
+I write you in verses, you hum other tunes  
+I'm a midnight sun and you chase full moons  
+You said I was sweet, said I was kind  
+But love don’t grow in a friend-zoned mind  
+You hug like it’s safe, like there’s no flame  
+But I’m burnin’ down slow every time you say my name  
+I pretend it’s cool, yeah I play that role  
+But I’m crumblin' quiet while you fill that hole  
+With someone who don’t even see your shine  
+While I memorize every blink of your eyes  
+So flawless you walk, not even knowin’  
+You’re the storm in my chest, constantly blowin’  
+No blame girl, no shame girl  
+But I’m tired of bein' your safe lane girl  
+I cry when the lights go dim  
+Wishin’ I was him  
+Wishin’ you could feel this hymn  
+But I’ll stay in your orbit like a ghost  
+Keep pretendin’ I don’t miss you most  
+'Cause you were never mine to lose  
+Just a dream I couldn’t choose  
+So I write these lines with all I got  
+And pray you read ‘em when you need a thought  
+That someone loved you through the silence  
+Even if love ain’t ever got its guidance  
+
+Lover lover  
+Why can’t we be together  
+Lover lover  
+You smile so wide  
+But I know it’s never  
+
+Lover lover  
+Why can’t we be together  
+Lover lover  
+You smile so wide  
+But I know it’s never
+
+## Production notes
+
+- Added from the official 0zkMusic YouTube channel description.

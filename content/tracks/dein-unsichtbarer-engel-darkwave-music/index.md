@@ -1,0 +1,145 @@
+---
+title: "Dein unsichtbarer Engel - Darkwave Music"
+date: 2025-04-27
+draft: false
+description: "A vocal trance / synthwave / dark pop release from 0zkMusic."
+summary: "A vocal trance / synthwave / dark pop release from 0zkMusic."
+cover: "cover.webp"
+
+youtube_id: "7xgOQinAqOU"
+youtube_url: "https://www.youtube.com/watch?v=7xgOQinAqOU"
+youtube_short_id: ""
+
+download_file: "track.mp3"
+download_enabled: false
+download_label: "Download MP3"
+
+genre:
+  - "Vocal Trance"
+  - "Synthwave"
+  - "Dark Pop"
+genres:
+  - "Vocal Trance"
+  - "Synthwave"
+  - "Dark Pop"
+
+mood:
+  - "Euphoric"
+  - "Nocturnal"
+  - "Driving"
+moods:
+  - "Euphoric"
+  - "Nocturnal"
+  - "Driving"
+
+bpm:
+language: "German"
+duration: "3:01"
+release_date: 2025-04-27
+featured: false
+
+lyrics: ""
+production_notes: ""
+
+tags:
+  - "music"
+  - "vocal trance"
+  - "neuedeutscheh"
+  - "darkelectronic"
+  - "darkwave"
+  - "synthwave"
+  - "dark pop"
+  - "blutengel"
+  - "diaryofdreams"
+  - "wolfsheim"
+  - "electronic music"
+  - "YouTube release"
+
+keywords:
+  - "0zkMusic"
+  - "Dein unsichtbarer Engel - Darkwave Music"
+  - "Vocal Trance"
+  - "Synthwave"
+  - "Dark Pop"
+---
+
+## The idea
+
+This release was added from the official 0zkMusic YouTube channel.
+
+## Lyrics
+
+𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
+
+
+German music playlist 🇩🇪 ⚔ :  
+https://www.youtube.com/watch?v=IY61fKboiEM&list=PLb8iaT5Qp760D6MWNLjwgCfBCq3kY-t4N  
+
+
+𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
+
+Ich liebe dich, doch du wirst’s nie erfahren,  
+Seh’ dich im Schatten, verborgen seit Jahren.  
+Ein Lächeln von dir — mein Herz wird so weit,  
+Ich liebe dich, nur weil du hier bist in dieser Zeit.  
+
+Du kennst mich nicht, ich bin nur Glas,  
+Du blickst hindurch — und siehst mich nicht, niemals.  
+Doch dank’ ich dem Leben, dass ich dich seh',  
+Dich heimlich bewunder’, wenn ich still vor dir steh’.  
+
+Wie ein Geist, der fühlt und schweigt,  
+Der nie in deine Welt hinein erreicht.  
+Doch glaub mir, ich bin immer hier,  
+Ich schütze dich — unsichtbar bei dir.  
+
+Ich bin dein Engel,  
+Freu’ mich, wenn du lachst.  
+Es ist mein Schicksal,  
+Dich zu lieben bei Tag und Nacht.  
+
+Ich bin dein Engel,  
+Still und treu.  
+Mein einziger Sinn —  
+Dein Glück ist auch mein.  
+
+𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶 (english)  
+
+*Your Invisible Angel*  
+
+I love you, but you will never know,  
+I watch you from the shadows, hidden for so long.  
+A smile from you — my heart grows wide,  
+I love you simply because you exist in this time.  
+
+You don't know me, I'm only glass,  
+You look right through — never seeing me pass.  
+Yet I thank life that I can see you there,  
+Secretly admiring you in silent prayer.  
+
+Like a ghost who feels but stays unseen,  
+Who never steps into your living dream.  
+But believe me — I'm always near,  
+Protecting you, invisible and clear.  
+
+I am your angel,  
+Happy when you smile.  
+It is my fate,  
+To love you across every mile.  
+
+I am your angel,  
+Silent and true.  
+My only purpose —  
+Your happiness too.  
+
+=====  
+
+We are inspired by:  
+
+* L'Âme Immortelle  
+* Angelzoom  
+* Wolfsheim
+
+## Production notes
+
+- Added from the official 0zkMusic YouTube channel description.

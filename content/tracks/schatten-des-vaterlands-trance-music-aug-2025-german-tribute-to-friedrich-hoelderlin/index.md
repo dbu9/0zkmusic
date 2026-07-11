@@ -1,0 +1,139 @@
+---
+title: "Schatten des Vaterlands - Trance Music (Aug 2025) [German, Tribute to Friedrich Hölderlin]"
+date: 2025-08-25
+draft: false
+description: "A trance / vocal trance release from 0zkMusic."
+summary: "A trance / vocal trance release from 0zkMusic."
+cover: "cover.webp"
+
+youtube_id: "FO3hdN3Pv8w"
+youtube_url: "https://www.youtube.com/watch?v=FO3hdN3Pv8w"
+youtube_short_id: ""
+
+download_file: "track.mp3"
+download_enabled: false
+download_label: "Download MP3"
+
+genre:
+  - "Trance"
+  - "Vocal Trance"
+genres:
+  - "Trance"
+  - "Vocal Trance"
+
+mood:
+  - "Uplifting"
+  - "Driving"
+  - "Euphoric"
+moods:
+  - "Uplifting"
+  - "Driving"
+  - "Euphoric"
+
+bpm:
+language: "German"
+duration: "4:40"
+release_date: 2025-08-25
+featured: false
+
+lyrics: ""
+production_notes: ""
+
+tags:
+  - "music"
+  - "germanmusic"
+  - "trance music"
+  - "vocal trance"
+  - "trance"
+  - "electronic music"
+  - "YouTube release"
+
+keywords:
+  - "0zkMusic"
+  - "Schatten des Vaterlands - Trance Music (Aug 2025) [German, Tribute to Friedrich Hölderlin]"
+  - "Trance"
+  - "Vocal Trance"
+---
+
+## The idea
+
+This release was added from the official 0zkMusic YouTube channel.
+
+## Lyrics
+
+👍 Like 💬 Commment 🔁 Share ❤️  
+
+
+*Schatten des Vaterlands*  
+
+
+Deutschland, Traum aus Feuer,  
+Altes Blut, steigt immer höher.  
+Götter stürzen, Mythen vergeh’n,  
+Doch dein Geist wird ewig steh’n.  
+
+Vaterland, o Vaterland,  
+Zwischen Meer und Totensand.  
+Stimmen rufen, dunkel, tief,  
+Weck die Seelen, die noch schlief.  
+
+Wälder flüstern, Flüsse klag’n,  
+Helden fallen, Kronen versag’n.  
+Himmel brennt im ew’gen Licht,  
+Deine Größe stirbt doch nicht.  
+
+Vaterland, o Vaterland,  
+Zwischen Meer und Totensand.  
+Schatten rufen, still und klar,  
+Steh erneut, wie einst du warst.  
+
+Durch Asche, durch Nacht,  
+Durch Leid und durch Macht.  
+Der Rhein noch singt,  
+Der Adler erwacht.  
+
+Vaterland, o Vaterland,  
+Träume brennen, eiserne Hand.  
+Durch die Stürme, durch das Weh,  
+Deutschland steigt aus Staub und Schnee.  
+
+
+===================  
+
+
+*Shadow of the Fatherland*  
+
+
+Germany, dream of fire,  
+Ancient blood, rising higher.  
+Gods collapse, the myths decay,  
+Yet your spirit will always stay.  
+
+Fatherland, O Fatherland,  
+Between the sea and deathly sand.  
+Voices call, so dark, so deep,  
+Wake the souls still fast asleep.  
+
+Forests whisper, rivers mourn,  
+Heroes fall, the crowns are torn.  
+Heaven burns with endless light,  
+Yet your greatness will not die.  
+
+Fatherland, O Fatherland,  
+Between the sea and deathly sand.  
+Shadows call, so still, so clear,  
+Rise again as you once were here.  
+
+Through ashes, through night,  
+Through sorrow, through might.  
+The Rhine still sings,  
+The eagle takes flight.  
+
+Fatherland, O Fatherland,  
+Dreams are burning, iron hand.  
+Through the storms, through the woe,  
+Germany shall from ashes grow.
+
+## Production notes
+
+- Added from the official 0zkMusic YouTube channel description.

@@ -1,0 +1,150 @@
+---
+title: "Rückeroberung Andalusiens - Gothic/Industrial Metal (May 2025) (German)"
+date: 2025-05-04
+draft: false
+description: "A metal release from 0zkMusic."
+summary: "A metal release from 0zkMusic."
+cover: "cover.webp"
+
+youtube_id: "7M68_xlZAH0"
+youtube_url: "https://www.youtube.com/watch?v=7M68_xlZAH0"
+youtube_short_id: ""
+
+download_file: "track.mp3"
+download_enabled: false
+download_label: "Download MP3"
+
+genre:
+  - "Metal"
+genres:
+  - "Metal"
+
+mood:
+  - "Aggressive"
+  - "Intense"
+moods:
+  - "Aggressive"
+  - "Intense"
+
+bpm:
+language: "German"
+duration: "3:30"
+release_date: 2025-05-04
+featured: false
+
+lyrics: ""
+production_notes: ""
+
+tags:
+  - "music"
+  - "gothicmetal"
+  - "gothic"
+  - "andalusia"
+  - "ndh"
+  - "neuedeutscheh"
+  - "industrialmetal"
+  - "metal"
+  - "electronic music"
+  - "YouTube release"
+
+keywords:
+  - "0zkMusic"
+  - "Rückeroberung Andalusiens - Gothic/Industrial Metal (May 2025) (German)"
+  - "Metal"
+---
+
+## The idea
+
+This release was added from the official 0zkMusic YouTube channel.
+
+## Lyrics
+
+======  
+
+Schwarze Reiter, Hand am Schwert  
+Ein Kreuz aus Eisen, kalt und schwer  
+Der Wind bringt Blut, der Boden bebt  
+Wo Gottes Wille niederbrennt  
+
+Die Glocken schweigen, doch wir schrein  
+Die Nacht wird rot im Feuerschein  
+
+Feuer und Glaube, Stahl und Licht  
+Ein Reich vergeht, ein Reich erbricht  
+Wir nehmen Land, wir nehmen Zeit  
+Im Namen der Gerechtigkeit  
+
+Ein letzter Ruf aus Andalus  
+Die Wüste spricht von altem Fluch  
+Der Halbmond fällt, das Kreuz steht fest  
+Ein Feind, ein Gott, ein letzter Rest  
+
+Die Mauern singen, Steine glüh’n  
+Die Kinder werden Krieger blüh’n  
+
+Feuer und Glaube, Sturm und Macht  
+Ein Traum erstickt in einer Schlacht  
+Wir brennen tief, wir stehn bereit  
+Für unser Kreuz, für Ewigkeit  
+
+Nicht für Gold, nicht für den Thron  
+Nur für das Wort – in Fleisch und Zorn  
+Nicht für Ruhm, nicht für das Recht  
+Nur für das Licht, das Dunkel bricht  
+
+Feuer und Glaube, Blut und Schwur  
+Ein Land im Bann der heil’gen Spur  
+Wir nehmen's ein, wir nehmen’s fort  
+Im Namen eines starken Wort  
+
+Die Asche fällt auf Gottes Land  
+Ein Herz verglüht in unserer Hand  
+
+
+Lyrics (English)  
+============  
+
+*Deoccupation of Andalusia*  
+
+Black riders, hand on blade  
+A cross of iron, cold and weighed  
+The wind brings blood, the ground it quakes  
+Where God’s own will begins to break  
+
+The bells are silent, still we scream  
+The night turns red in fire’s gleam  
+
+Fire and faith, steel and light  
+One realm will fall, one rise to fight  
+We take the land, we steal the time  
+In the name of justice, so divine  
+
+One final call from Andalus  
+The desert speaks in ancient curse  
+The crescent falls, the cross stands firm  
+One foe, one god, one last return  
+
+The walls will sing, the stones will glow  
+And children into warriors grow  
+
+Fire and faith, storm and might  
+A dream is choked within the fight  
+We burn inside, we stand as one  
+For our cross — until we’re gone  
+
+Not for gold, not for the throne  
+Only the Word — in flesh and stone  
+Not for glory, not for law  
+But for the light that breaks the awe  
+
+Fire and faith, blood and vow  
+A land beneath the sacred plow  
+We take it back, we carry forth  
+In the name of a mighty word  
+
+The ashes fall on God’s own land  
+A heart burns out within our hand
+
+## Production notes
+
+- Added from the official 0zkMusic YouTube channel description.

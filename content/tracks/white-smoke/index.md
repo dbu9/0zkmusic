@@ -1,0 +1,142 @@
+---
+title: "White smoke"
+date: 2026-01-11
+draft: false
+description: "A trance / vocal trance release from 0zkMusic."
+summary: "A trance / vocal trance release from 0zkMusic."
+cover: "cover.webp"
+
+youtube_id: "tJibjRJ-w4c"
+youtube_url: "https://www.youtube.com/watch?v=tJibjRJ-w4c"
+youtube_short_id: ""
+
+download_file: "track.mp3"
+download_enabled: false
+download_label: "Download MP3"
+
+genre:
+  - "Trance"
+  - "Vocal Trance"
+genres:
+  - "Trance"
+  - "Vocal Trance"
+
+mood:
+  - "Uplifting"
+  - "Driving"
+  - "Euphoric"
+moods:
+  - "Uplifting"
+  - "Driving"
+  - "Euphoric"
+
+bpm:
+language: "German"
+duration: "4:32"
+release_date: 2026-01-11
+featured: false
+
+lyrics: ""
+production_notes: ""
+
+tags:
+  - "music"
+  - "trance music"
+  - "vocal trance"
+  - "emotionaltrance"
+  - "femalevocals"
+  - "trance"
+  - "electronic music"
+  - "YouTube release"
+
+keywords:
+  - "0zkMusic"
+  - "White smoke"
+  - "Trance"
+  - "Vocal Trance"
+---
+
+## The idea
+
+This release was added from the official 0zkMusic YouTube channel.
+
+## Lyrics
+
+𝐿𝑖𝑘𝑒, 𝐶𝑜𝑚𝑚𝑒𝑛𝑡, 𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒  ❤️🙏  
+
+𝑳𝒚𝒓𝒊𝒄𝒔 🎶🎶  
+
+I don’t regret, I don’t call,  
+I don’t chase what’s bound to fall.  
+Everything drifts, thin and slow,  
+Like white smoke I used to know.  
+
+Golden days are turning cold,  
+Youth dissolves, no hand to hold.  
+I won’t beg the flame to stay,  
+What was bright has burned away.  
+
+Heart, be calm, don’t fight the chill,  
+Let it pass, let it be still.  
+Birchwood roads, barefoot dreams,  
+Fade into forgotten scenes.  
+
+
+I don’t regret, I don’t return,  
+Every fire is meant to burn.  
+What once bloomed must fade and fall,  
+Nothing here is built to last at all.  
+
+I don’t regret, I let it go,  
+Like white smoke, like melting snow.  
+Bless the rise and bless the end,  
+Every loss we couldn’t mend.  
+
+Restless soul, you wander less,  
+Eyes no longer over-pressed.  
+Desires thin, they lose their flame,  
+Every wish dissolves to name.  
+
+Life feels light, like half a dream,  
+Nothing’s ever what it seems.  
+Spring once roared inside my chest,  
+Now it sleeps, it comes to rest.  
+
+Was it real or just a sign,  
+A borrowed spark, a borrowed time?  
+Morning sound, a fading hue,  
+Pink sky breaking into blue.  
+
+I don’t regret, I don’t return,  
+Every fire is meant to burn.  
+What once bloomed must fade and fall,  
+Nothing here is built to last at all.  
+
+I don’t regret, I let it go,  
+Like white smoke, like melting snow.  
+Bless the rise and bless the end,  
+Every loss we couldn’t mend.  
+
+Everything must fade…  
+Everything must fall…  
+Everything we love…  
+Was never ours at all…  
+
+I don’t regret, I don’t cry,  
+Leaves turn copper, seasons die.  
+What arrived was meant to leave,  
+Nothing stays for us to keep.  
+
+I don’t regret, I stand alone,  
+Time has claimed what time has grown.  
+Blessed be what came to be,  
+Blessed be its memory.  
+
+White smoke  
+Cold air  
+Nothing left  
+Nowhere there
+
+## Production notes
+
+- Added from the official 0zkMusic YouTube channel description.
