@@ -28,13 +28,11 @@ Production build:
 hugo --gc --minify
 ```
 
-The placeholder site URL is configured in `config/_default/hugo.toml`:
+Site URL in `config/_default/hugo.toml`:
 
 ```toml
-baseURL = "https://example.com/"
+baseURL = "https://www.0zkmusic.com/"
 ```
-
-Change this before deploying.
 
 ## Structure
 
@@ -221,14 +219,10 @@ Articles use Blowfish's standard article presentation with the site's dark styli
 
 The YouTube channel URL is configured as `https://www.youtube.com/@0zkMusic`.
 
-Change these remaining placeholders before deployment:
+Optional remaining config:
 
-- `baseURL` in `config/_default/hugo.toml`
-- `contactEmail` in `config/_default/params.toml`
-- Placeholder YouTube IDs in sample track front matter
-- Sample cover art and sample MP3
-
-Optional Bandcamp and SoundCloud URLs are also in `config/_default/params.toml`.
+- Bandcamp / SoundCloud URLs in `config/_default/params.toml`
+- Google Analytics (GA4) Measurement ID via `[services.googleAnalytics]` in `config/_default/hugo.toml`
 
 ## Styling
 
@@ -250,16 +244,20 @@ If Hugo reports a theme compatibility warning, use a Hugo Extended version withi
 
 ## Deployment
 
-Build with:
+Netlify is configured via `netlify.toml` (Hugo Extended build, publish `public/`). Production builds set `HUGO_ENV=production` so Google Analytics loads.
+
+Local / manual build:
 
 ```bash
 hugo --gc --minify
 ```
 
-Deploy the generated `public/` directory to a static host. Do not commit `public/`.
+Do not commit `public/`.
 
 The site emits canonical URLs, sitemap, RSS feeds, robots.txt, Open Graph/Twitter metadata, per-track cover metadata, and MusicRecording JSON-LD for track pages.
 
 ## Privacy
 
-No analytics, advertising trackers, chat widgets, or external font services are configured. YouTube embeds use the privacy-enhanced `youtube-nocookie.com` domain, but YouTube may still receive data when a video iframe loads or is activated.
+Google Analytics 4 is enabled in production builds only (`hugo.IsProduction`), via Blowfish’s built-in gtag integration and `[services.googleAnalytics]` in `config/_default/hugo.toml`. Local `hugo server` does not inject the tag.
+
+No advertising trackers, chat widgets, or external font services are configured. YouTube embeds use the privacy-enhanced `youtube-nocookie.com` domain, but YouTube may still receive data when a video iframe loads or is activated.
