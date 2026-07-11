@@ -16,9 +16,9 @@
 html.dark body,
 body {
   background:
-    radial-gradient(circle at 9% 0%, rgba(255, 43, 191, 0.15), transparent 30rem),
-    radial-gradient(circle at 85% 12%, rgba(68, 245, 176, 0.08), transparent 28rem),
-    linear-gradient(180deg, #0b0413 0%, #0a0610 46%, #07040b 100%);
+    radial-gradient(circle at 9% 0%, rgba(255, 43, 191, 0.10), transparent 34rem),
+    radial-gradient(circle at 85% 12%, rgba(68, 245, 176, 0.06), transparent 30rem),
+    linear-gradient(180deg, #0b0413 0%, #090610 52%, #07040b 100%);
   color: var(--ozk-text);
 }
 
@@ -701,4 +701,24 @@ header img,
     scroll-behavior: auto !important;
     transition-duration: 0.01ms !important;
   }
+}
+
+html,
+html.dark {
+  background: #07040b;
+}
+
+html.dark body,
+body {
+  background:
+    radial-gradient(circle at 9% 0%, rgba(255, 43, 191, 0.10), transparent 34rem),
+    radial-gradient(circle at 85% 12%, rgba(68, 245, 176, 0.06), transparent 30rem),
+    linear-gradient(180deg, #0b0413 0%, #090610 52%, #07040b 100%) !important;
+  background-attachment: fixed;
+  background-color: #07040b !important;
+}
+
+#main-content,
+.track-single {
+  background: transparent;
 }
