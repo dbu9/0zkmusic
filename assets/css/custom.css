@@ -55,22 +55,29 @@ header img,
   display: grid;
   align-items: center;
   margin: 1.5rem 0 4rem;
-  border-bottom: 1px solid var(--ozk-line);
   position: relative;
   isolation: isolate;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .home-hero::before {
   content: "";
   position: absolute;
-  inset: 0;
+  inset: -5rem -3rem -5rem;
   background:
     linear-gradient(90deg, rgba(11, 4, 19, 0.89) 0%, rgba(11, 4, 19, 0.71) 44%, rgba(11, 4, 19, 0.27) 100%),
     linear-gradient(180deg, rgba(11, 4, 19, 0.29), rgba(11, 4, 19, 0.85)),
     url("/img/0zkmusic-banner.jpeg");
   background-position: center;
   background-size: cover;
+  -webkit-mask-image:
+    linear-gradient(to right, transparent 0%, black 15%, black 72%, transparent 100%),
+    linear-gradient(to bottom, transparent 0%, black 13%, black 78%, transparent 100%);
+  -webkit-mask-composite: source-in;
+  mask-image:
+    linear-gradient(to right, transparent 0%, black 15%, black 72%, transparent 100%),
+    linear-gradient(to bottom, transparent 0%, black 13%, black 78%, transparent 100%);
+  mask-composite: intersect;
   opacity: 0.95;
   z-index: -2;
   pointer-events: none;
@@ -79,12 +86,19 @@ header img,
 .home-hero::after {
   content: "";
   position: absolute;
-  inset: 0;
+  inset: -5rem -3rem -5rem;
   background:
     repeating-linear-gradient(90deg, rgba(255,255,255,0.035) 0, rgba(255,255,255,0.035) 1px, transparent 1px, transparent 72px),
     radial-gradient(circle at 18% 38%, rgba(255, 43, 191, 0.18), transparent 18rem),
     radial-gradient(circle at 86% 18%, rgba(68, 245, 176, 0.12), transparent 18rem);
-  mask-image: linear-gradient(to bottom, black, transparent 96%);
+  -webkit-mask-image:
+    linear-gradient(to right, transparent 0%, black 16%, black 70%, transparent 100%),
+    linear-gradient(to bottom, transparent 0%, black 14%, black 74%, transparent 100%);
+  -webkit-mask-composite: source-in;
+  mask-image:
+    linear-gradient(to right, transparent 0%, black 16%, black 70%, transparent 100%),
+    linear-gradient(to bottom, transparent 0%, black 14%, black 74%, transparent 100%);
+  mask-composite: intersect;
   z-index: -1;
   pointer-events: none;
 }
