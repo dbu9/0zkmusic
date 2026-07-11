@@ -7,7 +7,4 @@ draft: false
 
 Reach out for releases, collabs, or anything else about the music.
 
-- Email: {{< contact-email >}}
-- YouTube: [0zkMusic channel](https://www.youtube.com/@0zkMusic)
-
-Optional Bandcamp and SoundCloud links are set in `config/_default/params.toml`.
+{{< contact-links >}}

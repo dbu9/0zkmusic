@@ -1,0 +1,14 @@
+<ul>
+  {{- with site.Params.contactEmail }}
+  <li>Email: <a href="mailto:{{ . }}">{{ . }}</a></li>
+  {{- end }}
+  {{- with site.Params.youtubeChannelURL }}
+  <li>YouTube: <a href="{{ . }}" target="_blank" rel="noreferrer">0zkMusic channel</a></li>
+  {{- end }}
+  {{- with site.Params.bandcampURL }}
+  <li>Bandcamp: <a href="{{ . }}" target="_blank" rel="noreferrer">Bandcamp</a></li>
+  {{- end }}
+  {{- with site.Params.soundcloudURL }}
+  <li>SoundCloud: <a href="{{ . }}" target="_blank" rel="noreferrer">SoundCloud</a></li>
+  {{- end }}
+</ul>
