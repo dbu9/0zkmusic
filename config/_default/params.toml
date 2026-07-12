@@ -49,7 +49,7 @@ brandPhrase = "We do not fight the future. We become it."
   showTaxonomies = true
   showTags = true
   showWordCount = false
-  sharingLinks = ["email"]
+  sharingLinks = ["twitter", "facebook", "email"]
 
 [list]
   showHero = false
