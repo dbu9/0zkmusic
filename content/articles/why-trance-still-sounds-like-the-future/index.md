@@ -3,7 +3,6 @@ title: "Why Trance Still Sounds Like the Future"
 date: 2026-07-10
 draft: false
 description: "A short sample article about trance, repetition, and futurity."
-summary: "A short sample text for the article section."
 tags:
   - "trance"
   - "future"
@@ -37,4 +36,3 @@ The future imagined by old trance records did not arrive exactly as expected. Th
 But the sound remains convincing.
 
 Trance still sounds like the future because it understands that the future is not a place waiting ahead of us. It is a pattern already repeating around us, changing slightly each time, becoming colder, stranger and more human.
-
