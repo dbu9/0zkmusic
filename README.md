@@ -40,11 +40,12 @@ baseURL = "https://www.0zkmusic.com/"
 - `content/tracks/`: track leaf bundles with Markdown, cover art, and optional MP3 files.
 - `content/articles/`: conventional article/blog content.
 - `layouts/tracks/`: custom track list and single release layouts.
-- `layouts/partials/`: reusable track cards, metadata, embeds, downloads, related tracks, and JSON-LD.
+- `layouts/partials/`: reusable track cards, metadata, embeds, downloads, related tracks, JSON-LD, and branded favicon markup.
 - `assets/css/custom.css`: dark 0zkMusic visual overrides loaded by Blowfish.
 - `static/img/`: fallback and social preview images.
 - `static/img/0zkmusic-profile.jpg`: YouTube channel profile image used as the site logo and homepage brand mark.
 - `static/img/0zkmusic-banner.jpeg`: Twitter/X banner image used as the homepage hero background and default social image.
+- `static/favicon-*`, `static/favicon.ico`, and platform icon files: favicon set generated from the 0zkMusic profile image.
 
 Generated output lives in `public/` and is ignored by Git.
 
