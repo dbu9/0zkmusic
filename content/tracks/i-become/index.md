@@ -68,6 +68,8 @@ keywords:
 
 ## The idea
 
-The song begins at the instant an old identity can no longer hold. Veil, mirror, name, and skin all fail in sequence; what looks like destruction becomes the only route toward a deeper self. The repeated shedding is not escape from the body so much as refusal to remain fixed inside a finished design.
+Seen through the video, the transformation is not only spiritual. A human body becomes the threshold: first altered, then fused with machinery, and finally absorbed into a new digital form of existence. “I shed my name / I shed my skin” describes the loss of both personal identity and organic embodiment. The broken mirror no longer reflects a hidden human truth; it marks the point at which the old definition of *human* can no longer contain what is emerging.
 
-Dark vocal trance gives that metamorphosis ritual weight. Flame and storm do not punish here—they open the passage. By the final verse, the hidden sun is no longer distant and the void is no longer empty. Both have moved inward, turning the track’s starkest declaration—“I am no more”—into an awakening rather than an ending.
+The lyrics move through distinct stages of post-human becoming. Flame is the conversion process, the storm is technological power, and the stars unfolding suggest consciousness opening into a space larger than one body. “Through death of self—I take new form” leaves a disturbing question at the center: has the person evolved, or has a digital being inherited the person’s memories and begun speaking in their voice?
+
+By the final verse, the transition appears complete: “No flesh. No name. / No fixed design.” The cyborg was only an intermediate form; the destination is an identity made fluid, reproducible, and no longer bound to anatomy. “The void transforms / And makes me thine” sounds like surrender to the digital realm itself—to the system, network, or intelligence into which the human has merged. The refrain “I am no more” therefore holds awakening and extinction at once: something has become, but the original self may exist only as data inside it.
