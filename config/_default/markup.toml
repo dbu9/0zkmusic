@@ -5,6 +5,14 @@
     autoHeadingID = true
     autoHeadingIDType = "github"
 
+  [goldmark.extensions]
+    [goldmark.extensions.passthrough]
+      enable = true
+
+      [goldmark.extensions.passthrough.delimiters]
+        block = [['\[', '\]'], ['$$', '$$']]
+        inline = [['\(', '\)']]
+
 [highlight]
   noClasses = false
   style = "github-dark"

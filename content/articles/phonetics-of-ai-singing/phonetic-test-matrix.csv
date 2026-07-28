@@ -1,0 +1,14 @@
+condition,pair,variant,lyrics,controlled_change,working_prediction,transcription_accuracy,rush_score_1_5,stress_naturalness_1_5,melodic_naturalness_1_5,missing_or_fused_words,model,model_version,generation_date,prompt,audio_file,notes
+density,1,A,"There is no world beyond me",higher syllabic density,"More rushing or compression",,,,,,,,,,,,
+density,1,B,"No world beyond me",lower syllabic density,"More stable delivery",,,,,,,,,,,,
+density,2,A,"There is nothing left to prove",higher syllabic density,"More boundary compression",,,,,,,,,,,,
+density,2,B,"Nothing left to prove",lower syllabic density,"Clearer stressed words",,,,,,,,,,,,
+boundary,3,A,"Inside your gravity I give away the last of me",single long line,"Model may compress into one phrase",,,,,,,,,,,,
+boundary,3,B,"Inside your gravity / I give away the last of me",same words split into two lines,"Model more likely to create two vocal windows",,,,,,,,,,,,
+runway,4,A,"I disappear into the dark",hard final coda,"Shorter or less stable final sustain",,,,,,,,,,,,
+runway,4,B,"I disappear into the sky",open final diphthong,"Longer and cleaner final sustain",,,,,,,,,,,,
+runway,5,A,"We vanish in the cold",final stop coda,"Sharper ending; less vowel runway",,,,,,,,,,,,
+runway,5,B,"We vanish into blue",final vowel,"Smoother melodic extension",,,,,,,,,,,,
+symmetry,6,A,"Stay beside me / Let the silence finally set me free",irregular line shape,"Established phrase may be forced or abandoned",,,,,,,,,,,,
+symmetry,6,B,"Stay with me / Set me free",parallel line shape,"More repeatable stress and rhythm",,,,,,,,,,,,
+

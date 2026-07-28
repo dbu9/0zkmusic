@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">The Phonetics of AI Singing</title>
+  <desc id="desc">Editorial illustration of a synthetic singer formed from phonemes, spectral lines and a luminous vocal waveform.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050811"/>
+      <stop offset="0.52" stop-color="#0b1324"/>
+      <stop offset="1" stop-color="#18091b"/>
+    </linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9df9ff" stop-opacity="0.08"/>
+      <stop offset="0.5" stop-color="#dbfcff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ff3b83" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#49e7ff" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#49e7ff"/>
+      <stop offset="0.72" stop-color="#ff4b90"/>
+      <stop offset="1" stop-color="#ff4b90" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#8ac7d2" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#grid)"/>
+  <circle cx="1220" cy="188" r="330" fill="#ff2e7d" opacity="0.06"/>
+  <circle cx="430" cy="610" r="410" fill="#25dcff" opacity="0.05"/>
+
+  <g opacity="0.9">
+    <path d="M1030 110 C900 160 826 276 820 402 C813 546 894 654 1018 720 C1104 766 1150 820 1164 870"
+          fill="none" stroke="url(#face)" stroke-width="7"/>
+    <path d="M1029 111 C1108 150 1146 223 1138 292 C1134 331 1111 354 1089 383 C1069 409 1068 438 1094 466"
+          fill="none" stroke="#c8fbff" stroke-opacity="0.5" stroke-width="3"/>
+    <path d="M1094 466 C1055 477 1027 494 1011 526 C1037 537 1067 538 1095 524"
+          fill="none" stroke="#ff76aa" stroke-width="5" filter="url(#glow)"/>
+    <path d="M1095 524 C1068 552 1032 558 1007 548"
+          fill="none" stroke="#a9f7ff" stroke-opacity="0.7" stroke-width="3"/>
+    <path d="M1138 292 C1218 345 1246 445 1221 548 C1197 648 1139 707 1084 739"
+          fill="none" stroke="#ff4a8e" stroke-opacity="0.3" stroke-width="3"/>
+  </g>
+
+  <g fill="none" stroke="url(#wave)" filter="url(#glow)">
+    <path d="M80 520 C175 520 188 520 236 520 C267 520 278 450 302 450 C329 450 335 610 365 610 C397 610 404 346 437 346 C472 346 478 664 511 664 C545 664 553 420 585 420 C617 420 628 565 660 565 C695 565 704 485 741 485 C777 485 786 520 838 520 C894 520 922 520 985 520"
+          stroke-width="5"/>
+    <path d="M80 520 C210 520 238 498 302 498 C373 498 402 565 468 565 C534 565 573 470 644 470 C713 470 749 537 820 537 C882 537 915 520 985 520"
+          stroke-width="2" opacity="0.55"/>
+  </g>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="92" y="118" fill="#67e9ff" font-size="24" font-weight="700" letter-spacing="7">0ZKMUSIC RESEARCH 03</text>
+    <text x="92" y="208" fill="#f4fbff" font-size="72" font-weight="750" letter-spacing="-2">THE PHONETICS</text>
+    <text x="92" y="288" fill="#f4fbff" font-size="72" font-weight="750" letter-spacing="-2">OF AI SINGING</text>
+    <text x="96" y="342" fill="#a7bcc9" font-size="25" letter-spacing="0.5">WHY SOME LYRICS SING — AND OTHERS BREAK</text>
+
+    <g font-size="26" font-weight="600">
+      <text x="100" y="748" fill="#55e9ff">VOWEL RUNWAY</text>
+      <text x="386" y="748" fill="#7e96a5">/</text>
+      <text x="420" y="748" fill="#d9f7ff">CONSONANT PRESSURE</text>
+      <text x="774" y="748" fill="#7e96a5">/</text>
+      <text x="810" y="748" fill="#ff6aa2">STRESS ALIGNMENT</text>
+    </g>
+    <text x="99" y="806" fill="#8095a4" font-size="18" letter-spacing="3">LANGUAGE BECOMES TIMING. TIMING BECOMES VOICE.</text>
+  </g>
+
+  <g font-family="Inter, Arial, sans-serif" font-size="20" fill="#a8f4ff" opacity="0.72">
+    <text x="1264" y="170">/a/</text>
+    <text x="1360" y="238">/eɪ/</text>
+    <text x="1285" y="318">/f/</text>
+    <text x="1410" y="405">/m/</text>
+    <text x="1290" y="605">/ʃ/</text>
+    <text x="1380" y="690">/uː/</text>
+  </g>
+</svg>
+

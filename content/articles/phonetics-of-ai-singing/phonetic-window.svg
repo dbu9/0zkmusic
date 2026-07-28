@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+  <title id="title">The phonetic window inside a sung note</title>
+  <desc id="desc">A comparison of a generous vowel runway and a compressed consonant-heavy syllable inside equal note durations.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07101c"/>
+      <stop offset="1" stop-color="#11182a"/>
+    </linearGradient>
+    <linearGradient id="vowel" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#27d9f5"/>
+      <stop offset="1" stop-color="#67f0c5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="760" rx="28" fill="url(#bg)"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="72" y="78" fill="#f5fbff" font-size="38" font-weight="700">ONE NOTE, MANY PHONEMES</text>
+    <text x="72" y="118" fill="#93a7b7" font-size="20">The consonants and vowel divide the same fixed musical window.</text>
+
+    <text x="72" y="210" fill="#e8f8ff" font-size="28" font-weight="700">FLAME</text>
+    <text x="186" y="210" fill="#78909f" font-size="22">/ f l eɪ m /</text>
+    <rect x="72" y="240" width="1180" height="96" rx="12" fill="#172338"/>
+    <rect x="72" y="240" width="90" height="96" rx="12" fill="#ff557f"/>
+    <rect x="162" y="240" width="100" height="96" fill="#d879ff"/>
+    <rect x="262" y="240" width="870" height="96" fill="url(#vowel)"/>
+    <rect x="1132" y="240" width="120" height="96" rx="12" fill="#d879ff"/>
+    <g fill="#07101c" font-size="28" font-weight="800" text-anchor="middle">
+      <text x="117" y="301">f</text>
+      <text x="212" y="301">l</text>
+      <text x="697" y="301">eɪ — PITCH + VIBRATO + MELISMA</text>
+      <text x="1192" y="301">m</text>
+    </g>
+    <path d="M263 365H1130" stroke="#4cead9" stroke-width="4"/>
+    <path d="M263 357V373M1130 357V373" stroke="#4cead9" stroke-width="4"/>
+    <text x="696" y="402" fill="#66e8d6" font-size="19" text-anchor="middle">GENEROUS VOWEL RUNWAY</text>
+
+    <text x="72" y="500" fill="#e8f8ff" font-size="28" font-weight="700">CRACKED</text>
+    <text x="208" y="500" fill="#78909f" font-size="22">/ k r æ k t /</text>
+    <rect x="72" y="530" width="1180" height="96" rx="12" fill="#172338"/>
+    <rect x="72" y="530" width="145" height="96" rx="12" fill="#ff557f"/>
+    <rect x="217" y="530" width="130" height="96" fill="#d879ff"/>
+    <rect x="347" y="530" width="430" height="96" fill="url(#vowel)"/>
+    <rect x="777" y="530" width="240" height="96" fill="#ff557f"/>
+    <rect x="1017" y="530" width="235" height="96" rx="12" fill="#ff8f5a"/>
+    <g fill="#07101c" font-size="28" font-weight="800" text-anchor="middle">
+      <text x="144" y="591">k</text>
+      <text x="282" y="591">r</text>
+      <text x="562" y="591">æ — PITCH</text>
+      <text x="897" y="591">k</text>
+      <text x="1134" y="591">t</text>
+    </g>
+    <path d="M348 655H776" stroke="#4cead9" stroke-width="4"/>
+    <path d="M348 647V663M776 647V663" stroke="#4cead9" stroke-width="4"/>
+    <text x="562" y="692" fill="#ff8d9e" font-size="19" text-anchor="middle">COMPRESSED RUNWAY</text>
+
+    <g transform="translate(1288 225)">
+      <line x1="0" y1="0" x2="0" y2="420" stroke="#51687a" stroke-width="2"/>
+      <text x="28" y="196" fill="#71899a" font-size="17" transform="rotate(90 28 196)">EQUAL NOTE DURATION</text>
+    </g>
+  </g>
+</svg>
+
