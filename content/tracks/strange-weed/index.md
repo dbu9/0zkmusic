@@ -11,7 +11,7 @@ youtube_url: "https://www.youtube.com/watch?v=oU_g3avhRt0"
 youtube_short_id: "RzdbTL9w0oI"
 
 download_file: "track.mp3"
-download_enabled: false
+download_enabled: true
 download_label: "Download MP3"
 
 genre:
