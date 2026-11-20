@@ -49,6 +49,8 @@ baseURL = "https://www.0zkmusic.com/"
 
 Generated output lives in `public/` and is ignored by Git.
 
+The homepage’s **Latest signal** highlights the newest published track by `date`. The `featured` flag controls the Featured badge on track cards.
+
 ## Creating A Track
 
 Use the track archetype:

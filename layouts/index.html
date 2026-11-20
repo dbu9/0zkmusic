@@ -2,7 +2,6 @@
   {{ $tracks := where site.RegularPages "Section" "tracks" }}
   {{ $tracks = where $tracks "Draft" false }}
   {{ $latestTracks := first 6 (sort $tracks "Date" "desc") }}
-  {{ $featured := first 1 (sort (where $tracks "Params.featured" true) "Date" "desc") }}
   {{ $articles := first 3 (sort (where site.RegularPages "Section" "articles") "Date" "desc") }}
 
   <section class="home-hero">
@@ -19,7 +18,7 @@
     </div>
   </section>
 
-  {{ with index $featured 0 }}
+  {{ range first 1 $latestTracks }}
     <section class="home-section featured-release">
       <div class="section-heading">
         <p class="eyebrow">Featured release</p>

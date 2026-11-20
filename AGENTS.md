@@ -83,6 +83,17 @@ production_custom_model_url: "/articles/model-an/"
 production_notes: "Made with Suno 5.5 using the custom AN model."
 ```
 
+## Writing The Idea
+
+Write `## The idea` as a close reading for a listener. Use the structure of a good YouTube AI song analysis as a guide. Open with the central theme and dramatic situation, then follow the lyric through the stages that change its meaning. Give a longer or more layered song short, descriptive subheadings when they help the reader follow the progression.
+
+- Read the complete lyric before drafting. Identify the speaker, the addressee, what each can know, and what changes between the opening, later refrains, and ending. Describe song sections or lyrical turns in sequence. Use timestamps only when verified against the recording.
+- Look for Aesopian (indirect) meaning. Ask what the speaker leaves unsaid and how recurring images, symbols, omissions, and shifts in perspective carry an underlying idea. Treat the literal scene as evidence, and explain what larger experience it may express. Distinguish a supported interpretation from a possibility the lyric leaves open.
+- Explain what the poetic techniques do. Follow a sustained metaphor as it develops. Show how a paradox, anaphora, sensory image, or change in a refrain shapes the listener’s understanding. Use brief phrases as evidence where appropriate and keep the full lyric in `lyrics.txt`.
+- Write in precise, mature prose. Give each paragraph a specific interpretive claim and connect it to details in the text. Avoid plot summary in place of analysis, generic mood statements, invented backstory, and claims about the author’s private intent. Preserve ambiguity where the lyric sustains it.
+- Read connected songs alongside each other. Follow what a later track does with a shared image or concern, and ground connections between narrators or events in the lyrics or release notes.
+- For instrumentals and covers, work from the documented arrangement, source composition or lyric, and artwork where relevant. Mark interpretive connections clearly and verify any claim about what happens in the recording.
+
 ## YouTube Content Updates
 
 The public channel handle is:
